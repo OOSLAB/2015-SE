@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-uGS4-qnkoSITJfoE2U0t-A"
+    name=",_rFa94JVJEd2ptuaOn8CiHA" guid="-uGS4-qnkoSITJfoE2U0t-A">
+  <sections xmi:id="_uma_cJVJEd2ptuaOn8CiHA" name="사용자정의 타입 정의" guid="_uma_cJVJEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_vuQKMJVJEd2ptuaOn8CiHA" name="클래스 속성 및 오퍼레이션 정의" guid="_vuQKMJVJEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_xCcV8JVJEd2ptuaOn8CiHA" name="클래스 식별" guid="_xCcV8JVJEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_x37zgJVJEd2ptuaOn8CiHA" name="클래스간 관계 정의" guid="_x37zgJVJEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_2Rt3MJVJEd2ptuaOn8CiHA" name="분석 유형 및 분석 클래스 타입 결정" guid="_2Rt3MJVJEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_3daOQJVJEd2ptuaOn8CiHA" name="후보 분석클래스 식별" guid="_3daOQJVJEd2ptuaOn8CiHA"/>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_itzi8ZVaEd2ptuaOn8CiHA"
+      guid="_itzi8ZVaEd2ptuaOn8CiHA">
+    <resourceDescriptors xmi:id="_itzi8pVaEd2ptuaOn8CiHA" id="-iul-x4eLHxVstU0x2LTbWQ"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_itW3AJVaEd2ptuaOn8CiHA" name="UP-based 금융"
+      guid="_itW3AJVaEd2ptuaOn8CiHA">
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_DP0nMJVcEd2ptuaOn8CiHA"
+        name="정련" guid="_DP0nMJVcEd2ptuaOn8CiHA">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_DP0nMZVcEd2ptuaOn8CiHA"
+          name="정련" guid="_DP0nMZVcEd2ptuaOn8CiHA" superActivities="_itW3AZVaEd2ptuaOn8CiHA"
+          variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+            href="uma://_7ScL0JVZEd2ptuaOn8CiHA#_7ScL0ZVZEd2ptuaOn8CiHA"/>
+      </processElements>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_itW3AZVaEd2ptuaOn8CiHA"
+        name="UP-based 금융" guid="_itW3AZVaEd2ptuaOn8CiHA" presentationName="UP-based 금융"
+        breakdownElements="_DP0nMZVcEd2ptuaOn8CiHA">
+      <presentation xmi:id="-iul-x4eLHxVstU0x2LTbWQ" href="uma://-iul-x4eLHxVstU0x2LTbWQ#-iul-x4eLHxVstU0x2LTbWQ"/>
+      <includesPatterns href="uma://_7ScL0JVZEd2ptuaOn8CiHA#_7ScL0ZVZEd2ptuaOn8CiHA"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_bUAngJUxEd2ptuaOn8CiHA"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_bUAngJUxEd2ptuaOn8CiHA"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

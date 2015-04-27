@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-BiZiwlAVO9Fms109GGaIZQ"
+    name="new_artifact,_YbzHkJOtEd2QOZMWcM0ZMQ" guid="-BiZiwlAVO9Fms109GGaIZQ" changeDate="2008-10-06T22:48:19.609+0900">
+  <mainDescription>비고, 업무명, 유스케이스ID, 유형, 화면명, 화면ID</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

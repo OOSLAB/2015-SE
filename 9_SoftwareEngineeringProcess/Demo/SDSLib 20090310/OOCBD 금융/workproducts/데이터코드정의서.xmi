@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-JGfmpQgTKiwDhn70ihqxYw"
+    name="new_artifact,_0EG_AJO7Ed2QOZMWcM0ZMQ" guid="-JGfmpQgTKiwDhn70ihqxYw" changeDate="2008-10-07T00:31:41.218+0900">
+  <mainDescription>비고, 설명, 시스템명, 코드명, 코드분류명, 코드분류ID, 코드ID</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

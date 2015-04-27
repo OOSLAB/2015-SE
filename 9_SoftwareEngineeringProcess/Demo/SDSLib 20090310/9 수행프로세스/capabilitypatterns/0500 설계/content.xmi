@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-1yNWjqN9ISm9JFCthZWBDQ" name="0500 설계,_U3xlcfc9Ed2U1--E6cs_NQ"
+      guid="-1yNWjqN9ISm9JFCthZWBDQ"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-x41clDOfhyg0_hzSmvupWw" name="단계계획,_Y31CwfZGEd2OhLPIr_EKbA"
+      guid="-x41clDOfhyg0_hzSmvupWw"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-530aemEy6WYsQHCb3AgLdA" name="단계준비,_fY8J4fZHEd2OhLPIr_EKbA"
+      guid="-530aemEy6WYsQHCb3AgLdA"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-m3OBinr4PRvdQrIoXOBL8w" name="모니터 및 제어,_4VTg0fZHEd2OhLPIr_EKbA"
+      guid="-m3OBinr4PRvdQrIoXOBL8w"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-XTGkn_EGke5Iglu6GVoVHA" name="변경요청관리,_5vwFkfZHEd2OhLPIr_EKbA"
+      guid="-XTGkn_EGke5Iglu6GVoVHA"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-yk9M1eeviKIYsyYslbH9xw" name="요구사항변경관리,_7n22sfZHEd2OhLPIr_EKbA"
+      guid="-yk9M1eeviKIYsyYslbH9xw"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-0J5U_ovwMabqtgRd36KAQQ" name="품질활동,_84BeEfZHEd2OhLPIr_EKbA"
+      guid="-0J5U_ovwMabqtgRd36KAQQ"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-bkHnuwzJbieIEkYJOKBrfg" name="형상모니터,_-PyiQfZHEd2OhLPIr_EKbA"
+      guid="-bkHnuwzJbieIEkYJOKBrfg"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-zqMJcnCnFrhaUnHYHluUlg" name="단계지속수행,_smSU8fZHEd2OhLPIr_EKbA"
+      guid="-zqMJcnCnFrhaUnHYHluUlg"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-tfQ1iKDbd93Q8WUqZGb-pg" name="단계완료,_5hakEfZGEd2OhLPIr_EKbA"
+      guid="-tfQ1iKDbd93Q8WUqZGb-pg"/>
+</xmi:XMI>

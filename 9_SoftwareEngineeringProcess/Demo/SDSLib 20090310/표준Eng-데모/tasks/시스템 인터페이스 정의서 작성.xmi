@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-cBnXashQAHy6As0ci5jGmA"
+    name=",_k5rX4JVKEd2ptuaOn8CiHA" guid="-cBnXashQAHy6As0ci5jGmA">
+  <sections xmi:id="_nc14MJVKEd2ptuaOn8CiHA" name="담당자와 정의된 시스템 인터페이스 검토" guid="_nc14MJVKEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_o0KQcJVKEd2ptuaOn8CiHA" name="시스템 인터페이스 관련 소스 및 목표 시스템 정의" guid="_o0KQcJVKEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_qSfPoJVKEd2ptuaOn8CiHA" name="시스템 인터페이스 기능요건 정의" guid="_qSfPoJVKEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_rpgs8JVKEd2ptuaOn8CiHA" name="시스템 인터페이스 입출력 데이터 항목 정의" guid="_rpgs8JVKEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_tJU54JVKEd2ptuaOn8CiHA" name="시스템 인터페이스의 처리유형 및 주기 정의" guid="_tJU54JVKEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_ungIEJVKEd2ptuaOn8CiHA" name="시스템별 인터페이스 분류 및 연계 대상 범위 확인" guid="_ungIEJVKEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_yELqUJVKEd2ptuaOn8CiHA" name="source 담당자 기재" guid="_yELqUJVKEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_zCUtkJVKEd2ptuaOn8CiHA" name="target 담당자 기재" guid="_zCUtkJVKEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_z8vHYJVKEd2ptuaOn8CiHA" name="기능요건 기술" guid="_z8vHYJVKEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_1XCiMJVKEd2ptuaOn8CiHA" name="인터페이스 ID 기재" guid="_1XCiMJVKEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_2Lon4JVKEd2ptuaOn8CiHA" name="인터페이스 데이터항목 기술" guid="_2Lon4JVKEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_3B4TYJVKEd2ptuaOn8CiHA" name="인터페이스 유형 검토" guid="_3B4TYJVKEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_3wqsAJVKEd2ptuaOn8CiHA" name="인터페이스 유형 정의" guid="_3wqsAJVKEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_4khx4JVKEd2ptuaOn8CiHA" name="인터페이스 유형정보 기술" guid="_4khx4JVKEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_5WvR8JVKEd2ptuaOn8CiHA" name="입출력 데이터항목 정보 상세정의" guid="_5WvR8JVKEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_6RcmsJVKEd2ptuaOn8CiHA" name="접근경로 정보 확인 및 정의" guid="_6RcmsJVKEd2ptuaOn8CiHA"/>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-YRMSNK42Hr6GR3pNdiwD5g"
+    name="new_role,_YwomkJh4Ed2ok9DYfbNoeg" guid="-YRMSNK42Hr6GR3pNdiwD5g">
+  <mainDescription>설계에 따라 SW를 개발/테스트/통합하는 사람</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

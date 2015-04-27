@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-PlTYSYvCgYjWhhtLZ4MMAA"
+    name="클래스 다이어그램 작성,_WlOx4ZX6Ed2JxZNCBmUBeg" guid="-PlTYSYvCgYjWhhtLZ4MMAA">
+  <sections xmi:id="_Ln-1UJxJEd2b9o00yINnSg" name="사용자정의 타입 정의" guid="_Ln-1UJxJEd2b9o00yINnSg"/>
+  <sections xmi:id="_OpjI4JxJEd2b9o00yINnSg" name="클래스 속성, 오퍼레이션 및 관계 정의" guid="_OpjI4JxJEd2b9o00yINnSg"/>
+</org.eclipse.epf.uma:TaskDescription>

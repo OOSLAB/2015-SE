@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-htAAqfgAXi2A8tPDA-mwyA"
+    name=",_NuTA8JVLEd2ptuaOn8CiHA" guid="-htAAqfgAXi2A8tPDA-mwyA">
+  <sections xmi:id="_pU7FEJVTEd2ptuaOn8CiHA" name="대표고객 협의체 구성" guid="_pU7FEJVTEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_qgBmQJVTEd2ptuaOn8CiHA" name="도출 요구사항 정리 및 보완사항 추가 식별" guid="_qgBmQJVTEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_rXTzkJVTEd2ptuaOn8CiHA" name="상세 도출기법을 적용하여 요구사항 도출" guid="_rXTzkJVTEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_sLnlYJVTEd2ptuaOn8CiHA" name="시스템 관련 이해당사자 계층과 특성 파악" guid="_sLnlYJVTEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_tEPPcJVTEd2ptuaOn8CiHA" name="요구사항 도출 관련 사전자료 파악" guid="_tEPPcJVTEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_uAvT8JVTEd2ptuaOn8CiHA" name="협의체의 계층별 요구사항 도출계획 수립" guid="_uAvT8JVTEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_0OAHcJVTEd2ptuaOn8CiHA" name="고객 승인통한 요구사항 베이스라인 확정" guid="_0OAHcJVTEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_1EGB8JVTEd2ptuaOn8CiHA" name="요구사항 수용범위 재조정" guid="_1EGB8JVTEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_113dIJVTEd2ptuaOn8CiHA" name="정제 요구사항별 수용여부 고객과 협의" guid="_113dIJVTEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_9QnXcJVTEd2ptuaOn8CiHA" name="업무범위 준거 요구사항 추가, 삭제" guid="_9QnXcJVTEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_-Ku2UJVTEd2ptuaOn8CiHA" name="요구사항 분류기준 확정 및 범위, 목적(선택)" guid="_-Ku2UJVTEd2ptuaOn8CiHA"/>
+  <sections xmi:id="__DzMUJVTEd2ptuaOn8CiHA" name="요구사항 정제(중복, 충돌제거 및 명확화)" guid="__DzMUJVTEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_AQsdQJVUEd2ptuaOn8CiHA" name="이탈 요구사항 추출" guid="_AQsdQJVUEd2ptuaOn8CiHA"/>
+</org.eclipse.epf.uma:TaskDescription>

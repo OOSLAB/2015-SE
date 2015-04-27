@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-ifOLKpXUkY9KwLZYTkmzxg"
+    name="new_discipline,_9TSOsJYIEd2f_MiqbDX5Hg" guid="-ifOLKpXUkY9KwLZYTkmzxg" changeDate="2008-10-09T22:49:08.046+0900">
+  <mainDescription>&lt;p>&#xD;
+    실행 아키텍쳐 목적, 실행 아키텍쳐 전제조건, 접근방법,&amp;nbsp;신규 시나리오, 실행 아키텍쳐 구축범위, 업무 선정기준, 업무범위,&amp;nbsp;개발환경, 테스트 환경,&amp;nbsp;실행 아키텍쳐 구축절차 및 일정,&#xD;
+    실행 아키텍쳐 구축조직&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

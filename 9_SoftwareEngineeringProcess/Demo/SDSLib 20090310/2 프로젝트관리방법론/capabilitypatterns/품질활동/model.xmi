@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_84618fZHEd2OhLPIr_EKbA"
+      guid="_84618fZHEd2OhLPIr_EKbA">
+    <resourceDescriptors xmi:id="_84618vZHEd2OhLPIr_EKbA" id="-h64FLkjinBgiUg7G3Lpttg"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_84BeEPZHEd2OhLPIr_EKbA" name="품질활동"
+      guid="_84BeEPZHEd2OhLPIr_EKbA">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_BktS0PZMEd2OhLPIr_EKbA"
+        name="인스펙션계획 상세화" guid="_BktS0PZMEd2OhLPIr_EKbA" presentationName="인스펙션계획 상세화"
+        superActivities="_84BeEfZHEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#__xAUAPPvEd2DAcGLfpDwYQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_CMo1gPZMEd2OhLPIr_EKbA"
+        name="개별검토" guid="_CMo1gPZMEd2OhLPIr_EKbA" presentationName="개별검토" superActivities="_84BeEfZHEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_4DyJoPPvEd2DAcGLfpDwYQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_CyfUkPZMEd2OhLPIr_EKbA"
+        name="검토수행" guid="_CyfUkPZMEd2OhLPIr_EKbA" presentationName="검토수행" superActivities="_84BeEfZHEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_tyVvAPPvEd2DAcGLfpDwYQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_DmVzYPZMEd2OhLPIr_EKbA"
+        name="검토체크리스트 작성" guid="_DmVzYPZMEd2OhLPIr_EKbA" presentationName="검토체크리스트 작성"
+        superActivities="_84BeEfZHEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_8q0mMPPvEd2DAcGLfpDwYQ"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_84BeEfZHEd2OhLPIr_EKbA"
+        name="품질활동" guid="_84BeEfZHEd2OhLPIr_EKbA" presentationName="품질활동" breakdownElements="_BktS0PZMEd2OhLPIr_EKbA _DmVzYPZMEd2OhLPIr_EKbA _CMo1gPZMEd2OhLPIr_EKbA _CyfUkPZMEd2OhLPIr_EKbA">
+      <presentation xmi:id="-h64FLkjinBgiUg7G3Lpttg" href="uma://-h64FLkjinBgiUg7G3Lpttg#-h64FLkjinBgiUg7G3Lpttg"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

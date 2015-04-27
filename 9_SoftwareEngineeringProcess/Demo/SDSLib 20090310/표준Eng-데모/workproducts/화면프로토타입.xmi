@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-8Kim5ScyU6Tg2B3WNBkdOg"
+    name="new_artifact,_eH5c0JOvEd2QOZMWcM0ZMQ" guid="-8Kim5ScyU6Tg2B3WNBkdOg" changeDate="2008-10-06T23:03:43.562+0900">
+  <mainDescription>화면 구성요소, 화면 레이아웃, 화면 이벤트, 화면 작성기준, 화면 프로토타이핑 대상</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

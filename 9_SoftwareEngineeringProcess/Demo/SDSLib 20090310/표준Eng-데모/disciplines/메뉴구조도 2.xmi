@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-HqLH_T2Vj6jQR6Ms93--CA"
+    name="new_discipline,_Dvx7kJYKEd2f_MiqbDX5Hg" guid="-HqLH_T2Vj6jQR6Ms93--CA" changeDate="2008-10-09T22:56:40.343+0900">
+  <mainDescription>목적화면, 비고, N레벨</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

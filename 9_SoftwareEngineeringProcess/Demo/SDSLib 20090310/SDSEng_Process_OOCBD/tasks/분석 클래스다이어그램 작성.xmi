@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-SNLp3MRN3zjz1ovREM3V0g"
+    name="분석 클래스다이어그램 작성,_7HJYMMIDEd2yCI00VhFopQ" guid="-SNLp3MRN3zjz1ovREM3V0g" changeDate="2009-03-10T16:53:07.765+0900">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;굴림&quot;>[&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../SDSEng_MethodContent_Core/tasks/%D074%B798%C2A4%B2E4%C774%C5B4%ADF8%B7A8%20%C791%C131_69DC18A9.html&quot;&#xD;
+    guid=&quot;_WlOx4ZX6Ed2JxZNCBmUBeg&quot;>클래스다이어그램 작성&lt;/a>]&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;굴림&quot;>수행 가이드(Task Guideline)&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>분석클래스는 설계단계에서 나타날 수 있는 하나의 클래스, 또는 클래스의 묶음, 또는 서브시스템을 추상화한 단위라고 보면 된다. 즉 분석클래스 하나가 설계클래스 하나로 매핑되는&#xD;
+        것은 아니라는 뜻이다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>분석단계에서 사용되는 클래스의 타입은 Entity, Boundary, Control로 구분할 수 있으며 이는 변경사항 발생시 수정해야 할 부분을 타입별 클래스로 국한시키는 데에&#xD;
+        목적이 있다.&lt;/font> &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>Entity 클래스는 시스템이 장기간 동안 유지해야 하는 Information을 모델링한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>Boundary 클래스는 인터페이스 부분의 Presentation과 이와 관련된 Behavior와 Information을 모델링한다. 즉, 시스템 내부와 외부 액터&#xD;
+                사이의 중재 역할을 담당하며 Boundary 클래스는 시스템 경계(Boundary)에서 나타나게 된다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>Control 클래스는 어떤 특정 객체에 연관되지 않은 기능을 모델링한다. 예를 들어, 여러 Entity 클래스의 오퍼레이션과 계산 수행, Boundary&#xD;
+                클래스로의 결과 리턴 등의 Behavior들로 구성된 기능을 말한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>선정된 타입에 따라 유스케이스 모델로부터 후보 분석클래스를 식별한다.&lt;/font> &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>Entity 클래스는 유스케이스의 이벤트 흐름이 수행되는 과정에서 영속적으로 유지되어야 할 정보를 표현하는 클래스이다. ERD(논리)를 활용하는 경우는 여기에&#xD;
+                정의된 중요 엔티티의 많은 부분이 Entity 클래스로 정의될 수 있다. 또한 유스케이스 정의서로부터 클래스를 식별할 수 있다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>Boundary 클래스는 주로 User Interface, System Interface, Device Interface로 나타난다. User Interface는&#xD;
+                사용자와 시스템 간의 상호작용에서 사용자에게 보여지는 부분을 말하며 윈도우, 웹 클라이언트 페이지 등으로 구현된다. System Interface는 외부 시스템과 내부 시스템간의 상호 작용을&#xD;
+                정의할 때 도출되며 레거시(Legacy) 시스템의 인터페이스를 위한 API 등이 클래스 단위가 된다. Device Interface는 외부 이벤트를 감지하는 디바이스 또는 센서와의 상호 작용을&#xD;
+                정의하기 위해 활용된다. Boundary 클래스는 화면분석의 결과와 상호검증 작업을 거쳐 정제하도록 한다. 이 때 화면 분석 액티비티의 결과를 Boundary 클래스로 반영하는 것이 좋다.&#xD;
+                왜냐하면 화면 분석의 결과가 유스케이스 분석을 통해 도출되는 내용보다 상세하고 실질적인 결과물인 경우가 대부분이기 때문이다. 이 때 확인해야 할 것은 화면 분석의 결과물이 업무 분석의 모든&#xD;
+                유스케이스를 커버할 수 있어야 한다는 것이다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>Control 클래스는 유스케이스 내의 처리흐름을 제어, 조정하거나 트랜잭션을 관리하는데 사용되는 클래스이다. 다시 말해 유스케이스정의서에 표현된 처리흐름(Flow&#xD;
+                of Events)에서의 흐름(Flow)을 가지고 있는 클래스이다. Control 클래스를 정의하면 시스템이 제공하는 주요 기능 흐름을 정의하게 되므로 시스템을 이해하는데 도움이 되고,&#xD;
+                Boundary 클래스와 Entity 클래스를 독립적으로 구현하는 조정 역할을 함으로써 변경사항 수정 시에 안정적으로 시스템 구조를 유지할 수 있는 이점이 있다. 반드시 지켜야 하는 규칙은&#xD;
+                아니지만 일반적으로 참고자료에서나 관행적으로 초기에는 하나의 유스케이스에 하나의 Control 클래스를 정의하고 이후 정제과정에서 Control 클래스의 통합 또는 분할의 조정과정을 거친다.&#xD;
+                그러나 이미 분석패키지를 도출한 경우에는 프로젝트의 판단에 따라 분석패키지(특히 유스케이스 패키지) 단위로 Control 클래스를 도출하여 작업한다. 이 방법은 Control 클래스가 갖게 될&#xD;
+                중복된 행위도출을 사전에 방지하고 설계단계에 이 클래스 그대로 활용할 수 있는 장점이 있다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>유스케이스에 대해 분석클래스가 어느 정도 식별되었으면 시퀀스다이어그램(분석)을 작성한다. 각 유스케이스에 참여하는 분석클래스에 대해 시간 순서에 따라 어떤 메시지를 주고 받는 지&#xD;
+        파악한다. 다음은 시퀀스다이어그램 작성시 주의할 부분이다.&lt;/font> &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>분석단계의 시퀀스다이어그램에서 메시지는 의미를 표현한 것이지 구현할 내용을 표현한 것이 아니다. 모든 메시지는 메시지를 받는 객체에 의해서 수행되어야 할&#xD;
+                책임(responsibility)이 명확하면 된다. 따라서 함수 호출의 시그니처(Signature) 하나하나를 자세히 표현할 필요는 없다. 각 메시지가 구현방안은 설계단계에서 구체적으로 다루게&#xD;
+                된다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>액터는 반드시 Boundary 클래스하고만 상호작용한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>Boundary 클래스는 Control 클래스와 다른 Boundary 클래스와 상호작용 할 수 있다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>Control 클래스는 Boundary 클래스, Entity 클래스, 다른 Control 클래스와 상호작용 할 수 있다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>Entity 클래스는 Control 클래스와 Boundary 클래스에 메시지를 보낼 수 없다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>다이어그램의 레이아웃 규칙을 지키는 것이 좋다. (시퀀스다이어그램 흐름은 왼쪽에서 오른쪽 방향으로, 위에서 아래로)&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>시퀀스다이어그램을 작성하는 것은 상당히 공수가 많이 드는 작업이고 때로 단순 반복적인 작업이 될 수 있다. 시퀀스다이어그램을 작성하는 일이 더 이상 어떤 의미 있는 정보를&#xD;
+        제공하지 못할 것이라면 계속 작업할 이유가 없다. 다시 말해 어떤 시퀀스다이어그램을 작성하지 않을 것인가에 대한 판단이 매우 중요하다 볼 수 있다. 일반적으로 시스템의 구조를 결정하는 데에 영향력이 큰 부분&#xD;
+        즉, 아키텍처적으로 중요한(Architecturally Significant) 시나리오에 대해서만 작성하도록 한다. 그러나 일괄적으로 시퀀스다이어그램을 아예 작성하지 않는 것은 매우 위험스러운 일이다.&#xD;
+        왜냐하면 이로 인해 시스템의 동적 구조를 거의 이해할 수 없기 때문이다. 따라서 비즈니스 트랜잭션을 처리하는 유스케이스에 대해서는 반드시 시퀀스다이어그램을 작성하도록 하고 그 외 정보 관리성(CRUD)&#xD;
+        유스케이스, 단순 검색 및 정보취합 유스케이스 등 단순 반복적인 작업에 대해서는 패턴화하거나 생략할 수 있다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>&amp;nbsp;참여 클래스간의 상호작용을 분석한 이후에는 각 메시지에 대하여 적절한 분석클래스에 오퍼레이션(Operation)으로 할당하고 각 클래스에 필요한&#xD;
+        속성(Attribute)과 관계(Relationship)를 정제한다. 본질적으로 시퀀스다이어그램에서 각 객체에게 전달된 메시지는 메시지를 받는 클래스가 책임져야 하는 행위라고 볼 수 있다. 이러한 기준을&#xD;
+        가지고 정의된 클래스의 행위 및 관계를 표현하여 클래스다이어그램(분석)을 작성한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>유스케이스 모델, 정적 모델(클래스다이어그램), 동적 모델(시퀀스다이어그램) 간의 일관성이 검증되어야 한다. 유스케이스정의서에 작성된 내용이 누락 없이 분석모델에서 표현되어야&#xD;
+        하며 정적 모델의 클래스 오퍼레이션과 객체 간 동적 모델의 메시지가 상호대응 되어야 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>유스케이스 분석 시, 유스케이스 수행에 필요한 배치(Batch)처리 방식의 기능 식별이 필요하다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>배치 기능은 그 특성에 따라 비즈니스적으로 의미를 가지는 비즈니스형 배치, 보고나 통계를 위해 Operational 데이터로부터 일부 데이터를 추출하거나 집계하여&#xD;
+                데이터를 재구성하는 집계형 배치, 비즈니스 처리에 필요한 데이터를 타 시스템으로부터 미리 가져와 저장하는 데이터 인터페이스형 배치가 있을 수 있다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>비즈니스형 배치는 비즈니스 프로세스 상 의미를 가지는 기능에 해당되며 배치(Batch)유형의 유스케이스로 도출되었을 것이므로 해당 유스케이스로부터&#xD;
+                식별한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>집계형 배치는 현황조회 유스케이스 유형으로부터 도출한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>데이터 인터페이스형 배치는 비즈니스처리에 필요한 데이터를 해당 시스템이 가지고 있지 않고 타 시스템으로부터 미리 가져와야 하는 경우 도출한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <sections xmi:id="_bBWTKfmrEd2JRcy3PiAHxw" name="SA는 분석 유형 및 분석클래스 타입을 결정한다." guid="_bBWTKfmrEd2JRcy3PiAHxw"/>
+  <sections xmi:id="_bBWTKPmrEd2JRcy3PiAHxw" name="분석자는 후보 분석클래스를 식별한다." guid="_bBWTKPmrEd2JRcy3PiAHxw"/>
+  <sections xmi:id="_k3b00AgMEd6s07juqPNOXA" name="분석자는 유스케이스정의서에 작성된 처리흐름을 객체 간의 메시지로 구체화하여 시퀀스다이어그램(분석)을 작성한다.(선택)"
+      guid="_k3b00AgMEd6s07juqPNOXA"/>
+  <sections xmi:id="_qPp2sAgMEd6s07juqPNOXA" name="분석자는 클래스를 정제하여 분석클래스를 도출하고 클래스의 속성, 오퍼레이션 및 관계를 정의하여 클래스다이어그램(분석)을 작성한다."
+      guid="_qPp2sAgMEd6s07juqPNOXA"/>
+  <sections xmi:id="_ztFacAgMEd6s07juqPNOXA" name="분석자는 유스케이스 수행에 필요한 일괄처리, 즉 배치(Batch) 기능을 식별하고 배치목록을 작성한다. (선택)"
+      guid="_ztFacAgMEd6s07juqPNOXA"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>유스케이스를&#xD;
+바탕으로 분석클래스를 도출하고 각 클래스의 속성&lt;span lang=&quot;EN-US&quot;>,&lt;/span> 오퍼레이션 및 클래스 간의 정적인&lt;span lang=&quot;EN-US&quot;>(Static)&lt;/span> 관계를 정의한다&lt;span&#xD;
+lang=&quot;EN-US&quot;>.&lt;/span> 또한 시간 순서에 따른 분석클래스 인스턴스&lt;span lang=&quot;EN-US&quot;>(&lt;/span>객체&lt;span lang=&quot;EN-US&quot;>)&lt;/span> 간의 메시지 흐름을 분석하여 시스템의&#xD;
+동적인&lt;span lang=&quot;EN-US&quot;>(Dynamic)&lt;/span> 관계를 정의&lt;span style=&quot;mso-bidi-font-weight: bold&quot;>하고 배치&lt;span&#xD;
+lang=&quot;EN-US&quot;>(Batch)&lt;/span> 방식으로 처리되는 기능을 정의한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span>&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

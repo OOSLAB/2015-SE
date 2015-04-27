@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-DHx0axUNSsahhOKy8JxxbA"
+    name="new_discipline,_xrru4JYHEd2f_MiqbDX5Hg" guid="-DHx0axUNSsahhOKy8JxxbA" changeDate="2008-10-09T22:40:11.109+0900">
+  <mainDescription>비고, 설명, 시스템명, 코드명, 코드분류명, 코드분류ID, 코드ID</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

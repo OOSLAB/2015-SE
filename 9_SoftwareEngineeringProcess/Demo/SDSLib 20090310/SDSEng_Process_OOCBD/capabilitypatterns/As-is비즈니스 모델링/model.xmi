@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_m5wEgPmrEd2JRcy3PiAHxw"
+      guid="_m5wEgPmrEd2JRcy3PiAHxw">
+    <resourceDescriptors xmi:id="_m5wEgfmrEd2JRcy3PiAHxw" id="-DZU5OjpiuwkjjiUZjIWAhw"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_m3Xe4_mrEd2JRcy3PiAHxw" name="As-is비즈니스 모델링"
+      guid="_m3Xe4_mrEd2JRcy3PiAHxw">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_kTDp4A1FEd6iC6R9CzBo1w"
+        name="As-is비즈니스다이어그램 작성" guid="_kTDp4A1FEd6iC6R9CzBo1w" presentationName="As-is비즈니스다이어그램 작성"
+        superActivities="_m3Xe5PmrEd2JRcy3PiAHxw" additionallyPerformedBy="_kT8asA1FEd6iC6R9CzBo1w"
+        output="_kT8asQ1FEd6iC6R9CzBo1w" performedPrimarilyBy="_kTzQwA1FEd6iC6R9CzBo1w">
+      <Task href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBMiT_mrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-TVdzMnkttMJBus6W9wNynQ#_bBMiU_mrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-TVdzMnkttMJBus6W9wNynQ#_bBMiUvmrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-TVdzMnkttMJBus6W9wNynQ#_bBMiVPmrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-TVdzMnkttMJBus6W9wNynQ#_bBMiUfmrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-TVdzMnkttMJBus6W9wNynQ#_bBMiUPmrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_kTzQwA1FEd6iC6R9CzBo1w"
+        name="비즈니스아키텍트" guid="_kTzQwA1FEd6iC6R9CzBo1w" presentationName="비즈니스아키텍트"
+        superActivities="_m3Xe5PmrEd2JRcy3PiAHxw" modifies="_kT8asQ1FEd6iC6R9CzBo1w">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to1uFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_kT8asA1FEd6iC6R9CzBo1w"
+        name="분석자" guid="_kT8asA1FEd6iC6R9CzBo1w" presentationName="분석자" superActivities="_m3Xe5PmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to1eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_kT8asQ1FEd6iC6R9CzBo1w"
+        name="As-is비즈니스다이어그램" guid="_kT8asQ1FEd6iC6R9CzBo1w" presentationName="As-is비즈니스다이어그램"
+        superActivities="_m3Xe5PmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBMiTvmrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_m3Xe5PmrEd2JRcy3PiAHxw"
+        name="As-is비즈니스 모델링" guid="_m3Xe5PmrEd2JRcy3PiAHxw" presentationName="As-is비즈니스 모델링"
+        breakdownElements="_kTDp4A1FEd6iC6R9CzBo1w _kTzQwA1FEd6iC6R9CzBo1w _kT8asA1FEd6iC6R9CzBo1w _kT8asQ1FEd6iC6R9CzBo1w">
+      <presentation xmi:id="-DZU5OjpiuwkjjiUZjIWAhw" href="uma://-DZU5OjpiuwkjjiUZjIWAhw#-DZU5OjpiuwkjjiUZjIWAhw"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-izx0x9xVcuKIkh3_mB0VUA"
+    name="new_artifact,_YdAusJEfEd20MM2jQYpgbw" guid="-izx0x9xVcuKIkh3_mB0VUA" changeDate="2008-10-06T21:41:20.437+0900">
+  <mainDescription>&lt;p>&#xD;
+    객체, 메시지, activation, lifeline&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

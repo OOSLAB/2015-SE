@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_KkXo8AfFEd6PyOiijdVpWA"
+      guid="_KkXo8AfFEd6PyOiijdVpWA">
+    <resourceDescriptors xmi:id="_KkXo8QfFEd6PyOiijdVpWA" id="-4Y7NBCb8TJ8zNYFm77cW_A"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_KXGpAAfFEd6PyOiijdVpWA" name="이행"
+      guid="_KXGpAAfFEd6PyOiijdVpWA">
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_irdy4AgUEd6PpbmBy1d4Hw"
+        name="시범운영모델" guid="_irdy4AgUEd6PpbmBy1d4Hw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_irdy4QgUEd6PpbmBy1d4Hw"
+          name="시범운영모델" guid="_irdy4QgUEd6PpbmBy1d4Hw" superActivities="_KXGpAQfFEd6PyOiijdVpWA"
+          linkToPredecessor="_JfgfsAjjEd6CD-m1e93cOw _JfgfsQjjEd6CD-m1e93cOw" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+            href="uma://_m2n4BPmrEd2JRcy3PiAHxw#_m2n4BfmrEd2JRcy3PiAHxw"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_JfgfsAjjEd6CD-m1e93cOw"
+          guid="_JfgfsAjjEd6CD-m1e93cOw" pred="_irdy6QgUEd6PpbmBy1d4Hw"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_JfgfsQjjEd6CD-m1e93cOw"
+          guid="_JfgfsQjjEd6CD-m1e93cOw" pred="_irdy4wgUEd6PpbmBy1d4Hw"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_irdy4ggUEd6PpbmBy1d4Hw"
+        name="시스템사용교육모델" guid="_irdy4ggUEd6PpbmBy1d4Hw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_irdy4wgUEd6PpbmBy1d4Hw"
+          name="시스템사용교육모델" guid="_irdy4wgUEd6PpbmBy1d4Hw" superActivities="_KXGpAQfFEd6PyOiijdVpWA"
+          linkToPredecessor="_EMqGAAjjEd6CD-m1e93cOw" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+            href="uma://_m2n4AvmrEd2JRcy3PiAHxw#_m2n4A_mrEd2JRcy3PiAHxw"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_EMqGAAjjEd6CD-m1e93cOw"
+          guid="_EMqGAAjjEd6CD-m1e93cOw" pred="_irdy5QgUEd6PpbmBy1d4Hw"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_irdy5AgUEd6PpbmBy1d4Hw"
+        name="이행계획모델" guid="_irdy5AgUEd6PpbmBy1d4Hw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_irdy5QgUEd6PpbmBy1d4Hw"
+          name="이행계획모델" guid="_irdy5QgUEd6PpbmBy1d4Hw" superActivities="_KXGpAQfFEd6PyOiijdVpWA"
+          variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+            href="uma://_m2n4BvmrEd2JRcy3PiAHxw#_m2n4B_mrEd2JRcy3PiAHxw"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_irdy5ggUEd6PpbmBy1d4Hw"
+        name="컨버전및릴리이즈모델" guid="_irdy5ggUEd6PpbmBy1d4Hw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_irdy5wgUEd6PpbmBy1d4Hw"
+          name="컨버전및릴리이즈모델" guid="_irdy5wgUEd6PpbmBy1d4Hw" superActivities="_KXGpAQfFEd6PyOiijdVpWA"
+          linkToPredecessor="_EMgVAAjjEd6CD-m1e93cOw" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+            href="uma://_m2n4CPmrEd2JRcy3PiAHxw#_m2n4CfmrEd2JRcy3PiAHxw"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_EMgVAAjjEd6CD-m1e93cOw"
+          guid="_EMgVAAjjEd6CD-m1e93cOw" pred="_irdy5QgUEd6PpbmBy1d4Hw"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_irdy6AgUEd6PpbmBy1d4Hw"
+        name="인수테스트모델" guid="_irdy6AgUEd6PpbmBy1d4Hw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_irdy6QgUEd6PpbmBy1d4Hw"
+          name="인수테스트모델" guid="_irdy6QgUEd6PpbmBy1d4Hw" superActivities="_KXGpAQfFEd6PyOiijdVpWA"
+          linkToPredecessor="_EwkEUAjjEd6CD-m1e93cOw" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+            href="uma://_juyGgAgTEd6PpbmBy1d4Hw#_juyGgQgTEd6PpbmBy1d4Hw"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_EwkEUAjjEd6CD-m1e93cOw"
+          guid="_EwkEUAjjEd6CD-m1e93cOw" pred="_irdy5wgUEd6PpbmBy1d4Hw"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_KXGpAQfFEd6PyOiijdVpWA"
+        name="이행" guid="_KXGpAQfFEd6PyOiijdVpWA" presentationName="이행" breakdownElements="_irdy5QgUEd6PpbmBy1d4Hw _irdy5wgUEd6PpbmBy1d4Hw _irdy6QgUEd6PpbmBy1d4Hw _irdy4wgUEd6PpbmBy1d4Hw _irdy4QgUEd6PpbmBy1d4Hw">
+      <presentation xmi:id="-4Y7NBCb8TJ8zNYFm77cW_A" href="uma://-4Y7NBCb8TJ8zNYFm77cW_A#-4Y7NBCb8TJ8zNYFm77cW_A"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

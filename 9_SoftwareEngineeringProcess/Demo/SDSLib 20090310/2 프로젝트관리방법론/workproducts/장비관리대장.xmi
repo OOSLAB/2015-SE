@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Bj1694sgFN-xyBd55oc32Q"
+    name="장비관리대장,__l9jIOjiEd2lTK4h8EdsoQ" guid="-Bj1694sgFN-xyBd55oc32Q" changeDate="2009-03-03T19:24:12.718+0900">
+  <representationOptions>&lt;p>&#xD;
+    제출시 고려사항&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        고객이 요청할 경우에만 제출하도록 한다.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

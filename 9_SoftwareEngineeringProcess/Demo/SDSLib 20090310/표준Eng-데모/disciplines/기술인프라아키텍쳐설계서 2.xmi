@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="--hgBELRbddPBRbh_jZNHfg"
+    name="new_discipline,_rpUuYJYIEd2f_MiqbDX5Hg" guid="--hgBELRbddPBRbh_jZNHfg" changeDate="2008-10-09T22:46:52.171+0900">
+  <mainDescription>가용성 확보방안, 백업 및 복구방안, 보안 방안,&amp;nbsp;구성요소간 처리흐름, 구성요소간 프로토콜, 구성요소별 매핑, 구성요소별 정의, 용량산정, H/W&amp;nbsp;구성, N/W 구성(선택), S/W 구성</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

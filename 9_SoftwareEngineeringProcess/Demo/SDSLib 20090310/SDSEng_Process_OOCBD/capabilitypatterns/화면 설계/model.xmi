@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_nEoe0fmrEd2JRcy3PiAHxw"
+      guid="_nEoe0fmrEd2JRcy3PiAHxw">
+    <resourceDescriptors xmi:id="_nEoe0vmrEd2JRcy3PiAHxw" id="-SfU7xOP0FvmFDAe-dV8L8Q"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_m2n4E_mrEd2JRcy3PiAHxw" name="화면 설계"
+      guid="_m2n4E_mrEd2JRcy3PiAHxw">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_zwGqhQgSEd6PpbmBy1d4Hw"
+        name="설계 보고서목록 작성" guid="_zwGqhQgSEd6PpbmBy1d4Hw" presentationName="설계 보고서목록 작성"
+        superActivities="_m2n4FPmrEd2JRcy3PiAHxw" linkToPredecessor="_UmiXIQjmEd6CD-m1e93cOw"
+        additionallyPerformedBy="_zwGqiggSEd6PpbmBy1d4Hw" mandatoryInput="_zwGqiwgSEd6PpbmBy1d4Hw"
+        output="_zwGqjAgSEd6PpbmBy1d4Hw" performedPrimarilyBy="_zwGqiQgSEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_Z7Jh4sFJEd2YGfr55Veumg"/>
+      <selectedSteps href="uma://-KGVJVUhzhgK5lqzV4m2QBw#_Z7Jh48FJEd2YGfr55Veumg"/>
+      <selectedSteps href="uma://-KGVJVUhzhgK5lqzV4m2QBw#_5V1-cANFEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-KGVJVUhzhgK5lqzV4m2QBw#_6Zfz0ANFEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-KGVJVUhzhgK5lqzV4m2QBw#_7efF8ANFEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-KGVJVUhzhgK5lqzV4m2QBw#_8l3kwANFEd6LQuHvYuPuYw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_zwGqhggSEd6PpbmBy1d4Hw"
+        name="설계 보고서정의서 작성" guid="_zwGqhggSEd6PpbmBy1d4Hw" presentationName="설계 보고서정의서 작성"
+        superActivities="_m2n4FPmrEd2JRcy3PiAHxw" linkToPredecessor="_VAUJEQjmEd6CD-m1e93cOw"
+        additionallyPerformedBy="_zwGqiggSEd6PpbmBy1d4Hw" mandatoryInput="_zwGqjAgSEd6PpbmBy1d4Hw"
+        output="_zwGqjQgSEd6PpbmBy1d4Hw" performedPrimarilyBy="_zwGqiQgSEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_Kqz9osFEEd2vscn1nWHU-g"/>
+      <selectedSteps href="uma://-zWCEb7BnJcoiiq9bVRHVqw#_Kqz9o8FEEd2vscn1nWHU-g"/>
+      <selectedSteps href="uma://-zWCEb7BnJcoiiq9bVRHVqw#_Kqz9pcFEEd2vscn1nWHU-g"/>
+      <selectedSteps href="uma://-zWCEb7BnJcoiiq9bVRHVqw#_Kqz9pMFEEd2vscn1nWHU-g"/>
+      <selectedSteps href="uma://-zWCEb7BnJcoiiq9bVRHVqw#_TNbQMMFKEd2YGfr55Veumg"/>
+      <selectedSteps href="uma://-zWCEb7BnJcoiiq9bVRHVqw#_TTFzUMFKEd2YGfr55Veumg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_zwGqhwgSEd6PpbmBy1d4Hw"
+        name="설계 화면목록 작성" guid="_zwGqhwgSEd6PpbmBy1d4Hw" presentationName="설계 화면목록 작성"
+        superActivities="_m2n4FPmrEd2JRcy3PiAHxw" additionallyPerformedBy="_zwGqiggSEd6PpbmBy1d4Hw"
+        mandatoryInput="_zwGqjggSEd6PpbmBy1d4Hw" output="_zwGqjwgSEd6PpbmBy1d4Hw"
+        performedPrimarilyBy="_zwGqiQgSEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_ODB2ocFEEd2vscn1nWHU-g"/>
+      <selectedSteps href="uma://-d2Ngt1mjQyzvOkS5LiQBlg#_Qqlv8ANJEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-d2Ngt1mjQyzvOkS5LiQBlg#_S9Xq4ANJEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-d2Ngt1mjQyzvOkS5LiQBlg#_VQ4loANJEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-d2Ngt1mjQyzvOkS5LiQBlg#_Wnw5AANJEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-d2Ngt1mjQyzvOkS5LiQBlg#_ZL0xMANJEd6LQuHvYuPuYw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_zwGqiAgSEd6PpbmBy1d4Hw"
+        name="설계 화면정의서 작성" guid="_zwGqiAgSEd6PpbmBy1d4Hw" presentationName="설계 화면정의서 작성"
+        superActivities="_m2n4FPmrEd2JRcy3PiAHxw" linkToPredecessor="_UOGB8AjmEd6CD-m1e93cOw"
+        additionallyPerformedBy="_zwGqiggSEd6PpbmBy1d4Hw" mandatoryInput="_zwGqkAgSEd6PpbmBy1d4Hw _zwGqjAgSEd6PpbmBy1d4Hw _zwGqjwgSEd6PpbmBy1d4Hw _zwGqkQgSEd6PpbmBy1d4Hw"
+        output="_zwGqkggSEd6PpbmBy1d4Hw" performedPrimarilyBy="_zwGqiQgSEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_GRMwMMdyEd2wA9_TUU3fKA"/>
+      <selectedSteps href="uma://-sFz9W31W0HtB4QLnRbRxTg#_RvSHIANJEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-sFz9W31W0HtB4QLnRbRxTg#_Te5DkANJEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-sFz9W31W0HtB4QLnRbRxTg#_UuwwAANJEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-sFz9W31W0HtB4QLnRbRxTg#_XI1lwANJEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-sFz9W31W0HtB4QLnRbRxTg#_YagB8ANJEd6LQuHvYuPuYw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_zwGqiQgSEd6PpbmBy1d4Hw"
+        name="설계자" guid="_zwGqiQgSEd6PpbmBy1d4Hw" presentationName="설계자" superActivities="_m2n4FPmrEd2JRcy3PiAHxw"
+        modifies="_zwGqjAgSEd6PpbmBy1d4Hw _zwGqjQgSEd6PpbmBy1d4Hw _zwGqjwgSEd6PpbmBy1d4Hw _zwGqkggSEd6PpbmBy1d4Hw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to2OFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_zwGqiggSEd6PpbmBy1d4Hw"
+        name="소프트웨어아키텍트" guid="_zwGqiggSEd6PpbmBy1d4Hw" presentationName="소프트웨어아키텍트"
+        superActivities="_m2n4FPmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to2eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_zwGqiwgSEd6PpbmBy1d4Hw"
+        name="분석 보고서목록" guid="_zwGqiwgSEd6PpbmBy1d4Hw" presentationName="분석 보고서목록"
+        superActivities="_m2n4FPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_5s7iI5X_Ed2f_MiqbDX5Hg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_zwGqjAgSEd6PpbmBy1d4Hw"
+        name="설계 보고서목록" guid="_zwGqjAgSEd6PpbmBy1d4Hw" presentationName="설계 보고서목록"
+        superActivities="_m2n4FPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_Z7Jh4cFJEd2YGfr55Veumg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_zwGqjQgSEd6PpbmBy1d4Hw"
+        name="설계 보고서정의서" guid="_zwGqjQgSEd6PpbmBy1d4Hw" presentationName="설계 보고서정의서"
+        superActivities="_m2n4FPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_Kqz9ocFEEd2vscn1nWHU-g"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_zwGqjggSEd6PpbmBy1d4Hw"
+        name="네비게이션정의서" guid="_zwGqjggSEd6PpbmBy1d4Hw" presentationName="네비게이션정의서"
+        superActivities="_m2n4FPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_5s7iW5X_Ed2f_MiqbDX5Hg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_zwGqjwgSEd6PpbmBy1d4Hw"
+        name="설계 화면목록" guid="_zwGqjwgSEd6PpbmBy1d4Hw" presentationName="설계 화면목록" superActivities="_m2n4FPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_ODB2pMFEEd2vscn1nWHU-g"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_zwGqkAgSEd6PpbmBy1d4Hw"
+        name="분석 화면정의서" guid="_zwGqkAgSEd6PpbmBy1d4Hw" presentationName="분석 화면정의서"
+        superActivities="_m2n4FPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_5s7iL5X_Ed2f_MiqbDX5Hg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_zwGqkQgSEd6PpbmBy1d4Hw"
+        name="소프트웨어아키텍처설계서" guid="_zwGqkQgSEd6PpbmBy1d4Hw" presentationName="소프트웨어아키텍처설계서"
+        superActivities="_m2n4FPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_lq3FvpYAEd2f_MiqbDX5Hg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_zwGqkggSEd6PpbmBy1d4Hw"
+        name="설계 화면정의서" guid="_zwGqkggSEd6PpbmBy1d4Hw" presentationName="설계 화면정의서"
+        superActivities="_m2n4FPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_If9GwMdyEd2wA9_TUU3fKA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_UOGB8AjmEd6CD-m1e93cOw"
+        guid="_UOGB8AjmEd6CD-m1e93cOw" pred="_zwGqhwgSEd6PpbmBy1d4Hw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_UmiXIQjmEd6CD-m1e93cOw"
+        guid="_UmiXIQjmEd6CD-m1e93cOw" pred="_zwGqiAgSEd6PpbmBy1d4Hw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_VAUJEQjmEd6CD-m1e93cOw"
+        guid="_VAUJEQjmEd6CD-m1e93cOw" pred="_zwGqhQgSEd6PpbmBy1d4Hw"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_m2n4FPmrEd2JRcy3PiAHxw"
+        name="화면 설계" guid="_m2n4FPmrEd2JRcy3PiAHxw" presentationName="화면 설계" breakdownElements="_zwGqhwgSEd6PpbmBy1d4Hw _zwGqiAgSEd6PpbmBy1d4Hw _zwGqhQgSEd6PpbmBy1d4Hw _zwGqhggSEd6PpbmBy1d4Hw _zwGqiQgSEd6PpbmBy1d4Hw _zwGqiggSEd6PpbmBy1d4Hw _zwGqiwgSEd6PpbmBy1d4Hw _zwGqjAgSEd6PpbmBy1d4Hw _zwGqjQgSEd6PpbmBy1d4Hw _zwGqjggSEd6PpbmBy1d4Hw _zwGqjwgSEd6PpbmBy1d4Hw _zwGqkAgSEd6PpbmBy1d4Hw _zwGqkQgSEd6PpbmBy1d4Hw _zwGqkggSEd6PpbmBy1d4Hw">
+      <presentation xmi:id="-SfU7xOP0FvmFDAe-dV8L8Q" href="uma://-SfU7xOP0FvmFDAe-dV8L8Q#-SfU7xOP0FvmFDAe-dV8L8Q"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

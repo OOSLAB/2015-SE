@@ -1,0 +1,161 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko" xml:lang="ko" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Capability Pattern: 테스트 설계</title>
+<meta name="uma.type" content="CapabilityPattern">
+<meta name="uma.name" content="테스트 설계">
+<meta name="uma.presentationName" content="테스트 설계">
+<meta name="element_type" content="other">
+<meta name="filetype" content="description">
+<meta name="role" content="">
+<link rel="StyleSheet" href="./../../css/default.css" type="text/css">
+<script src="./../../scripts/ContentPageResource.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSubSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ActivityTreeTable.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ProcessElementPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageToolbar.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/contentPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/processElementData.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+					var defaultQueryStr = '?proc=_XV_TkQfAEd6Obes9cAqsag&path=_XV_TkQfAEd6Obes9cAqsag';
+					var backPath = './../../';
+					var imgPath = './../../images/';
+					var nodeInfo=null;
+					contentPage.preload(imgPath, backPath, nodeInfo, defaultQueryStr, false, true, true);
+				</script>
+</head>
+<body>
+<div id="breadcrumbs"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top">
+<div autoWrap="true">
+<div id="page-guid" value="_XV_TkQfAEd6Obes9cAqsag"></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="pageTitle" nowrap="true">Capability Pattern: 테스트 설계</td><td width="100%">
+<div align="right" id="contentPageToolbar"></div>
+</td><td width="100%" class="expandCollapseLink" align="right"><a name="mainIndex" href="./../../index.htm"></a><script language="JavaScript" type="text/javascript" src="./../../scripts/treebrowser.js"></script></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pageTitleSeparator"><img src="./../../images/shim.gif" alt="" title="" height="1"></td>
+</tr>
+</table>
+<div class="overview">
+<table width="97%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50"><img src="./../../images/capabilitypattern.gif" alt="" title=""></td><td>
+<table class="overviewTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="middle">
+<td width="10" class="tab"><img src="./../../images/shim.gif" width="10" height="17" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_Description" href="./../../SDSEng_Process_OOCBD/capabilitypatterns/테스트 설계_91887A1A.html_desc.html">Description</a></td><td width="21"><img src="./../../images/tab_middle-i_i.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_WBS" href="./../../SDSEng_Process_OOCBD/capabilitypatterns/테스트 설계_91887A1A.html_wbs.html"><span style="white-space:nowrap;">Work Breakdown Structure</span></a></td><td width="1"><img src="./../../images/tab_middle-i_i.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_TBS" href="./../../SDSEng_Process_OOCBD/capabilitypatterns/테스트 설계_91887A1A.html_tbs.html"><span style="white-space:nowrap;">Team Allocation</span></a></td><td width="21"><img src="./../../images/tab_middle-i_a.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="activeTab"><span style="white-space:nowrap;">Work Product Usage</span></td><td width="21"><img src="./../../images/tab_end-a.gif" width="21" height="17" alt="" title=""></td><td width="50%"><img src="./../../images/shim.gif" width="10" height="17" alt="" title=""></td>
+</tr>
+<tr>
+<td colspan="6"><img src="./../../images/shim.gif" height="2" alt="" title=""></td><td><img src="./../../images/tab_space_middle.gif" width="21" height="2" alt="" title=""></td><td class="activeTab"><img src="./../../images/shim.gif" width="10" height="2" alt="" title=""></td><td><img src="./../../images/tab_space.gif" width="21" height="2" alt="" title=""></td><td colspan="1"><img src="./../../images/shim.gif" height="2" alt="" title=""></td>
+</tr>
+<tr>
+<td colspan="10" class="activeTab"><img src="./../../images/shim.gif" height="5" alt="" title=""></td>
+</tr>
+</table>
+<div class="sectionHeading">Work Product Breakdown</div>
+<div class="sectionContent">
+<div id="treeContent"></div>
+<script language="JavaScript">
+contentPage.processPage.treeTable.data = {
+title: "Work Product Breakdown", summary: "Work Product Breakdown", 
+columns: [
+["presentation_name", "Breakdown Element"],
+["model_info", "Model Info"],
+["entry_state", "Entry State"],
+["exit_state", "Exit State"],
+["deliverable", "Deliverable"],
+["type", "Type"],
+["is_planned", "Planned"],
+["has_multiple_occurrences", "Multiple Occurrences"],
+["is_optional", "Optional"]],
+rows: [
+			
+{id: "374c310e", parentId: "", relPath: ",_UsLDAQgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "단위테스트계획서", title: "단위테스트계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/단위테스트계획서_721CA729.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "8c7a29bc", parentId: "", relPath: ",_UsLDBwgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "수행계획서", title: "수행계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/수행계획서_2FE57D6E.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "337850ba", parentId: "", relPath: ",_UsLDBQgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "시스템테스트계획서", title: "시스템테스트계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/시스템테스트계획서_36AE8948.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "ebcc12c4", parentId: "", relPath: ",_UsLDAggTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "요구 유스케이스다이어그램", title: "요구 유스케이스다이어그램", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/요구 유스케이스다이어그램_60B5BB3F.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "8fdaac39", parentId: "", relPath: ",_UsLDAwgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "요구 유스케이스정의서", title: "요구 유스케이스정의서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/요구 유스케이스정의서_6B539B4F.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "45f73f67", parentId: "", relPath: ",_UsLDBggTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "인수테스트계획서", title: "인수테스트계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/인수테스트계획서_25479D5E.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "3c70d3f7", parentId: "", relPath: ",_UsLDBAgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "테스트계획서", title: "테스트계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/테스트계획서_2C10A938.html", 
+	predecessors: "", info: "Mandatory Input, Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "441056e8", parentId: "", relPath: ",_UsLDCAgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "통합테스트계획서", title: "통합테스트계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/통합테스트계획서_F0A28B57.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+]};
+				</script>
+</div>
+<table class="copyright" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="copyright"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+<script language="JavaScript" type="text/javascript">
+				contentPage.onload();
+			</script>
+</html>

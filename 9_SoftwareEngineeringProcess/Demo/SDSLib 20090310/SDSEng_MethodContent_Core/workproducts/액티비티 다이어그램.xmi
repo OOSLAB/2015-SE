@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-Xwkgm0KRkKy8xS3plRC0ug"
+    name="new_artifact,_n-Qg8JEdEd20MM2jQYpgbw" guid="-Xwkgm0KRkKy8xS3plRC0ug" changeDate="2008-10-06T21:53:26.109+0900">
+  <mainDescription>&lt;p>&#xD;
+    activity, branching, join, start/end state, synchronization bar, transition&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

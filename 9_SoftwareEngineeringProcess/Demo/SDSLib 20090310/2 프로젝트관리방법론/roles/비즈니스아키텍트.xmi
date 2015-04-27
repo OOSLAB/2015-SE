@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-XJOF2c-Z5OIsS-ID0shC4Q"
+    name="new_role,_LcvHkJh4Ed2ok9DYfbNoeg" guid="-XJOF2c-Z5OIsS-ID0shC4Q" changeDate="2008-10-13T01:16:03.187+0900">
+  <mainDescription>해당 업무 영역에 대한 전문지식을 보유하고, 업무 프로세스, 기능, 데이터 구조에 대한 비즈니스 참조 모델을 이해하고 있으며, 이를 바탕으로 고객을 선도하여 신규 사업/시장 창출(Business Developing&#xD;
+Architect 영역)과 비즈니스 아키텍처 수립(Business&amp;nbsp;Application Architect 영역)을 주도하는 사람</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

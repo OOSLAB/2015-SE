@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-Ybr0qgI8nc0U1J5uhdfeng"
+    name="new_artifact,_iYUTsJOwEd2QOZMWcM0ZMQ" guid="-Ybr0qgI8nc0U1J5uhdfeng" changeDate="2008-10-09T22:46:14.250+0900">
+  <mainDescription>&lt;p>&#xD;
+    가정 및 제약조건, 고객 핵심 요구사항, 현행시스템 주요 개선점,&amp;nbsp;개념 데이터 모델, 데이터 구성,&amp;nbsp;개발 아키텍쳐 구성, 운영시스템 구조도,&amp;nbsp;기술표준[선택],&amp;nbsp;데이터&#xD;
+    구성,&amp;nbsp;목표 시스템 구성도, 상용 응용 소프트웨어 자산[선택], 시스템 컨텍스트 다이어그램, 어플리케이션 기능 구성도,&amp;nbsp;목표시스템 개요,&amp;nbsp;아키텍쳐의 적용범위 및 구성, 아키텍쳐의&#xD;
+    추진방향,&amp;nbsp;이해당사자의 구성,&amp;nbsp;프로젝트 목적, 프로젝트 배경, 프로젝트 비전&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_BTPykfZQEd2OhLPIr_EKbA"
+      guid="_BTPykfZQEd2OhLPIr_EKbA">
+    <resourceDescriptors xmi:id="_BTPykvZQEd2OhLPIr_EKbA" id="-HBNoZSr-bRSz9qxC__tTYg"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_BSNQwPZQEd2OhLPIr_EKbA" name="검수준비"
+      guid="_BSNQwPZQEd2OhLPIr_EKbA">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_WYGFYPZQEd2OhLPIr_EKbA"
+        name="종료계획 수립" guid="_WYGFYPZQEd2OhLPIr_EKbA" presentationName="종료계획 수립" superActivities="_BSNQwfZQEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_iFp70MsmEd2VS4iuY7h1kQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_XKnHcPZQEd2OhLPIr_EKbA"
+        name="시스템인수인계계획 수립" guid="_XKnHcPZQEd2OhLPIr_EKbA" presentationName="시스템인수인계계획 수립"
+        superActivities="_BSNQwfZQEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_adMVoMsmEd2VS4iuY7h1kQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_XmxfAPZQEd2OhLPIr_EKbA"
+        name="시스템인수인계서 실시" guid="_XmxfAPZQEd2OhLPIr_EKbA" presentationName="시스템인수인계서 실시"
+        superActivities="_BSNQwfZQEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_QyDGAMsmEd2VS4iuY7h1kQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_YKsEYPZQEd2OhLPIr_EKbA"
+        name="최종검수 준비" guid="_YKsEYPZQEd2OhLPIr_EKbA" presentationName="최종검수 준비" superActivities="_BSNQwfZQEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_y8f9IMsmEd2VS4iuY7h1kQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Y7aWsPZQEd2OhLPIr_EKbA"
+        name="최종검수 확인" guid="_Y7aWsPZQEd2OhLPIr_EKbA" presentationName="최종검수 확인" superActivities="_BSNQwfZQEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_DBH3UMsnEd2VS4iuY7h1kQ"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_BSNQwfZQEd2OhLPIr_EKbA"
+        name="검수준비" guid="_BSNQwfZQEd2OhLPIr_EKbA" presentationName="검수준비" breakdownElements="_WYGFYPZQEd2OhLPIr_EKbA _XKnHcPZQEd2OhLPIr_EKbA _XmxfAPZQEd2OhLPIr_EKbA _YKsEYPZQEd2OhLPIr_EKbA _Y7aWsPZQEd2OhLPIr_EKbA">
+      <presentation xmi:id="-HBNoZSr-bRSz9qxC__tTYg" href="uma://-HBNoZSr-bRSz9qxC__tTYg#-HBNoZSr-bRSz9qxC__tTYg"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

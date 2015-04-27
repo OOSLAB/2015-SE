@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-r9yqcHfBgvW11HYnZ0OEyw"
+    name="new_artifact,_gGUYsJOsEd2QOZMWcM0ZMQ" guid="-r9yqcHfBgvW11HYnZ0OEyw" changeDate="2008-10-06T22:42:13.578+0900">
+  <mainDescription>관련 배치ID, 비고, 입력 데이터명, 처리로직, 출력 데이터명, 프로그램 개요, 프로그램ID</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

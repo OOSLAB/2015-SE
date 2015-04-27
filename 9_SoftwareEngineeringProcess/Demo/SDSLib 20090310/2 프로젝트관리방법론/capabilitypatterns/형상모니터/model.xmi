@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_-Qr6IfZHEd2OhLPIr_EKbA"
+      guid="_-Qr6IfZHEd2OhLPIr_EKbA">
+    <resourceDescriptors xmi:id="_-Qr6IvZHEd2OhLPIr_EKbA" id="-pl382UYLTRQBO-vUhT0jYg"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_-PyiQPZHEd2OhLPIr_EKbA" name="형상모니터"
+      guid="_-PyiQPZHEd2OhLPIr_EKbA">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_XF3uMPZMEd2OhLPIr_EKbA"
+        name="형상감사" guid="_XF3uMPZMEd2OhLPIr_EKbA" presentationName="형상감사" superActivities="_-PyiQfZHEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_QZmbQOjqEd2lTK4h8EdsoQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_XF3uMfZMEd2OhLPIr_EKbA"
+        name="형상통제 및 기록" guid="_XF3uMfZMEd2OhLPIr_EKbA" presentationName="형상통제 및 기록"
+        superActivities="_-PyiQfZHEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_GIKAoOjqEd2lTK4h8EdsoQ"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_-PyiQfZHEd2OhLPIr_EKbA"
+        name="형상모니터" guid="_-PyiQfZHEd2OhLPIr_EKbA" presentationName="형상모니터" breakdownElements="_XF3uMfZMEd2OhLPIr_EKbA _XF3uMPZMEd2OhLPIr_EKbA">
+      <presentation xmi:id="-pl382UYLTRQBO-vUhT0jYg" href="uma://-pl382UYLTRQBO-vUhT0jYg#-pl382UYLTRQBO-vUhT0jYg"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

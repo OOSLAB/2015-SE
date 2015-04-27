@@ -1,0 +1,273 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko" xml:lang="ko" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Capability Pattern: 분석</title>
+<meta name="uma.type" content="CapabilityPattern">
+<meta name="uma.name" content="분석">
+<meta name="uma.presentationName" content="분석">
+<meta name="element_type" content="other">
+<meta name="filetype" content="description">
+<meta name="role" content="">
+<link rel="StyleSheet" href="./../../css/default.css" type="text/css">
+<script src="./../../scripts/ContentPageResource.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSubSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ActivityTreeTable.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ProcessElementPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageToolbar.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/contentPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/processElementData.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+					var defaultQueryStr = '?proc=_AWEB4QfFEd6PyOiijdVpWA&path=_AWEB4QfFEd6PyOiijdVpWA';
+					var backPath = './../../';
+					var imgPath = './../../images/';
+					var nodeInfo=null;
+					contentPage.preload(imgPath, backPath, nodeInfo, defaultQueryStr, false, true, true);
+				</script>
+</head>
+<body>
+<div id="breadcrumbs"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top">
+<div autoWrap="true">
+<div id="page-guid" value="_AWEB4QfFEd6PyOiijdVpWA"></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="pageTitle" nowrap="true">Capability Pattern: 분석</td><td width="100%">
+<div align="right" id="contentPageToolbar"></div>
+</td><td width="100%" class="expandCollapseLink" align="right"><a name="mainIndex" href="./../../index.htm"></a><script language="JavaScript" type="text/javascript" src="./../../scripts/treebrowser.js"></script></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pageTitleSeparator"><img src="./../../images/shim.gif" alt="" title="" height="1"></td>
+</tr>
+</table>
+<div class="overview">
+<table width="97%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50"><img src="./../../images/capabilitypattern.gif" alt="" title=""></td><td>
+<table class="overviewTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="middle">
+<td width="10" class="tab"><img src="./../../images/shim.gif" width="10" height="17" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_Description" href="./../../SDSEng_Process_OOCBD/capabilitypatterns/분석_C57302FC.html_desc.html">Description</a></td><td width="21"><img src="./../../images/tab_middle-i_i.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_WBS" href="./../../SDSEng_Process_OOCBD/capabilitypatterns/분석_C57302FC.html_wbs.html"><span style="white-space:nowrap;">Work Breakdown Structure</span></a></td><td width="1"><img src="./../../images/tab_middle-i_i.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_TBS" href="./../../SDSEng_Process_OOCBD/capabilitypatterns/분석_C57302FC.html_tbs.html"><span style="white-space:nowrap;">Team Allocation</span></a></td><td width="21"><img src="./../../images/tab_middle-i_a.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="activeTab"><span style="white-space:nowrap;">Work Product Usage</span></td><td width="21"><img src="./../../images/tab_end-a.gif" width="21" height="17" alt="" title=""></td><td width="50%"><img src="./../../images/shim.gif" width="10" height="17" alt="" title=""></td>
+</tr>
+<tr>
+<td colspan="6"><img src="./../../images/shim.gif" height="2" alt="" title=""></td><td><img src="./../../images/tab_space_middle.gif" width="21" height="2" alt="" title=""></td><td class="activeTab"><img src="./../../images/shim.gif" width="10" height="2" alt="" title=""></td><td><img src="./../../images/tab_space.gif" width="21" height="2" alt="" title=""></td><td colspan="1"><img src="./../../images/shim.gif" height="2" alt="" title=""></td>
+</tr>
+<tr>
+<td colspan="10" class="activeTab"><img src="./../../images/shim.gif" height="5" alt="" title=""></td>
+</tr>
+</table>
+<div class="sectionHeading">Work Product Breakdown</div>
+<div class="sectionContent">
+<div id="treeContent"></div>
+<script language="JavaScript">
+contentPage.processPage.treeTable.data = {
+title: "Work Product Breakdown", summary: "Work Product Breakdown", 
+columns: [
+["presentation_name", "Breakdown Element"],
+["model_info", "Model Info"],
+["entry_state", "Entry State"],
+["exit_state", "Exit State"],
+["deliverable", "Deliverable"],
+["type", "Type"],
+["is_planned", "Planned"],
+["has_multiple_occurrences", "Multiple Occurrences"],
+["is_optional", "Optional"]],
+rows: [
+			
+{id: "8c7e25e0", parentId: "", relPath: ",_9RYo9AgREd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "네비게이션정의서", title: "네비게이션정의서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/네비게이션정의서_87B720D8.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "3a8ab4b7", parentId: "", relPath: ",_m3Ej8PmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "논리 ERD", title: "논리 ERD", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/논리 ERD_8B432548.html", 
+	predecessors: "", info: "Mandatory Input, Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "39013420", parentId: "", relPath: ",_9RYo9QgREd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "메뉴구조도", title: "메뉴구조도", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/메뉴구조도_925500E8.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "356d6393", parentId: "", relPath: ",_SksOgwgSEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "배치목록", title: "배치목록", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/배치목록_ED467C26.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "ebbee6a9", parentId: "", relPath: ",_9RYo9ggREd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "분석 보고서목록", title: "분석 보고서목록", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 보고서목록_80EE14FE.html", 
+	predecessors: "", info: "Mandatory Input, Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "e96da848", parentId: "", relPath: ",_9RYo9wgREd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "분석 보고서정의서", title: "분석 보고서정의서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 보고서정의서_8B8BF50E.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "3adfb7a0", parentId: "", relPath: ",_LF6v3ggSEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "분석 시스템인터페이스정의서", title: "분석 시스템인터페이스정의서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 시스템인터페이스정의서_98A7E790.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "93ae8401", parentId: "", relPath: ",_3KOddQgREd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "분석 시퀀스다이어그램", title: "분석 시퀀스다이어그램", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 시퀀스다이어그램_34E052DB.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "e0c94038", parentId: "", relPath: ",_3KOddAgREd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "분석 클래스다이어그램", title: "분석 클래스다이어그램", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 클래스다이어그램_2A4272CB.html", 
+	predecessors: "", info: "Mandatory Input, Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "430a8488", parentId: "", relPath: ",_5_305ggREd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "분석패키지다이어그램", title: "분석패키지다이어그램", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석패키지다이어그램_F96038FA.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "929b584f", parentId: "", relPath: ",_9RYo8ggREd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "분석 화면목록", title: "분석 화면목록", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 화면목록_BC5C32DF.html", 
+	predecessors: "", info: "Mandatory Input, Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "33dbe4b8", parentId: "", relPath: ",_9RYo-AgREd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "분석 화면정의서", title: "분석 화면정의서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 화면정의서_50E08764.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "ea6d85f0", parentId: "", relPath: ",_LF6v3QgSEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "시스템인터페이스목록", title: "시스템인터페이스목록", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/시스템인터페이스목록_AA0ED37A.html", 
+	predecessors: "", info: "Mandatory Input, Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "ee7994eb", parentId: "", relPath: ",_5_305AgREd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "요구 유스케이스다이어그램", title: "요구 유스케이스다이어그램", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/요구 유스케이스다이어그램_2944D4.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "3d49494f", parentId: "", relPath: ",_3KOddggREd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "요구 유스케이스정의서", title: "요구 유스케이스정의서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/요구 유스케이스정의서_237966F1.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "44ff35a6", parentId: "", relPath: ",_5_305QgREd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "요구 패키지다이어그램", title: "요구 패키지다이어그램", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/요구 패키지다이어그램_AC724E4.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "90203c73", parentId: "", relPath: ",_m3Ej8_mrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "자료사전", title: "자료사전", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/자료사전_45372757.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "de2de9a9", parentId: "", relPath: ",_m26zBfmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "정비된데이터", title: "정비된데이터", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/정비된데이터_6320A592.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "e3633526", parentId: "", relPath: ",_m3Ej8vmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "컨버전계획서", title: "컨버전계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/컨버전계획서_847A196E.html", 
+	predecessors: "", info: "Mandatory Input, Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "e1dda6d0", parentId: "", relPath: ",_m3Ej-vmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "컨버전대상목록", title: "컨버전대상목록", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/컨버전대상목록_12356219.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "e97bb63b", parentId: "", relPath: ",_m3Ej_PmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "현행시스템분석서", title: "현행시스템분석서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/현행시스템분석서_7D7C9801.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+			
+{id: "8ab5492f", parentId: "", relPath: ",_9RYo8wgREd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:false, 
+	index: "", prefix: "", name: "화면표준정의서", title: "화면표준정의서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/화면표준정의서_C6FA12EF.html", 
+	predecessors: "", info: "Mandatory Input, Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+
+		
+]};
+				</script>
+</div>
+<table class="copyright" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="copyright"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+<script language="JavaScript" type="text/javascript">
+				contentPage.onload();
+			</script>
+</html>

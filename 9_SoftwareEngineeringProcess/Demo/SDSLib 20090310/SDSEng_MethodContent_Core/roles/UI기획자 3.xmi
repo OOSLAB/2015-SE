@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Y4curO2S9EmN4lR2uzk5Ug"
+    name="new_role,_av5IkJh4Ed2ok9DYfbNoeg" guid="-Y4curO2S9EmN4lR2uzk5Ug" changeDate="2008-10-13T01:12:43.578+0900">
+  <mainDescription>UI에 대한 사용자 요구사항을 수집 및 정의하고, 이를 반영한 화면 표준 및 화면 디자인에 관련된 요소를 개발하는 자</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-iZRLYrdZYsrurnXR7vkFng"
+    name=",_q3JCMJxYEd2IZdao1IJ_iw" guid="-iZRLYrdZYsrurnXR7vkFng" changeDate="2009-02-26T03:40:52.250+0900">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;굴림&quot;>수행 가이드(Task Guideline)&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>이행계획서를 참조하여 소프트웨어를 설치한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>소프트웨어 설치 후 현업담당자에게 확인을 받도록 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <sections xmi:id="_yN3_MJxYEd2IZdao1IJ_iw" name="설치에 따른 기본환경을 준비한다." guid="_yN3_MJxYEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_zw0YoJxYEd2IZdao1IJ_iw" name="설치될 소스코드 및 소프트웨어의 목록을 확인한다." guid="_zw0YoJxYEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_1Y-pQJxYEd2IZdao1IJ_iw" name="릴리이즈계획에 의한 일정 및 대상항목별 소스코드 및 소프트웨어를 설치한다."
+      guid="_1Y-pQJxYEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_3dvWUJxYEd2IZdao1IJ_iw" name="설치된 소스코드 및 소프트웨어의 정상적인 동작유무를 확인한다."
+      guid="_3dvWUJxYEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_4zIb8JxYEd2IZdao1IJ_iw" name=" 어플리케이션 소프트웨어 및 데이터베이스의 백업을 확인한다."
+      guid="_4zIb8JxYEd2IZdao1IJ_iw"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림체; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+ face=&quot;굴림&quot;>신 시스템의 어플리케이션 소프트웨어&lt;span lang=&quot;EN-US&quot;>(&lt;/span>소스코드&lt;span lang=&quot;EN-US&quot;>)&lt;/span> 및 운영에 필요한 소프트웨어를 실제 운영환경에 설치하여&#xD;
+시스템을 사용할 수 있도록 한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/font>&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

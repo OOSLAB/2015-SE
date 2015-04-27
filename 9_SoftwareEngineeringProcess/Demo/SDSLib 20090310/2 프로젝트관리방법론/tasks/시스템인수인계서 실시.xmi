@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Pc5Yt9MfJpv3_P2dEfyYiw"
+    name="시스템인수인계서 실시,_QyDGAMsmEd2VS4iuY7h1kQ" guid="-Pc5Yt9MfJpv3_P2dEfyYiw" changeDate="2008-12-15T14:34:24.703+0900">
+  <mainDescription>&lt;P class=a style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt; TEXT-INDENT: -1cm; mso-list: l0 level2 lfo1; tab-stops: list 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>1.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>시스템 인수인계 완료의 기준&lt;SPAN lang=EN-US>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt 51.05pt; WORD-BREAK: keep-all; TEXT-INDENT: -8.5pt; TEXT-ALIGN: left; mso-list: l2 level3 lfo3; tab-stops: list 51.05pt; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>-&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림; mso-bidi-font-size: 10.0pt; mso-hansi-font-family: 'Times New Roman'; mso-font-kerning: 0pt&quot;>시스템 인수인계는 고객이 인수에 대한 책임을 느끼는 민감한 부분이기 때문에 고객 스스로 독자적 운영 미숙과 심적 부담감에 시스템 인수인계의 최종 승인 획득이 지연될 수 있다&lt;SPAN lang=EN-US>.&lt;/SPAN>&lt;/SPAN>&lt;SPAN lang=EN-US>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt 51.05pt; WORD-BREAK: keep-all; TEXT-INDENT: -8.5pt; TEXT-ALIGN: left; mso-list: l2 level3 lfo3; tab-stops: list 51.05pt; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>-&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림; mso-bidi-font-size: 10.0pt; mso-hansi-font-family: 'Times New Roman'; mso-font-kerning: 0pt&quot;>이런 부분이 예상되는 부분이라면 개발팀은 사전에 공동운영&lt;SPAN lang=EN-US>, &lt;/SPAN>유상 운영 지원 등을 통해 고객의 심적 부담감을 해소해 줄 수 있는 방법을 제시하는 것도 중요하다&lt;SPAN lang=EN-US>.&lt;/SPAN>&lt;/SPAN>&lt;SPAN lang=EN-US>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=a style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt; TEXT-INDENT: -1cm; mso-list: l0 level2 lfo1; tab-stops: list 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>2.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>시스템 인수인계 완료의 의미&lt;SPAN lang=EN-US>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=a style=&quot;MARGIN: 0cm 0cm 0pt 48.5pt; TEXT-INDENT: -8.5pt; mso-list: l1 level1 lfo2; tab-stops: list 48.5pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>-&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>시스템 인수인계의 목적은 시스템 구축 후 고객측 운영팀의 안정적 운영이 가능하고&lt;SPAN lang=EN-US>, &lt;/SPAN>개발된 프로그램을 용이하게 유지보수 할 수 있도록 업무 및 기술을 이전하는 것임으로 인수인계 완료의 의미는 시스템 운영에 대한 책임을 개발팀에서 고객 측 운영팀으로 이전하는 것임을 의미한다&lt;SPAN lang=EN-US>. &lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P></mainDescription>
+  <sections xmi:id="_En3HgMpqEd2CAJ2o_vewag" name="각 시스템의 업무 담당자들은 인수인계 대상목록을 중심으로 인수인계를 수행한다"
+      guid="_En3HgMpqEd2CAJ2o_vewag">
+    <sectionDescription>-&amp;nbsp;기본 산출물 제출 및 기본 교육을 실시한다..&lt;br />&#xD;
+-&amp;nbsp;필요시 시스템, 프로그램, 소스에 대해 설명한다.&lt;br />&#xD;
+-&amp;nbsp;인수인계 대상목록 별 인수자 확인을 득한다.&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_E8t9MMpqEd2CAJ2o_vewag" name="각 시스템 업무 담당자들은 인수인계 과정상의 이슈 및 진행 상황을 프로젝트 관리자에게 보고하고, 이슈에 대한 방안 수립 및 조치 작업을 수행한다"
+      guid="_E8t9MMpqEd2CAJ2o_vewag"/>
+  <sections xmi:id="_Gtq9cMpqEd2CAJ2o_vewag" name="프로젝트 관리자는 인수인계 진척 상황을 매일 점검하여 일정에 차질이 없도록 하며, 이슈에 대한 정리 및 고객 협의 사항을 매일 체크한다"
+      guid="_Gtq9cMpqEd2CAJ2o_vewag"/>
+  <sections xmi:id="_JNaWUMpqEd2CAJ2o_vewag" name="인수인계 수행결과물인 인수인계 대상목록들을 입수한다" guid="_JNaWUMpqEd2CAJ2o_vewag"/>
+  <sections xmi:id="_K9d-sMpqEd2CAJ2o_vewag" name="최종적으로 고객으로부터 시스템인수인계서에 반드시 시스템 인수인계 완료 승인을 획득한다"
+      guid="_K9d-sMpqEd2CAJ2o_vewag">
+    <sectionDescription>-&amp;nbsp;각 시스템별 인수담당자의 서명을 최종 근거로 인수책임자에게 완료 승인을 득한다.&lt;br /></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

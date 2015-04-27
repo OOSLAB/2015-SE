@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_EGpW4f8aEd2yh-CYhX4-xw"
+      guid="_EGpW4f8aEd2yh-CYhX4-xw">
+    <resourceDescriptors xmi:id="_EGpW4v8aEd2yh-CYhX4-xw" id="-hp2No7uA717UfmgwTE6fKg"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_ssO54f8kEd2yh-CYhX4-xw" id="-A5CJjgdetMMCKzwsr9yDKg"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_ssO54v8kEd2yh-CYhX4-xw" id="-JGrPFLkUAaZnHZ0vKssOnQ"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_ssO54_8kEd2yh-CYhX4-xw" id="-QJ3Lbyufsg2JaBrmCNbLbg"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_ssYD0P8kEd2yh-CYhX4-xw" id="-lje03VKDi_D1PCavlX_bBg"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_EFv_AP8aEd2yh-CYhX4-xw" name="미래에셋인사관리개발"
+      guid="_EFv_AP8aEd2yh-CYhX4-xw">
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_IvoUMv8aEd2yh-CYhX4-xw"
+        name="미래에셋서브시스템개발프로세스" guid="_IvoUMv8aEd2yh-CYhX4-xw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_IvoUMf8aEd2yh-CYhX4-xw"
+          name="미래에셋서브시스템개발프로세스" guid="_IvoUMf8aEd2yh-CYhX4-xw" presentationName="미래에셋 인사"
+          superActivities="_EFv_Af8aEd2yh-CYhX4-xw">
+        <presentation xmi:id="-A5CJjgdetMMCKzwsr9yDKg" href="uma://-hp2No7uA717UfmgwTE6fKg#-A5CJjgdetMMCKzwsr9yDKg"/>
+        <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+        <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_JcCHMv8aEd2yh-CYhX4-xw"
+        name="미래에셋서브시스템개발프로세스" guid="_JcCHMv8aEd2yh-CYhX4-xw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_JcCHMf8aEd2yh-CYhX4-xw"
+          name="미래에셋서브시스템개발프로세스" guid="_JcCHMf8aEd2yh-CYhX4-xw" presentationName="미래에셋 총무"
+          superActivities="_EFv_Af8aEd2yh-CYhX4-xw">
+        <presentation xmi:id="-JGrPFLkUAaZnHZ0vKssOnQ" href="uma://-hp2No7uA717UfmgwTE6fKg#-JGrPFLkUAaZnHZ0vKssOnQ"/>
+        <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+        <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_KAF2gv8aEd2yh-CYhX4-xw"
+        name="미래에셋서브시스템개발프로세스" guid="_KAF2gv8aEd2yh-CYhX4-xw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_KAF2gf8aEd2yh-CYhX4-xw"
+          name="미래에셋서브시스템개발프로세스" guid="_KAF2gf8aEd2yh-CYhX4-xw" presentationName="미래에셋 재무"
+          superActivities="_EFv_Af8aEd2yh-CYhX4-xw">
+        <presentation xmi:id="-QJ3Lbyufsg2JaBrmCNbLbg" href="uma://-hp2No7uA717UfmgwTE6fKg#-QJ3Lbyufsg2JaBrmCNbLbg"/>
+        <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+        <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_KfYakv8aEd2yh-CYhX4-xw"
+        name="미래에셋서브시스템개발프로세스" guid="_KfYakv8aEd2yh-CYhX4-xw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_KfYakf8aEd2yh-CYhX4-xw"
+          name="미래에셋서브시스템개발프로세스" guid="_KfYakf8aEd2yh-CYhX4-xw" presentationName="미래에셋 기획"
+          superActivities="_EFv_Af8aEd2yh-CYhX4-xw">
+        <presentation xmi:id="-lje03VKDi_D1PCavlX_bBg" href="uma://-hp2No7uA717UfmgwTE6fKg#-lje03VKDi_D1PCavlX_bBg"/>
+        <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+        <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      </processElements>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_EFv_Af8aEd2yh-CYhX4-xw"
+        name="미래에셋인사관리개발" guid="_EFv_Af8aEd2yh-CYhX4-xw" presentationName="미래에셋인사관리개발"
+        breakdownElements="_IvoUMf8aEd2yh-CYhX4-xw _JcCHMf8aEd2yh-CYhX4-xw _KAF2gf8aEd2yh-CYhX4-xw _KfYakf8aEd2yh-CYhX4-xw">
+      <presentation xmi:id="-hp2No7uA717UfmgwTE6fKg" href="uma://-hp2No7uA717UfmgwTE6fKg#-hp2No7uA717UfmgwTE6fKg"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

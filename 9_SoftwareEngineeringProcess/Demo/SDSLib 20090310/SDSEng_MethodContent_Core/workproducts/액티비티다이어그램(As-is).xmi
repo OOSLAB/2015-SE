@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-01R-oA2aMdq7NznHFTmQTQ"
+    name="new_artifact,_FamywJOmEd2QOZMWcM0ZMQ" guid="-01R-oA2aMdq7NznHFTmQTQ" changeDate="2008-10-06T21:55:56.000+0900">
+  <mainDescription>담당업무, 담당자</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

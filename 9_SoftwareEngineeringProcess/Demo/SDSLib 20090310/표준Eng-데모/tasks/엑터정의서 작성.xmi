@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-tnn6ka31UIbm82oWjyd44g"
+    name=",_FdTbIJVLEd2ptuaOn8CiHA" guid="-tnn6ka31UIbm82oWjyd44g">
+  <sections xmi:id="_J5BYgJVLEd2ptuaOn8CiHA" name="액터명을 기록" guid="_J5BYgJVLEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_K6ljMJVLEd2ptuaOn8CiHA" name="액터 설명을 기재" guid="_K6ljMJVLEd2ptuaOn8CiHA"/>
+</org.eclipse.epf.uma:TaskDescription>

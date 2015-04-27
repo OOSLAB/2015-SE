@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-rm00GRbrGeV_egmmYEY3QA"
+    name="new_template,_Td-7AP8fEd2WHoY-_v_k_A" guid="-rm00GRbrGeV_egmmYEY3QA">
+  <attachments>resources/분석패키지다이어그램F.doc</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

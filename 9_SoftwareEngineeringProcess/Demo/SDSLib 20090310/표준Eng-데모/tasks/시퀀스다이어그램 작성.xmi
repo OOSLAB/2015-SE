@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-KPF02UlsjbTFRIQfvkD8ZA"
+    name=",_djLWUJVIEd2ptuaOn8CiHA" guid="-KPF02UlsjbTFRIQfvkD8ZA">
+  <sections xmi:id="_gsM8wJVIEd2ptuaOn8CiHA" name="activation 정의" guid="_gsM8wJVIEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_hvGkMJVIEd2ptuaOn8CiHA" name="lifeline정의" guid="_hvGkMJVIEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_iw0f4JVIEd2ptuaOn8CiHA" name="객체정의" guid="_iw0f4JVIEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_jkOSwJVIEd2ptuaOn8CiHA" name="메시지 정의" guid="_jkOSwJVIEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_m1vG0JVIEd2ptuaOn8CiHA" name="분석 유형 및 분석 클래스 타입" guid="_m1vG0JVIEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_oSuCMJVIEd2ptuaOn8CiHA" name="후보 분석클래스 식별" guid="_oSuCMJVIEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_s3YgMJVIEd2ptuaOn8CiHA" name="설계수준의 시퀀스다이어그램 작성" guid="_s3YgMJVIEd2ptuaOn8CiHA"/>
+</org.eclipse.epf.uma:TaskDescription>

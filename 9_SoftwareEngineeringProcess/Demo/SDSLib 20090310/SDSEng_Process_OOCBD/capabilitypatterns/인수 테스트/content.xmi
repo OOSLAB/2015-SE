@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-d1TVLOupTJYOushQzGMymA"
+    name="인수테스트모델,_juyGgQgTEd6PpbmBy1d4Hw" guid="-d1TVLOupTJYOushQzGMymA">
+  <mainDescription>&lt;ul class=&quot;noindent&quot;>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/concepts/%D14C%C2A4%D2B8%C2E4%C2DC%D65C%B3D9%20%AC1C%C694_BC90868B.html&quot;&#xD;
+         guid=&quot;_OpG64AS-Ed6u1pdhw4SOFA&quot;>테스트실시활동 개요&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/guidelines/%D14C%C2A4%D2B8%20%AE30%BC95_4E05C9C7.html&quot;&#xD;
+        guid=&quot;_lhqdcASyEd6u1pdhw4SOFA&quot;>테스트 기법&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ProcessDescription>

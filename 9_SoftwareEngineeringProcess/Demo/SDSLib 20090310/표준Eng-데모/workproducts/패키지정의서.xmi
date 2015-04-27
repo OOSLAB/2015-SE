@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-16pr_x_GQrTVHuLnnmJ6HA"
+    name="new_artifact,_BkZ4EJO4Ed2QOZMWcM0ZMQ" guid="-16pr_x_GQrTVHuLnnmJ6HA" changeDate="2008-10-07T00:04:28.921+0900">
+  <mainDescription>레벨, 설명, 시스템명, 작성일, 작성자, 패키지명</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

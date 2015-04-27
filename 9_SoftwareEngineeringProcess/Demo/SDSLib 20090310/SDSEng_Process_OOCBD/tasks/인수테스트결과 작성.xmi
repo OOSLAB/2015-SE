@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-u6Fw3JD7DVH-bmUqvISj9A"
+    name="인수테스트결과 작성,_bBDYO_mrEd2JRcy3PiAHxw" guid="-u6Fw3JD7DVH-bmUqvISj9A" changeDate="2009-02-27T04:47:57.937+0900">
+  <mainDescription>&lt;p>&#xD;
+    수행 가이드(Task Guideline)&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        인수테스트는 고객이 직접 수행하도록 하며, 프로젝트팀은 고객이 인수테스트에 의해 인수테스트를 수행할 수 있도록 테스트 수행에 필요한 화면 및 시스템의 접근방법 등을 지원한다.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        인수테스트 실시 이후 결과를 기록할 때는 고객과 프로젝트 간의 합의에 의해 오류로 결정된 사항만을 기록하도록 한다.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <sections xmi:id="_nSIHMAQ-Ed6Jm6RmV6KrJA" name="테스트계획서를 확인하고 테스트 수행을 위한 테스트담당자(고객)를 선정한다."
+      guid="_nSIHMAQ-Ed6Jm6RmV6KrJA"/>
+  <sections xmi:id="_psDzAAQ-Ed6Jm6RmV6KrJA" name="고객이 테스트자료에 의해 테스트를 수행할 수 있도록 해당 화면, 접근방법 등을 지원한다."
+      guid="_psDzAAQ-Ed6Jm6RmV6KrJA"/>
+  <sections xmi:id="_qmn90AQ-Ed6Jm6RmV6KrJA" name="고객이 테스트를 실시한다." guid="_qmn90AQ-Ed6Jm6RmV6KrJA"/>
+  <sections xmi:id="_sqWJEAQ-Ed6Jm6RmV6KrJA" name="테스트 수행 중 결함이 발생하여 고객으로부터 결함보고서를 접수하였을 경우, 해당 결함내용을 보완한 후 테스트를 재수행한다."
+      guid="_sqWJEAQ-Ed6Jm6RmV6KrJA"/>
+  <sections xmi:id="_tlW_0AQ-Ed6Jm6RmV6KrJA" name="테스트를 정상적으로 종료한 경우 고객으로부터 테스트에 대한 승인을 받는다."
+      guid="_tlW_0AQ-Ed6Jm6RmV6KrJA"/>
+  <purpose>&lt;p>&#xD;
+    &lt;font face=&quot;굴림&quot;>고객 주관으로 진행되는 테스트를 지원하고 인수 조건에 여부를 확인한다.&lt;/font>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

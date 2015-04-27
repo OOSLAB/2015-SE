@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-ReS6_NLeO7tOvt6rTuh25A"
+    name="new_artifact,_oJK3AJO7Ed2QOZMWcM0ZMQ" guid="-ReS6_NLeO7tOvt6rTuh25A" changeDate="2008-10-07T00:30:27.906+0900">
+  <mainDescription>길이, 설명, 시스템명, 일련번호, 코드구분, 코드분류명, 코드분류ID, CPRp</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

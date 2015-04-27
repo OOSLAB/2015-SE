@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-MRGPzbP78_tuO_-eXSaysQ"
+    name="new_role,_V74nAJh4Ed2ok9DYfbNoeg" guid="-MRGPzbP78_tuO_-eXSaysQ" changeDate="2008-10-13T01:15:07.609+0900">
+  <mainDescription>&lt;p>&#xD;
+    고객의 비즈니스 요구를 완벽히 이해하여, 이를 기반으로 시스템에 구현되어야할 기능 요구사항의 명세를 표준 분석표기법을 써서 정의하고, 요구명세의 완전성, 정확성, 일돤성 등 품질을 체계적으로 분석 및 보증할 수&#xD;
+    있는 사람&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-CiqcM9leqGYnAfLoid8evA"
+    name="new_template,_U0TEUP84Ed2WHoY-_v_k_A" guid="-CiqcM9leqGYnAfLoid8evA">
+  <attachments>resources/시스템테스트결과보고서T.doc</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

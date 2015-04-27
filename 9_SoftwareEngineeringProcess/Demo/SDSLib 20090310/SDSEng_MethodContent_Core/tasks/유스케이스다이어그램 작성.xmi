@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-LsZDSAq64oJ5_dDHbqwU6Q"
+    name="유스케이스다이어그램 작성,_8wY61JX5Ed2JxZNCBmUBeg" guid="-LsZDSAq64oJ5_dDHbqwU6Q">
+  <sections xmi:id="_hKKZ0JxIEd2b9o00yINnSg" name="사용자 관점의 액터 식별" guid="_hKKZ0JxIEd2b9o00yINnSg"/>
+  <sections xmi:id="_ilzRYJxIEd2b9o00yINnSg" name="액터 기반 유스케이스 식별" guid="_ilzRYJxIEd2b9o00yINnSg"/>
+  <sections xmi:id="_j9bLoJxIEd2b9o00yINnSg" name="액터간, 유스케이스간 및 액터와 유스케이스간 관계 정의"
+      guid="_j9bLoJxIEd2b9o00yINnSg"/>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-pSNqWgcRjqw_Js19JDznIw"
+    name="new_discipline,_HkdHEJYKEd2f_MiqbDX5Hg" guid="-pSNqWgcRjqw_Js19JDznIw" changeDate="2008-10-09T22:57:05.421+0900">
+  <mainDescription>배치명, 배치설명, 배치ID, 유스케이스ID, 개발유형, 비고, 선행작업, 작업일시, 작업주기, 처리시간, 프로그램ID(메인, 서브), 후행작업</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

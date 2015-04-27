@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko" xml:lang="ko" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Guideline: 분석 클래스다이어그램 작성기법</title>
+<meta name="uma.type" content="Guideline">
+<meta name="uma.name" content="분석 클래스다이어그램 작성기법">
+<meta name="uma.presentationName" content="분석 클래스다이어그램 작성기법">
+<meta name="element_type" content="other">
+<meta name="filetype" content="description">
+<meta name="role" content="">
+<link rel="StyleSheet" href="./../../../css/default.css" type="text/css">
+<script src="./../../../scripts/ContentPageResource.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageSubSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageToolbar.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/contentPage.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+					var backPath = './../../../';
+					var imgPath = './../../../images/';
+					var nodeInfo=null;
+					contentPage.preload(imgPath, backPath, nodeInfo,  '', false, false, false);
+				</script>
+</head>
+<body>
+<div id="breadcrumbs"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top"><a name="Top"></a>
+<div id="page-guid" value="_bBWTJvmrEd2JRcy3PiAHxw"></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="pageTitle" nowrap="true">Guideline: 분석 클래스다이어그램 작성기법</td><td width="100%">
+<div align="right" id="contentPageToolbar"></div>
+</td><td width="100%" class="expandCollapseLink" align="right"><a name="mainIndex" href="./../../../index.htm"></a><script language="JavaScript" type="text/javascript" src="./../../../scripts/treebrowser.js"></script></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pageTitleSeparator"><img src="./../../../images/shim.gif" alt="" title="" height="1"></td>
+</tr>
+</table>
+<div class="overview">
+<table width="97%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50"><img src="./../../../images/guidance.gif" alt="" title=""></td><td>
+<table class="overviewTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Relationships</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<th class="sectionTableHeading" scope="row">Related Elements</th><td class="sectionTableCell">
+<ul>
+<li>
+<a href="./../../../SDSEng_Process_OOCBD/tasks/분석 클래스다이어그램 작성_A96D1757.html" guid="_bBWTJ_mrEd2JRcy3PiAHxw">분석 클래스다이어그램 작성</a>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Main Description</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td class="sectionTableSingleCell"><p>
+    1. 분석 클래스다이어그램 작성 절차
+</p><br />
+<br />
+<p>
+    2. 입력물
+</p>
+<p>
+    유스케이스 정의서 ::= 시나리오
+</p>
+<p>
+    시나리오 ::=&nbsp;문장
+</p>
+<p>
+    문장 ::=&nbsp;명사 +&nbsp;동사&nbsp;+ 부사
+</p><br />
+<p>
+    3. 출력물
+</p>
+<p>
+    분석클래스다이어그램 ::=&nbsp;클래스 +&nbsp;연관&nbsp;
+</p>
+<p>
+    클래스 ::= 이름 + 속성 + 오퍼레이션&nbsp; + 스테레오타입
+</p>
+<p>
+    연관 ::= 이름 + 방향성 + 다중성 + 역할
+</p><br />
+<p>
+    4. 매핑 가이드<br />
+</p>
+<p>
+    4.1. 분석클래스는 일반적으로 모델-뷰-컨트롤러의 아키텍처 패턴으로 분류하여 정의한다.
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 모델은 엔티티 스테레오타입 클래스로 정의되며, 지속적 데이터의 저장 장소의 의미를 갖는다.
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 뷰는 바운더리 스테레오타입 클래스로 정의되며, 사용자와의 상호작용을 정의한다.
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 컨트롤러는 컨트롤 스테레오타입 클래스로 정의되며, 바운더리 클래스와 엔티티 클래스 간의 데이터 매핑 을 정의한다.
+</p>
+<p>
+    4.2. 유스케이스 정의서 시나리오의 명사를 중심으로 클래스를 추출한다.
+</p>
+<p>
+    4.3. 추출된 클래스를&nbsp;엔티티,&nbsp;바운더리, 컨트롤 클래스로 분류한다.&nbsp;
+</p>
+<p>
+    4.4. 해당 클래스와 연관된 동사를 중심으로 연관을 추출한다.
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 연관은&nbsp;메시지와 달리 지속적, 행위적 패턴을 중심으로 정의한다.&nbsp;
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp; - 지속적, 행위적 패턴은 반복적으로 메시지를 주고 받는 상호작용의 형태를 의미한다.
+</p></td>
+</tr>
+</table>
+</div>
+<table class="copyright" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="copyright"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+<script type="text/javascript" language="JavaScript">
+				contentPage.onload();
+			</script>
+</html>

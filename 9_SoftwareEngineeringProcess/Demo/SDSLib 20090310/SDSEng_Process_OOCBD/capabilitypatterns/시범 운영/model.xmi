@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_nIzNIPmrEd2JRcy3PiAHxw"
+      guid="_nIzNIPmrEd2JRcy3PiAHxw">
+    <resourceDescriptors xmi:id="_nIzNIfmrEd2JRcy3PiAHxw" id="-Uq6bBQoTmnhop6-SLviYpQ"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_m2n4BPmrEd2JRcy3PiAHxw" name="시범 운영"
+      guid="_m2n4BPmrEd2JRcy3PiAHxw">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_BG1bFAgTEd6PpbmBy1d4Hw"
+        name="시범운영계획서 작성" guid="_BG1bFAgTEd6PpbmBy1d4Hw" presentationName="시범운영계획서 작성"
+        superActivities="_m2n4BfmrEd2JRcy3PiAHxw" additionallyPerformedBy="_BG1bFwgTEd6PpbmBy1d4Hw _BG1bGAgTEd6PpbmBy1d4Hw _BG1bGQgTEd6PpbmBy1d4Hw _BG1bGggTEd6PpbmBy1d4Hw _BG1bGwgTEd6PpbmBy1d4Hw"
+        mandatoryInput="_BG1bHAgTEd6PpbmBy1d4Hw _BG1bHQgTEd6PpbmBy1d4Hw _BG1bHggTEd6PpbmBy1d4Hw"
+        output="_BG1bHwgTEd6PpbmBy1d4Hw" performedPrimarilyBy="_BG1bFggTEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_Wa3uEuF_Ed2itKHlK_Q0qg"/>
+      <selectedSteps href="uma://-Kj4WK1DLdXs0HFmhi37Nlg#_Wa3uFOF_Ed2itKHlK_Q0qg"/>
+      <selectedSteps href="uma://-Kj4WK1DLdXs0HFmhi37Nlg#_Wa3uFeF_Ed2itKHlK_Q0qg"/>
+      <selectedSteps href="uma://-Kj4WK1DLdXs0HFmhi37Nlg#_Wa3uE-F_Ed2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_BG1bFQgTEd6PpbmBy1d4Hw"
+        name="시범운영일지 작성" guid="_BG1bFQgTEd6PpbmBy1d4Hw" presentationName="시범운영일지 작성"
+        superActivities="_m2n4BfmrEd2JRcy3PiAHxw" linkToPredecessor="_ax6boQjjEd6CD-m1e93cOw"
+        additionallyPerformedBy="_BG1bFwgTEd6PpbmBy1d4Hw _BG1bGAgTEd6PpbmBy1d4Hw _BG1bGQgTEd6PpbmBy1d4Hw _BG1bGggTEd6PpbmBy1d4Hw _BG1bFggTEd6PpbmBy1d4Hw"
+        mandatoryInput="_BG1bHwgTEd6PpbmBy1d4Hw" output="_BG1bIAgTEd6PpbmBy1d4Hw"
+        performedPrimarilyBy="_BG1bGwgTEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_4162cKAXEd2n5q0acG373A"/>
+      <selectedSteps href="uma://-6mltqYEQQduC0GBnEo--Tg#_-ehdsKAXEd2n5q0acG373A"/>
+      <selectedSteps href="uma://-6mltqYEQQduC0GBnEo--Tg#_A4KOkKAYEd2n5q0acG373A"/>
+      <selectedSteps href="uma://-6mltqYEQQduC0GBnEo--Tg#_DJJZwKAYEd2n5q0acG373A"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_BG1bFggTEd6PpbmBy1d4Hw"
+        name="프로젝트관리자" guid="_BG1bFggTEd6PpbmBy1d4Hw" presentationName="프로젝트관리자" superActivities="_m2n4BfmrEd2JRcy3PiAHxw"
+        modifies="_BG1bHwgTEd6PpbmBy1d4Hw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to3-FKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_BG1bFwgTEd6PpbmBy1d4Hw"
+        name="개발자" guid="_BG1bFwgTEd6PpbmBy1d4Hw" presentationName="개발자" superActivities="_m2n4BfmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to0eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_BG1bGAgTEd6PpbmBy1d4Hw"
+        name="분석자" guid="_BG1bGAgTEd6PpbmBy1d4Hw" presentationName="분석자" superActivities="_m2n4BfmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to1eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_BG1bGQgTEd6PpbmBy1d4Hw"
+        name="설계자" guid="_BG1bGQgTEd6PpbmBy1d4Hw" presentationName="설계자" superActivities="_m2n4BfmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to2OFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_BG1bGggTEd6PpbmBy1d4Hw"
+        name="프로젝트TA" guid="_BG1bGggTEd6PpbmBy1d4Hw" presentationName="프로젝트TA" superActivities="_m2n4BfmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to3uFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_BG1bGwgTEd6PpbmBy1d4Hw"
+        name="프로젝트리더" guid="_BG1bGwgTEd6PpbmBy1d4Hw" presentationName="프로젝트리더" superActivities="_m2n4BfmrEd2JRcy3PiAHxw"
+        modifies="_BG1bIAgTEd6PpbmBy1d4Hw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to4OFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_BG1bHAgTEd6PpbmBy1d4Hw"
+        name="기술인프라아키텍처설계서" guid="_BG1bHAgTEd6PpbmBy1d4Hw" presentationName="기술인프라아키텍처설계서"
+        superActivities="_m2n4BfmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_lq3Fk5YAEd2f_MiqbDX5Hg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_BG1bHQgTEd6PpbmBy1d4Hw"
+        name="소프트웨어아키텍처설계서" guid="_BG1bHQgTEd6PpbmBy1d4Hw" presentationName="소프트웨어아키텍처설계서"
+        superActivities="_m2n4BfmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_lq3FvpYAEd2f_MiqbDX5Hg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_BG1bHggTEd6PpbmBy1d4Hw"
+        name="이행계획서" guid="_BG1bHggTEd6PpbmBy1d4Hw" presentationName="이행계획서" superActivities="_m2n4BfmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_NUjv06AWEd2n5q0acG373A"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_BG1bHwgTEd6PpbmBy1d4Hw"
+        name="시범운영계획서" guid="_BG1bHwgTEd6PpbmBy1d4Hw" presentationName="시범운영계획서" superActivities="_m2n4BfmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_Wa3uEeF_Ed2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_BG1bIAgTEd6PpbmBy1d4Hw"
+        name="시범운영일지" guid="_BG1bIAgTEd6PpbmBy1d4Hw" presentationName="시범운영일지" superActivities="_m2n4BfmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_NUtgzqAWEd2n5q0acG373A"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ax6boQjjEd6CD-m1e93cOw"
+        guid="_ax6boQjjEd6CD-m1e93cOw" pred="_BG1bFAgTEd6PpbmBy1d4Hw"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_m2n4BfmrEd2JRcy3PiAHxw"
+        name="시범 운영" guid="_m2n4BfmrEd2JRcy3PiAHxw" presentationName="시범 운영" breakdownElements="_BG1bFAgTEd6PpbmBy1d4Hw _BG1bFQgTEd6PpbmBy1d4Hw _BG1bFggTEd6PpbmBy1d4Hw _BG1bFwgTEd6PpbmBy1d4Hw _BG1bGAgTEd6PpbmBy1d4Hw _BG1bGQgTEd6PpbmBy1d4Hw _BG1bGggTEd6PpbmBy1d4Hw _BG1bGwgTEd6PpbmBy1d4Hw _BG1bHAgTEd6PpbmBy1d4Hw _BG1bHQgTEd6PpbmBy1d4Hw _BG1bHggTEd6PpbmBy1d4Hw _BG1bHwgTEd6PpbmBy1d4Hw _BG1bIAgTEd6PpbmBy1d4Hw">
+      <presentation xmi:id="-Uq6bBQoTmnhop6-SLviYpQ" href="uma://-Uq6bBQoTmnhop6-SLviYpQ#-Uq6bBQoTmnhop6-SLviYpQ"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

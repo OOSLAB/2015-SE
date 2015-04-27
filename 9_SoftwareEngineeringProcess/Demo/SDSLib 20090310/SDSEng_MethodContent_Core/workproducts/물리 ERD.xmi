@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-S4ib0OZeXOksR1M3291X8Q"
+    name="물리 ERD,_M0VigMdxEd2wA9_TUU3fKA" guid="-S4ib0OZeXOksR1M3291X8Q" changeDate="2009-03-10T16:49:01.671+0900">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+     style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>[&lt;a&#xD;
+     class=&quot;elementLink&quot; href=&quot;./../../SDSEng_MethodContent_Core/workproducts/ERD_465EC3CC.html&quot;&#xD;
+    guid=&quot;_qS6rT5X_Ed2f_MiqbDX5Hg&quot;>ERD&lt;/a>]&lt;/span>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>작성항목&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>주제영역명&#xD;
+        &lt;span lang=&quot;EN-US&quot;>:&lt;/span> 논리데이터 모델링 시 분류한 주제영역&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         lang=&quot;EN-US&quot;&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>ER-&lt;/span>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>다이어그램&#xD;
+        &lt;span lang=&quot;EN-US&quot;>:&lt;/span> 데이터 모델링 도구를 사용하여 작성한 &lt;span lang=&quot;EN-US&quot;>ER-&lt;/span>다이어그램을 그림으로 캡춰하여&#xD;
+        작성&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <keyConsiderations>&lt;P>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>작성시 고려사항&lt;/SPAN>&lt;/P>&#xD;
+&lt;UL>&#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>엔티티간의 관계 중&lt;SPAN lang=EN-US> M:N&lt;/SPAN>관계는 논리적으로만 존재하는 관계이며&lt;SPAN lang=EN-US>, M:N&lt;/SPAN>관계가 존재할 경우&lt;SPAN lang=EN-US> Intersection &lt;/SPAN>테이블을 추가하여&lt;SPAN lang=EN-US> M:N&lt;/SPAN>관계를 제거한다&lt;SPAN lang=EN-US>.&lt;/SPAN>&lt;/SPAN>&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;SPAN lang=EN-US>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>테이블명&lt;SPAN lang=EN-US>, &lt;/SPAN>컬럼명이 너무 길게 정의될 경우 테이블 생성 시 오류가 발생할 수 있으므로&lt;SPAN lang=EN-US>, &lt;/SPAN>데이터베이스가 허용하는 길이를 넘지 않도록 정의한다&lt;SPAN lang=EN-US>.&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;SPAN lang=EN-US>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;SPAN lang=EN-US>&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>ERD(&lt;/SPAN>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>논리&lt;SPAN lang=EN-US>)&lt;/SPAN>의 엔티티와&lt;SPAN lang=EN-US> ERD(&lt;/SPAN>물리&lt;SPAN lang=EN-US>)&lt;/SPAN>의 테이블은 꼭&lt;SPAN lang=EN-US> &lt;?xml:namespace prefix = st1 ns = &quot;urn:schemas-microsoft-com:office:smarttags&quot; />&lt;st1:time o:ls=&quot;trans&quot; Hour=&quot;13&quot; Minute=&quot;1&quot; w:st=&quot;on&quot;>1:1&lt;/st1:time>&lt;/SPAN>일 필요는 없으며&lt;SPAN lang=EN-US>, &lt;/SPAN>성능 등을 고려하여 여러 개의 엔티티가 하나의 테이블로 통합될 수도 있고 하나의 엔티티가 여러 개의 테이블로 분할될 수도 있다&lt;SPAN lang=EN-US>.&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;SPAN lang=EN-US>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;SPAN lang=EN-US>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;SPAN lang=EN-US>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>컬럼명은 자료사전을 참조하여 부여하도록 한다&lt;SPAN lang=EN-US>.&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;SPAN lang=EN-US>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;SPAN lang=EN-US>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;SPAN lang=EN-US>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;SPAN lang=EN-US>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>성능을 고려하여 컬럼의 순서&lt;SPAN lang=EN-US>, &lt;/SPAN>역정규화 등을 고려하여&lt;SPAN lang=EN-US> ERD(&lt;/SPAN>물리&lt;SPAN lang=EN-US>)&lt;/SPAN>를 작성하도록 한다&lt;SPAN lang=EN-US>.&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;/LI>&lt;/UL></keyConsiderations>
+  <impactOfNotHaving>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>미작성시&#xD;
+    영향&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA; mso-bidi-font-style: italic&quot;>최적화된&#xD;
+        구조의 통합된 데이터 뷰를 제공할 수 없다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA; mso-bidi-font-style: italic&quot;>&lt;span&#xD;
+         lang=&quot;EN-US&quot;>&lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA; mso-bidi-font-style: italic&quot;>각&#xD;
+        테이블 간 관계를 파악하기 힘들어 어플리케이션 설계 및 개발단계에서 비효율을 초래할 수 있다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></impactOfNotHaving>
+  <reasonsForNotNeeding>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>작성이&#xD;
+    불필요한 경우&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         lang=&quot;EN-US&quot;&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>ERD(&lt;/span>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>물리&lt;span&#xD;
+         lang=&quot;EN-US&quot;>)&lt;/span>는 반드시 작성하도록 한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></reasonsForNotNeeding>
+  <representationOptions>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>제출시&#xD;
+    고려사항&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>설계단계&#xD;
+        완료 시 고객에게 제출하고 승인을 받도록 한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

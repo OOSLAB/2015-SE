@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-ep7h3WlPUbnnhPic4wHMNw"
+    name="new_template,_FlbdgP8kEd2WHoY-_v_k_A" guid="-ep7h3WlPUbnnhPic4wHMNw">
+  <attachments>resources/어플리케이션아키텍처설계서T.doc</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

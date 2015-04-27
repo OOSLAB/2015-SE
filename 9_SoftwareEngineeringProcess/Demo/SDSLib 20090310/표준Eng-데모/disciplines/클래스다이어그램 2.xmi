@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-zGTOccfX54xVSEbLsvdxvA"
+    name="클래스다이어그램,_4gCy4JXsEd2HIYEipVF0ow" guid="-zGTOccfX54xVSEbLsvdxvA" changeDate="2008-10-09T20:21:12.765+0900">
+  <mainDescription>&lt;p>&#xD;
+    경계 클래스, 엔티티 클래스, 속성,&amp;nbsp;오퍼레이션,&amp;nbsp;컴포넌트, 연관, 의존, 일반화, 집합과 복합&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

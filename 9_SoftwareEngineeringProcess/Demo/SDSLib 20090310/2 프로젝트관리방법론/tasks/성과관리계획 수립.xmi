@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-sfyeqzuh1NrMaGQLjtwOPw"
+    name=",_etaEgM0REd2A0Kjz7fgG4Q" guid="-sfyeqzuh1NrMaGQLjtwOPw">
+  <sections xmi:id="_tSXiwM0REd2A0Kjz7fgG4Q" name="이해당사자들의 성과측정계획서 검토" guid="_tSXiwM0REd2A0Kjz7fgG4Q"/>
+  <sections xmi:id="_vC33EM0REd2A0Kjz7fgG4Q" name="프로젝트의 성과측정계획서 작성" guid="_vC33EM0REd2A0Kjz7fgG4Q"/>
+</org.eclipse.epf.uma:TaskDescription>

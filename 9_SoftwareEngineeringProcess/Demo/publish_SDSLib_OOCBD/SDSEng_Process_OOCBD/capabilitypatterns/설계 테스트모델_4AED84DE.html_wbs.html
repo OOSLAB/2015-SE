@@ -1,0 +1,371 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko" xml:lang="ko" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Capability Pattern: 테스트 설계</title>
+<meta name="uma.type" content="CapabilityPattern">
+<meta name="uma.name" content="설계 테스트모델">
+<meta name="uma.presentationName" content="테스트 설계">
+<meta name="element_type" content="other">
+<meta name="filetype" content="description">
+<meta name="role" content="">
+<link rel="StyleSheet" href="./../../css/default.css" type="text/css">
+<script src="./../../scripts/ContentPageResource.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSubSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ActivityTreeTable.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ProcessElementPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageToolbar.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/contentPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/processElementData.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+					var defaultQueryStr = '?proc=_F9VMYQfFEd6PyOiijdVpWA&path=_F9VMYQfFEd6PyOiijdVpWA,_Z51lMQgUEd6PpbmBy1d4Hw';
+					var backPath = './../../';
+					var imgPath = './../../images/';
+					var nodeInfo=null;
+					contentPage.preload(imgPath, backPath, nodeInfo,  defaultQueryStr, false, true, true);
+				</script>
+</head>
+<body>
+<div id="breadcrumbs"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top">
+<div autoWrap="true">
+<div id="page-guid" value="_Z51lMQgUEd6PpbmBy1d4Hw"></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="pageTitle" nowrap="true">Capability Pattern: 테스트 설계</td><td width="100%">
+<div align="right" id="contentPageToolbar"></div>
+</td><td width="100%" class="expandCollapseLink" align="right"><a name="mainIndex" href="./../../index.htm"></a><script language="JavaScript" type="text/javascript" src="./../../scripts/treebrowser.js"></script></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pageTitleSeparator"><img src="./../../images/shim.gif" alt="" title="" height="1"></td>
+</tr>
+</table>
+<div class="overview">
+<table width="97%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50"><img src="./../../images/capabilitypattern.gif" alt="" title=""></td><td>
+<table class="overviewTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"></td>
+</tr>
+<tr>
+<td valign="top">Extends: <a href="./../../SDSEng_Process_OOCBD/capabilitypatterns/테스트 설계_91887A1A.html" guid="_XV_TkQfAEd6Obes9cAqsag">테스트 설계</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="middle">
+<td width="10" class="tab"><img src="./../../images/shim.gif" width="10" height="17" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_Description" href="./../../SDSEng_Process_OOCBD/capabilitypatterns/설계 테스트모델_4AED84DE.html_desc.html">Description</a></td><td width="21"><img src="./../../images/tab_middle-i_a.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="activeTab"><span style="white-space:nowrap;">Work Breakdown Structure</span></td><td width="1"><img src="./../../images/tab_middle-a_i.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_TBS" href="./../../SDSEng_Process_OOCBD/capabilitypatterns/설계 테스트모델_4AED84DE.html_tbs.html"><span style="white-space:nowrap;">Team Allocation</span></a></td><td width="21"><img src="./../../images/tab_middle-i_i.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_WPBS" href="./../../SDSEng_Process_OOCBD/capabilitypatterns/설계 테스트모델_4AED84DE.html_wpbs.html"><span style="white-space:nowrap;">Work Product Usage</span></a></td><td width="21"><img src="./../../images/tab_end-i.gif" width="21" height="17" alt="" title=""></td><td width="50%"><img src="./../../images/shim.gif" width="10" height="17" alt="" title=""></td>
+</tr>
+<tr>
+<td colspan="2"><img src="./../../images/shim.gif" height="2" alt="" title=""></td><td><img src="./../../images/tab_space_middle.gif" width="21" height="2" alt="" title=""></td><td class="activeTab"><img src="./../../images/shim.gif" width="10" height="2" alt="" title=""></td><td><img src="./../../images/tab_space.gif" width="21" height="2" alt="" title=""></td><td colspan="5"><img src="./../../images/shim.gif" height="2" alt="" title=""></td>
+</tr>
+<tr>
+<td colspan="10" class="activeTab"><img src="./../../images/shim.gif" height="5" alt="" title=""></td>
+</tr>
+</table>
+<div class="sectionHeading">Workflow</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="sectionTableSingleCell" colspan="2" align="left">
+<p></p>
+<img border="0" diagramType="Activity" id="diagram_Activity" src="./../../SDSEng_Process_OOCBD/capabilitypatterns/resources/설계 테스트모델_4AED84DE_Activity.jpeg" alt="Activity diagram: 테스트 설계" title="Activity diagram: 테스트 설계" usemap="#Activity_C124ACC4 D14CC2A4D2B8BAA8B378"><map name="Activity_C124ACC4 D14CC2A4D2B8BAA8B378">
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/테스트계획서 작성_490C9AFC.html" relpath=",_UsLC-QgTEd6PpbmBy1d4Hw" alt="테스트계획서 작성" title="테스트계획서 작성" coords="192, 12, 296, 65" shape="rect" guid="_UsLC-QgTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/시스템테스트계획서 작성_791A2896.html" relpath=",_UsLC9wgTEd6PpbmBy1d4Hw" alt="시스템테스트계획서 작성" title="시스템테스트계획서 작성" coords="180, 120, 322, 173" shape="rect" guid="_UsLC9wgTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/단위테스트계획서 작성_6E7C4886.html" relpath=",_UsLC9ggTEd6PpbmBy1d4Hw" alt="단위테스트계획서 작성" title="단위테스트계획서 작성" coords="29, 118, 159, 171" shape="rect" guid="_UsLC9ggTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/인수테스트계획서 작성_3E6EBAEC.html" relpath=",_UsLC-AgTEd6PpbmBy1d4Hw" alt="인수테스트계획서 작성" title="인수테스트계획서 작성" coords="324, 120, 454, 173" shape="rect" guid="_UsLC-AgTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/통합테스트계획서 작성_37A5AF12.html" relpath=",_UsLC-ggTEd6PpbmBy1d4Hw" alt="통합테스트계획서 작성" title="통합테스트계획서 작성" coords="746, 0, 876, 53" shape="rect" guid="_UsLC-ggTEd6PpbmBy1d4Hw"></area>
+</map>
+</td>
+</tr>
+<tr>
+<td class="sectionTableSingleCell" colspan="2" align="left">
+<p></p>
+<img border="0" diagramType="ActivityDetail" id="diagram_ActivityDetail" src="./../../SDSEng_Process_OOCBD/capabilitypatterns/resources/설계 테스트모델_4AED84DE_ActivityDetail.jpeg" alt="Activity detail diagram: 테스트 설계" title="Activity detail diagram: 테스트 설계" usemap="#ActivityDetail_C124ACC4 D14CC2A4D2B8BAA8B378"><map name="ActivityDetail_C124ACC4 D14CC2A4D2B8BAA8B378">
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/테스트관리자_9C23D920.html" relpath=",_UsLC_ggTEd6PpbmBy1d4Hw" alt="테스트관리자" title="테스트관리자" coords="40, 256, 116, 296" shape="rect" guid="_UsLC_ggTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/테스트계획서 작성_490C9AFC.html" relpath=",_UsLC-QgTEd6PpbmBy1d4Hw" alt="테스트계획서 작성" title="테스트계획서 작성" coords="136, 256, 259, 296" shape="rect" guid="_UsLC-QgTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/테스트관리자_9C23D920.html" relpath=",_UsLC_ggTEd6PpbmBy1d4Hw" alt="테스트관리자" title="테스트관리자" coords="30, 246, 289, 306" shape="rect" guid="_UsLC_ggTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/프로젝트TA_42438F22.html" relpath=",_UsLC-wgTEd6PpbmBy1d4Hw" alt="프로젝트TA" title="프로젝트TA" coords="40, 698, 106, 738" shape="rect" guid="_UsLC-wgTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/시스템테스트계획서 작성_791A2896.html" relpath=",_UsLC9wgTEd6PpbmBy1d4Hw" alt="시스템테스트계획서 작성" title="시스템테스트계획서 작성" coords="126, 693, 262, 744" shape="rect" guid="_UsLC9wgTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/프로젝트TA_42438F22.html" relpath=",_UsLC-wgTEd6PpbmBy1d4Hw" alt="프로젝트TA" title="프로젝트TA" coords="30, 683, 292, 754" shape="rect" guid="_UsLC-wgTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/요구 유스케이스다이어그램_60B5BB3F.html" relpath=",_UsLDAggTEd6PpbmBy1d4Hw" alt="요구 유스케이스다이어그램" title="요구 유스케이스다이어그램" coords="172, 11, 223, 90" shape="rect" guid="_UsLDAggTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/요구 유스케이스정의서_6B539B4F.html" relpath=",_UsLDAwgTEd6PpbmBy1d4Hw" alt="요구 유스케이스정의서" title="요구 유스케이스정의서" coords="172, 95, 223, 160" shape="rect" guid="_UsLDAwgTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/수행계획서_2FE57D6E.html" relpath=",_UsLDBwgTEd6PpbmBy1d4Hw" alt="수행계획서" title="수행계획서" coords="172, 165, 223, 216" shape="rect" guid="_UsLDBwgTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/테스트계획서 작성_490C9AFC.html" relpath=",_UsLC-QgTEd6PpbmBy1d4Hw" alt="테스트계획서 작성" title="테스트계획서 작성" coords="157, 1, 238, 226" shape="rect" guid="_UsLC-QgTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/테스트계획서_2C10A938.html" relpath=",_UsLDBAgTEd6PpbmBy1d4Hw" alt="테스트계획서" title="테스트계획서" coords="172, 336, 223, 387" shape="rect" guid="_UsLDBAgTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/테스트계획서 작성_490C9AFC.html" relpath=",_UsLC-QgTEd6PpbmBy1d4Hw" alt="테스트계획서 작성" title="테스트계획서 작성" coords="157, 326, 238, 397" shape="rect" guid="_UsLC-QgTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/요구 유스케이스다이어그램_60B5BB3F.html" relpath=",_UsLDAggTEd6PpbmBy1d4Hw" alt="요구 유스케이스다이어그램" title="요구 유스케이스다이어그램" coords="169, 448, 220, 527" shape="rect" guid="_UsLDAggTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/요구 유스케이스정의서_6B539B4F.html" relpath=",_UsLDAwgTEd6PpbmBy1d4Hw" alt="요구 유스케이스정의서" title="요구 유스케이스정의서" coords="169, 532, 220, 597" shape="rect" guid="_UsLDAwgTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/테스트계획서_2C10A938.html" relpath=",_UsLDBAgTEd6PpbmBy1d4Hw" alt="테스트계획서" title="테스트계획서" coords="169, 602, 220, 653" shape="rect" guid="_UsLDBAgTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/시스템테스트계획서 작성_791A2896.html" relpath=",_UsLC9wgTEd6PpbmBy1d4Hw" alt="시스템테스트계획서 작성" title="시스템테스트계획서 작성" coords="154, 438, 235, 663" shape="rect" guid="_UsLC9wgTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/시스템테스트계획서_36AE8948.html" relpath=",_UsLDBQgTEd6PpbmBy1d4Hw" alt="시스템테스트계획서" title="시스템테스트계획서" coords="169, 784, 220, 849" shape="rect" guid="_UsLDBQgTEd6PpbmBy1d4Hw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/시스템테스트계획서 작성_791A2896.html" relpath=",_UsLC9wgTEd6PpbmBy1d4Hw" alt="시스템테스트계획서 작성" title="시스템테스트계획서 작성" coords="154, 774, 235, 859" shape="rect" guid="_UsLC9wgTEd6PpbmBy1d4Hw"></area>
+</map>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Work Breakdown</div>
+<div class="sectionContent">
+<div id="treeContent"></div>
+<script language="JavaScript">
+contentPage.processPage.treeTable.data = {
+title: "Work Breakdown", summary: "Work Breakdown", 
+columns: [
+["presentation_name", "Breakdown Element"],
+["steps", "Steps"],
+["id", "Index"],
+["predecessors", "Predecessors"],
+["model_info", "Model Info"],
+["type", "Type"],
+["is_planned", "Planned"],
+["is_repeatable", "Repeatable"],
+["has_multiple_occurrences", "Multiple Occurrences"],
+["is_ongoing", "Ongoing"],
+["is_event_driven", "Event Driven"],
+["is_optional", "Optional"],
+["teams", "Team"]],
+rows: [
+		
+{id: "42775f97", parentId: "", relPath: ",_UsLC-QgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "24", prefix: "", name: "테스트계획서 작성", title: "테스트계획서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/테스트계획서 작성_490C9AFC.html", 
+	predecessors: "", info: "", type: "Task", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true]},
+	
+		
+		
+{id: "8ada77ea", parentId: "42775f97", relPath: ",_UsLC-QgTEd6PpbmBy1d4Hw,_UsLC_ggTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "테스트관리자", title: "테스트관리자", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/테스트관리자_9C23D920.html", 
+	predecessors: "", info: "Primary Performer", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "33bf30a6", parentId: "42775f97", relPath: ",_UsLC-QgTEd6PpbmBy1d4Hw,_UsLC_wgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석자", title: "분석자", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석자_A6C1B930.html", 
+	predecessors: "", info: "Additional Performer", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "e727da9a", parentId: "42775f97", relPath: ",_UsLC-QgTEd6PpbmBy1d4Hw,_UsLDAAgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "소프트웨어아키텍트", title: "소프트웨어아키텍트", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/소프트웨어아키텍트_677EC719.html", 
+	predecessors: "", info: "Additional Performer", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "375957b4", parentId: "42775f97", relPath: ",_UsLC-QgTEd6PpbmBy1d4Hw,_UsLC-wgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "프로젝트TA", title: "프로젝트TA", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/프로젝트TA_42438F22.html", 
+	predecessors: "", info: "Additional Performer", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "e6be5af3", parentId: "42775f97", relPath: ",_UsLC-QgTEd6PpbmBy1d4Hw,_UsLC_AgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "프로젝트관리자", title: "프로젝트관리자", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/프로젝트관리자_A2ECE4FA.html", 
+	predecessors: "", info: "Additional Performer", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "38e22b63", parentId: "42775f97", relPath: ",_UsLC-QgTEd6PpbmBy1d4Hw,_UsLC_QgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "프로젝트리더", title: "프로젝트리더", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/프로젝트리더_AD8AC50A.html", 
+	predecessors: "", info: "Additional Performer", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "3c9fa978", parentId: "42775f97", relPath: ",_UsLC-QgTEd6PpbmBy1d4Hw,_UsLDBwgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "수행계획서", title: "수행계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/수행계획서_2FE57D6E.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "e1c8ba97", parentId: "42775f97", relPath: ",_UsLC-QgTEd6PpbmBy1d4Hw,_UsLDAggTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "요구 유스케이스다이어그램", title: "요구 유스케이스다이어그램", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/요구 유스케이스다이어그램_60B5BB3F.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "31e7a1f8", parentId: "42775f97", relPath: ",_UsLC-QgTEd6PpbmBy1d4Hw,_UsLDAwgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "요구 유스케이스정의서", title: "요구 유스케이스정의서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/요구 유스케이스정의서_6B539B4F.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "3820348c", parentId: "42775f97", relPath: ",_UsLC-QgTEd6PpbmBy1d4Hw,_UsLDBAgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "테스트계획서", title: "테스트계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/테스트계획서_2C10A938.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "3fd93929", parentId: "", relPath: ",_UsLC9wgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "25", prefix: "", name: "시스템테스트계획서 작성", title: "시스템테스트계획서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/시스템테스트계획서 작성_791A2896.html", 
+	predecessors: "24", info: "", type: "Task", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true]},
+	
+		
+		
+{id: "e1036589", parentId: "3fd93929", relPath: ",_UsLC9wgTEd6PpbmBy1d4Hw,_UsLC-wgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "프로젝트TA", title: "프로젝트TA", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/프로젝트TA_42438F22.html", 
+	predecessors: "", info: "Primary Performer", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "418709cf", parentId: "3fd93929", relPath: ",_UsLC9wgTEd6PpbmBy1d4Hw,_UsLC_AgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "프로젝트관리자", title: "프로젝트관리자", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/프로젝트관리자_A2ECE4FA.html", 
+	predecessors: "", info: "Additional Performer", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "de78fc3f", parentId: "3fd93929", relPath: ",_UsLC9wgTEd6PpbmBy1d4Hw,_UsLC_QgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "프로젝트리더", title: "프로젝트리더", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/프로젝트리더_AD8AC50A.html", 
+	predecessors: "", info: "Additional Performer", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "3d063187", parentId: "3fd93929", relPath: ",_UsLC9wgTEd6PpbmBy1d4Hw,_UsLDAggTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "요구 유스케이스다이어그램", title: "요구 유스케이스다이어그램", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/요구 유스케이스다이어그램_60B5BB3F.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "e3367a85", parentId: "3fd93929", relPath: ",_UsLC9wgTEd6PpbmBy1d4Hw,_UsLDAwgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "요구 유스케이스정의서", title: "요구 유스케이스정의서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/요구 유스케이스정의서_6B539B4F.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "349f91d5", parentId: "3fd93929", relPath: ",_UsLC9wgTEd6PpbmBy1d4Hw,_UsLDBAgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "테스트계획서", title: "테스트계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/테스트계획서_2C10A938.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "45d30ae4", parentId: "3fd93929", relPath: ",_UsLC9wgTEd6PpbmBy1d4Hw,_UsLDBQgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "시스템테스트계획서", title: "시스템테스트계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/시스템테스트계획서_36AE8948.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "93bdd160", parentId: "", relPath: ",_UsLC9ggTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "26", prefix: "", name: "단위테스트계획서 작성", title: "단위테스트계획서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/단위테스트계획서 작성_6E7C4886.html", 
+	predecessors: "24", info: "", type: "Task", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "33c8564b", parentId: "93bdd160", relPath: ",_UsLC9ggTEd6PpbmBy1d4Hw,_UsLDAQgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "단위테스트계획서", title: "단위테스트계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/단위테스트계획서_721CA729.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "3977de88", parentId: "", relPath: ",_UsLC-AgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "27", prefix: "", name: "인수테스트계획서 작성", title: "인수테스트계획서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/인수테스트계획서 작성_3E6EBAEC.html", 
+	predecessors: "24", info: "", type: "Task", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "31e01542", parentId: "3977de88", relPath: ",_UsLC-AgTEd6PpbmBy1d4Hw,_UsLDBggTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "인수테스트계획서", title: "인수테스트계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/인수테스트계획서_25479D5E.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "eea90fd4", parentId: "", relPath: ",_UsLC-ggTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "28", prefix: "", name: "통합테스트계획서 작성", title: "통합테스트계획서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/통합테스트계획서 작성_37A5AF12.html", 
+	predecessors: "", info: "", type: "Task", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "edd5b884", parentId: "eea90fd4", relPath: ",_UsLC-ggTEd6PpbmBy1d4Hw,_UsLDCAgTEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "통합테스트계획서", title: "통합테스트계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/통합테스트계획서_F0A28B57.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+]};
+				</script>
+</div>
+<table class="copyright" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="copyright"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+<script language="JavaScript" type="text/javascript">
+				contentPage.onload();
+			</script>
+</html>

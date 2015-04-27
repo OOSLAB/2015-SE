@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_CgKn4cs-Ed2r2Jyk2t76Nw"
+      guid="_CgKn4cs-Ed2r2Jyk2t76Nw">
+    <resourceDescriptors xmi:id="_CgKn4ss-Ed2r2Jyk2t76Nw" id="-P0UZp3fdEbNmfscM6MqPeA"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_CaDY2ss-Ed2r2Jyk2t76Nw" name="0600 이행"
+      guid="_CaDY2ss-Ed2r2Jyk2t76Nw">
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_pS6-wM0eEd2A0Kjz7fgG4Q"
+        name="이행계획수립" guid="_pS6-wM0eEd2A0Kjz7fgG4Q">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_fW2noM5lEd2YkrTpti830g"
+          name="이행계획모델 작성" guid="_fW2noM5lEd2YkrTpti830g">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_fW2noc5lEd2YkrTpti830g"
+            name="이행계획모델 작성" guid="_fW2noc5lEd2YkrTpti830g" presentationName="이행계획모델 작성"
+            superActivities="_pS6-wc0eEd2A0Kjz7fgG4Q"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_NvLzEM51Ed2YkrTpti830g"
+            guid="_NvLzEM51Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ruY68eG_Ed27s-Zwgwa2Xw"
+            guid="_ruY68eG_Ed27s-Zwgwa2Xw"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_pS6-wc0eEd2A0Kjz7fgG4Q"
+          name="이행계획수립" guid="_pS6-wc0eEd2A0Kjz7fgG4Q" presentationName="이행계획수립" superActivities="_CaDY28s-Ed2r2Jyk2t76Nw"
+          breakdownElements="_fW2noc5lEd2YkrTpti830g"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_qc1NIM0eEd2A0Kjz7fgG4Q"
+        name="컨버전및릴리이즈" guid="_qc1NIM0eEd2A0Kjz7fgG4Q">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_qHI6YM5lEd2YkrTpti830g"
+          name="컨버전및릴리이즈모델 작성" guid="_qHI6YM5lEd2YkrTpti830g">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_qHI6Yc5lEd2YkrTpti830g"
+            name="컨버전및릴리이즈모델 작성" guid="_qHI6Yc5lEd2YkrTpti830g" presentationName="컨버전및릴리이즈모델 작성"
+            superActivities="_qc1NIc0eEd2A0Kjz7fgG4Q"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Qn9XAc51Ed2YkrTpti830g"
+            guid="_Qn9XAc51Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_SRwmYM51Ed2YkrTpti830g"
+            guid="_SRwmYM51Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Sv23oc51Ed2YkrTpti830g"
+            guid="_Sv23oc51Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_TPTMsM51Ed2YkrTpti830g"
+            guid="_TPTMsM51Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_UBEn4c51Ed2YkrTpti830g"
+            guid="_UBEn4c51Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_wBBNweG_Ed27s-Zwgwa2Xw"
+            guid="_wBBNweG_Ed27s-Zwgwa2Xw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_wmRP4eG_Ed27s-Zwgwa2Xw"
+            guid="_wmRP4eG_Ed27s-Zwgwa2Xw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_xGKQ4eG_Ed27s-Zwgwa2Xw"
+            guid="_xGKQ4eG_Ed27s-Zwgwa2Xw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_yQXaMeG_Ed27s-Zwgwa2Xw"
+            guid="_yQXaMeG_Ed27s-Zwgwa2Xw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ysO20eG_Ed27s-Zwgwa2Xw"
+            guid="_ysO20eG_Ed27s-Zwgwa2Xw"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_qc1NIc0eEd2A0Kjz7fgG4Q"
+          name="컨버전및릴리이즈" guid="_qc1NIc0eEd2A0Kjz7fgG4Q" presentationName="컨버전및릴리이즈"
+          superActivities="_CaDY28s-Ed2r2Jyk2t76Nw" linkToPredecessor="_JvCXYc51Ed2YkrTpti830g"
+          breakdownElements="_qHI6Yc5lEd2YkrTpti830g"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_JvCXYc51Ed2YkrTpti830g"
+          guid="_JvCXYc51Ed2YkrTpti830g" pred="_pS6-wc0eEd2A0Kjz7fgG4Q"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_rtlqYM0eEd2A0Kjz7fgG4Q"
+        name="시스템사용교육" guid="_rtlqYM0eEd2A0Kjz7fgG4Q">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_0XiMIM5lEd2YkrTpti830g"
+          name="시스템사용교육모델 작성" guid="_0XiMIM5lEd2YkrTpti830g">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_0XiMIc5lEd2YkrTpti830g"
+            name="시스템사용교육모델 작성" guid="_0XiMIc5lEd2YkrTpti830g" presentationName="시스템사용교육모델 작성"
+            superActivities="_rtlqYc0eEd2A0Kjz7fgG4Q"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_XGEC4c51Ed2YkrTpti830g"
+            guid="_XGEC4c51Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_X_IY4c51Ed2YkrTpti830g"
+            guid="_X_IY4c51Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_aXRU8c51Ed2YkrTpti830g"
+            guid="_aXRU8c51Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_00uNUeG_Ed27s-Zwgwa2Xw"
+            guid="_00uNUeG_Ed27s-Zwgwa2Xw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_2i_tAeG_Ed27s-Zwgwa2Xw"
+            guid="_2i_tAeG_Ed27s-Zwgwa2Xw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_2-adseG_Ed27s-Zwgwa2Xw"
+            guid="_2-adseG_Ed27s-Zwgwa2Xw"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_rtlqYc0eEd2A0Kjz7fgG4Q"
+          name="시스템사용교육" guid="_rtlqYc0eEd2A0Kjz7fgG4Q" presentationName="시스템사용교육"
+          superActivities="_CaDY28s-Ed2r2Jyk2t76Nw" linkToPredecessor="_KMZBwM51Ed2YkrTpti830g"
+          breakdownElements="_0XiMIc5lEd2YkrTpti830g"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_KMZBwM51Ed2YkrTpti830g"
+          guid="_KMZBwM51Ed2YkrTpti830g" pred="_qc1NIc0eEd2A0Kjz7fgG4Q"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_svmhAM0eEd2A0Kjz7fgG4Q"
+        name="시범운영" guid="_svmhAM0eEd2A0Kjz7fgG4Q">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_7ipH8M5lEd2YkrTpti830g"
+          name="시범운영모델 작성" guid="_7ipH8M5lEd2YkrTpti830g">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_7ipH8c5lEd2YkrTpti830g"
+            name="시범운영모델 작성" guid="_7ipH8c5lEd2YkrTpti830g" presentationName="시범운영모델 작성"
+            superActivities="_svmhAc0eEd2A0Kjz7fgG4Q"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_c3At0M51Ed2YkrTpti830g"
+            guid="_c3At0M51Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_42Xd0eG_Ed27s-Zwgwa2Xw"
+            guid="_42Xd0eG_Ed27s-Zwgwa2Xw"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_svmhAc0eEd2A0Kjz7fgG4Q"
+          name="시범운영" guid="_svmhAc0eEd2A0Kjz7fgG4Q" presentationName="시범운영" superActivities="_CaDY28s-Ed2r2Jyk2t76Nw"
+          linkToPredecessor="_K1N8UM51Ed2YkrTpti830g" breakdownElements="_7ipH8c5lEd2YkrTpti830g"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_K1N8UM51Ed2YkrTpti830g"
+          guid="_K1N8UM51Ed2YkrTpti830g" pred="_rtlqYc0eEd2A0Kjz7fgG4Q"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_CaDY28s-Ed2r2Jyk2t76Nw"
+        name="0600 이행" guid="_CaDY28s-Ed2r2Jyk2t76Nw" presentationName="0600 이행" breakdownElements="_pS6-wc0eEd2A0Kjz7fgG4Q _qc1NIc0eEd2A0Kjz7fgG4Q _rtlqYc0eEd2A0Kjz7fgG4Q _svmhAc0eEd2A0Kjz7fgG4Q">
+      <presentation xmi:id="-P0UZp3fdEbNmfscM6MqPeA" href="uma://-P0UZp3fdEbNmfscM6MqPeA#-P0UZp3fdEbNmfscM6MqPeA"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

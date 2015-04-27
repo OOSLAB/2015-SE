@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-RhaI2qO1hBqAg8Qg0ejUyw"
+    name="분석 데이터모델,_SmTA4ea8Ed2j6auu_FbYxw" guid="-RhaI2qO1hBqAg8Qg0ejUyw">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/concepts/%B370%C774%D130%BD84%C11D%D65C%B3D9%20%AC1C%C694_8218F504.html&quot;&#xD;
+         guid=&quot;_JhMGMAS7Ed6u1pdhw4SOFA&quot;>데이터분석활동 개요&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/guidelines/%B370%C774%D130%BAA8%B378%B9C1%20%AE30%BC95_922E13CA.html&quot;&#xD;
+        guid=&quot;_oIRe4AI3Ed6uF_KUY_3qEg&quot;>데이터모델링 기법&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/concepts/%CEE8%BC84%C804%BD84%C11D%D65C%B3D9%20%AC1C%C694_4DF91E1A.html&quot;&#xD;
+         guid=&quot;_h03sgAS7Ed6u1pdhw4SOFA&quot;>컨버전분석활동 개요&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/guidelines/%B370%C774%D130%CEE8%BC84%C804%20%AE30%BC95_AFEE040D.html&quot;&#xD;
+        guid=&quot;_6jLaUASwEd6u1pdhw4SOFA&quot;>데이터컨버전 기법&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ProcessDescription>

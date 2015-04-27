@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-qVtXoIWls-qlGbw17ThI3Q"
+    name="new_artifact,_lsgf8JO-Ed2QOZMWcM0ZMQ" guid="-qVtXoIWls-qlGbw17ThI3Q" changeDate="2008-10-07T00:52:16.265+0900">
+  <mainDescription>(As-is)길이, (As-is)시스템명, (As-is)유효값명, (As-is)컨버전로직, (As-is)코드명, (To-be)길이, (To-be)시스템명, (To-be)유효값, (To-be)유효값명, (To-be)코드명,&#xD;
+유효값</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-E8vZoA6_fr48hRmNZ93Feg"
+    name="new_artifact,_FiQfoJO2Ed2QOZMWcM0ZMQ" guid="-E8vZoA6_fr48hRmNZ93Feg" changeDate="2008-10-06T23:51:21.421+0900">
+  <mainDescription>난이도[필수], 요구사항ID[필수], 유스케이스명[필수], 유스케이스ID[필수], 중요도[필수]</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

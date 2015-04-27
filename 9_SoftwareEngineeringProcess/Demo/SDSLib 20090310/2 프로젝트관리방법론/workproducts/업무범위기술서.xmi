@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-jKDHEvYiMtMTM5zOTcEy-g"
+    name="업무범위기술서,_quXjR8sUEd2VS4iuY7h1kQ" guid="-jKDHEvYiMtMTM5zOTcEy-g" changeDate="2009-02-24T17:30:17.234+0900">
+  <impactOfNotHaving>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-bidi-language: AR-SA; mso-ansi-language: EN-US; mso-fareast-language: KO&quot;>미작성시&#xD;
+    영향&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-bidi-language: AR-SA; mso-ansi-language: EN-US; mso-fareast-language: KO&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-bidi-language: AR-SA; mso-ansi-language: EN-US; mso-fareast-language: KO&quot;>프로젝트&#xD;
+        목표가 불명확하여 의사결정에 어려움이 있을 수 있다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-bidi-language: AR-SA; mso-ansi-language: EN-US; mso-fareast-language: KO&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-bidi-language: AR-SA; mso-ansi-language: EN-US; mso-fareast-language: KO&quot;>&lt;span&#xD;
+         lang=&quot;EN-US&quot;>&lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-bidi-language: AR-SA; mso-ansi-language: EN-US; mso-fareast-language: KO&quot;>업무&#xD;
+        범위에 대한 정리 및 고객 확인을 착수단계에 하지 않는다면&lt;span lang=&quot;EN-US&quot;>,&lt;/span> 고객의 불명확한 업무범위에서 비롯된 업무범위의 증가가 발생할 수 있다&lt;span&#xD;
+        lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

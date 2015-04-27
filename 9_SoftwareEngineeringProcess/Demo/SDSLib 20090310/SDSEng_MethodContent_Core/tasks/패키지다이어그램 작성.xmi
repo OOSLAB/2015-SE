@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-obIBcjP61U8WfPtnd8Jh8w"
+    name=",_V3fWQJxJEd2b9o00yINnSg" guid="-obIBcjP61U8WfPtnd8Jh8w">
+  <sections xmi:id="_etu-MJxJEd2b9o00yINnSg" name="의존도 연결" guid="_etu-MJxJEd2b9o00yINnSg"/>
+  <sections xmi:id="_gNikEJxJEd2b9o00yINnSg" name="패키지명 기재" guid="_gNikEJxJEd2b9o00yINnSg"/>
+</org.eclipse.epf.uma:TaskDescription>

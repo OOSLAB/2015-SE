@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-nyQYkyG8oo1wkf9izHGVoQ"
+    name="요구사항정의서,_FWgXrJVIEd2ptuaOn8CiHA" guid="-nyQYkyG8oo1wkf9izHGVoQ" changeDate="2008-10-09T01:11:32.140+0900">
+  <mainDescription>관련 처리 데이터[선택], 분류[필수], 비고[선택], 서브시스템[필수], 연계 대상[필수], 연계 데이터[선택], 연계 유형[필수], 요구사항명[필수], 처리내용[필수], 수용여부[필수], 난이도[필수],&#xD;
+요구사항ID[필수], 유스케이스명[필수], 유스케이스ID[필수], 중요도[필수]</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

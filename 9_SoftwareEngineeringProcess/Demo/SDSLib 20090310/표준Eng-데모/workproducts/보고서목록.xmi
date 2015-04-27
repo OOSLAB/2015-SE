@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-0554HJSrKUyk4Bw3uyiQjA"
+    name="new_artifact,_vYIV4JOsEd2QOZMWcM0ZMQ" guid="-0554HJSrKUyk4Bw3uyiQjA" changeDate="2008-10-06T22:43:53.343+0900">
+  <mainDescription>건수/주기, 기밀구분, 보고서명, 보고서ID, 업무명, 주사용자, 화면ID</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

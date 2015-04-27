@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_5wpdcfZHEd2OhLPIr_EKbA"
+      guid="_5wpdcfZHEd2OhLPIr_EKbA">
+    <resourceDescriptors xmi:id="_5wpdcvZHEd2OhLPIr_EKbA" id="-d5h5ETkP3idHMSDvsTtd1Q"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_5vwFkPZHEd2OhLPIr_EKbA" name="변경요청관리"
+      guid="_5vwFkPZHEd2OhLPIr_EKbA">
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_5vwFkfZHEd2OhLPIr_EKbA"
+        name="변경요청관리" guid="_5vwFkfZHEd2OhLPIr_EKbA" presentationName="변경요청관리">
+      <presentation xmi:id="-d5h5ETkP3idHMSDvsTtd1Q" href="uma://-d5h5ETkP3idHMSDvsTtd1Q#-d5h5ETkP3idHMSDvsTtd1Q"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

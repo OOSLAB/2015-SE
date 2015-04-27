@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-R39kR7WO7bkcWTWB1nXARw"
+    name="시스템테스트계획서 포맷,_RSU2kP8xEd2WHoY-_v_k_A" guid="-R39kR7WO7bkcWTWB1nXARw">
+  <attachments>resources/시스템테스트계획서T.doc</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

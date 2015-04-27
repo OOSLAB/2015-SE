@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_7owOkfZHEd2OhLPIr_EKbA"
+      guid="_7owOkfZHEd2OhLPIr_EKbA">
+    <resourceDescriptors xmi:id="_7owOkvZHEd2OhLPIr_EKbA" id="-yEDRX7bTGqY-scbdrJRqwQ"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_7n22sPZHEd2OhLPIr_EKbA" name="요구사항변경관리"
+      guid="_7n22sPZHEd2OhLPIr_EKbA">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_5jqNgPZLEd2OhLPIr_EKbA"
+        name="시스템화 범위 점검" guid="_5jqNgPZLEd2OhLPIr_EKbA" presentationName="시스템화 범위 점검"
+        superActivities="_7n22sfZHEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_CRPeUPGOEd2JDeNeZI1pKA"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_7n22sfZHEd2OhLPIr_EKbA"
+        name="요구사항변경관리" guid="_7n22sfZHEd2OhLPIr_EKbA" presentationName="요구사항변경관리"
+        breakdownElements="_5jqNgPZLEd2OhLPIr_EKbA">
+      <presentation xmi:id="-yEDRX7bTGqY-scbdrJRqwQ" href="uma://-yEDRX7bTGqY-scbdrJRqwQ#-yEDRX7bTGqY-scbdrJRqwQ"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_nBMwUPmrEd2JRcy3PiAHxw"
+      guid="_nBMwUPmrEd2JRcy3PiAHxw">
+    <resourceDescriptors xmi:id="_nBMwUfmrEd2JRcy3PiAHxw" id="-s7-dOtyFAMnN-uNoDgAy3g"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_m2n4GPmrEd2JRcy3PiAHxw" name="시스템인터페이스 분석"
+      guid="_m2n4GPmrEd2JRcy3PiAHxw">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_LF6v2AgSEd6PpbmBy1d4Hw"
+        name="분석 시스템인터페이스정의서 작성" guid="_LF6v2AgSEd6PpbmBy1d4Hw" presentationName="분석 시스템인터페이스정의서 작성"
+        superActivities="_m2xpAPmrEd2JRcy3PiAHxw" linkToPredecessor="_j4-J8AjnEd6CD-m1e93cOw"
+        additionallyPerformedBy="_LF6v2wgSEd6PpbmBy1d4Hw _LF6v3AgSEd6PpbmBy1d4Hw"
+        mandatoryInput="_LF6v3QgSEd6PpbmBy1d4Hw" output="_LF6v3ggSEd6PpbmBy1d4Hw"
+        performedPrimarilyBy="_LF6v2ggSEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_QWMrwMFHEd2YGfr55Veumg"/>
+      <selectedSteps href="uma://-yy1blUjQt0qqC9Iid4FLQg#_Wj6LMMFHEd2YGfr55Veumg"/>
+      <selectedSteps href="uma://-yy1blUjQt0qqC9Iid4FLQg#_zNKzQAKFEd6wCYDc1YvMIQ"/>
+      <selectedSteps href="uma://-yy1blUjQt0qqC9Iid4FLQg#_02-CoAKFEd6wCYDc1YvMIQ"/>
+      <selectedSteps href="uma://-yy1blUjQt0qqC9Iid4FLQg#_3Uem4AKFEd6wCYDc1YvMIQ"/>
+      <selectedSteps href="uma://-yy1blUjQt0qqC9Iid4FLQg#_42E8gAKFEd6wCYDc1YvMIQ"/>
+      <selectedSteps href="uma://-yy1blUjQt0qqC9Iid4FLQg#_6oOPkAKFEd6wCYDc1YvMIQ"/>
+      <selectedSteps href="uma://-yy1blUjQt0qqC9Iid4FLQg#_9SigwAKFEd6wCYDc1YvMIQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_LF6v2QgSEd6PpbmBy1d4Hw"
+        name="시스템인터페이스목록 작성" guid="_LF6v2QgSEd6PpbmBy1d4Hw" presentationName="시스템인터페이스목록 작성"
+        superActivities="_m2xpAPmrEd2JRcy3PiAHxw" additionallyPerformedBy="_LF6v2wgSEd6PpbmBy1d4Hw _LF6v3AgSEd6PpbmBy1d4Hw"
+        output="_LF6v3QgSEd6PpbmBy1d4Hw" performedPrimarilyBy="_LF6v2ggSEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_dHY3EMxPEd28vbZjNLqrNw"/>
+      <selectedSteps href="uma://-PowKzRGgCgoLPSJ-Xm4izA#_HUjUEAKNEd6wCYDc1YvMIQ"/>
+      <selectedSteps href="uma://-PowKzRGgCgoLPSJ-Xm4izA#_IfD_YAKNEd6wCYDc1YvMIQ"/>
+      <selectedSteps href="uma://-PowKzRGgCgoLPSJ-Xm4izA#_JvYXwAKNEd6wCYDc1YvMIQ"/>
+      <selectedSteps href="uma://-PowKzRGgCgoLPSJ-Xm4izA#_LFgdMAKNEd6wCYDc1YvMIQ"/>
+      <selectedSteps href="uma://-PowKzRGgCgoLPSJ-Xm4izA#_MXKSUAKNEd6wCYDc1YvMIQ"/>
+      <selectedSteps href="uma://-PowKzRGgCgoLPSJ-Xm4izA#_NmJN8AKNEd6wCYDc1YvMIQ"/>
+      <selectedSteps href="uma://-PowKzRGgCgoLPSJ-Xm4izA#_PTqfsAKNEd6wCYDc1YvMIQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_LF6v2ggSEd6PpbmBy1d4Hw"
+        name="분석자" guid="_LF6v2ggSEd6PpbmBy1d4Hw" presentationName="분석자" isPlanned="false"
+        superActivities="_m2xpAPmrEd2JRcy3PiAHxw" modifies="_LF6v3ggSEd6PpbmBy1d4Hw _LF6v3QgSEd6PpbmBy1d4Hw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to1eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_LF6v2wgSEd6PpbmBy1d4Hw"
+        name="비즈니스아키텍트" guid="_LF6v2wgSEd6PpbmBy1d4Hw" presentationName="비즈니스아키텍트"
+        isPlanned="false" superActivities="_m2xpAPmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to1uFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_LF6v3AgSEd6PpbmBy1d4Hw"
+        name="소프트웨어아키텍트" guid="_LF6v3AgSEd6PpbmBy1d4Hw" presentationName="소프트웨어아키텍트"
+        isPlanned="false" superActivities="_m2xpAPmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to2eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_LF6v3QgSEd6PpbmBy1d4Hw"
+        name="시스템인터페이스목록" guid="_LF6v3QgSEd6PpbmBy1d4Hw" presentationName="시스템인터페이스목록"
+        isPlanned="false" superActivities="_m2xpAPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_tLyo8MFFEd2vscn1nWHU-g"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_LF6v3ggSEd6PpbmBy1d4Hw"
+        name="분석 시스템인터페이스정의서" guid="_LF6v3ggSEd6PpbmBy1d4Hw" presentationName="분석 시스템인터페이스정의서"
+        isPlanned="false" superActivities="_m2xpAPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_MqnK0MFHEd2YGfr55Veumg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_j4-J8AjnEd6CD-m1e93cOw"
+        guid="_j4-J8AjnEd6CD-m1e93cOw" pred="_LF6v2QgSEd6PpbmBy1d4Hw"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_m2xpAPmrEd2JRcy3PiAHxw"
+        name="시스템인터페이스 분석" guid="_m2xpAPmrEd2JRcy3PiAHxw" presentationName="시스템인터페이스 분석"
+        breakdownElements="_LF6v2QgSEd6PpbmBy1d4Hw _LF6v2AgSEd6PpbmBy1d4Hw _LF6v2ggSEd6PpbmBy1d4Hw _LF6v2wgSEd6PpbmBy1d4Hw _LF6v3AgSEd6PpbmBy1d4Hw _LF6v3QgSEd6PpbmBy1d4Hw _LF6v3ggSEd6PpbmBy1d4Hw">
+      <presentation xmi:id="-s7-dOtyFAMnN-uNoDgAy3g" href="uma://-s7-dOtyFAMnN-uNoDgAy3g#-s7-dOtyFAMnN-uNoDgAy3g"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

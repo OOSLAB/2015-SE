@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-4m3SbRku267VHIzRSKtDpw" name="요구정의,_Lj6f8aFzEd21FYegWXKvwQ"
+      guid="-4m3SbRku267VHIzRSKtDpw" version="7.2.0"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-5H9AaGo9BE0RtbKqhXg6rw" name="0200 분석,_y3EyAdQjEd2omLHmP-Ku2g"
+      guid="-5H9AaGo9BE0RtbKqhXg6rw"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-CTxzvpmywhlKvXAsJgxpJg" name="아키텍쳐,_SxaBYaFzEd21FYegWXKvwQ"
+      guid="-CTxzvpmywhlKvXAsJgxpJg" version="7.2.0"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-XCBROCsFIXJJQX2P0GqrMQ" name="설계,_iTKfEaFzEd21FYegWXKvwQ"
+      guid="-XCBROCsFIXJJQX2P0GqrMQ" version="7.2.0"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-K_-gn9FlAVCqv7RWsk9CYg" name="개발,_p3mg4aFzEd21FYegWXKvwQ"
+      guid="-K_-gn9FlAVCqv7RWsk9CYg" version="7.2.0"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-hOtqI5UixMSkwe7aLoM6pQ" name="이행단계,_yKiAYaFzEd21FYegWXKvwQ"
+      guid="-hOtqI5UixMSkwe7aLoM6pQ" version="7.2.0"/>
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-dWwRvKIQ-io2J1gw-_UJxA"
+      name="삼성화재,_C6UW0ctKEd21eIxXiLowRg" guid="-dWwRvKIQ-io2J1gw-_UJxA"/>
+</xmi:XMI>

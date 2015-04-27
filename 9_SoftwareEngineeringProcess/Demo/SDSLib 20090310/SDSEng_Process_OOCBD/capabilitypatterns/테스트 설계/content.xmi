@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-eW4SGKViEEA7tsZXancOfg"
+    name="설계테스트모델,_XV_TkQfAEd6Obes9cAqsag" guid="-eW4SGKViEEA7tsZXancOfg">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/concepts/%D14C%C2A4%D2B8%C124%ACC4%D65C%B3D9%20%AC1C%C694_9BB3165.html&quot;&#xD;
+         guid=&quot;_YUq2sAS9Ed6u1pdhw4SOFA&quot;>테스트설계활동 개요&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/guidelines/%D14C%C2A4%D2B8%C124%ACC4%20%AE30%BC95_7398B85E.html&quot;&#xD;
+        guid=&quot;_t75e0ASyEd6u1pdhw4SOFA&quot;>테스트설계 기법&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ProcessDescription>

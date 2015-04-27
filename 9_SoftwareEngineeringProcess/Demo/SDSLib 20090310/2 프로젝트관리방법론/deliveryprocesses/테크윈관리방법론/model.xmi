@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_tTigoA9uEd61s4WhKxejYQ"
+      guid="_tTigoA9uEd61s4WhKxejYQ">
+    <resourceDescriptors xmi:id="_tTigoQ9uEd61s4WhKxejYQ" id="-ViuuUgH0HHXPKtSx5UG11Q"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_tECsEA9uEd61s4WhKxejYQ" name="테크윈관리방법론"
+      guid="_tECsEA9uEd61s4WhKxejYQ">
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_777tYA9uEd61s4WhKxejYQ"
+        name="프로젝트 착수" guid="_777tYA9uEd61s4WhKxejYQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_-rK60A9uEd61s4WhKxejYQ"
+          name="착수계획" guid="_-rK60A9uEd61s4WhKxejYQ">
+        <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_-rK60Q9uEd61s4WhKxejYQ"
+            name="착수계획" guid="_-rK60Q9uEd61s4WhKxejYQ" superActivities="_78E3UA9uEd61s4WhKxejYQ"
+            variabilityType="extends">
+          <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+              href="uma://_zxiocPZMEd2OhLPIr_EKbA#_zxiocfZMEd2OhLPIr_EKbA"/>
+        </processElements>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="__Xa80A9uEd61s4WhKxejYQ"
+          name="착수준비" guid="__Xa80A9uEd61s4WhKxejYQ">
+        <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="__Xa80Q9uEd61s4WhKxejYQ"
+            name="착수준비" guid="__Xa80Q9uEd61s4WhKxejYQ" superActivities="_78E3UA9uEd61s4WhKxejYQ"
+            linkToPredecessor="_p8bwAA9wEd61s4WhKxejYQ" variabilityType="extends">
+          <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+              href="uma://_yOmPAPZMEd2OhLPIr_EKbA#_yOmPAfZMEd2OhLPIr_EKbA"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_p8bwAA9wEd61s4WhKxejYQ"
+            guid="_p8bwAA9wEd61s4WhKxejYQ" pred="_-rK60Q9uEd61s4WhKxejYQ"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_78E3UA9uEd61s4WhKxejYQ"
+          name="프로젝트 착수" guid="_78E3UA9uEd61s4WhKxejYQ" presentationName="프로젝트 착수"
+          superActivities="_tECsEQ9uEd61s4WhKxejYQ" breakdownElements="_-rK60Q9uEd61s4WhKxejYQ __Xa80Q9uEd61s4WhKxejYQ"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_ARibsA9vEd61s4WhKxejYQ"
+        name="프로젝트수행통제" guid="_ARibsA9vEd61s4WhKxejYQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_DVfU4A9vEd61s4WhKxejYQ"
+          name="단계계획" guid="_DVfU4A9vEd61s4WhKxejYQ">
+        <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_DVfU4Q9vEd61s4WhKxejYQ"
+            name="단계계획" guid="_DVfU4Q9vEd61s4WhKxejYQ" superActivities="_ARsMsA9vEd61s4WhKxejYQ"
+            variabilityType="extends">
+          <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+              href="uma://_Y31CwPZGEd2OhLPIr_EKbA#_Y31CwfZGEd2OhLPIr_EKbA"/>
+        </processElements>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_DVfU4g9vEd61s4WhKxejYQ"
+          name="단계완료" guid="_DVfU4g9vEd61s4WhKxejYQ">
+        <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_DVfU4w9vEd61s4WhKxejYQ"
+            name="단계완료" guid="_DVfU4w9vEd61s4WhKxejYQ" superActivities="_ARsMsA9vEd61s4WhKxejYQ"
+            variabilityType="extends">
+          <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+              href="uma://_5hakEPZGEd2OhLPIr_EKbA#_5hakEfZGEd2OhLPIr_EKbA"/>
+        </processElements>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_DVfU5A9vEd61s4WhKxejYQ"
+          name="단계준비" guid="_DVfU5A9vEd61s4WhKxejYQ">
+        <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_DVfU5Q9vEd61s4WhKxejYQ"
+            name="단계준비" guid="_DVfU5Q9vEd61s4WhKxejYQ" superActivities="_ARsMsA9vEd61s4WhKxejYQ"
+            variabilityType="extends">
+          <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+              href="uma://_fY8J4PZHEd2OhLPIr_EKbA#_fY8J4fZHEd2OhLPIr_EKbA"/>
+        </processElements>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_DVfU5g9vEd61s4WhKxejYQ"
+          name="단계지속수행" guid="_DVfU5g9vEd61s4WhKxejYQ">
+        <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_DVfU5w9vEd61s4WhKxejYQ"
+            name="단계지속수행" guid="_DVfU5w9vEd61s4WhKxejYQ" superActivities="_ARsMsA9vEd61s4WhKxejYQ"
+            variabilityType="extends">
+          <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+              href="uma://_smSU8PZHEd2OhLPIr_EKbA#_smSU8fZHEd2OhLPIr_EKbA"/>
+        </processElements>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_ARsMsA9vEd61s4WhKxejYQ"
+          name="프로젝트수행통제" guid="_ARsMsA9vEd61s4WhKxejYQ" presentationName="프로젝트수행통제"
+          superActivities="_tECsEQ9uEd61s4WhKxejYQ" breakdownElements="_DVfU4Q9vEd61s4WhKxejYQ _DVfU4w9vEd61s4WhKxejYQ _DVfU5Q9vEd61s4WhKxejYQ _DVfU5w9vEd61s4WhKxejYQ"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_EIv90A9vEd61s4WhKxejYQ"
+        name="프로젝트종료" guid="_EIv90A9vEd61s4WhKxejYQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_GQftcA9vEd61s4WhKxejYQ"
+          name="검수준비" guid="_GQftcA9vEd61s4WhKxejYQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_G3FzYA9vEd61s4WhKxejYQ"
+            name="완료보고" guid="_G3FzYA9vEd61s4WhKxejYQ">
+          <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_G3FzYQ9vEd61s4WhKxejYQ"
+              name="완료보고" guid="_G3FzYQ9vEd61s4WhKxejYQ" superActivities="_GQftcQ9vEd61s4WhKxejYQ"
+              variabilityType="extends">
+            <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+                href="uma://_Dh2YIPZQEd2OhLPIr_EKbA#_Dh2YIfZQEd2OhLPIr_EKbA"/>
+          </processElements>
+        </childPackages>
+        <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_GQftcQ9vEd61s4WhKxejYQ"
+            name="검수준비" guid="_GQftcQ9vEd61s4WhKxejYQ" superActivities="_EI5u0A9vEd61s4WhKxejYQ"
+            variabilityType="extends" breakdownElements="_G3FzYQ9vEd61s4WhKxejYQ">
+          <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+              href="uma://_BSNQwPZQEd2OhLPIr_EKbA#_BSNQwfZQEd2OhLPIr_EKbA"/>
+        </processElements>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_EI5u0A9vEd61s4WhKxejYQ"
+          name="프로젝트종료" guid="_EI5u0A9vEd61s4WhKxejYQ" presentationName="프로젝트종료" superActivities="_tECsEQ9uEd61s4WhKxejYQ"
+          breakdownElements="_GQftcQ9vEd61s4WhKxejYQ"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_tECsEQ9uEd61s4WhKxejYQ"
+        name="테크윈관리방법론" guid="_tECsEQ9uEd61s4WhKxejYQ" presentationName="테크윈관리방법론"
+        breakdownElements="_78E3UA9uEd61s4WhKxejYQ _ARsMsA9vEd61s4WhKxejYQ _EI5u0A9vEd61s4WhKxejYQ">
+      <presentation xmi:id="-ViuuUgH0HHXPKtSx5UG11Q" href="uma://-ViuuUgH0HHXPKtSx5UG11Q#-ViuuUgH0HHXPKtSx5UG11Q"/>
+      <includesPatterns href="uma://_zxiocPZMEd2OhLPIr_EKbA#_zxiocfZMEd2OhLPIr_EKbA"/>
+      <includesPatterns href="uma://_yOmPAPZMEd2OhLPIr_EKbA#_yOmPAfZMEd2OhLPIr_EKbA"/>
+      <includesPatterns href="uma://_Y31CwPZGEd2OhLPIr_EKbA#_Y31CwfZGEd2OhLPIr_EKbA"/>
+      <includesPatterns href="uma://_5hakEPZGEd2OhLPIr_EKbA#_5hakEfZGEd2OhLPIr_EKbA"/>
+      <includesPatterns href="uma://_fY8J4PZHEd2OhLPIr_EKbA#_fY8J4fZHEd2OhLPIr_EKbA"/>
+      <includesPatterns href="uma://_smSU8PZHEd2OhLPIr_EKbA#_smSU8fZHEd2OhLPIr_EKbA"/>
+      <includesPatterns href="uma://_BSNQwPZQEd2OhLPIr_EKbA#_BSNQwfZQEd2OhLPIr_EKbA"/>
+      <includesPatterns href="uma://_Dh2YIPZQEd2OhLPIr_EKbA#_Dh2YIfZQEd2OhLPIr_EKbA"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

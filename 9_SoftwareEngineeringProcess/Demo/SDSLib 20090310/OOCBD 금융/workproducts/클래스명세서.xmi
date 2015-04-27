@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-GTnsq_pdYNtW1F3peNXRzg"
+    name="new_artifact,_hTsw0JO3Ed2QOZMWcM0ZMQ" guid="-GTnsq_pdYNtW1F3peNXRzg" changeDate="2008-10-07T00:01:50.453+0900">
+  <mainDescription>&lt;p>&#xD;
+    리턴, 부모 클래스, 속성명, 속성설명, 시그네쳐, 예외처리, 오퍼레이션, 오퍼레이션설명, 클래스 개요, 클래스 타입, 클래스명, 파라메터&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

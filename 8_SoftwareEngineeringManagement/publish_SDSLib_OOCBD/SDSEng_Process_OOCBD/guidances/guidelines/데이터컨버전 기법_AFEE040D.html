@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko" xml:lang="ko" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Guideline: 데이터컨버전 기법</title>
+<meta name="uma.type" content="Guideline">
+<meta name="uma.name" content="데이터컨버전 기법">
+<meta name="uma.presentationName" content="데이터컨버전 기법">
+<meta name="element_type" content="other">
+<meta name="filetype" content="description">
+<meta name="role" content="">
+<link rel="StyleSheet" href="./../../../css/default.css" type="text/css">
+<script src="./../../../scripts/ContentPageResource.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageSubSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageToolbar.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/contentPage.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+					var backPath = './../../../';
+					var imgPath = './../../../images/';
+					var nodeInfo=null;
+					contentPage.preload(imgPath, backPath, nodeInfo,  '', false, false, false);
+				</script>
+</head>
+<body>
+<div id="breadcrumbs"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top"><a name="Top"></a>
+<div id="page-guid" value="_6jLaUASwEd6u1pdhw4SOFA"></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="pageTitle" nowrap="true">Guideline: 데이터컨버전 기법</td><td width="100%">
+<div align="right" id="contentPageToolbar"></div>
+</td><td width="100%" class="expandCollapseLink" align="right"><a name="mainIndex" href="./../../../index.htm"></a><script language="JavaScript" type="text/javascript" src="./../../../scripts/treebrowser.js"></script></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pageTitleSeparator"><img src="./../../../images/shim.gif" alt="" title="" height="1"></td>
+</tr>
+</table>
+<div class="overview">
+<table width="97%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50"><img src="./../../../images/guidance.gif" alt="" title=""></td><td>
+<table class="overviewTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Main Description</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td class="sectionTableSingleCell"><P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림"><SPAN style="mso-list: Ignore"><STRONG>1.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt"><STRONG>개요<SPAN lang=EN-US> (Overview)<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></STRONG></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN style="FONT-FAMILY: 굴림">데이터컨버전은 프로젝트의 성패를 좌우할 수 있는 비중이 높은 작업임에도 불구하고 단순하고 반복적인 작업이라는 이유로 중요시되지 않는 작업이기도 하다<SPAN lang=EN-US>.<o:p></o:p></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN style="FONT-FAMILY: 굴림">본 문서에서는 데이터컨버전의 분석단계 전반에 필요한 컨버전 대상 식별<SPAN lang=EN-US>, </SPAN>우선순위 선정<SPAN lang=EN-US>, </SPAN>오류데이터 정비 등의 컨버전 대상을 정의하여 컨버전대상목록을 작성하는 기법을 담고 있다<SPAN lang=EN-US>. </SPAN>또한 컨버전 프로그램을 작성하는데 있어서 중요한 요소인 속도를 향상하기 위한 기법도 포함한다<SPAN lang=EN-US>.<o:p></o:p></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN lang=EN-US style="FONT-FAMILY: 굴림"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림"><SPAN style="mso-list: Ignore"><STRONG>2.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN><STRONG><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">기법 적용시 유의사항</SPAN> (Consideration)<SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt"><o:p></o:p></SPAN></SPAN></STRONG></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN style="FONT-FAMILY: 굴림">본 기법은 온라인 업무<SPAN lang=EN-US>(OLTP) </SPAN>시스템의 데이터를 컨버전하는 경우를 바탕으로 작성되었으므로<SPAN lang=EN-US> DW, </SPAN>문서관리 시스템<SPAN lang=EN-US>, </SPAN>전자결재 시스템 등 특성화된 데이터베이스의 데이터를 컨버전하는 경우에는 적용하기 어렵다<SPAN lang=EN-US>.<o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 20pt; mso-para-margin-left: 2.0gd"><SPAN lang=EN-US style="FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial; mso-font-kerning: 0pt"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림"><SPAN style="mso-list: Ignore"><STRONG>3.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt"><STRONG>관련 툴<SPAN lang=EN-US> (Related Tool)<o:p></o:p></SPAN></STRONG></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN lang=EN-US style="FONT-FAMILY: 굴림">N/A<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 20pt; mso-para-margin-left: 2.0gd"><B style="mso-bidi-font-weight: normal"><SPAN lang=EN-US style="FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial"><o:p>&nbsp;</o:p></SPAN></B></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림"><SPAN style="mso-list: Ignore"><STRONG>4.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt"><STRONG>첨부<SPAN lang=EN-US>(Attachments)<o:p></o:p></SPAN></STRONG></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN lang=EN-US style="FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial; mso-font-kerning: 0pt"><a href="./../../../SDSEng_Process_OOCBD/guidances/guidelines/./resources/데이터컨버전 기법T.doc" target="_blank">데이터컨버전 기법T.doc</a><a href="./../../../SDSEng_Process_OOCBD/guidances/guidelines/./resources/370781495023148825.doc"><SPAN style="COLOR: windowtext; TEXT-DECORATION: none; text-underline: none"><?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id=_x0000_t75 coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock v:ext="edit" aspectratio="t"></o:lock></v:shapetype></SPAN></a></SPAN></P></td>
+</tr>
+</table>
+</div>
+<table class="copyright" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="copyright"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+<script type="text/javascript" language="JavaScript">
+				contentPage.onload();
+			</script>
+</html>

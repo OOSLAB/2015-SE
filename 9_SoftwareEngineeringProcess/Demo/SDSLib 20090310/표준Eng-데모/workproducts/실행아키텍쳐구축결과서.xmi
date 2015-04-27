@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-RLGrJMIDDMH_3NyyZiCyVw"
+    name="new_artifact,_sAbWEJOzEd2QOZMWcM0ZMQ" guid="-RLGrJMIDDMH_3NyyZiCyVw" changeDate="2008-10-06T23:33:33.984+0900">
+  <mainDescription>실행 아키텍쳐 기타영역 수행결과, 실행 아키텍쳐 업무영역 수행결과, 실행 아키텍쳐 영역 수행결과</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

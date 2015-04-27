@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko" xml:lang="ko" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Guideline: 아키텍처검증 기법</title>
+<meta name="uma.type" content="Guideline">
+<meta name="uma.name" content="아키텍처검증 기법">
+<meta name="uma.presentationName" content="아키텍처검증 기법">
+<meta name="element_type" content="other">
+<meta name="filetype" content="description">
+<meta name="role" content="">
+<link rel="StyleSheet" href="./../../../css/default.css" type="text/css">
+<script src="./../../../scripts/ContentPageResource.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageSubSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageToolbar.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/contentPage.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+					var backPath = './../../../';
+					var imgPath = './../../../images/';
+					var nodeInfo=null;
+					contentPage.preload(imgPath, backPath, nodeInfo,  '', false, false, false);
+				</script>
+</head>
+<body>
+<div id="breadcrumbs"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top"><a name="Top"></a>
+<div id="page-guid" value="_GjVZgASxEd6u1pdhw4SOFA"></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="pageTitle" nowrap="true">Guideline: 아키텍처검증 기법</td><td width="100%">
+<div align="right" id="contentPageToolbar"></div>
+</td><td width="100%" class="expandCollapseLink" align="right"><a name="mainIndex" href="./../../../index.htm"></a><script language="JavaScript" type="text/javascript" src="./../../../scripts/treebrowser.js"></script></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pageTitleSeparator"><img src="./../../../images/shim.gif" alt="" title="" height="1"></td>
+</tr>
+</table>
+<div class="overview">
+<table width="97%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50"><img src="./../../../images/guidance.gif" alt="" title=""></td><td>
+<table class="overviewTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Main Description</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td class="sectionTableSingleCell"><P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림"><SPAN style="mso-list: Ignore"><STRONG>1.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt"><STRONG>개요<SPAN lang=EN-US> (Overview)<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></STRONG></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN style="FONT-FAMILY: 굴림">아키텍처 검증 기법은 견고한 아키텍처를 설계하기 위해 아키텍처 설계 방향의 타당성을 확인하거나 아키텍처 대안을 효과적으로 선택하기 위한 가이드라인 및 방법을 제시한다<SPAN lang=EN-US>. <o:p></o:p></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN style="FONT-FAMILY: 굴림">본 기법을 통해 아키텍처의 위험요소를 사전에 제거할 수 있다<SPAN lang=EN-US>.<o:p></o:p></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN lang=EN-US style="FONT-FAMILY: 굴림"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림"><SPAN style="mso-list: Ignore"><STRONG>2.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN><STRONG><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">기법 적용시 유의사항</SPAN> (Consideration)<SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt"><o:p></o:p></SPAN></SPAN></STRONG></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN style="FONT-FAMILY: 굴림">본 기법에 제시된 아키텍처 검증 기법의 특성을 파악하여 프로젝트 상황에 맞는 방법을 선택하도록 한다<SPAN lang=EN-US>.<o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 20pt; mso-para-margin-left: 2.0gd"><SPAN lang=EN-US style="FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial; mso-font-kerning: 0pt"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림"><SPAN style="mso-list: Ignore"><STRONG>3.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt"><STRONG>관련 툴<SPAN lang=EN-US> (Related Tool)<o:p></o:p></SPAN></STRONG></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt; mso-outline-level: 1"><SPAN lang=EN-US style="FONT-FAMILY: 굴림">N/A<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 20pt; mso-para-margin-left: 2.0gd"><B style="mso-bidi-font-weight: normal"><SPAN lang=EN-US style="FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial"><o:p>&nbsp;</o:p></SPAN></B></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림"><SPAN style="mso-list: Ignore"><STRONG>4.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt"><STRONG>첨부<SPAN lang=EN-US>(Attachments)<o:p></o:p></SPAN></STRONG></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN lang=EN-US style="FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial; mso-font-kerning: 0pt"><a href="./../../../SDSEng_Process_OOCBD/guidances/guidelines/./resources/370781495023148825.doc"><SPAN style="COLOR: windowtext; TEXT-DECORATION: none; text-underline: none"><?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id=_x0000_t75 coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock v:ext="edit" aspectratio="t"></o:lock></v:shapetype></SPAN></a></SPAN>&nbsp;</P></td>
+</tr>
+</table>
+</div>
+<table class="copyright" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="copyright"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+<script type="text/javascript" language="JavaScript">
+				contentPage.onload();
+			</script>
+</html>

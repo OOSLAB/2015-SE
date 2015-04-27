@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Z4IskJmpEd2hz8VvLT0FrQ"
+      guid="_Z4IskJmpEd2hz8VvLT0FrQ">
+    <subManagers xmi:id="_dhCs8ZmpEd2hz8VvLT0FrQ" href="uma://_deqHUJmpEd2hz8VvLT0FrQ#_dhCs8ZmpEd2hz8VvLT0FrQ"/>
+    <resourceDescriptors xmi:id="_dezRQZmpEd2hz8VvLT0FrQ" id="_deqHUJmpEd2hz8VvLT0FrQ"
+        uri="deliveryprocesses/삼성화재/model.xmi"/>
+    <resourceDescriptors xmi:id="_27pfEJmpEd2hz8VvLT0FrQ" id="-izx0x9xVcuKIkh3_mB0VUA"
+        uri="workproducts/시퀀스다이어그램.xmi"/>
+    <resourceDescriptors xmi:id="_28GLAJmpEd2hz8VvLT0FrQ" id="-K_mnGCPD8V9LC_mP7YTG_A"
+        uri="workproducts/클래스다이어그램.xmi"/>
+    <resourceDescriptors xmi:id="_28P8AJmpEd2hz8VvLT0FrQ" id="-Do9t7pyXo-teLdIvXHy_OQ"
+        uri="workproducts/유스케이스다이어그램.xmi"/>
+    <resourceDescriptors xmi:id="_28ZF8JmpEd2hz8VvLT0FrQ" id="-p6r7MYpX6_5ecHXGb50Dsw"
+        uri="workproducts/유스케이스정의서.xmi"/>
+    <resourceDescriptors xmi:id="_28ZF8ZmpEd2hz8VvLT0FrQ" id="-ExA4-dxBREyESgwMoItZmQ"
+        uri="workproducts/패키지다이어그램.xmi"/>
+    <resourceDescriptors xmi:id="_28i28JmpEd2hz8VvLT0FrQ" id="-sfdEoErlx82dY0ULX7Q7wA"
+        uri="workproducts/컴포넌트다이어그램.xmi"/>
+    <resourceDescriptors xmi:id="_28sn8JmpEd2hz8VvLT0FrQ" id="-kqsHBvRv39ggTVZA23UQeQ"
+        uri="workproducts/시스템인터페이스정의서.xmi"/>
+    <resourceDescriptors xmi:id="_281x4JmpEd2hz8VvLT0FrQ" id="-GTnsq_pdYNtW1F3peNXRzg"
+        uri="workproducts/클래스명세서.xmi"/>
+    <resourceDescriptors xmi:id="_28_i4JmpEd2hz8VvLT0FrQ" id="-q2ak97P6bkzDS46i1iEZnQ"
+        uri="workproducts/시스템인터페이스목록.xmi"/>
+    <resourceDescriptors xmi:id="_29Sd0JmpEd2hz8VvLT0FrQ" id="-GMBo2VU0xzv2WEFCJxFHTQ"
+        uri="workproducts/액터정의서.xmi"/>
+    <resourceDescriptors xmi:id="_29lYwJmpEd2hz8VvLT0FrQ" id="-nyQYkyG8oo1wkf9izHGVoQ"
+        uri="workproducts/요구사항정의서.xmi"/>
+    <resourceDescriptors xmi:id="_29vJwJmpEd2hz8VvLT0FrQ" id="-vx4Ekmjo_LBGbxEMgJ36_w"
+        uri="workproducts/패키지정의서.xmi"/>
+    <resourceDescriptors xmi:id="_2946wJmpEd2hz8VvLT0FrQ" id="-emEwHy4FjyrXAAyofGUDoQ"
+        uri="workproducts/현행시스템분석서.xmi"/>
+    <resourceDescriptors xmi:id="_2-ohoJmpEd2hz8VvLT0FrQ" id="-Ybr0qgI8nc0U1J5uhdfeng"
+        uri="workproducts/개념아키텍쳐정의서.xmi"/>
+    <resourceDescriptors xmi:id="_2-7ckJmpEd2hz8VvLT0FrQ" id="-bAvbww6gTaIGKzXBL_TWHA"
+        uri="workproducts/기술인프라아키텍쳐설계서.xmi"/>
+    <resourceDescriptors xmi:id="_2_h5gJmpEd2hz8VvLT0FrQ" id="-effte3Ke2EO3_SRAA_Qjug"
+        uri="workproducts/실행아키텍쳐계획서.xmi"/>
+    <resourceDescriptors xmi:id="_2_rDcJmpEd2hz8VvLT0FrQ" id="-DwpQCT8GTO5Am3OdfAnRlg"
+        uri="workproducts/실행아키텍쳐구축결과서.xmi"/>
+    <resourceDescriptors xmi:id="_2_00cJmpEd2hz8VvLT0FrQ" id="-NSyff0P8LYmIoGEdE5rB2w"
+        uri="workproducts/아키텍쳐설계방향정의서.xmi"/>
+    <resourceDescriptors xmi:id="_2_9-YJmpEd2hz8VvLT0FrQ" id="-Pbiz1UpwWQitGJDTdFfVQw"
+        uri="workproducts/어플리케이션아키텍쳐설계서.xmi"/>
+    <resourceDescriptors xmi:id="_3AHvYJmpEd2hz8VvLT0FrQ" id="-QHTTCuF6352GBA3qV45WEw"
+        uri="workproducts/인터뷰결과서.xmi"/>
+    <resourceDescriptors xmi:id="_3AHvYZmpEd2hz8VvLT0FrQ" id="-gwgf-7LHr8OE2Jz0Ieyb3Q"
+        uri="workproducts/컴포넌트명세서.xmi"/>
+    <resourceDescriptors xmi:id="_3A3WQJmpEd2hz8VvLT0FrQ" id="-ZpNwRW5L8ZHcrTUPt9-ypw"
+        uri="workproducts/ERD.xmi"/>
+    <resourceDescriptors xmi:id="_3BKRMJmpEd2hz8VvLT0FrQ" id="-K0kU75MlpCC_vEZWOvtmPA"
+        uri="workproducts/데이터코드목록.xmi"/>
+    <resourceDescriptors xmi:id="_3BdzMJmpEd2hz8VvLT0FrQ" id="-JGfmpQgTKiwDhn70ihqxYw"
+        uri="workproducts/데이터코드정의서.xmi"/>
+    <resourceDescriptors xmi:id="_3CDpEJmpEd2hz8VvLT0FrQ" id="-e9EkGBSiZLWsqUmAg3u0Ew"
+        uri="workproducts/컨버전설계서.xmi"/>
+    <resourceDescriptors xmi:id="_3CDpEZmpEd2hz8VvLT0FrQ" id="-opgHSQmyqIm6YFx_SyA9WQ"
+        uri="workproducts/테이블매핑정의서.xmi"/>
+    <resourceDescriptors xmi:id="_3CWkAJmpEd2hz8VvLT0FrQ" id="-hwWVt50GmVMo5KUMJ7NSRg"
+        uri="workproducts/테이블목록.xmi"/>
+    <resourceDescriptors xmi:id="_3CgVAJmpEd2hz8VvLT0FrQ" id="-_7xY5an-_PcCb_6prqWaiA"
+        uri="workproducts/테이블정의서.xmi"/>
+    <resourceDescriptors xmi:id="_3CqGAJmpEd2hz8VvLT0FrQ" id="-V7nfyHmLGhabnB3naI07OQ"
+        uri="workproducts/데이터아키텍쳐설계서.xmi"/>
+    <resourceDescriptors xmi:id="_3C9A8JmpEd2hz8VvLT0FrQ" id="-an1OjJc48R2JfUzHv7WsJA"
+        uri="workproducts/자료사전.xmi"/>
+    <resourceDescriptors xmi:id="_3DZs4JmpEd2hz8VvLT0FrQ" id="-zSljn-OH9uKxx9sgsMhUvA"
+        uri="workproducts/컨버전계획서.xmi"/>
+    <resourceDescriptors xmi:id="_3Di20JmpEd2hz8VvLT0FrQ" id="-CmD7ilwMYoIe_oLwdqpOiw"
+        uri="workproducts/컨버전대상목록.xmi"/>
+    <resourceDescriptors xmi:id="_3Dsn0JmpEd2hz8VvLT0FrQ" id="-Bx_3QVw1OPSeSM8utMpA2Q"
+        uri="workproducts/코드매핑정의서.xmi"/>
+    <resourceDescriptors xmi:id="_3Dsn0ZmpEd2hz8VvLT0FrQ" id="-VzxWQ78cZRDP20M8BN8uHw"
+        uri="workproducts/배치목록.xmi"/>
+    <resourceDescriptors xmi:id="_3D2Y0JmpEd2hz8VvLT0FrQ" id="-r9yqcHfBgvW11HYnZ0OEyw"
+        uri="workproducts/배치프로그램명세서.xmi"/>
+    <resourceDescriptors xmi:id="_3D_iwJmpEd2hz8VvLT0FrQ" id="-y_FQQhd2rKyGKQ9HUm6MFA"
+        uri="workproducts/보고서목록.xmi"/>
+    <resourceDescriptors xmi:id="_3D_iwZmpEd2hz8VvLT0FrQ" id="-uAVrbjuZcXHpsdm7jHxpsg"
+        uri="workproducts/보고서정의서.xmi"/>
+    <resourceDescriptors xmi:id="_3EJTwJmpEd2hz8VvLT0FrQ" id="-KC98PTFGsvd5UWnUdyeoRg"
+        uri="workproducts/화면목록.xmi"/>
+    <resourceDescriptors xmi:id="_3EJTwZmpEd2hz8VvLT0FrQ" id="-ff7jNpcyaU0TWJOuXoH-hw"
+        uri="workproducts/네비게이션정의서.xmi"/>
+    <resourceDescriptors xmi:id="_3ETEwJmpEd2hz8VvLT0FrQ" id="-_pflddgqF7-yienF4heIIA"
+        uri="workproducts/메뉴구조도.xmi"/>
+    <resourceDescriptors xmi:id="_3ETEwZmpEd2hz8VvLT0FrQ" id="-thG-XiStmy-RwNrdgd4qRw"
+        uri="workproducts/화면표준정의서.xmi"/>
+    <resourceDescriptors xmi:id="_3EcOsJmpEd2hz8VvLT0FrQ" id="-fUtzwk7wmtpHMcm5sekEAA"
+        uri="workproducts/화면프로토타입.xmi"/>
+    <resourceDescriptors xmi:id="_3EcOsZmpEd2hz8VvLT0FrQ" id="-nu8XSUUEGk5PSVRAGVoYgw"
+        uri="workproducts/화면정의서.xmi"/>
+    <resourceDescriptors xmi:id="_3EvJoJmpEd2hz8VvLT0FrQ" id="-SEwxiuP-ypFFhJ-xY8DApw"
+        uri="tasks/논리데이터%20모델링.xmi"/>
+    <resourceDescriptors xmi:id="_3EvJoZmpEd2hz8VvLT0FrQ" id="-9TmHNZxXyTRi2_58H3YpiA"
+        uri="tasks/자료사전%20정의.xmi"/>
+    <resourceDescriptors xmi:id="_3E46oJmpEd2hz8VvLT0FrQ" id="-6TbULomD8sbAy6eD_NUiCg"
+        uri="tasks/시스템%20인터페이스%20분석.xmi"/>
+    <resourceDescriptors xmi:id="_3FCroJmpEd2hz8VvLT0FrQ" id="-giGQrJizr2ia-1fE9pqerA"
+        uri="tasks/유스케이스%20분석.xmi"/>
+    <resourceDescriptors xmi:id="_3FL1kJmpEd2hz8VvLT0FrQ" id="-LkkM1vL9Ciz5dlntb1obxg"
+        uri="tasks/유스케이스%20상세화.xmi"/>
+    <resourceDescriptors xmi:id="_3FL1kZmpEd2hz8VvLT0FrQ" id="-16BJd7iD_VXEPeWesnmKnw"
+        uri="tasks/컴포넌트%20식별.xmi"/>
+    <resourceDescriptors xmi:id="_3FVmkJmpEd2hz8VvLT0FrQ" id="-k2ARWaoBsnodrwhWDvla2Q"
+        uri="tasks/분석패키지정의.xmi"/>
+    <resourceDescriptors xmi:id="_3FfXkJmpEd2hz8VvLT0FrQ" id="-Qm_-NG2aTilh3iDtgV1Oiw"
+        uri="tasks/데이터%20정비.xmi"/>
+    <resourceDescriptors xmi:id="_3FfXkZmpEd2hz8VvLT0FrQ" id="-m83PJmFLZYARfJt8wUYqmg"
+        uri="tasks/컨버전%20계획%20수립.xmi"/>
+    <resourceDescriptors xmi:id="_3FohgJmpEd2hz8VvLT0FrQ" id="-uoHJupOexxs9cZv2fcqzuA"
+        uri="tasks/네비게이션%20정의.xmi"/>
+    <resourceDescriptors xmi:id="_3FySgJmpEd2hz8VvLT0FrQ" id="-7rYLO_S2I-AE5b-j9ZDuXw"
+        uri="tasks/메뉴구조%20정의.xmi"/>
+    <resourceDescriptors xmi:id="_3F7ccJmpEd2hz8VvLT0FrQ" id="-05S75euF82bLs_OZ-EeDqQ"
+        uri="tasks/화면%20레이아웃%20정의.xmi"/>
+    <resourceDescriptors xmi:id="_3GFNcJmpEd2hz8VvLT0FrQ" id="-XNvTCd4ZU0brwXrQX2Z38w"
+        uri="tasks/화면표준%20정의.xmi"/>
+    <resourceDescriptors xmi:id="_3Gh5YJmpEd2hz8VvLT0FrQ" id="-SjpOW2s8h8Im3aFBEfYS1Q"
+        uri="tasks/데이터분석.xmi"/>
+    <resourceDescriptors xmi:id="_3GrqYJmpEd2hz8VvLT0FrQ" id="-4hG3wA4iCeoAoL8BzlyU5w"
+        uri="tasks/업무분석.xmi"/>
+    <resourceDescriptors xmi:id="_3G00UJmpEd2hz8VvLT0FrQ" id="-xlQES5q0q4OABgxVBqzrtg"
+        uri="tasks/컨버전분석.xmi"/>
+    <resourceDescriptors xmi:id="_3G-lUJmpEd2hz8VvLT0FrQ" id="-uSR7zQCppKD-4-ao3j6ubw"
+        uri="tasks/화면분석.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_Z3-7kJmpEd2hz8VvLT0FrQ" name="OOCBD 금융"
+      guid="_Z3-7kJmpEd2hz8VvLT0FrQ">
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z3-7kZmpEd2hz8VvLT0FrQ"
+        name="Content" guid="_Z3-7kZmpEd2hz8VvLT0FrQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z3-7kpmpEd2hz8VvLT0FrQ"
+          name="Categories" guid="_Z3-7kpmpEd2hz8VvLT0FrQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z3-7k5mpEd2hz8VvLT0FrQ"
+            name="Domains" guid="_Z3-7k5mpEd2hz8VvLT0FrQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z3-7lJmpEd2hz8VvLT0FrQ"
+            name="Disciplines" guid="_Z3-7lJmpEd2hz8VvLT0FrQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z3-7lZmpEd2hz8VvLT0FrQ"
+            name="RoleSets" guid="_Z3-7lZmpEd2hz8VvLT0FrQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z3-7lpmpEd2hz8VvLT0FrQ"
+            name="WP Types" guid="_Z3-7lpmpEd2hz8VvLT0FrQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z3-7l5mpEd2hz8VvLT0FrQ"
+            name="Tools" guid="_Z3-7l5mpEd2hz8VvLT0FrQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z3-7mJmpEd2hz8VvLT0FrQ"
+            name="StandardCategories" guid="_Z3-7mJmpEd2hz8VvLT0FrQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z3-7mZmpEd2hz8VvLT0FrQ"
+            name="CustomCategories" guid="_Z3-7mZmpEd2hz8VvLT0FrQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z3-7mpmpEd2hz8VvLT0FrQ"
+              name="Hidden" guid="_Z3-7mpmpEd2hz8VvLT0FrQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Z3-7m5mpEd2hz8VvLT0FrQ"
+                name="Custom Categories" guid="_Z3-7m5mpEd2hz8VvLT0FrQ"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z3-7nJmpEd2hz8VvLT0FrQ"
+          name="CoreContent" guid="_Z3-7nJmpEd2hz8VvLT0FrQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24YIoJmpEd2hz8VvLT0FrQ"
+            name="1. 방법론 기술별 산출물 및 기법" guid="_24YIoJmpEd2hz8VvLT0FrQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24YIoZmpEd2hz8VvLT0FrQ"
+              name="UML" guid="_24YIoZmpEd2hz8VvLT0FrQ">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24hSkpmpEd2hz8VvLT0FrQ"
+                name="시퀀스다이어그램" guid="_24hSkpmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_24hSmZmpEd2hz8VvLT0FrQ"
+                  name="시퀀스다이어그램" guid="_24hSmZmpEd2hz8VvLT0FrQ" presentationName="시퀀스다이어그램">
+                <presentation xmi:id="-izx0x9xVcuKIkh3_mB0VUA" href="uma://-izx0x9xVcuKIkh3_mB0VUA#-izx0x9xVcuKIkh3_mB0VUA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSmpmpEd2hz8VvLT0FrQ"
+                  name="activation 정의" guid="_24hSmpmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="activation 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSlJmpEd2hz8VvLT0FrQ"
+                  name="lifeline 정의" guid="_24hSlJmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="lifeline 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSlpmpEd2hz8VvLT0FrQ"
+                  name="객체 정의" guid="_24hSlpmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="객체 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSlZmpEd2hz8VvLT0FrQ"
+                  name="메시지 정의" guid="_24hSlZmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="메시지 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSmJmpEd2hz8VvLT0FrQ"
+                  name="분석 유형 및 분석 클래스 타입 결정" guid="_24hSmJmpEd2hz8VvLT0FrQ" presentationName="분석 유형 및 분석 클래스 타입 결정"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSk5mpEd2hz8VvLT0FrQ"
+                  name="후보 분석클래스 식별" guid="_24hSk5mpEd2hz8VvLT0FrQ" presentationName="후보 분석클래스 식별"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSl5mpEd2hz8VvLT0FrQ"
+                  name="설계수준의 시퀀스다이어그램 작성" guid="_24hSl5mpEd2hz8VvLT0FrQ" presentationName="설계수준의 시퀀스다이어그램 작성"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24YIqZmpEd2hz8VvLT0FrQ"
+                name="클래스다이어그램" guid="_24YIqZmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_24YIsJmpEd2hz8VvLT0FrQ"
+                  name="클래스다이어그램" guid="_24YIsJmpEd2hz8VvLT0FrQ" presentationName="클래스다이어그램">
+                <presentation xmi:id="-K_mnGCPD8V9LC_mP7YTG_A" href="uma://-K_mnGCPD8V9LC_mP7YTG_A#-K_mnGCPD8V9LC_mP7YTG_A"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24YIrJmpEd2hz8VvLT0FrQ"
+                  name="사용자정의 타입 정의" guid="_24YIrJmpEd2hz8VvLT0FrQ" presentationName="사용자정의 타입 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24YIr5mpEd2hz8VvLT0FrQ"
+                  name="클래스 속성 및 오퍼레이션 정의" guid="_24YIr5mpEd2hz8VvLT0FrQ" presentationName="클래스 속성 및 오퍼레이션 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24YIrZmpEd2hz8VvLT0FrQ"
+                  name="클래스 식별" guid="_24YIrZmpEd2hz8VvLT0FrQ" presentationName="클래스 식별"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24YIrpmpEd2hz8VvLT0FrQ"
+                  name="클래스간 관계 정의" guid="_24YIrpmpEd2hz8VvLT0FrQ" presentationName="클래스간 관계 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24YIsZmpEd2hz8VvLT0FrQ"
+                  name="분석 유형 및 분석 클래스 타입 결정" guid="_24YIsZmpEd2hz8VvLT0FrQ" presentationName="분석 유형 및 분석 클래스 타입 결정"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24YIq5mpEd2hz8VvLT0FrQ"
+                  name="클래스 다이어그램 작성" guid="_24YIq5mpEd2hz8VvLT0FrQ" presentationName="클래스 다이어그램 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24YIspmpEd2hz8VvLT0FrQ"
+                  name="후보 분석클래스 식별" guid="_24YIspmpEd2hz8VvLT0FrQ" presentationName="후보 분석클래스 식별"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24YIqpmpEd2hz8VvLT0FrQ"
+                  name="클래스 다이어그램(설계) 작성" guid="_24YIqpmpEd2hz8VvLT0FrQ" presentationName="클래스 다이어그램(설계) 작성"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24hSpZmpEd2hz8VvLT0FrQ"
+                name="유스케이스다이어그램" guid="_24hSpZmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_24hSrpmpEd2hz8VvLT0FrQ"
+                  name="유스케이스다이어그램" guid="_24hSrpmpEd2hz8VvLT0FrQ" presentationName="유스케이스다이어그램">
+                <presentation xmi:id="-Do9t7pyXo-teLdIvXHy_OQ" href="uma://-Do9t7pyXo-teLdIvXHy_OQ#-Do9t7pyXo-teLdIvXHy_OQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSrJmpEd2hz8VvLT0FrQ"
+                  name="기능적 요구사항 대상 유스케이스 유형 정의" guid="_24hSrJmpEd2hz8VvLT0FrQ" presentationName="기능적 요구사항 대상 유스케이스 유형 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSqJmpEd2hz8VvLT0FrQ"
+                  name="사용자 관점의 액터 식별" guid="_24hSqJmpEd2hz8VvLT0FrQ" presentationName="사용자 관점의 액터 식별"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSqpmpEd2hz8VvLT0FrQ"
+                  name="액터 기반 유스케이스 식별" guid="_24hSqpmpEd2hz8VvLT0FrQ" presentationName="액터 기반 유스케이스 식별"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSq5mpEd2hz8VvLT0FrQ"
+                  name="액터간, 유스케이스간 및 액터와 유스케이스간 관계 정의" guid="_24hSq5mpEd2hz8VvLT0FrQ"
+                  presentationName="액터간, 유스케이스간 및 액터와 유스케이스간 관계 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSp5mpEd2hz8VvLT0FrQ"
+                  name="유스케이스 다이어그램 작성" guid="_24hSp5mpEd2hz8VvLT0FrQ" presentationName="유스케이스 다이어그램 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSqZmpEd2hz8VvLT0FrQ"
+                  name="유스케이스 유형분류" guid="_24hSqZmpEd2hz8VvLT0FrQ" presentationName="유스케이스 유형분류"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSrZmpEd2hz8VvLT0FrQ"
+                  name="유스케이스의 복잡도 및 성격에 따른 유형분류" guid="_24hSrZmpEd2hz8VvLT0FrQ" presentationName="유스케이스의 복잡도 및 성격에 따른 유형분류"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSppmpEd2hz8VvLT0FrQ"
+                  name="추가 및 삭제 유스케이스의 다이어그램 반영" guid="_24hSppmpEd2hz8VvLT0FrQ" presentationName="추가 및 삭제 유스케이스의 다이어그램 반영"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24YIs5mpEd2hz8VvLT0FrQ"
+                name="유스케이스정의서" guid="_24YIs5mpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_24YIuJmpEd2hz8VvLT0FrQ"
+                  name="유스케이스정의서" guid="_24YIuJmpEd2hz8VvLT0FrQ" presentationName="유스케이스정의서">
+                <presentation xmi:id="-p6r7MYpX6_5ecHXGb50Dsw" href="uma://-p6r7MYpX6_5ecHXGb50Dsw#-p6r7MYpX6_5ecHXGb50Dsw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24YItpmpEd2hz8VvLT0FrQ"
+                  name="신규 도출된 유스케이스의 요구사항정의서 반영" guid="_24YItpmpEd2hz8VvLT0FrQ" presentationName="신규 도출된 유스케이스의 요구사항정의서 반영"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSkZmpEd2hz8VvLT0FrQ"
+                  name="유스케이스 처리흐름 상세화작성" guid="_24hSkZmpEd2hz8VvLT0FrQ" presentationName="유스케이스 처리흐름 상세화작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSkJmpEd2hz8VvLT0FrQ"
+                  name="유스케이스 크기 및 상세화 수준 정의" guid="_24hSkJmpEd2hz8VvLT0FrQ" presentationName="유스케이스 크기 및 상세화 수준 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24YItJmpEd2hz8VvLT0FrQ"
+                  name="유스케이스 작성스타일 정의(선택)" guid="_24YItJmpEd2hz8VvLT0FrQ" presentationName="유스케이스 작성스타일 정의(선택)"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24YIt5mpEd2hz8VvLT0FrQ"
+                  name="유스케이스 정의서 작성" guid="_24YIt5mpEd2hz8VvLT0FrQ" presentationName="유스케이스 정의서 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24YItZmpEd2hz8VvLT0FrQ"
+                  name="유스케이스와 기능 요구사항을 매핑" guid="_24YItZmpEd2hz8VvLT0FrQ" presentationName="유스케이스와 기능 요구사항을 매핑"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24YIopmpEd2hz8VvLT0FrQ"
+                name="패키지다이어그램" guid="_24YIopmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_24YIpJmpEd2hz8VvLT0FrQ"
+                  name="패키지다이어그램" guid="_24YIpJmpEd2hz8VvLT0FrQ" presentationName="패키지다이어그램">
+                <presentation xmi:id="-ExA4-dxBREyESgwMoItZmQ" href="uma://-ExA4-dxBREyESgwMoItZmQ#-ExA4-dxBREyESgwMoItZmQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24YIqJmpEd2hz8VvLT0FrQ"
+                  name="분석패키지다이어그램작성" guid="_24YIqJmpEd2hz8VvLT0FrQ" presentationName="분석패키지다이어그램작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24YIppmpEd2hz8VvLT0FrQ"
+                  name="분석패키지식별기준정의" guid="_24YIppmpEd2hz8VvLT0FrQ" presentationName="분석패키지식별기준정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24YIo5mpEd2hz8VvLT0FrQ"
+                  name="분석패키지정의" guid="_24YIo5mpEd2hz8VvLT0FrQ" presentationName="분석패키지정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24YIp5mpEd2hz8VvLT0FrQ"
+                  name="의존도연결" guid="_24YIp5mpEd2hz8VvLT0FrQ" presentationName="의존도연결"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24YIpZmpEd2hz8VvLT0FrQ"
+                  name="패키지명기재" guid="_24YIpZmpEd2hz8VvLT0FrQ" presentationName="패키지명기재"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24hSm5mpEd2hz8VvLT0FrQ"
+                name="컴포넌트다이어그램" guid="_24hSm5mpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_24hSoZmpEd2hz8VvLT0FrQ"
+                  name="컴포넌트다이어그램" guid="_24hSoZmpEd2hz8VvLT0FrQ" presentationName="컴포넌트다이어그램">
+                <presentation xmi:id="-sfdEoErlx82dY0ULX7Q7wA" href="uma://-sfdEoErlx82dY0ULX7Q7wA#-sfdEoErlx82dY0ULX7Q7wA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSnZmpEd2hz8VvLT0FrQ"
+                  name="컴포넌트 식별" guid="_24hSnZmpEd2hz8VvLT0FrQ" presentationName="컴포넌트 식별"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSoJmpEd2hz8VvLT0FrQ"
+                  name="컴포넌트 식별작업 가이드" guid="_24hSoJmpEd2hz8VvLT0FrQ" presentationName="컴포넌트 식별작업 가이드"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSn5mpEd2hz8VvLT0FrQ"
+                  name="컴포넌트 정의" guid="_24hSn5mpEd2hz8VvLT0FrQ" presentationName="컴포넌트 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSpJmpEd2hz8VvLT0FrQ"
+                  name="컴포넌트식별기준선정" guid="_24hSpJmpEd2hz8VvLT0FrQ" presentationName="컴포넌트식별기준선정"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSnJmpEd2hz8VvLT0FrQ"
+                  name="인터페이스가 갖는 오퍼레이션 식별" guid="_24hSnJmpEd2hz8VvLT0FrQ" presentationName="인터페이스가 갖는 오퍼레이션 식별"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSo5mpEd2hz8VvLT0FrQ"
+                  name="컴포넌트 인터페이스 정의" guid="_24hSo5mpEd2hz8VvLT0FrQ" presentationName="컴포넌트 인터페이스 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSopmpEd2hz8VvLT0FrQ"
+                  name="컴포넌트간의 의존도 정의" guid="_24hSopmpEd2hz8VvLT0FrQ" presentationName="컴포넌트간의 의존도 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSnpmpEd2hz8VvLT0FrQ"
+                  name="컴포넌트와 인터페이스간의 관계 정의" guid="_24hSnpmpEd2hz8VvLT0FrQ" presentationName="컴포넌트와 인터페이스간의 관계 정의"/>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24hSr5mpEd2hz8VvLT0FrQ"
+              name="비지니스모델" guid="_24hSr5mpEd2hz8VvLT0FrQ">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24hSuJmpEd2hz8VvLT0FrQ"
+                name="시스템인터페이스정의서" guid="_24hSuJmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_24hSwpmpEd2hz8VvLT0FrQ"
+                  name="시스템인터페이스정의서" guid="_24hSwpmpEd2hz8VvLT0FrQ" presentationName="시스템인터페이스정의서">
+                <presentation xmi:id="-kqsHBvRv39ggTVZA23UQeQ" href="uma://-kqsHBvRv39ggTVZA23UQeQ#-kqsHBvRv39ggTVZA23UQeQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDkJmpEd2hz8VvLT0FrQ"
+                  name="담당자와 정의된 시스템 인터페이스 검토" guid="_24rDkJmpEd2hz8VvLT0FrQ" presentationName="담당자와 정의된 시스템 인터페이스 검토"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSwZmpEd2hz8VvLT0FrQ"
+                  name="시스템 인터페이스 관련 소스 및 목표 시스템 정의" guid="_24hSwZmpEd2hz8VvLT0FrQ"
+                  presentationName="시스템 인터페이스 관련 소스 및 목표 시스템 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSv5mpEd2hz8VvLT0FrQ"
+                  name="시스템 인터페이스 기능요건 정의" guid="_24hSv5mpEd2hz8VvLT0FrQ" presentationName="시스템 인터페이스 기능요건 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSyJmpEd2hz8VvLT0FrQ"
+                  name="시스템 인터페이스 입출력 데이터 항목 정의" guid="_24hSyJmpEd2hz8VvLT0FrQ" presentationName="시스템 인터페이스 입출력 데이터 항목 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSx5mpEd2hz8VvLT0FrQ"
+                  name="시스템 인터페이스의 처리유형 및 주기 정의" guid="_24hSx5mpEd2hz8VvLT0FrQ" presentationName="시스템 인터페이스의 처리유형 및 주기 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSxZmpEd2hz8VvLT0FrQ"
+                  name="시스템별 인터페이스 분류 및 연계 대상 범위 확인" guid="_24hSxZmpEd2hz8VvLT0FrQ"
+                  presentationName="시스템별 인터페이스 분류 및 연계 대상 범위 확인"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSxJmpEd2hz8VvLT0FrQ"
+                  name="source 담당자 기재" guid="_24hSxJmpEd2hz8VvLT0FrQ" presentationName="source 담당자 기재"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSu5mpEd2hz8VvLT0FrQ"
+                  name="target 담당자 기재" guid="_24hSu5mpEd2hz8VvLT0FrQ" presentationName="target 담당자 기재"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSvpmpEd2hz8VvLT0FrQ"
+                  name="기능요건 기술" guid="_24hSvpmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="기능요건 기술"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSvZmpEd2hz8VvLT0FrQ"
+                  name="인터페이스 ID 기재" guid="_24hSvZmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="인터페이스 ID 기재"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSvJmpEd2hz8VvLT0FrQ"
+                  name="인터페이스 데이터항목 기술" guid="_24hSvJmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="인터페이스 데이터항목 기술"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSuZmpEd2hz8VvLT0FrQ"
+                  name="인터페이스 유형 검토" guid="_24hSuZmpEd2hz8VvLT0FrQ" presentationName="인터페이스 유형 검토"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSwJmpEd2hz8VvLT0FrQ"
+                  name="인터페이스 유형 정의" guid="_24hSwJmpEd2hz8VvLT0FrQ" presentationName="인터페이스 유형 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSw5mpEd2hz8VvLT0FrQ"
+                  name="인터페이스 유형정보 기술" guid="_24hSw5mpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="인터페이스 유형정보 기술"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSxpmpEd2hz8VvLT0FrQ"
+                  name="입출력 데이터항목 정보 상세정의" guid="_24hSxpmpEd2hz8VvLT0FrQ" presentationName="입출력 데이터항목 정보 상세정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSupmpEd2hz8VvLT0FrQ"
+                  name="접근경로 정보 확인 및 정의" guid="_24hSupmpEd2hz8VvLT0FrQ" presentationName="접근경로 정보 확인 및 정의"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_240NlJmpEd2hz8VvLT0FrQ"
+                name="클래스명세서" guid="_240NlJmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_240NmJmpEd2hz8VvLT0FrQ"
+                  name="클래스명세서" guid="_240NmJmpEd2hz8VvLT0FrQ" presentationName="클래스명세서">
+                <presentation xmi:id="-GTnsq_pdYNtW1F3peNXRzg" href="uma://-GTnsq_pdYNtW1F3peNXRzg#-GTnsq_pdYNtW1F3peNXRzg"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NmpmpEd2hz8VvLT0FrQ"
+                  name="부모클래스 혹은 인터페이스 작성" guid="_240NmpmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="부모클래스 혹은 인터페이스 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240Nm5mpEd2hz8VvLT0FrQ"
+                  name="속성정의" guid="_240Nm5mpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="속성정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NmZmpEd2hz8VvLT0FrQ"
+                  name="오퍼레이션 작성" guid="_240NmZmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="오퍼레이션 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240Nl5mpEd2hz8VvLT0FrQ"
+                  name="클래스 개요 작성" guid="_240Nl5mpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="클래스 개요 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NlZmpEd2hz8VvLT0FrQ"
+                  name="클래스 타입 작성" guid="_240NlZmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="클래스 타입 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NlpmpEd2hz8VvLT0FrQ"
+                  name="클래스명세서 작성" guid="_240NlpmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;스탭>>"
+                  presentationName="클래스명세서 작성"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_240NkJmpEd2hz8VvLT0FrQ"
+                name="시스템인터페이스목록" guid="_240NkJmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_240Nk5mpEd2hz8VvLT0FrQ"
+                  name="시스템인터페이스목록" guid="_240Nk5mpEd2hz8VvLT0FrQ" presentationName="시스템인터페이스목록">
+                <presentation xmi:id="-q2ak97P6bkzDS46i1iEZnQ" href="uma://-q2ak97P6bkzDS46i1iEZnQ#-q2ak97P6bkzDS46i1iEZnQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NkZmpEd2hz8VvLT0FrQ"
+                  name="시스템 인터페이스 목록 도출" guid="_240NkZmpEd2hz8VvLT0FrQ" presentationName="시스템 인터페이스 목록 도출"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NkpmpEd2hz8VvLT0FrQ"
+                  name="설계 수준의 시스템 인터페이스 목록 관련 항목 정의" guid="_240NkpmpEd2hz8VvLT0FrQ"
+                  presentationName="설계 수준의 시스템 인터페이스 목록 관련 항목 정의"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24rDp5mpEd2hz8VvLT0FrQ"
+                name="액터정의서" guid="_24rDp5mpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_24rDqZmpEd2hz8VvLT0FrQ"
+                  name="액터정의서" guid="_24rDqZmpEd2hz8VvLT0FrQ" presentationName="액터정의서">
+                <presentation xmi:id="-GMBo2VU0xzv2WEFCJxFHTQ" href="uma://-GMBo2VU0xzv2WEFCJxFHTQ#-GMBo2VU0xzv2WEFCJxFHTQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDqJmpEd2hz8VvLT0FrQ"
+                  name="액터 설명을 기재" guid="_24rDqJmpEd2hz8VvLT0FrQ" presentationName="액터 설명을 기재"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDqpmpEd2hz8VvLT0FrQ"
+                  name="액터명을 기록" guid="_24rDqpmpEd2hz8VvLT0FrQ" presentationName="액터명을 기록"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24rDl5mpEd2hz8VvLT0FrQ"
+                name="요구사항정의서" guid="_24rDl5mpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_24rDm5mpEd2hz8VvLT0FrQ"
+                  name="요구사항정의서" guid="_24rDm5mpEd2hz8VvLT0FrQ" presentationName="요구사항정의서">
+                <presentation xmi:id="-nyQYkyG8oo1wkf9izHGVoQ" href="uma://-nyQYkyG8oo1wkf9izHGVoQ#-nyQYkyG8oo1wkf9izHGVoQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDpJmpEd2hz8VvLT0FrQ"
+                  name="대표고객 협의체 구성" guid="_24rDpJmpEd2hz8VvLT0FrQ" presentationName="대표고객 협의체 구성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDppmpEd2hz8VvLT0FrQ"
+                  name="도출 요구사항 정리 및 보완사항 추가 식별" guid="_24rDppmpEd2hz8VvLT0FrQ" presentationName="도출 요구사항 정리 및 보완사항 추가 식별"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDnZmpEd2hz8VvLT0FrQ"
+                  name="상세 도출기법을 적용하여 요구사항 도출" guid="_24rDnZmpEd2hz8VvLT0FrQ" presentationName="상세 도출기법을 적용하여 요구사항 도출"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDo5mpEd2hz8VvLT0FrQ"
+                  name="시스템 관련 이해당사자 계층과 특성 파악" guid="_24rDo5mpEd2hz8VvLT0FrQ" presentationName="시스템 관련 이해당사자 계층과 특성 파악"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDnpmpEd2hz8VvLT0FrQ"
+                  name="요구사항 도출 관련 사전자료 파악" guid="_24rDnpmpEd2hz8VvLT0FrQ" presentationName="요구사항 도출 관련 사전자료 파악"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDn5mpEd2hz8VvLT0FrQ"
+                  name="협의체의 계층별 요구사항 도출계획 수립" guid="_24rDn5mpEd2hz8VvLT0FrQ" presentationName="협의체의 계층별 요구사항 도출계획 수립"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDpZmpEd2hz8VvLT0FrQ"
+                  name="업무범위 준거 요구사항 추가, 삭제" guid="_24rDpZmpEd2hz8VvLT0FrQ" presentationName="업무범위 준거 요구사항 추가, 삭제"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDnJmpEd2hz8VvLT0FrQ"
+                  name="요구사항 분류기준 확정 및 범위, 목적(선택)" guid="_24rDnJmpEd2hz8VvLT0FrQ"
+                  presentationName="요구사항 분류기준 확정 및 범위, 목적(선택)"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDopmpEd2hz8VvLT0FrQ"
+                  name="요구사항 정제(중복, 충돌제거 및 명확화)" guid="_24rDopmpEd2hz8VvLT0FrQ" presentationName="요구사항 정제(중복, 충돌제거 및 명확화)"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDmpmpEd2hz8VvLT0FrQ"
+                  name="요구사항정의서 정제 작성" guid="_24rDmpmpEd2hz8VvLT0FrQ" presentationName="요구사항정의서[정제] 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDoJmpEd2hz8VvLT0FrQ"
+                  name="이탈 요구사항 추출" guid="_24rDoJmpEd2hz8VvLT0FrQ" presentationName="이탈 요구사항 추출"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDoZmpEd2hz8VvLT0FrQ"
+                  name="고객 승인통한 요구사항 베이스라인 확정" guid="_24rDoZmpEd2hz8VvLT0FrQ" presentationName="고객 승인통한 요구사항 베이스라인 확정"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDmJmpEd2hz8VvLT0FrQ"
+                  name="요구사항 수용범위 재조정" guid="_24rDmJmpEd2hz8VvLT0FrQ" presentationName="요구사항 수용범위 재조정"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDmZmpEd2hz8VvLT0FrQ"
+                  name="정제 요구사항별 수용여부 고객과 협의" guid="_24rDmZmpEd2hz8VvLT0FrQ" presentationName="정제 요구사항별 수용여부 고객과 협의"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_240No5mpEd2hz8VvLT0FrQ"
+                name="패키지정의서" guid="_240No5mpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25HvgJmpEd2hz8VvLT0FrQ"
+                  name="패키지정의서" guid="_25HvgJmpEd2hz8VvLT0FrQ" presentationName="패키지정의서">
+                <presentation xmi:id="-vx4Ekmjo_LBGbxEMgJ36_w" href="uma://-vx4Ekmjo_LBGbxEMgJ36_w#-vx4Ekmjo_LBGbxEMgJ36_w"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvgZmpEd2hz8VvLT0FrQ"
+                  name="분석패키지를 설계패키지로 재정의" guid="_25HvgZmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;스탭>>"
+                  presentationName="분석패키지를 설계패키지로 재정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NpJmpEd2hz8VvLT0FrQ"
+                  name="설계패키지식별기준선정" guid="_240NpJmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;스탭>>"
+                  presentationName="설계패키지식별기준선정"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24rDx5mpEd2hz8VvLT0FrQ"
+                name="현행시스템분석서" guid="_24rDx5mpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_240NgpmpEd2hz8VvLT0FrQ"
+                  name="현행시스템분석서" guid="_240NgpmpEd2hz8VvLT0FrQ" presentationName="현행시스템분석서">
+                <presentation xmi:id="-emEwHy4FjyrXAAyofGUDoQ" href="uma://-emEwHy4FjyrXAAyofGUDoQ#-emEwHy4FjyrXAAyofGUDoQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDy5mpEd2hz8VvLT0FrQ"
+                  name="정보운영 현황파악(운영조직, 정보보호 정책, 표준화 정책 등)" guid="_24rDy5mpEd2hz8VvLT0FrQ"
+                  presentationName="정보운영 현황파악(운영조직, 정보보호 정책, 표준화 정책 등)"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDzZmpEd2hz8VvLT0FrQ"
+                  name="현존시스템 구성 도출, 특징 작성" guid="_24rDzZmpEd2hz8VvLT0FrQ" presentationName="현존시스템 구성 도출, 특징 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDyJmpEd2hz8VvLT0FrQ"
+                  name="현존시스템 내.외부 연계대상 식별, 연계방법 및 주기 작성" guid="_24rDyJmpEd2hz8VvLT0FrQ"
+                  presentationName="현존시스템 내.외부 연계대상 식별, 연계방법 및 주기 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDyZmpEd2hz8VvLT0FrQ"
+                  name="현존시스템 산출물 수집, 목표 연관된 영역 식별" guid="_24rDyZmpEd2hz8VvLT0FrQ"
+                  presentationName="현존시스템 산출물 수집, 목표 연관된 영역 식별"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240Ng5mpEd2hz8VvLT0FrQ"
+                  name="현존시스템 HW, SW, NW 구성도 및 사양 작성" guid="_240Ng5mpEd2hz8VvLT0FrQ"
+                  presentationName="현존시스템 HW, SW, NW 구성도 및 사양 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDypmpEd2hz8VvLT0FrQ"
+                  name="현존시스템의 아키텍쳐 관점의 문제점 도출, 정의" guid="_24rDypmpEd2hz8VvLT0FrQ"
+                  presentationName="현존시스템의 아키텍쳐 관점의 문제점 도출, 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDzJmpEd2hz8VvLT0FrQ"
+                  name="현존시스템의 어플리케이션, 상용SW현황, 소프트웨어아키텍쳐 스타일 작성" guid="_24rDzJmpEd2hz8VvLT0FrQ"
+                  presentationName="현존시스템의 어플리케이션, 상용SW현황, 소프트웨어아키텍쳐 스타일 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NgZmpEd2hz8VvLT0FrQ"
+                  name="현존시스템의 DB구성, 영역별테이블 분류" guid="_240NgZmpEd2hz8VvLT0FrQ" presentationName="현존시스템의 DB구성, 영역별테이블 분류"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NgJmpEd2hz8VvLT0FrQ"
+                  name="현행시스템 분석서를 작성" guid="_240NgJmpEd2hz8VvLT0FrQ" presentationName="현행시스템 분석서를 작성"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24rDxZmpEd2hz8VvLT0FrQ"
+                name="QAW품질속성시나리오" guid="_24rDxZmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_24rDxpmpEd2hz8VvLT0FrQ"
+                  name="QAW품질속성시나리오" guid="_24rDxpmpEd2hz8VvLT0FrQ" presentationName="QAW품질속성시나리오"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24rDspmpEd2hz8VvLT0FrQ"
+                name="개념아키텍쳐정의서" guid="_24rDspmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_24rDtpmpEd2hz8VvLT0FrQ"
+                  name="개념아키텍쳐정의서" guid="_24rDtpmpEd2hz8VvLT0FrQ" presentationName="개념아키텍쳐정의서">
+                <presentation xmi:id="-Ybr0qgI8nc0U1J5uhdfeng" href="uma://-Ybr0qgI8nc0U1J5uhdfeng#-Ybr0qgI8nc0U1J5uhdfeng"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDuZmpEd2hz8VvLT0FrQ"
+                  name="개념 기술 인프라 아키텍쳐 정의" guid="_24rDuZmpEd2hz8VvLT0FrQ" presentationName="개념 기술 인프라 아키텍쳐 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDvpmpEd2hz8VvLT0FrQ"
+                  name="개념 데이터 아키텍쳐 정의" guid="_24rDvpmpEd2hz8VvLT0FrQ" presentationName="개념 데이터 아키텍쳐 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDuJmpEd2hz8VvLT0FrQ"
+                  name="개념 어플리케이션 아키텍쳐 정의" guid="_24rDuJmpEd2hz8VvLT0FrQ" presentationName="개념 어플리케이션 아키텍쳐 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDs5mpEd2hz8VvLT0FrQ"
+                  name="개선점, 핵심요구사항 및 아키텍쳐 제약사항 기술" guid="_24rDs5mpEd2hz8VvLT0FrQ"
+                  presentationName="개선점, 핵심요구사항 및 아키텍쳐 제약사항 기술"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDtZmpEd2hz8VvLT0FrQ"
+                  name="시스템 구성요소 및 상위수준 업무범위 기술" guid="_24rDtZmpEd2hz8VvLT0FrQ" presentationName="시스템 구성요소 및 상위수준 업무범위 기술"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDvJmpEd2hz8VvLT0FrQ"
+                  name="아키텍쳐 구성요소의 기술표준 정의 (선택)" guid="_24rDvJmpEd2hz8VvLT0FrQ" presentationName="아키텍쳐 구성요소의 기술표준 정의 (선택)"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDupmpEd2hz8VvLT0FrQ"
+                  name="아키텍쳐 일관성 및 목표 부합성의 고객과의 검증" guid="_24rDupmpEd2hz8VvLT0FrQ"
+                  presentationName="아키텍쳐 일관성 및 목표 부합성의 고객과의 검증"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDu5mpEd2hz8VvLT0FrQ"
+                  name="아키텍쳐 전략, 적용범위 및 구성 view 정의" guid="_24rDu5mpEd2hz8VvLT0FrQ"
+                  presentationName="아키텍쳐 전략, 적용범위 및 구성 view 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDvZmpEd2hz8VvLT0FrQ"
+                  name="유사 프로젝트 조사 및 아키텍쳐 수집 (선택)" guid="_24rDvZmpEd2hz8VvLT0FrQ"
+                  presentationName="유사 프로젝트 조사 및 아키텍쳐 수집 (선택)"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDt5mpEd2hz8VvLT0FrQ"
+                  name="이해관계자(핵심 포함) 도출 및 역할 정의" guid="_24rDt5mpEd2hz8VvLT0FrQ" presentationName="이해관계자(핵심 포함) 도출 및 역할 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDtJmpEd2hz8VvLT0FrQ"
+                  name="프로젝트 개요 기술" guid="_24rDtJmpEd2hz8VvLT0FrQ" presentationName="프로젝트 개요 기술"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_240NipmpEd2hz8VvLT0FrQ"
+                name="기술인프라아키텍쳐설계서" guid="_240NipmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_240Ni5mpEd2hz8VvLT0FrQ"
+                  name="기술인프라아키텍쳐설계서" guid="_240Ni5mpEd2hz8VvLT0FrQ" presentationName="기술인프라아키텍쳐설계서">
+                <presentation xmi:id="-bAvbww6gTaIGKzXBL_TWHA" href="uma://-bAvbww6gTaIGKzXBL_TWHA#-bAvbww6gTaIGKzXBL_TWHA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NjpmpEd2hz8VvLT0FrQ"
+                  name="백업 및 복구 계획 수립" guid="_240NjpmpEd2hz8VvLT0FrQ" presentationName="백업 및 복구 계획 수립"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240Nj5mpEd2hz8VvLT0FrQ"
+                  name="시스템 보안 아키텍쳐 구성요소 및 설계방안 정의" guid="_240Nj5mpEd2hz8VvLT0FrQ"
+                  presentationName="시스템 보안 아키텍쳐 구성요소 및 설계방안 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NjZmpEd2hz8VvLT0FrQ"
+                  name="인프라 구성요소 정의 및 구성도 작성" guid="_240NjZmpEd2hz8VvLT0FrQ" presentationName="인프라 구성요소 정의 및 구성도 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NjJmpEd2hz8VvLT0FrQ"
+                  name="품질 속성별 설계방안 정의" guid="_240NjJmpEd2hz8VvLT0FrQ" presentationName="품질 속성별 설계방안 정의"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24hSsJmpEd2hz8VvLT0FrQ"
+                name="실행아키텍쳐" guid="_24hSsJmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_24hStZmpEd2hz8VvLT0FrQ"
+                  name="실행아키텍쳐" guid="_24hStZmpEd2hz8VvLT0FrQ" presentationName="실행아키텍쳐"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hStpmpEd2hz8VvLT0FrQ"
+                  name="대상업무(유스케이스) 설계" guid="_24hStpmpEd2hz8VvLT0FrQ" presentationName="대상업무(유스케이스) 설계"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSsZmpEd2hz8VvLT0FrQ"
+                  name="설계자 및 개발자 교육실시 (선택)" guid="_24hSsZmpEd2hz8VvLT0FrQ" presentationName="설계자 및 개발자 교육실시 (선택)"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSspmpEd2hz8VvLT0FrQ"
+                  name="인프라 환경 구축" guid="_24hSspmpEd2hz8VvLT0FrQ" presentationName="인프라 환경 구축"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSs5mpEd2hz8VvLT0FrQ"
+                  name="최소 코딩표준 정의" guid="_24hSs5mpEd2hz8VvLT0FrQ" presentationName="최소 코딩표준 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hSt5mpEd2hz8VvLT0FrQ"
+                  name="코드 개발 및 단위테스트 실시" guid="_24hSt5mpEd2hz8VvLT0FrQ" presentationName="코드 개발 및 단위테스트 실시"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24hStJmpEd2hz8VvLT0FrQ"
+                  name="테스트 시나리오 설계" guid="_24hStJmpEd2hz8VvLT0FrQ" presentationName="테스트 시나리오 설계"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_240NnJmpEd2hz8VvLT0FrQ"
+                name="실행아키텍쳐계획서" guid="_240NnJmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_240NnpmpEd2hz8VvLT0FrQ"
+                  name="실행아키텍쳐계획서" guid="_240NnpmpEd2hz8VvLT0FrQ" presentationName="실행아키텍쳐계획서">
+                <presentation xmi:id="-effte3Ke2EO3_SRAA_Qjug" href="uma://-effte3Ke2EO3_SRAA_Qjug#-effte3Ke2EO3_SRAA_Qjug"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NnZmpEd2hz8VvLT0FrQ"
+                  name="실행 아키텍쳐 구축 대상업무 선정" guid="_240NnZmpEd2hz8VvLT0FrQ" presentationName="실행 아키텍쳐 구축 대상업무 선정"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240Nn5mpEd2hz8VvLT0FrQ"
+                  name="실행 아키텍쳐 목적, 제약사항 및 접근방법 정의" guid="_240Nn5mpEd2hz8VvLT0FrQ"
+                  presentationName="실행 아키텍쳐 목적, 제약사항 및 접근방법 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NoJmpEd2hz8VvLT0FrQ"
+                  name="실행 아키텍쳐 범위 및 업무 선정기준 정의" guid="_240NoJmpEd2hz8VvLT0FrQ" presentationName="실행 아키텍쳐 범위 및 업무 선정기준 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NoZmpEd2hz8VvLT0FrQ"
+                  name="실행 아키텍쳐 수행일정 및 조직 정의" guid="_240NoZmpEd2hz8VvLT0FrQ" presentationName="실행 아키텍쳐 수행일정 및 조직 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NopmpEd2hz8VvLT0FrQ"
+                  name="실행 아키텍쳐 수행환경 정의" guid="_240NopmpEd2hz8VvLT0FrQ" presentationName="실행 아키텍쳐 수행환경 정의"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24rDkZmpEd2hz8VvLT0FrQ"
+                name="실행아키텍쳐구축결과서" guid="_24rDkZmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_24rDlpmpEd2hz8VvLT0FrQ"
+                  name="실행아키텍쳐구축결과서" guid="_24rDlpmpEd2hz8VvLT0FrQ" presentationName="실행아키텍쳐구축결과서">
+                <presentation xmi:id="-DwpQCT8GTO5Am3OdfAnRlg" href="uma://-DwpQCT8GTO5Am3OdfAnRlg#-DwpQCT8GTO5Am3OdfAnRlg"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDlZmpEd2hz8VvLT0FrQ"
+                  name="개선사항 도출 및 조치" guid="_24rDlZmpEd2hz8VvLT0FrQ" presentationName="개선사항 도출 및 조치"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDk5mpEd2hz8VvLT0FrQ"
+                  name="실행 아키텍쳐 구축결과 정리" guid="_24rDk5mpEd2hz8VvLT0FrQ" presentationName="실행 아키텍쳐 구축결과 정리"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDlJmpEd2hz8VvLT0FrQ"
+                  name="테스트 데이터 구성" guid="_24rDlJmpEd2hz8VvLT0FrQ" presentationName="테스트 데이터 구성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDkpmpEd2hz8VvLT0FrQ"
+                  name="테스트 시나리오 준거 테스트" guid="_24rDkpmpEd2hz8VvLT0FrQ" presentationName="테스트 시나리오 준거 테스트"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25HvgpmpEd2hz8VvLT0FrQ"
+                name="아키텍쳐설계방향정의서" guid="_25HvgpmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25HvhpmpEd2hz8VvLT0FrQ"
+                  name="아키텍쳐설계방향정의서" guid="_25HvhpmpEd2hz8VvLT0FrQ" presentationName="아키텍쳐설계방향정의서">
+                <presentation xmi:id="-NSyff0P8LYmIoGEdE5rB2w" href="uma://-NSyff0P8LYmIoGEdE5rB2w#-NSyff0P8LYmIoGEdE5rB2w"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvhZmpEd2hz8VvLT0FrQ"
+                  name="설계방안의 근거 정리" guid="_25HvhZmpEd2hz8VvLT0FrQ" presentationName="설계방안의 근거 정리"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvipmpEd2hz8VvLT0FrQ"
+                  name="아키텍쳐 고려사항 항목 정의" guid="_25HvipmpEd2hz8VvLT0FrQ" presentationName="아키텍쳐 고려사항 항목 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hvg5mpEd2hz8VvLT0FrQ"
+                  name="아키텍쳐 다이어그램 작성" guid="_25Hvg5mpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;선택>>"
+                  presentationName="아키텍쳐 다이어그램 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HviZmpEd2hz8VvLT0FrQ"
+                  name="아키텍쳐 설계 방향 및 위험항목 정의" guid="_25HviZmpEd2hz8VvLT0FrQ" presentationName="아키텍쳐 설계 방향 및 위험항목 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvhJmpEd2hz8VvLT0FrQ"
+                  name="아키텍쳐 영향 요구사항 식별" guid="_25HvhJmpEd2hz8VvLT0FrQ" presentationName="아키텍쳐 영향 요구사항 식별"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HviJmpEd2hz8VvLT0FrQ"
+                  name="아키텍쳐 이슈 도출 및 영역 정의" guid="_25HviJmpEd2hz8VvLT0FrQ" presentationName="아키텍쳐 이슈 도출 및 영역 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hvh5mpEd2hz8VvLT0FrQ"
+                  name="요구사항별 아키텍쳐 고려사항 항목 식별" guid="_25Hvh5mpEd2hz8VvLT0FrQ" presentationName="요구사항별 아키텍쳐 고려사항 항목 식별"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24rDq5mpEd2hz8VvLT0FrQ"
+                name="어플리케이션" guid="_24rDq5mpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_24rDrZmpEd2hz8VvLT0FrQ"
+                  name="어플리케이션" guid="_24rDrZmpEd2hz8VvLT0FrQ" presentationName="어플리케이션"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDr5mpEd2hz8VvLT0FrQ"
+                  name="릴리이즈 일정, 소스코드 및 소프트웨어 설치" guid="_24rDr5mpEd2hz8VvLT0FrQ" presentationName="릴리이즈 일정, 소스코드 및 소프트웨어 설치"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDrJmpEd2hz8VvLT0FrQ"
+                  name="설치 기본환경 준비" guid="_24rDrJmpEd2hz8VvLT0FrQ" presentationName="설치 기본환경 준비"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDsJmpEd2hz8VvLT0FrQ"
+                  name="설치 소스코드 및 소프트웨어 목록 확인" guid="_24rDsJmpEd2hz8VvLT0FrQ" presentationName="설치 소스코드 및 소프트웨어 목록 확인"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDrpmpEd2hz8VvLT0FrQ"
+                  name="소스코드 및 소프트웨어의 정상동작 유무 확인" guid="_24rDrpmpEd2hz8VvLT0FrQ" presentationName="New Task"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDsZmpEd2hz8VvLT0FrQ"
+                  name="어플리케이션 소프트웨어 및 데이터베이스의 백업 확인" guid="_24rDsZmpEd2hz8VvLT0FrQ"
+                  presentationName="어플리케이션 소프트웨어 및 데이터베이스의 백업 확인"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_24rDv5mpEd2hz8VvLT0FrQ"
+                name="어플리케이션아키텍쳐설계서" guid="_24rDv5mpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_24rDxJmpEd2hz8VvLT0FrQ"
+                  name="어플리케이션아키텍쳐설계서" guid="_24rDxJmpEd2hz8VvLT0FrQ" presentationName="어플리케이션아키텍쳐설계서">
+                <presentation xmi:id="-Pbiz1UpwWQitGJDTdFfVQw" href="uma://-Pbiz1UpwWQitGJDTdFfVQw#-Pbiz1UpwWQitGJDTdFfVQw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDw5mpEd2hz8VvLT0FrQ"
+                  name="어플리케이션 아키텍쳐 구성요소별 통합하여 정합성 검토" guid="_24rDw5mpEd2hz8VvLT0FrQ"
+                  presentationName="어플리케이션 아키텍쳐 구성요소별 통합하여 정합성 검토"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDwpmpEd2hz8VvLT0FrQ"
+                  name="어플리케이션 아키텍쳐 및 구성요소 설계방안 정의" guid="_24rDwpmpEd2hz8VvLT0FrQ"
+                  presentationName="어플리케이션 아키텍쳐 및 구성요소 설계방안 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDwZmpEd2hz8VvLT0FrQ"
+                  name="어플리케이션 아키텍쳐 설계 매커니즘 정의" guid="_24rDwZmpEd2hz8VvLT0FrQ" presentationName="어플리케이션 아키텍쳐 설계 매커니즘 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_24rDwJmpEd2hz8VvLT0FrQ"
+                  name="타 아키텍쳐와의 상호 정합성 검토" guid="_24rDwJmpEd2hz8VvLT0FrQ" presentationName="타 아키텍쳐와의 상호 정합성 검토"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_240NhJmpEd2hz8VvLT0FrQ"
+                name="인터뷰결과서" guid="_240NhJmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NhZmpEd2hz8VvLT0FrQ"
+                  name="상세정보 필요 요구사항 도출" guid="_240NhZmpEd2hz8VvLT0FrQ" presentationName="상세정보 필요 요구사항 도출"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NiZmpEd2hz8VvLT0FrQ"
+                  name="인터뷰 결과 정리" guid="_240NiZmpEd2hz8VvLT0FrQ" presentationName="인터뷰 결과 정리"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240NiJmpEd2hz8VvLT0FrQ"
+                  name="인터뷰 계획 수립" guid="_240NiJmpEd2hz8VvLT0FrQ" presentationName="인터뷰 계획 수립"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_240Nh5mpEd2hz8VvLT0FrQ"
+                  name="인터뷰 실시" guid="_240Nh5mpEd2hz8VvLT0FrQ" presentationName="인터뷰 실시"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_240NhpmpEd2hz8VvLT0FrQ"
+                  name="인터뷰결과서" guid="_240NhpmpEd2hz8VvLT0FrQ" presentationName="인터뷰결과서">
+                <presentation xmi:id="-QHTTCuF6352GBA3qV45WEw" href="uma://-QHTTCuF6352GBA3qV45WEw#-QHTTCuF6352GBA3qV45WEw"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Hvi5mpEd2hz8VvLT0FrQ"
+                name="컴포넌트명세서" guid="_25Hvi5mpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25HvjJmpEd2hz8VvLT0FrQ"
+                  name="컴포넌트명세서" guid="_25HvjJmpEd2hz8VvLT0FrQ" presentationName="컴포넌트명세서">
+                <presentation xmi:id="-gwgf-7LHr8OE2Jz0Ieyb3Q" href="uma://-gwgf-7LHr8OE2Jz0Ieyb3Q#-gwgf-7LHr8OE2Jz0Ieyb3Q"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hvj5mpEd2hz8VvLT0FrQ"
+                  name="컴포넌트 개요 작성" guid="_25Hvj5mpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="컴포넌트 개요 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvjpmpEd2hz8VvLT0FrQ"
+                  name="컴포넌트 유형 작성" guid="_25HvjpmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="컴포넌트 유형 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvkJmpEd2hz8VvLT0FrQ"
+                  name="컴포넌트명 작성" guid="_25HvkJmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="컴포넌트명 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvjZmpEd2hz8VvLT0FrQ"
+                  name="provided interface 작성" guid="_25HvjZmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="provided interface 작성"/>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25HvkZmpEd2hz8VvLT0FrQ"
+              name="데이터모델" guid="_25HvkZmpEd2hz8VvLT0FrQ">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25HvzpmpEd2hz8VvLT0FrQ"
+                name="ERD" guid="_25HvzpmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25Hv0ZmpEd2hz8VvLT0FrQ"
+                  name="ERD" guid="_25Hv0ZmpEd2hz8VvLT0FrQ" presentationName="ERD">
+                <presentation xmi:id="-ZpNwRW5L8ZHcrTUPt9-ypw" href="uma://-ZpNwRW5L8ZHcrTUPt9-ypw#-ZpNwRW5L8ZHcrTUPt9-ypw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hv0JmpEd2hz8VvLT0FrQ"
+                  name="주제영역명 기술" guid="_25Hv0JmpEd2hz8VvLT0FrQ" presentationName="주제영역명 기술"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hv05mpEd2hz8VvLT0FrQ"
+                  name="ERD(논리) 작성" guid="_25Hv05mpEd2hz8VvLT0FrQ" presentationName="ERD(논리) 작성"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hvz5mpEd2hz8VvLT0FrQ"
+                  name="시스템 사용의 엔티티 도출" guid="_25Hvz5mpEd2hz8VvLT0FrQ" presentationName="시스템 사용의 엔티티 도출"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hv0pmpEd2hz8VvLT0FrQ"
+                  name="업무별 세부 주제 영역 분류" guid="_25Hv0pmpEd2hz8VvLT0FrQ" presentationName="업무별 세부 주제 영역 분류"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hv1pmpEd2hz8VvLT0FrQ"
+                  name="업무별 세부 주제영역 검토 (선택)" guid="_25Hv1pmpEd2hz8VvLT0FrQ" presentationName="업무별 세부 주제영역 검토 (선택)"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hv1ZmpEd2hz8VvLT0FrQ"
+                  name="ERD(논리) 의 ERD(물리)로 전환" guid="_25Hv1ZmpEd2hz8VvLT0FrQ" presentationName="ERD(논리) 의 ERD(물리)로 전환"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hv1JmpEd2hz8VvLT0FrQ"
+                  name="성능 고려 물리데이터모델 튜닝" guid="_25Hv1JmpEd2hz8VvLT0FrQ" presentationName="성능 고려 물리데이터모델 튜닝"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25HvkpmpEd2hz8VvLT0FrQ"
+                name="데이터코드목록" guid="_25HvkpmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25HvlJmpEd2hz8VvLT0FrQ"
+                  name="데이터코드목록" guid="_25HvlJmpEd2hz8VvLT0FrQ" presentationName="데이터코드목록">
+                <presentation xmi:id="-K0kU75MlpCC_vEZWOvtmPA" href="uma://-K0kU75MlpCC_vEZWOvtmPA#-K0kU75MlpCC_vEZWOvtmPA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hvk5mpEd2hz8VvLT0FrQ"
+                  name="코드구분외 작성항목 기재" guid="_25Hvk5mpEd2hz8VvLT0FrQ" presentationName="코드구분외 작성항목 기재"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Hvq5mpEd2hz8VvLT0FrQ"
+                name="데이터코드정의서" guid="_25Hvq5mpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25HvrZmpEd2hz8VvLT0FrQ"
+                  name="데이터코드정의서" guid="_25HvrZmpEd2hz8VvLT0FrQ" presentationName="데이터코드정의서">
+                <presentation xmi:id="-JGfmpQgTKiwDhn70ihqxYw" href="uma://-JGfmpQgTKiwDhn70ihqxYw#-JGfmpQgTKiwDhn70ihqxYw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvrJmpEd2hz8VvLT0FrQ"
+                  name="코드분류명 등 작성항목 기재" guid="_25HvrJmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="코드분류명 등 작성항목 기재"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25HvpZmpEd2hz8VvLT0FrQ"
+                name="컨버전설계서" guid="_25HvpZmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25HvqJmpEd2hz8VvLT0FrQ"
+                  name="컨버전설계서" guid="_25HvqJmpEd2hz8VvLT0FrQ" presentationName="컨버전설계서">
+                <presentation xmi:id="-e9EkGBSiZLWsqUmAg3u0Ew" href="uma://-e9EkGBSiZLWsqUmAg3u0Ew#-e9EkGBSiZLWsqUmAg3u0Ew"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hvp5mpEd2hz8VvLT0FrQ"
+                  name="관련 작성항목 기재" guid="_25Hvp5mpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="관련 작성항목 기재"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvppmpEd2hz8VvLT0FrQ"
+                  name="매핑 불가의 테이블 및 컬럼의 자료구축방안 수립" guid="_25HvppmpEd2hz8VvLT0FrQ"
+                  briefDescription="&lt;&lt;스탭>>" presentationName="매핑 불가의 테이블 및 컬럼의 자료구축방안 수립"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvqZmpEd2hz8VvLT0FrQ"
+                  name="컨버전에서 제외 데이터의 고객 확인 및 승인" guid="_25HvqZmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;스탭>>"
+                  presentationName="컨버전에서 제외 데이터의 고객 확인 및 승인"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvqpmpEd2hz8VvLT0FrQ"
+                  name="컬럼매핑 및 테이블 단위의 컨버전 설계서 작성" guid="_25HvqpmpEd2hz8VvLT0FrQ"
+                  briefDescription="&lt;&lt;스탭>>" presentationName="컬럼매핑 및 테이블 단위의 컨버전 설계서 작성"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25HvoZmpEd2hz8VvLT0FrQ"
+                name="테이블매핑정의서" guid="_25HvoZmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25Hvo5mpEd2hz8VvLT0FrQ"
+                  name="테이블매핑정의서" guid="_25Hvo5mpEd2hz8VvLT0FrQ" presentationName="테이블매핑정의서">
+                <presentation xmi:id="-opgHSQmyqIm6YFx_SyA9WQ" href="uma://-opgHSQmyqIm6YFx_SyA9WQ#-opgHSQmyqIm6YFx_SyA9WQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvpJmpEd2hz8VvLT0FrQ"
+                  name="관련 작성항목 기재" guid="_25HvpJmpEd2hz8VvLT0FrQ" presentationName="관련 작성항목 기재"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvopmpEd2hz8VvLT0FrQ"
+                  name="신 시스템 기준의 테이블매핑 정의" guid="_25HvopmpEd2hz8VvLT0FrQ" presentationName="신 시스템 기준의 테이블매핑 정의"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25HvrpmpEd2hz8VvLT0FrQ"
+                name="테이블목록" guid="_25HvrpmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25HvsJmpEd2hz8VvLT0FrQ"
+                  name="테이블목록" guid="_25HvsJmpEd2hz8VvLT0FrQ" presentationName="테이블목록">
+                <presentation xmi:id="-hwWVt50GmVMo5KUMJ7NSRg" href="uma://-hwWVt50GmVMo5KUMJ7NSRg#-hwWVt50GmVMo5KUMJ7NSRg"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvsZmpEd2hz8VvLT0FrQ"
+                  name="코드화 대상 데이터항목 추출" guid="_25HvsZmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;스탭>>"
+                  presentationName="코드화 대상 데이터항목 추출"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hvr5mpEd2hz8VvLT0FrQ"
+                  name="테이블명외 작성항목 기재" guid="_25Hvr5mpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="테이블명외 작성항목 기재"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Hvx5mpEd2hz8VvLT0FrQ"
+                name="테이블정의서" guid="_25Hvx5mpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25HvzZmpEd2hz8VvLT0FrQ"
+                  name="테이블정의서" guid="_25HvzZmpEd2hz8VvLT0FrQ" presentationName="테이블정의서">
+                <presentation xmi:id="-_7xY5an-_PcCb_6prqWaiA" href="uma://-_7xY5an-_PcCb_6prqWaiA#-_7xY5an-_PcCb_6prqWaiA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvyZmpEd2hz8VvLT0FrQ"
+                  name="컬럼별 데이터타입 결정" guid="_25HvyZmpEd2hz8VvLT0FrQ" presentationName="컬럼별 데이터타입 결정"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvypmpEd2hz8VvLT0FrQ"
+                  name="코드별 분류코드 설계" guid="_25HvypmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;스탭>>"
+                  presentationName="코드별 분류코드 설계"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvyJmpEd2hz8VvLT0FrQ"
+                  name="테이블명 등 작성항목 기재" guid="_25HvyJmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="테이블명 등 작성항목 기재"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvzJmpEd2hz8VvLT0FrQ"
+                  name="통합코드와 단독코드 분류" guid="_25HvzJmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;스탭>>"
+                  presentationName="통합코드와 단독코드 분류"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hvy5mpEd2hz8VvLT0FrQ"
+                  name="표준코드도메인의 데이터아키텍쳐설계서 준수 확인" guid="_25Hvy5mpEd2hz8VvLT0FrQ"
+                  presentationName="표준코드도메인의 데이터아키텍쳐설계서 준수 확인"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Hv4pmpEd2hz8VvLT0FrQ"
+                name="기존시스템데이터" guid="_25Hv4pmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25Hv45mpEd2hz8VvLT0FrQ"
+                  name="기존시스템데이터" guid="_25Hv45mpEd2hz8VvLT0FrQ" presentationName="기존시스템데이터"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25HvxZmpEd2hz8VvLT0FrQ"
+                name="데이터베이스" guid="_25HvxZmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25HvxpmpEd2hz8VvLT0FrQ"
+                  name="데이터베이스" guid="_25HvxpmpEd2hz8VvLT0FrQ" presentationName="데이터베이스"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Hvn5mpEd2hz8VvLT0FrQ"
+                name="데이터목록" guid="_25Hvn5mpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25HvoJmpEd2hz8VvLT0FrQ"
+                  name="데이터목록" guid="_25HvoJmpEd2hz8VvLT0FrQ" presentationName="데이터목록"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Hvm5mpEd2hz8VvLT0FrQ"
+                name="데이터아키텍쳐설계서" guid="_25Hvm5mpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25HvnpmpEd2hz8VvLT0FrQ"
+                  name="데이터아키텍쳐설계서" guid="_25HvnpmpEd2hz8VvLT0FrQ" presentationName="데이터아키텍쳐설계서">
+                <presentation xmi:id="-V7nfyHmLGhabnB3naI07OQ" href="uma://-V7nfyHmLGhabnB3naI07OQ#-V7nfyHmLGhabnB3naI07OQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvnJmpEd2hz8VvLT0FrQ"
+                  name="데이터 아키텍쳐 뷰 정의" guid="_25HvnJmpEd2hz8VvLT0FrQ" presentationName="데이터 아키텍쳐 뷰 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvnZmpEd2hz8VvLT0FrQ"
+                  name="데이터 아키텍쳐의 설계 매커니즘 정의" guid="_25HvnZmpEd2hz8VvLT0FrQ" presentationName="데이터 아키텍쳐의 설계 매커니즘 정의"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25HvlZmpEd2hz8VvLT0FrQ"
+                name="자료사전" guid="_25HvlZmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25HvmZmpEd2hz8VvLT0FrQ"
+                  name="자료사전" guid="_25HvmZmpEd2hz8VvLT0FrQ" presentationName="자료사전">
+                <presentation xmi:id="-an1OjJc48R2JfUzHv7WsJA" href="uma://-an1OjJc48R2JfUzHv7WsJA#-an1OjJc48R2JfUzHv7WsJA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvlpmpEd2hz8VvLT0FrQ"
+                  name="데이터아키텍쳐설계서의 데이터표준화 방안 확인" guid="_25HvlpmpEd2hz8VvLT0FrQ" presentationName="데이터아키텍쳐설계서의 데이터표준화 방안 확인"
+                  mandatoryInput="_25HvnpmpEd2hz8VvLT0FrQ"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hvl5mpEd2hz8VvLT0FrQ"
+                  name="자료사전의 데이터 아키텍쳐설계서내 데이터표준 준수 확인" guid="_25Hvl5mpEd2hz8VvLT0FrQ"
+                  presentationName="자료사전의 데이터 아키텍쳐설계서내 데이터표준 준수 확인"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvmpmpEd2hz8VvLT0FrQ"
+                  name="추가 속성의 자료사전 추가" guid="_25HvmpmpEd2hz8VvLT0FrQ" presentationName="추가 속성의 자료사전 추가"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvmJmpEd2hz8VvLT0FrQ"
+                  name="현행 DB의 속성 추출하여 자료사전 작성" guid="_25HvmJmpEd2hz8VvLT0FrQ" presentationName="현행 DB의 속성 추출하여 자료사전 작성"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25HvuZmpEd2hz8VvLT0FrQ"
+                name="정비된데이터" guid="_25HvuZmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25HvupmpEd2hz8VvLT0FrQ"
+                  name="정비된데이터" guid="_25HvupmpEd2hz8VvLT0FrQ" presentationName="정비된데이터"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Hv15mpEd2hz8VvLT0FrQ"
+                name="컨버전계획서" guid="_25Hv15mpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25Hv2JmpEd2hz8VvLT0FrQ"
+                  name="컨버전계획서" guid="_25Hv2JmpEd2hz8VvLT0FrQ" presentationName="컨버전계획서">
+                <presentation xmi:id="-zSljn-OH9uKxx9sgsMhUvA" href="uma://-zSljn-OH9uKxx9sgsMhUvA#-zSljn-OH9uKxx9sgsMhUvA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hv2pmpEd2hz8VvLT0FrQ"
+                  name="데이터 컨버전 수행전략 도출" guid="_25Hv2pmpEd2hz8VvLT0FrQ" presentationName="데이터 컨버전 수행전략 도출"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hv4ZmpEd2hz8VvLT0FrQ"
+                  name="모의 컨버젼 대상, 일정 및 계획 수립" guid="_25Hv4ZmpEd2hz8VvLT0FrQ" presentationName="모의 컨버젼 대상, 일정 및 계획 수립"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hv4JmpEd2hz8VvLT0FrQ"
+                  name="오류발생 대비 정비계획 수립" guid="_25Hv4JmpEd2hz8VvLT0FrQ" presentationName="오류발생 대비 정비계획 수립"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hv35mpEd2hz8VvLT0FrQ"
+                  name="컨버젼 관련 조직의 역할 및 책임 정의" guid="_25Hv35mpEd2hz8VvLT0FrQ" presentationName="컨버젼 관련 조직의 역할 및 책임 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hv25mpEd2hz8VvLT0FrQ"
+                  name="컨버면 대상 및 범위를 확정" guid="_25Hv25mpEd2hz8VvLT0FrQ" presentationName="컨버면 대상 및 범위를 확정"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hv2ZmpEd2hz8VvLT0FrQ"
+                  name="컨버전 데이터의 검증방법 수립" guid="_25Hv2ZmpEd2hz8VvLT0FrQ" presentationName="컨버전 데이터의 검증방법 수립"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hv3JmpEd2hz8VvLT0FrQ"
+                  name="컨버전 수행환경과 기술요소 정의" guid="_25Hv3JmpEd2hz8VvLT0FrQ" presentationName="컨버전 수행환경과 기술요소 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hv3ZmpEd2hz8VvLT0FrQ"
+                  name="컨버전 실패시 비상 및 복구계획 수립" guid="_25Hv3ZmpEd2hz8VvLT0FrQ" presentationName="컨버전 실패시 비상 및 복구계획 수립"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hv3pmpEd2hz8VvLT0FrQ"
+                  name="컨버전 일정 및 담당자 지정" guid="_25Hv3pmpEd2hz8VvLT0FrQ" presentationName="컨버전 일정 및 담당자 지정"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Hvv5mpEd2hz8VvLT0FrQ"
+                name="컨버전대상목록" guid="_25Hvv5mpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25Hvw5mpEd2hz8VvLT0FrQ"
+                  name="컨버전대상목록" guid="_25Hvw5mpEd2hz8VvLT0FrQ" presentationName="컨버전대상목록">
+                <presentation xmi:id="-CmD7ilwMYoIe_oLwdqpOiw" href="uma://-CmD7ilwMYoIe_oLwdqpOiw#-CmD7ilwMYoIe_oLwdqpOiw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvwpmpEd2hz8VvLT0FrQ"
+                  name="데이터 성격 분류" guid="_25HvwpmpEd2hz8VvLT0FrQ" presentationName="데이터 성격 분류"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvwJmpEd2hz8VvLT0FrQ"
+                  name="지속적 전환대상 자료 식별" guid="_25HvwJmpEd2hz8VvLT0FrQ" presentationName="지속적 전환대상 자료 식별"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvxJmpEd2hz8VvLT0FrQ"
+                  name="컨버전 대상 데이터의 고객과 확인" guid="_25HvxJmpEd2hz8VvLT0FrQ" presentationName="컨버전 대상 데이터의 고객과 확인"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvwZmpEd2hz8VvLT0FrQ"
+                  name="현행분석서 기반 데이터목록 작성" guid="_25HvwZmpEd2hz8VvLT0FrQ" presentationName="현행분석서 기반 데이터목록 작성"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25HvspmpEd2hz8VvLT0FrQ"
+                name="컨버전된데이터" guid="_25HvspmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25HvtpmpEd2hz8VvLT0FrQ"
+                  name="컨버전된데이터" guid="_25HvtpmpEd2hz8VvLT0FrQ" presentationName="컨버전된데이터"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hvt5mpEd2hz8VvLT0FrQ"
+                  name="구 데이터 백업" guid="_25Hvt5mpEd2hz8VvLT0FrQ" presentationName="구 데이터 백업"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvtJmpEd2hz8VvLT0FrQ"
+                  name="컨버전 결과의 정확성 확인" guid="_25HvtJmpEd2hz8VvLT0FrQ" presentationName="컨버전 결과의 정확성 확인"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hvs5mpEd2hz8VvLT0FrQ"
+                  name="컨버전 대상 데이터 목록, 범위 및 방법을 확인" guid="_25Hvs5mpEd2hz8VvLT0FrQ"
+                  presentationName="컨버전 대상 데이터 목록, 범위 및 방법을 확인"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvuJmpEd2hz8VvLT0FrQ"
+                  name="컨버전 데이터의 신 시스템으로 이관" guid="_25HvuJmpEd2hz8VvLT0FrQ" presentationName="컨버전 데이터의 신 시스템으로 이관"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvtZmpEd2hz8VvLT0FrQ"
+                  name="컨버전용 프로그램 수행" guid="_25HvtZmpEd2hz8VvLT0FrQ" presentationName="컨버전용 프로그램 수행"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Hvu5mpEd2hz8VvLT0FrQ"
+                name="코드매핑정의서" guid="_25Hvu5mpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25HvvZmpEd2hz8VvLT0FrQ"
+                  name="코드매핑정의서" guid="_25HvvZmpEd2hz8VvLT0FrQ" presentationName="코드매핑정의서">
+                <presentation xmi:id="-Bx_3QVw1OPSeSM8utMpA2Q" href="uma://-Bx_3QVw1OPSeSM8utMpA2Q#-Bx_3QVw1OPSeSM8utMpA2Q"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvvJmpEd2hz8VvLT0FrQ"
+                  name="신,구 시스템의 코드자료 매핑" guid="_25HvvJmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;스탭>>"
+                  presentationName="신,구 시스템의 코드자료 매핑"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25HvvpmpEd2hz8VvLT0FrQ"
+                  name="작성항목 기재" guid="_25HvvpmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="작성항목 기재"/>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Hv5JmpEd2hz8VvLT0FrQ"
+              name="사용자인터페이스모델" guid="_25Hv5JmpEd2hz8VvLT0FrQ">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Q5fJmpEd2hz8VvLT0FrQ"
+                name="배치목록" guid="_25Q5fJmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25Q5gpmpEd2hz8VvLT0FrQ"
+                  name="배치목록" guid="_25Q5gpmpEd2hz8VvLT0FrQ" presentationName="배치목록">
+                <presentation xmi:id="-VzxWQ78cZRDP20M8BN8uHw" href="uma://-VzxWQ78cZRDP20M8BN8uHw#-VzxWQ78cZRDP20M8BN8uHw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5hZmpEd2hz8VvLT0FrQ"
+                  name="배치(일괄) 기능 식별 후, 배치목록 작성(선택)" guid="_25Q5hZmpEd2hz8VvLT0FrQ"
+                  presentationName="배치(일괄) 기능 식별 후, 배치목록 작성(선택)"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5fZmpEd2hz8VvLT0FrQ"
+                  name="배치(일괄) 기능 식별 후, 배치목록 작성 (옵션)" guid="_25Q5fZmpEd2hz8VvLT0FrQ"
+                  presentationName="배치(일괄) 기능 식별 후, 배치목록 작성 (옵션)"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5gJmpEd2hz8VvLT0FrQ"
+                  name="배치ID 기술" guid="_25Q5gJmpEd2hz8VvLT0FrQ" presentationName="배치ID 기술"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5f5mpEd2hz8VvLT0FrQ"
+                  name="배치명 및 설명 기술" guid="_25Q5f5mpEd2hz8VvLT0FrQ" presentationName="배치명 및 설명 기술"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5gZmpEd2hz8VvLT0FrQ"
+                  name="배치유형 정의" guid="_25Q5gZmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="배치유형 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5hJmpEd2hz8VvLT0FrQ"
+                  name="선행작업 기술" guid="_25Q5hJmpEd2hz8VvLT0FrQ" presentationName="선행작업 기술"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5g5mpEd2hz8VvLT0FrQ"
+                  name="유스케이스 ID 기재" guid="_25Q5g5mpEd2hz8VvLT0FrQ" presentationName="유스케이스 ID 기재"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5fpmpEd2hz8VvLT0FrQ"
+                  name="작업일시, 작업주기 및 처리시간 기재" guid="_25Q5fpmpEd2hz8VvLT0FrQ" presentationName="작업일시, 작업주기 및 처리시간 기재"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Q5pJmpEd2hz8VvLT0FrQ"
+                name="배치프로그램명세서" guid="_25Q5pJmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25Q5ppmpEd2hz8VvLT0FrQ"
+                  name="배치프로그램명세서" guid="_25Q5ppmpEd2hz8VvLT0FrQ" presentationName="배치프로그램명세서">
+                <presentation xmi:id="-r9yqcHfBgvW11HYnZ0OEyw" href="uma://-r9yqcHfBgvW11HYnZ0OEyw#-r9yqcHfBgvW11HYnZ0OEyw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5qZmpEd2hz8VvLT0FrQ"
+                  name="관련 배치ID 기재" guid="_25Q5qZmpEd2hz8VvLT0FrQ" presentationName="관련 배치ID 기재"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5p5mpEd2hz8VvLT0FrQ"
+                  name="입출력 데이터 명시" guid="_25Q5p5mpEd2hz8VvLT0FrQ" presentationName="입출력 데이터 명시"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5pZmpEd2hz8VvLT0FrQ"
+                  name="처리로직 기술" guid="_25Q5pZmpEd2hz8VvLT0FrQ" presentationName="처리로직 기술"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5qJmpEd2hz8VvLT0FrQ"
+                  name="프로그램 개요 및 ID 기술" guid="_25Q5qJmpEd2hz8VvLT0FrQ" presentationName="프로그램 개요 및 ID 기술"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Q5qpmpEd2hz8VvLT0FrQ"
+                name="보고서목록" guid="_25Q5qpmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25Q5rJmpEd2hz8VvLT0FrQ"
+                  name="보고서목록" guid="_25Q5rJmpEd2hz8VvLT0FrQ" presentationName="보고서목록">
+                <presentation xmi:id="-y_FQQhd2rKyGKQ9HUm6MFA" href="uma://-y_FQQhd2rKyGKQ9HUm6MFA#-y_FQQhd2rKyGKQ9HUm6MFA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5q5mpEd2hz8VvLT0FrQ"
+                  name="보고서 화면목록 작성" guid="_25Q5q5mpEd2hz8VvLT0FrQ" presentationName="보고서 화면목록 작성"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Q5cJmpEd2hz8VvLT0FrQ"
+                name="보고서정의서" guid="_25Q5cJmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25Q5dJmpEd2hz8VvLT0FrQ"
+                  name="보고서정의서" guid="_25Q5dJmpEd2hz8VvLT0FrQ" presentationName="보고서정의서">
+                <presentation xmi:id="-uAVrbjuZcXHpsdm7jHxpsg" href="uma://-uAVrbjuZcXHpsdm7jHxpsg#-uAVrbjuZcXHpsdm7jHxpsg"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5c5mpEd2hz8VvLT0FrQ"
+                  name="데이터 출력 양식 결정" guid="_25Q5c5mpEd2hz8VvLT0FrQ" presentationName="데이터 출력 양식 결정"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5cZmpEd2hz8VvLT0FrQ"
+                  name="보고서 작성용 대상 화면 식별" guid="_25Q5cZmpEd2hz8VvLT0FrQ" presentationName="보고서 작성용 대상 화면 식별"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5cpmpEd2hz8VvLT0FrQ"
+                  name="설계 수준의 보고서 작성항목 기재" guid="_25Q5cpmpEd2hz8VvLT0FrQ" briefDescription="&lt;&lt;추가>>"
+                  presentationName="설계 수준의 보고서 작성항목 기재"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Q5hpmpEd2hz8VvLT0FrQ"
+                name="화면목록" guid="_25Q5hpmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25Q5iZmpEd2hz8VvLT0FrQ"
+                  name="화면목록" guid="_25Q5iZmpEd2hz8VvLT0FrQ" presentationName="화면목록">
+                <presentation xmi:id="-KC98PTFGsvd5UWnUdyeoRg" href="uma://-KC98PTFGsvd5UWnUdyeoRg#-KC98PTFGsvd5UWnUdyeoRg"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5iJmpEd2hz8VvLT0FrQ"
+                  name="필요 화면 도출" guid="_25Q5iJmpEd2hz8VvLT0FrQ" presentationName="필요 화면 도출"
+                  mandatoryInput="_25Q5j5mpEd2hz8VvLT0FrQ"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5h5mpEd2hz8VvLT0FrQ"
+                  name="화면 목록 작성" guid="_25Q5h5mpEd2hz8VvLT0FrQ" presentationName="화면 목록 작성"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Hv5ZmpEd2hz8VvLT0FrQ"
+                name="네비게이션정의서" guid="_25Hv5ZmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25Hv55mpEd2hz8VvLT0FrQ"
+                  name="네비게이션정의서" guid="_25Hv55mpEd2hz8VvLT0FrQ" presentationName="네비게이션정의서">
+                <presentation xmi:id="-ff7jNpcyaU0TWJOuXoH-hw" href="uma://-ff7jNpcyaU0TWJOuXoH-hw#-ff7jNpcyaU0TWJOuXoH-hw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hv6JmpEd2hz8VvLT0FrQ"
+                  name="이벤트 기반의 다음 화면 식별" guid="_25Hv6JmpEd2hz8VvLT0FrQ" presentationName="이벤트 기반의 다음 화면 식별"
+                  mandatoryInput="_25Q5j5mpEd2hz8VvLT0FrQ"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Hv5pmpEd2hz8VvLT0FrQ"
+                  name="이벤트, 조건, 화면 전환시 전달 데이터 기재" guid="_25Hv5pmpEd2hz8VvLT0FrQ"
+                  presentationName="이벤트, 조건, 화면 전환시 전달 데이터 기재"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Q5dZmpEd2hz8VvLT0FrQ"
+                name="메뉴구조도" guid="_25Q5dZmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25Q5e5mpEd2hz8VvLT0FrQ"
+                  name="메뉴구조도" guid="_25Q5e5mpEd2hz8VvLT0FrQ" presentationName="메뉴구조도">
+                <presentation xmi:id="-_pflddgqF7-yienF4heIIA" href="uma://-_pflddgqF7-yienF4heIIA#-_pflddgqF7-yienF4heIIA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5d5mpEd2hz8VvLT0FrQ"
+                  name="권한별 메뉴구조 정의" guid="_25Q5d5mpEd2hz8VvLT0FrQ" presentationName="권한별 메뉴구조 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5epmpEd2hz8VvLT0FrQ"
+                  name="분류된 기능과 메뉴 구조를 매핑" guid="_25Q5epmpEd2hz8VvLT0FrQ" presentationName="분류된 기능과 메뉴 구조를 매핑"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5eJmpEd2hz8VvLT0FrQ"
+                  name="사용자가 시스템 요구 파악" guid="_25Q5eJmpEd2hz8VvLT0FrQ" presentationName="사용자가 시스템 요구 파악"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5eZmpEd2hz8VvLT0FrQ"
+                  name="전체 정보 분류 및 메뉴구조의 깊이 결정" guid="_25Q5eZmpEd2hz8VvLT0FrQ" presentationName="전체 정보 분류 및 메뉴구조의 깊이 결정"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5dpmpEd2hz8VvLT0FrQ"
+                  name="패턴 및 편의성 기반의 메뉴구조 조정" guid="_25Q5dpmpEd2hz8VvLT0FrQ" presentationName="패턴 및 편의성 기반의 메뉴구조 조정"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Q5kJmpEd2hz8VvLT0FrQ"
+                name="화면표준정의서" guid="_25Q5kJmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25Q5k5mpEd2hz8VvLT0FrQ"
+                  name="화면표준정의서" guid="_25Q5k5mpEd2hz8VvLT0FrQ" presentationName="화면표준정의서">
+                <presentation xmi:id="-thG-XiStmy-RwNrdgd4qRw" href="uma://-thG-XiStmy-RwNrdgd4qRw#-thG-XiStmy-RwNrdgd4qRw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5lpmpEd2hz8VvLT0FrQ"
+                  name="메뉴구조의 깊이 결정" guid="_25Q5lpmpEd2hz8VvLT0FrQ" presentationName="메뉴구조의 깊이 결정"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5kpmpEd2hz8VvLT0FrQ"
+                  name="시각적 제약 고려 화면 디자인" guid="_25Q5kpmpEd2hz8VvLT0FrQ" presentationName="시각적 제약 고려 화면 디자인"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5mJmpEd2hz8VvLT0FrQ"
+                  name="업무 유형별 화면 레이아웃 정의" guid="_25Q5mJmpEd2hz8VvLT0FrQ" presentationName="업무 유형별 화면 레이아웃 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5lZmpEd2hz8VvLT0FrQ"
+                  name="업무적 관점의 화면표준 검토" guid="_25Q5lZmpEd2hz8VvLT0FrQ" presentationName="업무적 관점의 화면표준 검토"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5kZmpEd2hz8VvLT0FrQ"
+                  name="이벤트 표준 정의" guid="_25Q5kZmpEd2hz8VvLT0FrQ" presentationName="이벤트 표준 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5lJmpEd2hz8VvLT0FrQ"
+                  name="화면 네비게이션 스타일 정의" guid="_25Q5lJmpEd2hz8VvLT0FrQ" presentationName="화면 네비게이션 스타일 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5l5mpEd2hz8VvLT0FrQ"
+                  name="화면 레이아웃 필요 업무 유형을 정의" guid="_25Q5l5mpEd2hz8VvLT0FrQ" presentationName="화면 레이아웃 필요 업무 유형을 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5mZmpEd2hz8VvLT0FrQ"
+                  name="화면표준의 고객승인" guid="_25Q5mZmpEd2hz8VvLT0FrQ" presentationName="화면표준의 고객승인"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Q5ipmpEd2hz8VvLT0FrQ"
+                name="화면프로토타입" guid="_25Q5ipmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25Q5j5mpEd2hz8VvLT0FrQ"
+                  name="화면프로토타입" guid="_25Q5j5mpEd2hz8VvLT0FrQ" presentationName="화면프로토타입">
+                <presentation xmi:id="-fUtzwk7wmtpHMcm5sekEAA" href="uma://-fUtzwk7wmtpHMcm5sekEAA#-fUtzwk7wmtpHMcm5sekEAA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5jJmpEd2hz8VvLT0FrQ"
+                  name="완성 프로토타입과 요구사항간 반영 검증" guid="_25Q5jJmpEd2hz8VvLT0FrQ" presentationName="완성 프로토타입과 요구사항간 반영 검증"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5jpmpEd2hz8VvLT0FrQ"
+                  name="화면 구성요소, 레이아웃 및 이벤트 정의" guid="_25Q5jpmpEd2hz8VvLT0FrQ" presentationName="화면 구성요소, 레이아웃 및 이벤트 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5jZmpEd2hz8VvLT0FrQ"
+                  name="화면 작성기준 정의" guid="_25Q5jZmpEd2hz8VvLT0FrQ" presentationName="화면 작성기준 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5i5mpEd2hz8VvLT0FrQ"
+                  name="화면 프로토타이핑 대상 선정" guid="_25Q5i5mpEd2hz8VvLT0FrQ" presentationName="화면 프로토타이핑 대상 선정"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Q5mpmpEd2hz8VvLT0FrQ"
+                name="화면정의서" guid="_25Q5mpmpEd2hz8VvLT0FrQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_25Q5opmpEd2hz8VvLT0FrQ"
+                  name="화면정의서" guid="_25Q5opmpEd2hz8VvLT0FrQ" presentationName="화면정의서">
+                <presentation xmi:id="-nu8XSUUEGk5PSVRAGVoYgw" href="uma://-nu8XSUUEGk5PSVRAGVoYgw#-nu8XSUUEGk5PSVRAGVoYgw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5oJmpEd2hz8VvLT0FrQ"
+                  name="화면 레이아웃 정의" guid="_25Q5oJmpEd2hz8VvLT0FrQ" presentationName="화면 레이아웃 정의"
+                  mandatoryInput="_25Q5j5mpEd2hz8VvLT0FrQ _25Q5k5mpEd2hz8VvLT0FrQ"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5npmpEd2hz8VvLT0FrQ"
+                  name="화면 이벤트와 처리로직 정의" guid="_25Q5npmpEd2hz8VvLT0FrQ" presentationName="화면 이벤트와 처리로직 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5n5mpEd2hz8VvLT0FrQ"
+                  name="화면에 대한 레이아웃을 표현" guid="_25Q5n5mpEd2hz8VvLT0FrQ" presentationName="화면에 대한 레이아웃을 표현"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5o5mpEd2hz8VvLT0FrQ"
+                  name="데이터 추출 질의문 정의" guid="_25Q5o5mpEd2hz8VvLT0FrQ" presentationName="데이터 추출 질의문 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5oZmpEd2hz8VvLT0FrQ"
+                  name="데이터 취합방식 결정 및 정의" guid="_25Q5oZmpEd2hz8VvLT0FrQ" presentationName="데이터 취합방식 결정 및 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5nZmpEd2hz8VvLT0FrQ"
+                  name="서버단 클래스 및 오퍼레이션 정의" guid="_25Q5nZmpEd2hz8VvLT0FrQ" presentationName="서버단 클래스 및 오퍼레이션 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5nJmpEd2hz8VvLT0FrQ"
+                  name="컨트롤러의 오퍼레이션 및 데이터 정의" guid="_25Q5nJmpEd2hz8VvLT0FrQ" presentationName="컨트롤러의 오퍼레이션 및 데이터 정의"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5m5mpEd2hz8VvLT0FrQ"
+                  name="화면 관련 구성요소 정의" guid="_25Q5m5mpEd2hz8VvLT0FrQ" presentationName="화면 관련 구성요소 정의"/>
+            </childPackages>
+          </childPackages>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Q5rZmpEd2hz8VvLT0FrQ"
+            name="2. 메소드 컴포넌트" guid="_25Q5rZmpEd2hz8VvLT0FrQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Q5rpmpEd2hz8VvLT0FrQ"
+              name="OOCBD" guid="_25Q5rpmpEd2hz8VvLT0FrQ">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Q5r5mpEd2hz8VvLT0FrQ"
+                name="분석모델" guid="_25Q5r5mpEd2hz8VvLT0FrQ">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Q5sZmpEd2hz8VvLT0FrQ"
+                  name="데이터분석모델" guid="_25Q5sZmpEd2hz8VvLT0FrQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5spmpEd2hz8VvLT0FrQ"
+                    name="논리데이터 모델링" guid="_25Q5spmpEd2hz8VvLT0FrQ" presentationName="논리데이터 모델링"
+                    mandatoryInput="_24rDm5mpEd2hz8VvLT0FrQ _24YIuJmpEd2hz8VvLT0FrQ _24rDtpmpEd2hz8VvLT0FrQ _240NgpmpEd2hz8VvLT0FrQ"
+                    output="_25Hv0ZmpEd2hz8VvLT0FrQ">
+                  <presentation xmi:id="-SEwxiuP-ypFFhJ-xY8DApw" href="uma://-SEwxiuP-ypFFhJ-xY8DApw#-SEwxiuP-ypFFhJ-xY8DApw"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5s5mpEd2hz8VvLT0FrQ"
+                    name="자료사전 정의" guid="_25Q5s5mpEd2hz8VvLT0FrQ" presentationName="자료사전 정의"
+                    mandatoryInput="_25Hv0ZmpEd2hz8VvLT0FrQ _25HvnpmpEd2hz8VvLT0FrQ _240NgpmpEd2hz8VvLT0FrQ"
+                    output="_25HvmZmpEd2hz8VvLT0FrQ">
+                  <presentation xmi:id="-9TmHNZxXyTRi2_58H3YpiA" href="uma://-9TmHNZxXyTRi2_58H3YpiA#-9TmHNZxXyTRi2_58H3YpiA"/>
+                </contentElements>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Q5upmpEd2hz8VvLT0FrQ"
+                  name="업무분석모델" guid="_25Q5upmpEd2hz8VvLT0FrQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5vJmpEd2hz8VvLT0FrQ"
+                    name="시스템 인터페이스 분석" guid="_25Q5vJmpEd2hz8VvLT0FrQ" presentationName="시스템 인터페이스 분석"
+                    mandatoryInput="_24rDm5mpEd2hz8VvLT0FrQ _24YIuJmpEd2hz8VvLT0FrQ _24rDtpmpEd2hz8VvLT0FrQ">
+                  <presentation xmi:id="-6TbULomD8sbAy6eD_NUiCg" href="uma://-6TbULomD8sbAy6eD_NUiCg#-6TbULomD8sbAy6eD_NUiCg"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5vZmpEd2hz8VvLT0FrQ"
+                    name="유스케이스 분석" guid="_25Q5vZmpEd2hz8VvLT0FrQ" presentationName="유스케이스 분석"
+                    mandatoryInput="_24hSrpmpEd2hz8VvLT0FrQ _24YIuJmpEd2hz8VvLT0FrQ _25Hv0ZmpEd2hz8VvLT0FrQ _25HvhpmpEd2hz8VvLT0FrQ _24YIpJmpEd2hz8VvLT0FrQ"
+                    output="_24hSmZmpEd2hz8VvLT0FrQ _24hSoZmpEd2hz8VvLT0FrQ _25Q5gpmpEd2hz8VvLT0FrQ">
+                  <presentation xmi:id="-giGQrJizr2ia-1fE9pqerA" href="uma://-giGQrJizr2ia-1fE9pqerA#-giGQrJizr2ia-1fE9pqerA"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5v5mpEd2hz8VvLT0FrQ"
+                    name="유스케이스 상세화" guid="_25Q5v5mpEd2hz8VvLT0FrQ" presentationName="유스케이스 상세화"
+                    mandatoryInput="_24hSrpmpEd2hz8VvLT0FrQ _24YIuJmpEd2hz8VvLT0FrQ _24rDm5mpEd2hz8VvLT0FrQ"
+                    output="_24hSrpmpEd2hz8VvLT0FrQ _24YIuJmpEd2hz8VvLT0FrQ">
+                  <presentation xmi:id="-LkkM1vL9Ciz5dlntb1obxg" href="uma://-LkkM1vL9Ciz5dlntb1obxg#-LkkM1vL9Ciz5dlntb1obxg"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5u5mpEd2hz8VvLT0FrQ"
+                    name="컴포넌트 식별" guid="_25Q5u5mpEd2hz8VvLT0FrQ" presentationName="컴포넌트 식별"
+                    mandatoryInput="_24hSrpmpEd2hz8VvLT0FrQ _25Hv0ZmpEd2hz8VvLT0FrQ _24rDtpmpEd2hz8VvLT0FrQ _24rDxJmpEd2hz8VvLT0FrQ"
+                    output="_24hSoZmpEd2hz8VvLT0FrQ">
+                  <presentation xmi:id="-16BJd7iD_VXEPeWesnmKnw" href="uma://-16BJd7iD_VXEPeWesnmKnw#-16BJd7iD_VXEPeWesnmKnw"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5vpmpEd2hz8VvLT0FrQ"
+                    name="분석패키지정의" guid="_25Q5vpmpEd2hz8VvLT0FrQ" presentationName="분석패키지정의"
+                    mandatoryInput="_24hSrpmpEd2hz8VvLT0FrQ _25Hv0ZmpEd2hz8VvLT0FrQ _24rDtpmpEd2hz8VvLT0FrQ _24rDxJmpEd2hz8VvLT0FrQ">
+                  <presentation xmi:id="-k2ARWaoBsnodrwhWDvla2Q" href="uma://-k2ARWaoBsnodrwhWDvla2Q#-k2ARWaoBsnodrwhWDvla2Q"/>
+                </contentElements>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Q5wJmpEd2hz8VvLT0FrQ"
+                  name="컨버전분석모델" guid="_25Q5wJmpEd2hz8VvLT0FrQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5wpmpEd2hz8VvLT0FrQ"
+                    name="데이터 정비" guid="_25Q5wpmpEd2hz8VvLT0FrQ" presentationName="데이터 정비"
+                    mandatoryInput="_25Hv45mpEd2hz8VvLT0FrQ _25Hvw5mpEd2hz8VvLT0FrQ"
+                    output="_25HvupmpEd2hz8VvLT0FrQ">
+                  <presentation xmi:id="-Qm_-NG2aTilh3iDtgV1Oiw" href="uma://-Qm_-NG2aTilh3iDtgV1Oiw#-Qm_-NG2aTilh3iDtgV1Oiw"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5wZmpEd2hz8VvLT0FrQ"
+                    name="컨버전 계획 수립" guid="_25Q5wZmpEd2hz8VvLT0FrQ" presentationName="컨버전 계획 수립"
+                    mandatoryInput="_25Hvw5mpEd2hz8VvLT0FrQ" output="_25Hv2JmpEd2hz8VvLT0FrQ">
+                  <presentation xmi:id="-m83PJmFLZYARfJt8wUYqmg" href="uma://-m83PJmFLZYARfJt8wUYqmg#-m83PJmFLZYARfJt8wUYqmg"/>
+                </contentElements>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_25Q5tJmpEd2hz8VvLT0FrQ"
+                  name="화면분석모델" guid="_25Q5tJmpEd2hz8VvLT0FrQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5tZmpEd2hz8VvLT0FrQ"
+                    name="네비게이션 정의" guid="_25Q5tZmpEd2hz8VvLT0FrQ" presentationName="네비게이션 정의"
+                    mandatoryInput="_24YIuJmpEd2hz8VvLT0FrQ _25Q5iZmpEd2hz8VvLT0FrQ _25Q5opmpEd2hz8VvLT0FrQ _25Q5k5mpEd2hz8VvLT0FrQ _25Q5j5mpEd2hz8VvLT0FrQ"
+                    output="_25Hv55mpEd2hz8VvLT0FrQ">
+                  <presentation xmi:id="-uoHJupOexxs9cZv2fcqzuA" href="uma://-uoHJupOexxs9cZv2fcqzuA#-uoHJupOexxs9cZv2fcqzuA"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5uJmpEd2hz8VvLT0FrQ"
+                    name="메뉴구조 정의" guid="_25Q5uJmpEd2hz8VvLT0FrQ" presentationName="메뉴구조 정의"
+                    mandatoryInput="_24rDm5mpEd2hz8VvLT0FrQ _24hSrpmpEd2hz8VvLT0FrQ _24YIuJmpEd2hz8VvLT0FrQ _25Q5k5mpEd2hz8VvLT0FrQ _25Q5j5mpEd2hz8VvLT0FrQ"
+                    output="_25Q5e5mpEd2hz8VvLT0FrQ">
+                  <presentation xmi:id="-7rYLO_S2I-AE5b-j9ZDuXw" href="uma://-7rYLO_S2I-AE5b-j9ZDuXw#-7rYLO_S2I-AE5b-j9ZDuXw"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5t5mpEd2hz8VvLT0FrQ"
+                    name="화면 레이아웃 정의" guid="_25Q5t5mpEd2hz8VvLT0FrQ" presentationName="화면 레이아웃 정의"
+                    mandatoryInput="_24hSrpmpEd2hz8VvLT0FrQ _24YIuJmpEd2hz8VvLT0FrQ _25Q5k5mpEd2hz8VvLT0FrQ _25Q5j5mpEd2hz8VvLT0FrQ"
+                    output="_25Q5rJmpEd2hz8VvLT0FrQ _25Q5dJmpEd2hz8VvLT0FrQ _25Q5iZmpEd2hz8VvLT0FrQ _25Q5opmpEd2hz8VvLT0FrQ">
+                  <presentation xmi:id="-05S75euF82bLs_OZ-EeDqQ" href="uma://-05S75euF82bLs_OZ-EeDqQ#-05S75euF82bLs_OZ-EeDqQ"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5tpmpEd2hz8VvLT0FrQ"
+                    name="화면표준 정의" guid="_25Q5tpmpEd2hz8VvLT0FrQ" presentationName="화면표준 정의"
+                    mandatoryInput="_24rDm5mpEd2hz8VvLT0FrQ _25Q5j5mpEd2hz8VvLT0FrQ"
+                    output="_25Q5k5mpEd2hz8VvLT0FrQ">
+                  <presentation xmi:id="-XNvTCd4ZU0brwXrQX2Z38w" href="uma://-XNvTCd4ZU0brwXrQX2Z38w#-XNvTCd4ZU0brwXrQX2Z38w"/>
+                </contentElements>
+              </childPackages>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5uZmpEd2hz8VvLT0FrQ"
+                  name="데이터분석" guid="_25Q5uZmpEd2hz8VvLT0FrQ" presentationName="데이터분석"
+                  mandatoryInput="_24rDm5mpEd2hz8VvLT0FrQ" output="_25Hv0ZmpEd2hz8VvLT0FrQ _25HvmZmpEd2hz8VvLT0FrQ">
+                <presentation xmi:id="-SjpOW2s8h8Im3aFBEfYS1Q" href="uma://-SjpOW2s8h8Im3aFBEfYS1Q#-SjpOW2s8h8Im3aFBEfYS1Q"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5sJmpEd2hz8VvLT0FrQ"
+                  name="업무분석" guid="_25Q5sJmpEd2hz8VvLT0FrQ" presentationName="업무분석"
+                  mandatoryInput="_24rDm5mpEd2hz8VvLT0FrQ" output="_240Nk5mpEd2hz8VvLT0FrQ _24hSwpmpEd2hz8VvLT0FrQ _24hSmZmpEd2hz8VvLT0FrQ _24YIsJmpEd2hz8VvLT0FrQ">
+                <presentation xmi:id="-4hG3wA4iCeoAoL8BzlyU5w" href="uma://-4hG3wA4iCeoAoL8BzlyU5w#-4hG3wA4iCeoAoL8BzlyU5w"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5xJmpEd2hz8VvLT0FrQ"
+                  name="컨버전분석" guid="_25Q5xJmpEd2hz8VvLT0FrQ" presentationName="컨버전분석"
+                  mandatoryInput="_25Hvw5mpEd2hz8VvLT0FrQ" output="_25Hv2JmpEd2hz8VvLT0FrQ">
+                <presentation xmi:id="-xlQES5q0q4OABgxVBqzrtg" href="uma://-xlQES5q0q4OABgxVBqzrtg#-xlQES5q0q4OABgxVBqzrtg"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_25Q5w5mpEd2hz8VvLT0FrQ"
+                  name="화면분석" guid="_25Q5w5mpEd2hz8VvLT0FrQ" presentationName="화면분석"
+                  mandatoryInput="_24rDm5mpEd2hz8VvLT0FrQ" output="_25Hv55mpEd2hz8VvLT0FrQ _25Q5e5mpEd2hz8VvLT0FrQ _25Q5dJmpEd2hz8VvLT0FrQ _25Q5opmpEd2hz8VvLT0FrQ">
+                <presentation xmi:id="-uSR7zQCppKD-4-ao3j6ubw" href="uma://-uSR7zQCppKD-4-ao3j6ubw#-uSR7zQCppKD-4-ao3j6ubw"/>
+              </contentElements>
+            </childPackages>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Z3-7nZmpEd2hz8VvLT0FrQ"
+          name="CapabilityPatterns" guid="_Z3-7nZmpEd2hz8VvLT0FrQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Z3-7npmpEd2hz8VvLT0FrQ"
+        name="DeliveryProcesses" guid="_Z3-7npmpEd2hz8VvLT0FrQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_deqHUJmpEd2hz8VvLT0FrQ"
+          href="uma://_deqHUJmpEd2hz8VvLT0FrQ#_deqHUJmpEd2hz8VvLT0FrQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Z3-7n5mpEd2hz8VvLT0FrQ"
+        name="ProcessContributions" guid="_Z3-7n5mpEd2hz8VvLT0FrQ"/>
+    <bases href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_Td_GcJUxEd2ptuaOn8CiHA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

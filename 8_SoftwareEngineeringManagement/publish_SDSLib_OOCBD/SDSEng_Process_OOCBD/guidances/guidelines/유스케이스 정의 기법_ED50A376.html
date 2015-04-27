@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko" xml:lang="ko" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Guideline: 유스케이스 정의 기법</title>
+<meta name="uma.type" content="Guideline">
+<meta name="uma.name" content="유스케이스 정의 기법">
+<meta name="uma.presentationName" content="유스케이스 정의 기법">
+<meta name="element_type" content="other">
+<meta name="filetype" content="description">
+<meta name="role" content="">
+<link rel="StyleSheet" href="./../../../css/default.css" type="text/css">
+<script src="./../../../scripts/ContentPageResource.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageSubSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageToolbar.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/contentPage.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+					var backPath = './../../../';
+					var imgPath = './../../../images/';
+					var nodeInfo=null;
+					contentPage.preload(imgPath, backPath, nodeInfo,  '', false, false, false);
+				</script>
+</head>
+<body>
+<div id="breadcrumbs"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top"><a name="Top"></a>
+<div id="page-guid" value="_b7l7EASyEd6u1pdhw4SOFA"></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="pageTitle" nowrap="true">Guideline: 유스케이스 정의 기법</td><td width="100%">
+<div align="right" id="contentPageToolbar"></div>
+</td><td width="100%" class="expandCollapseLink" align="right"><a name="mainIndex" href="./../../../index.htm"></a><script language="JavaScript" type="text/javascript" src="./../../../scripts/treebrowser.js"></script></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pageTitleSeparator"><img src="./../../../images/shim.gif" alt="" title="" height="1"></td>
+</tr>
+</table>
+<div class="overview">
+<table width="97%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50"><img src="./../../../images/guidance.gif" alt="" title=""></td><td>
+<table class="overviewTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Main Description</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td class="sectionTableSingleCell"><P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; tab-stops: list 21.25pt; mso-list: l0 level1 lfo1"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림; mso-ansi-font-size: 10.0pt"><SPAN style="mso-list: Ignore"><STRONG>1.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-ansi-font-size: 10.0pt"><STRONG>개요<SPAN lang=EN-US> (Overview)<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></STRONG></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN style="FONT-FAMILY: 굴림">유스케이스란 직관적으로 설명하자면 사용자의 관점에서 바라본<SPAN lang=EN-US>, </SPAN>즉 사용자가 시스템을 사용하는 근본적인 목적이 되는 기능이라고 볼 수 있다<SPAN lang=EN-US>. (</SPAN>그러므로 시스템 개발 수준에서 정의하는<SPAN lang=EN-US> function</SPAN>과는 다르다<SPAN lang=EN-US>.)<o:p></o:p></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN style="FONT-FAMILY: 굴림">본 문서에서는 요구사항을 기반으로 이러한 유스케이스를 효과적으로 식별하는 방법과<SPAN lang=EN-US>, </SPAN>식별된 유스케이스를 사용자의 관점에서 필요한 유스케이스로 정제하는 과정<SPAN lang=EN-US>, </SPAN>유스케이스다이어그램을 작성하는 방법에 대해 설명한다<SPAN lang=EN-US>.<o:p></o:p></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN lang=EN-US style="FONT-FAMILY: 굴림"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; tab-stops: list 21.25pt; mso-list: l0 level1 lfo1"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림; mso-ansi-font-size: 10.0pt"><SPAN style="mso-list: Ignore"><STRONG>2.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN><STRONG><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-ansi-font-size: 10.0pt">기법 적용시 유의사항</SPAN> (Consideration)<SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt"><o:p></o:p></SPAN></SPAN></STRONG></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN style="FONT-FAMILY: 굴림">유스케이스는 업무적인 관점을 고려해야 하므로 사용자나 업무 전문가<SPAN lang=EN-US>, </SPAN>그 외 이해당사자들과 함께 식별하는 것이 바람직하다<SPAN lang=EN-US>. </SPAN>그러나 업종 특성상 이런 방식으로 수행하기 어려울 경우<SPAN lang=EN-US>, </SPAN>최소한 만들어진 유스케이스 모델을 이들과 함께 검증하는 과정은 반드시 있어야 한다<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 20pt; mso-para-margin-left: 2.0gd"><SPAN lang=EN-US style="FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial; mso-font-kerning: 0pt"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; tab-stops: list 21.25pt; mso-list: l0 level1 lfo1"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림; mso-ansi-font-size: 10.0pt"><SPAN style="mso-list: Ignore"><STRONG>3.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-ansi-font-size: 10.0pt"><STRONG>관련 툴<SPAN lang=EN-US> (Related Tool)<o:p></o:p></SPAN></STRONG></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:City w:st="on"><st1:place w:st="on"><SPAN lang=EN-US style="FONT-FAMILY: 굴림">Enterprise</SPAN></st1:place></st1:City><SPAN lang=EN-US style="FONT-FAMILY: 굴림"> Architect<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 20pt; mso-para-margin-left: 2.0gd"><B style="mso-bidi-font-weight: normal"><SPAN lang=EN-US style="FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial"><o:p>&nbsp;</o:p></SPAN></B></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; tab-stops: list 21.25pt; mso-list: l0 level1 lfo1"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림; mso-ansi-font-size: 10.0pt"><SPAN style="mso-list: Ignore"><STRONG>4.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-ansi-font-size: 10.0pt"><STRONG>첨부<SPAN lang=EN-US>(Attachments)<o:p></o:p></SPAN></STRONG></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN lang=EN-US style="FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial; mso-font-kerning: 0pt"><a href="./../../../SDSEng_Process_OOCBD/guidances/guidelines/./resources/370781495023148825.doc"><SPAN style="COLOR: windowtext; TEXT-DECORATION: none; text-underline: none"><?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id=_x0000_t75 coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock v:ext="edit" aspectratio="t"></a><a href="./../../../SDSEng_Process_OOCBD/guidances/guidelines/./resources/유스케이스 정의 기법T.doc" target="_blank">유스케이스 정의 기법T.doc</a></o:lock></v:shapetype></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN lang=EN-US style="FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 바탕"><o:p>&nbsp;</o:p></SPAN></P></td>
+</tr>
+</table>
+</div>
+<table class="copyright" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="copyright"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+<script type="text/javascript" language="JavaScript">
+				contentPage.onload();
+			</script>
+</html>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-IGI3zHhn9HLFCXwwIKIZMQ"
+    name="new_discipline,_eoFQMJYJEd2f_MiqbDX5Hg" guid="-IGI3zHhn9HLFCXwwIKIZMQ" changeDate="2008-10-09T22:52:21.640+0900">
+  <mainDescription>응답 및 요구사항, 인터뷰 내용 항목, 질문사항</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

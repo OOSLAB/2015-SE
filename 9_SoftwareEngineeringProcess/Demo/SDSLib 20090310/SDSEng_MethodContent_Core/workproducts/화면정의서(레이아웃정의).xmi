@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-icuIPUY1tsdqOnlzPl3uNQ"
+    name="new_artifact,_lEyBUJOtEd2QOZMWcM0ZMQ" guid="-icuIPUY1tsdqOnlzPl3uNQ" changeDate="2008-10-06T22:51:47.796+0900">
+  <mainDescription>&lt;p>&#xD;
+    &amp;lt;&amp;lt;데이터구성항목&amp;gt;&amp;gt; 비고/제약사항, 설명, 수정여부, 컨트롤(영문명), 필수, 항목명(한글)&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;lt;&amp;lt;처리로직[레이아웃 정의]&amp;gt;&amp;gt; 이벤트명, 입력값/파라메터, 처리내용, 출력값/처리결과, 프레젠테이션 레이어 설계&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;lt;&amp;lt;화면&amp;gt;&amp;gt; 화면개요, 화면레이아웃, 화면명, 화면ID&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

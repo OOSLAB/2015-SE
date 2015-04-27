@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_m_HssPmrEd2JRcy3PiAHxw"
+      guid="_m_HssPmrEd2JRcy3PiAHxw">
+    <resourceDescriptors xmi:id="_m_HssfmrEd2JRcy3PiAHxw" id="-_0OcBKxc-WbCni2iqQx7Hw"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_m26y__mrEd2JRcy3PiAHxw" name="업무 분석"
+      guid="_m26y__mrEd2JRcy3PiAHxw">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3KOdcAgREd6PpbmBy1d4Hw"
+        name="분석 시퀀스다이어그램 작성" guid="_3KOdcAgREd6PpbmBy1d4Hw" presentationName="분석 시퀀스다이어그램 작성"
+        superActivities="_m26zAPmrEd2JRcy3PiAHxw" linkToPredecessor="_Lz5nYAjnEd6CD-m1e93cOw"
+        additionallyPerformedBy="_3KOdcwgREd6PpbmBy1d4Hw" mandatoryInput="_3KOddAgREd6PpbmBy1d4Hw"
+        output="_3KOddQgREd6PpbmBy1d4Hw" performedPrimarilyBy="_3KOdcggREd6PpbmBy1d4Hw">
+      <Task href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBWTIvmrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-zO0phDqrLAHI2IvoGRvZTA#_bBWTI_mrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-zO0phDqrLAHI2IvoGRvZTA#_h-Nk8AgMEd6s07juqPNOXA"/>
+      <selectedSteps href="uma://-zO0phDqrLAHI2IvoGRvZTA#_j8ugEAgMEd6s07juqPNOXA"/>
+      <selectedSteps href="uma://-zO0phDqrLAHI2IvoGRvZTA#_rMJ7MAgMEd6s07juqPNOXA"/>
+      <selectedSteps href="uma://-zO0phDqrLAHI2IvoGRvZTA#_0sj6cAgMEd6s07juqPNOXA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3KOdcQgREd6PpbmBy1d4Hw"
+        name="분석 클래스다이어그램 작성" guid="_3KOdcQgREd6PpbmBy1d4Hw" presentationName="분석 클래스다이어그램 작성"
+        superActivities="_m26zAPmrEd2JRcy3PiAHxw" additionallyPerformedBy="_3KOdcwgREd6PpbmBy1d4Hw"
+        mandatoryInput="_3KOddggREd6PpbmBy1d4Hw" output="_3KOddAgREd6PpbmBy1d4Hw"
+        performedPrimarilyBy="_3KOdcggREd6PpbmBy1d4Hw">
+      <Task href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBWTJ_mrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-SNLp3MRN3zjz1ovREM3V0g#_bBWTKfmrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-SNLp3MRN3zjz1ovREM3V0g#_bBWTKPmrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-SNLp3MRN3zjz1ovREM3V0g#_k3b00AgMEd6s07juqPNOXA"/>
+      <selectedSteps href="uma://-SNLp3MRN3zjz1ovREM3V0g#_qPp2sAgMEd6s07juqPNOXA"/>
+      <selectedSteps href="uma://-SNLp3MRN3zjz1ovREM3V0g#_ztFacAgMEd6s07juqPNOXA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_3KOdcggREd6PpbmBy1d4Hw"
+        name="분석자" guid="_3KOdcggREd6PpbmBy1d4Hw" presentationName="분석자" isPlanned="false"
+        superActivities="_m26zAPmrEd2JRcy3PiAHxw" modifies="_3KOddQgREd6PpbmBy1d4Hw _3KOddAgREd6PpbmBy1d4Hw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to1eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_3KOdcwgREd6PpbmBy1d4Hw"
+        name="소프트웨어아키텍트" guid="_3KOdcwgREd6PpbmBy1d4Hw" presentationName="소프트웨어아키텍트"
+        isPlanned="false" superActivities="_m26zAPmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to2eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_3KOddAgREd6PpbmBy1d4Hw"
+        name="분석 클래스다이어그램" guid="_3KOddAgREd6PpbmBy1d4Hw" presentationName="분석 클래스다이어그램"
+        isPlanned="false" superActivities="_m26zAPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBWTKvmrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_3KOddQgREd6PpbmBy1d4Hw"
+        name="분석 시퀀스다이어그램" guid="_3KOddQgREd6PpbmBy1d4Hw" presentationName="분석 시퀀스다이어그램"
+        isPlanned="false" superActivities="_m26zAPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBWTJPmrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_3KOddggREd6PpbmBy1d4Hw"
+        name="요구 유스케이스정의서" guid="_3KOddggREd6PpbmBy1d4Hw" presentationName="요구 유스케이스정의서"
+        isPlanned="false" superActivities="_m26zAPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBMiRPmrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Lz5nYAjnEd6CD-m1e93cOw"
+        guid="_Lz5nYAjnEd6CD-m1e93cOw" pred="_3KOdcQgREd6PpbmBy1d4Hw"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_m26zAPmrEd2JRcy3PiAHxw"
+        name="업무 분석" guid="_m26zAPmrEd2JRcy3PiAHxw" presentationName="업무 분석" breakdownElements="_3KOdcQgREd6PpbmBy1d4Hw _3KOdcAgREd6PpbmBy1d4Hw _3KOdcggREd6PpbmBy1d4Hw _3KOdcwgREd6PpbmBy1d4Hw _3KOddAgREd6PpbmBy1d4Hw _3KOddQgREd6PpbmBy1d4Hw _3KOddggREd6PpbmBy1d4Hw">
+      <presentation xmi:id="-_0OcBKxc-WbCni2iqQx7Hw" href="uma://-_0OcBKxc-WbCni2iqQx7Hw#-_0OcBKxc-WbCni2iqQx7Hw"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

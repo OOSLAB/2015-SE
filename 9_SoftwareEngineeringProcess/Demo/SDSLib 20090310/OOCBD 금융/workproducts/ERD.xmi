@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-ZpNwRW5L8ZHcrTUPt9-ypw"
+    name="new_artifact,_UKLOcJO6Ed2QOZMWcM0ZMQ" guid="-ZpNwRW5L8ZHcrTUPt9-ypw" changeDate="2008-10-09T21:42:29.125+0900">
+  <mainDescription>&lt;p>&#xD;
+    관계명, 속성명, 엔티티명, cardinarity, 작성일, 작성자, 주제영역명&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

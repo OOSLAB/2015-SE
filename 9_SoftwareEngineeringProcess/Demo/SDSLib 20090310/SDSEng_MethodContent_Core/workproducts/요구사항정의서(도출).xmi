@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-lAlXzBGEFKHWoFHVAkiBTQ"
+    name="new_artifact,_jmQ7QJO1Ed2QOZMWcM0ZMQ" guid="-lAlXzBGEFKHWoFHVAkiBTQ" changeDate="2008-10-06T23:47:50.875+0900">
+  <mainDescription>관련 처리 데이터[선택], 분류[필수], 비고[선택], 서브시스템[필수], 연계 대상[필수], 연계 데이터[선택], 연계 유형[필수], 요구사항명[필수], 처리내용[필수]</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-HtfjqKdcK7qVwIXKpQiz8Q"
+    name="new_discipline,_f2MzsJYKEd2f_MiqbDX5Hg" guid="-HtfjqKdcK7qVwIXKpQiz8Q" changeDate="2008-10-09T22:59:40.953+0900">
+  <mainDescription>&lt;p>&#xD;
+    보고서 개요,&amp;nbsp;보고서 ID, 보고서명, 보고서 레이아웃, 보고서 툴 파일명, 비고, 상세 설명, 입력 파라메터, 항목명&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

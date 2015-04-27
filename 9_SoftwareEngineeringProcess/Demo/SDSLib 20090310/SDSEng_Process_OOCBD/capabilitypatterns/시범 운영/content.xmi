@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Uq6bBQoTmnhop6-SLviYpQ"
+    name="시범운영모델,_PLA64ea-Ed2j6auu_FbYxw" guid="-Uq6bBQoTmnhop6-SLviYpQ">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/concepts/%C2DC%BC94%C6B4%C601%D65C%B3D9%20%AC1C%C694_54BE56C3.html&quot;&#xD;
+        guid=&quot;_eoXz8AS-Ed6u1pdhw4SOFA&quot;>시범운영활동 개요&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ProcessDescription>

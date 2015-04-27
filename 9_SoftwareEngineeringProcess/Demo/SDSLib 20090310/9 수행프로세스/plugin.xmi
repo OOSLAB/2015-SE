@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_1UmV0MWoEd2eFf4iygnyuw"
+      guid="_1UmV0MWoEd2eFf4iygnyuw">
+    <subManagers xmi:id="_Cc4qYMs-Ed2r2Jyk2t76Nw" href="uma://_CZ6O48s-Ed2r2Jyk2t76Nw#_Cc4qYMs-Ed2r2Jyk2t76Nw"/>
+    <subManagers xmi:id="_CeraIcs-Ed2r2Jyk2t76Nw" href="uma://_CaDY1Ms-Ed2r2Jyk2t76Nw#_CeraIcs-Ed2r2Jyk2t76Nw"/>
+    <subManagers xmi:id="_CfIGEcs-Ed2r2Jyk2t76Nw" href="uma://_CaDY2Ms-Ed2r2Jyk2t76Nw#_CfIGEcs-Ed2r2Jyk2t76Nw"/>
+    <subManagers xmi:id="_Cft78Ms-Ed2r2Jyk2t76Nw" href="uma://_CZ6O4cs-Ed2r2Jyk2t76Nw#_Cft78Ms-Ed2r2Jyk2t76Nw"/>
+    <subManagers xmi:id="_CgKn4cs-Ed2r2Jyk2t76Nw" href="uma://_CaDY2ss-Ed2r2Jyk2t76Nw#_CgKn4cs-Ed2r2Jyk2t76Nw"/>
+    <subManagers xmi:id="_T7xR8J_iEd24kf8cX_-NRg" href="uma://_Q5ArkJ_iEd24kf8cX_-NRg#_T7xR8J_iEd24kf8cX_-NRg"/>
+    <subManagers xmi:id="_y3rO8dQjEd2omLHmP-Ku2g" href="uma://_y3EyANQjEd2omLHmP-Ku2g#_y3rO8dQjEd2omLHmP-Ku2g"/>
+    <subManagers xmi:id="_QOYYAeG-Ed27s-Zwgwa2Xw" href="uma://_PFqccOG-Ed27s-Zwgwa2Xw#_QOYYAeG-Ed27s-Zwgwa2Xw"/>
+    <subManagers xmi:id="_MLa54ekGEd2IkdBO-oEPPg" href="uma://_MKrTAOkGEd2IkdBO-oEPPg#_MLa54ekGEd2IkdBO-oEPPg"/>
+    <subManagers xmi:id="_AcnlUfc8Ed2U1--E6cs_NQ" href="uma://_AcBIYPc8Ed2U1--E6cs_NQ#_AcnlUfc8Ed2U1--E6cs_NQ"/>
+    <subManagers xmi:id="_3hyi4fc8Ed2U1--E6cs_NQ" href="uma://_3Bvw4Pc8Ed2U1--E6cs_NQ#_3hyi4fc8Ed2U1--E6cs_NQ"/>
+    <subManagers xmi:id="_MNwbofc9Ed2U1--E6cs_NQ" href="uma://_L32dEPc9Ed2U1--E6cs_NQ#_MNwbofc9Ed2U1--E6cs_NQ"/>
+    <subManagers xmi:id="_RRZ7sfc9Ed2U1--E6cs_NQ" href="uma://_Q7f9IPc9Ed2U1--E6cs_NQ#_RRZ7sfc9Ed2U1--E6cs_NQ"/>
+    <subManagers xmi:id="_VN1VAfc9Ed2U1--E6cs_NQ" href="uma://_U3xlcPc9Ed2U1--E6cs_NQ#_VN1VAfc9Ed2U1--E6cs_NQ"/>
+    <subManagers xmi:id="_ZG-w0fc9Ed2U1--E6cs_NQ" href="uma://_Yw7BQPc9Ed2U1--E6cs_NQ#_ZG-w0fc9Ed2U1--E6cs_NQ"/>
+    <subManagers xmi:id="_olAlEfc9Ed2U1--E6cs_NQ" href="uma://_oOzrkPc9Ed2U1--E6cs_NQ#_olAlEfc9Ed2U1--E6cs_NQ"/>
+    <subManagers xmi:id="_vnxdMfc9Ed2U1--E6cs_NQ" href="uma://_vRaysPc9Ed2U1--E6cs_NQ#_vnxdMfc9Ed2U1--E6cs_NQ"/>
+    <subManagers xmi:id="__gzNIf8ZEd2yh-CYhX4-xw" href="uma://__fwEQP8ZEd2yh-CYhX4-xw#__gzNIf8ZEd2yh-CYhX4-xw"/>
+    <subManagers xmi:id="_EGpW4f8aEd2yh-CYhX4-xw" href="uma://_EFv_AP8aEd2yh-CYhX4-xw#_EGpW4f8aEd2yh-CYhX4-xw"/>
+    <resourceDescriptors xmi:id="_CclvcMs-Ed2r2Jyk2t76Nw" id="_CZ6O48s-Ed2r2Jyk2t76Nw"
+        uri="capabilitypatterns/0100%20요구정의/model.xmi"/>
+    <resourceDescriptors xmi:id="_CeraIMs-Ed2r2Jyk2t76Nw" id="_CaDY1Ms-Ed2r2Jyk2t76Nw"
+        uri="capabilitypatterns/0300%20아키텍처정의/model.xmi"/>
+    <resourceDescriptors xmi:id="_CfIGEMs-Ed2r2Jyk2t76Nw" id="_CaDY2Ms-Ed2r2Jyk2t76Nw"
+        uri="capabilitypatterns/0400%20설계/model.xmi"/>
+    <resourceDescriptors xmi:id="_CfkK8Ms-Ed2r2Jyk2t76Nw" id="_CZ6O4cs-Ed2r2Jyk2t76Nw"
+        uri="capabilitypatterns/0500%20개발/model.xmi"/>
+    <resourceDescriptors xmi:id="_CgKn4Ms-Ed2r2Jyk2t76Nw" id="_CaDY2ss-Ed2r2Jyk2t76Nw"
+        uri="capabilitypatterns/0600%20이행/model.xmi"/>
+    <resourceDescriptors xmi:id="_T7UmAJ_iEd24kf8cX_-NRg" id="_Q5ArkJ_iEd24kf8cX_-NRg"
+        uri="deliveryprocesses/표준Eng_OOCBD/model.xmi"/>
+    <resourceDescriptors xmi:id="_y3EyA9QjEd2omLHmP-Ku2g" id="_y3EyANQjEd2omLHmP-Ku2g"
+        uri="capabilitypatterns/0200%20분석/model.xmi"/>
+    <resourceDescriptors xmi:id="_QOYYAOG-Ed27s-Zwgwa2Xw" id="_PFqccOG-Ed27s-Zwgwa2Xw"
+        uri="deliveryprocesses/삼성화재_OOCBD/model.xmi"/>
+    <resourceDescriptors xmi:id="_MK0c8OkGEd2IkdBO-oEPPg" id="_MKrTAOkGEd2IkdBO-oEPPg"
+        uri="deliveryprocesses/프로젝트%20관리/model.xmi"/>
+    <resourceDescriptors xmi:id="_AcBIY_c8Ed2U1--E6cs_NQ" id="_AcBIYPc8Ed2U1--E6cs_NQ"
+        uri="capabilitypatterns/0100%20프로젝트착수/model.xmi"/>
+    <resourceDescriptors xmi:id="_3dKhkfc8Ed2U1--E6cs_NQ" id="_3Bvw4Pc8Ed2U1--E6cs_NQ"
+        uri="capabilitypatterns/0200%20요구정의/model.xmi"/>
+    <resourceDescriptors xmi:id="_MNJ-sfc9Ed2U1--E6cs_NQ" id="_L32dEPc9Ed2U1--E6cs_NQ"
+        uri="capabilitypatterns/0300%20분석/model.xmi"/>
+    <resourceDescriptors xmi:id="_RQqU0fc9Ed2U1--E6cs_NQ" id="_Q7f9IPc9Ed2U1--E6cs_NQ"
+        uri="capabilitypatterns/0400%20아키텍쳐정의/model.xmi"/>
+    <resourceDescriptors xmi:id="_VNFuIfc9Ed2U1--E6cs_NQ" id="_U3xlcPc9Ed2U1--E6cs_NQ"
+        uri="capabilitypatterns/0500%20설계/model.xmi"/>
+    <resourceDescriptors xmi:id="_ZGiE4fc9Ed2U1--E6cs_NQ" id="_Yw7BQPc9Ed2U1--E6cs_NQ"
+        uri="capabilitypatterns/0600%20개발/model.xmi"/>
+    <resourceDescriptors xmi:id="_okavMfc9Ed2U1--E6cs_NQ" id="_oOzrkPc9Ed2U1--E6cs_NQ"
+        uri="capabilitypatterns/0700%20이행/model.xmi"/>
+    <resourceDescriptors xmi:id="_vnB2Ufc9Ed2U1--E6cs_NQ" id="_vRaysPc9Ed2U1--E6cs_NQ"
+        uri="capabilitypatterns/0800%20프로젝트종료/model.xmi"/>
+    <resourceDescriptors xmi:id="__f51Qf8ZEd2yh-CYhX4-xw" id="__fwEQP8ZEd2yh-CYhX4-xw"
+        uri="capabilitypatterns/미래에셋서브시스템개발프로세스/model.xmi"/>
+    <resourceDescriptors xmi:id="_EFv_A_8aEd2yh-CYhX4-xw" id="_EFv_AP8aEd2yh-CYhX4-xw"
+        uri="deliveryprocesses/미래에셋인사관리개발/model.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_1Uck0MWoEd2eFf4iygnyuw" name="9 수행프로세스"
+      guid="_1Uck0MWoEd2eFf4iygnyuw" changeDate="2008-12-16T17:15:47.406+0900">
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1Uck0cWoEd2eFf4iygnyuw"
+        name="Content" guid="_1Uck0cWoEd2eFf4iygnyuw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1Uck0sWoEd2eFf4iygnyuw"
+          name="Categories" guid="_1Uck0sWoEd2eFf4iygnyuw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1Uck08WoEd2eFf4iygnyuw"
+            name="Domains" guid="_1Uck08WoEd2eFf4iygnyuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1Uck1MWoEd2eFf4iygnyuw"
+            name="Disciplines" guid="_1Uck1MWoEd2eFf4iygnyuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1Uck1cWoEd2eFf4iygnyuw"
+            name="RoleSets" guid="_1Uck1cWoEd2eFf4iygnyuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1Uck1sWoEd2eFf4iygnyuw"
+            name="WP Types" guid="_1Uck1sWoEd2eFf4iygnyuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1Uck18WoEd2eFf4iygnyuw"
+            name="Tools" guid="_1Uck18WoEd2eFf4iygnyuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1Uck2MWoEd2eFf4iygnyuw"
+            name="StandardCategories" guid="_1Uck2MWoEd2eFf4iygnyuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1Uck2cWoEd2eFf4iygnyuw"
+            name="CustomCategories" guid="_1Uck2cWoEd2eFf4iygnyuw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1Uck2sWoEd2eFf4iygnyuw"
+              name="Hidden" guid="_1Uck2sWoEd2eFf4iygnyuw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_1Uck28WoEd2eFf4iygnyuw"
+                name="Custom Categories" guid="_1Uck28WoEd2eFf4iygnyuw" categorizedElements="_w-nx0Ms_Ed2r2Jyk2t76Nw _iO7cUM2GEd2WB7wNXVrn1w _XbvXkOkGEd2IkdBO-oEPPg"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_w-nx0Ms_Ed2r2Jyk2t76Nw"
+              name="수행 프로세스" guid="_w-nx0Ms_Ed2r2Jyk2t76Nw" presentationName="수행 프로세스">
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_Q5ArkJ_iEd24kf8cX_-NRg#_Q6D0z5_iEd24kf8cX_-NRg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_iO7cUM2GEd2WB7wNXVrn1w"
+              name="표준Eng 프로세스 컴포넌트" guid="_iO7cUM2GEd2WB7wNXVrn1w" presentationName="표준Eng 프로세스 컴포넌트">
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+                href="uma://_CZ6O48s-Ed2r2Jyk2t76Nw#_CaDY08s-Ed2r2Jyk2t76Nw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+                href="uma://_y3EyANQjEd2omLHmP-Ku2g#_y3EyAdQjEd2omLHmP-Ku2g"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+                href="uma://_CaDY1Ms-Ed2r2Jyk2t76Nw#_CaDY1cs-Ed2r2Jyk2t76Nw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+                href="uma://_CaDY2Ms-Ed2r2Jyk2t76Nw#_CaDY2cs-Ed2r2Jyk2t76Nw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+                href="uma://_CZ6O4cs-Ed2r2Jyk2t76Nw#_CZ6O4ss-Ed2r2Jyk2t76Nw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+                href="uma://_CaDY2ss-Ed2r2Jyk2t76Nw#_CaDY28s-Ed2r2Jyk2t76Nw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_XbvXkOkGEd2IkdBO-oEPPg"
+              name="프로젝트 관리" guid="_XbvXkOkGEd2IkdBO-oEPPg" presentationName="프로젝트 관리">
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_MKrTAOkGEd2IkdBO-oEPPg#_MKrTAekGEd2IkdBO-oEPPg"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1Uck3MWoEd2eFf4iygnyuw"
+          name="CoreContent" guid="_1Uck3MWoEd2eFf4iygnyuw"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_1Uck3cWoEd2eFf4iygnyuw"
+          name="CapabilityPatterns" guid="_1Uck3cWoEd2eFf4iygnyuw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_CZ6O4Ms-Ed2r2Jyk2t76Nw"
+            name="표준Eng 프로세스 컴포넌트" guid="_CZ6O4Ms-Ed2r2Jyk2t76Nw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_CZ6O48s-Ed2r2Jyk2t76Nw"
+              href="uma://_CZ6O48s-Ed2r2Jyk2t76Nw#_CZ6O48s-Ed2r2Jyk2t76Nw"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_CaDY1Ms-Ed2r2Jyk2t76Nw"
+              href="uma://_CaDY1Ms-Ed2r2Jyk2t76Nw#_CaDY1Ms-Ed2r2Jyk2t76Nw"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_CaDY2Ms-Ed2r2Jyk2t76Nw"
+              href="uma://_CaDY2Ms-Ed2r2Jyk2t76Nw#_CaDY2Ms-Ed2r2Jyk2t76Nw"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_CZ6O4cs-Ed2r2Jyk2t76Nw"
+              href="uma://_CZ6O4cs-Ed2r2Jyk2t76Nw#_CZ6O4cs-Ed2r2Jyk2t76Nw"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_CaDY2ss-Ed2r2Jyk2t76Nw"
+              href="uma://_CaDY2ss-Ed2r2Jyk2t76Nw#_CaDY2ss-Ed2r2Jyk2t76Nw"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_y3EyANQjEd2omLHmP-Ku2g"
+              href="uma://_y3EyANQjEd2omLHmP-Ku2g#_y3EyANQjEd2omLHmP-Ku2g"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_BnjigOXlEd2_9Y2wXnaaqw"
+            name="표준 ENG 방법론 완성 프로세스" guid="_BnjigOXlEd2_9Y2wXnaaqw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_AcBIYPc8Ed2U1--E6cs_NQ"
+              href="uma://_AcBIYPc8Ed2U1--E6cs_NQ#_AcBIYPc8Ed2U1--E6cs_NQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_3Bvw4Pc8Ed2U1--E6cs_NQ"
+              href="uma://_3Bvw4Pc8Ed2U1--E6cs_NQ#_3Bvw4Pc8Ed2U1--E6cs_NQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_L32dEPc9Ed2U1--E6cs_NQ"
+              href="uma://_L32dEPc9Ed2U1--E6cs_NQ#_L32dEPc9Ed2U1--E6cs_NQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_Q7f9IPc9Ed2U1--E6cs_NQ"
+              href="uma://_Q7f9IPc9Ed2U1--E6cs_NQ#_Q7f9IPc9Ed2U1--E6cs_NQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_U3xlcPc9Ed2U1--E6cs_NQ"
+              href="uma://_U3xlcPc9Ed2U1--E6cs_NQ#_U3xlcPc9Ed2U1--E6cs_NQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_Yw7BQPc9Ed2U1--E6cs_NQ"
+              href="uma://_Yw7BQPc9Ed2U1--E6cs_NQ#_Yw7BQPc9Ed2U1--E6cs_NQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_oOzrkPc9Ed2U1--E6cs_NQ"
+              href="uma://_oOzrkPc9Ed2U1--E6cs_NQ#_oOzrkPc9Ed2U1--E6cs_NQ"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_vRaysPc9Ed2U1--E6cs_NQ"
+              href="uma://_vRaysPc9Ed2U1--E6cs_NQ#_vRaysPc9Ed2U1--E6cs_NQ"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="__fwEQP8ZEd2yh-CYhX4-xw"
+            href="uma://__fwEQP8ZEd2yh-CYhX4-xw#__fwEQP8ZEd2yh-CYhX4-xw"/>
+      </childPackages>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_1Uck3sWoEd2eFf4iygnyuw"
+        name="DeliveryProcesses" guid="_1Uck3sWoEd2eFf4iygnyuw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_LRTcMJ_iEd24kf8cX_-NRg"
+          name="Generic Process" guid="_LRTcMJ_iEd24kf8cX_-NRg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_Q5ArkJ_iEd24kf8cX_-NRg"
+            href="uma://_Q5ArkJ_iEd24kf8cX_-NRg#_Q5ArkJ_iEd24kf8cX_-NRg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_MKrTAOkGEd2IkdBO-oEPPg"
+            href="uma://_MKrTAOkGEd2IkdBO-oEPPg#_MKrTAOkGEd2IkdBO-oEPPg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_EFv_AP8aEd2yh-CYhX4-xw"
+            href="uma://_EFv_AP8aEd2yh-CYhX4-xw#_EFv_AP8aEd2yh-CYhX4-xw"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_MlV28J_iEd24kf8cX_-NRg"
+          name="Specific Process" guid="_MlV28J_iEd24kf8cX_-NRg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_PFqccOG-Ed27s-Zwgwa2Xw"
+            href="uma://_PFqccOG-Ed27s-Zwgwa2Xw#_PFqccOG-Ed27s-Zwgwa2Xw"/>
+      </childPackages>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_1Uck38WoEd2eFf4iygnyuw"
+        name="ProcessContributions" guid="_1Uck38WoEd2eFf4iygnyuw"/>
+    <bases href="uma://_2SE8oMWmEd2eFf4iygnyuw#_2SE8oMWmEd2eFf4iygnyuw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

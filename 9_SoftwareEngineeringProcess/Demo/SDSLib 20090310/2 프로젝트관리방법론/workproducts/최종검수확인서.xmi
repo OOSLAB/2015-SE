@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-OUJYDmTKPOkVeQtpcjTZhg"
+    name="최종검수확인서,_FY0HcMsnEd2VS4iuY7h1kQ" guid="-OUJYDmTKPOkVeQtpcjTZhg" changeDate="2009-02-26T14:36:02.687+0900">
+  <mainDescription>&lt;P class=S1 style=&quot;MARGIN: 0cm 0cm 0pt 21.25pt&quot;>&lt;SPAN style=&quot;COLOR: windowtext; FONT-FAMILY: 굴림&quot;>작성항목&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S1 style=&quot;MARGIN: 0cm 0cm 0pt 21.25pt&quot;>&lt;SPAN style=&quot;COLOR: windowtext; FONT-FAMILY: 굴림&quot;>&lt;SPAN lang=EN-US>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&amp;nbsp;&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>1.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>프로젝트명&lt;SPAN lang=EN-US>(&lt;/SPAN>코드&lt;SPAN lang=EN-US>): &lt;/SPAN>프로젝트명과 프로젝트 코드를 기재한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>2. &lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림&quot;>PM&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>명&lt;SPAN lang=EN-US>: &lt;/SPAN>프로젝트의&lt;SPAN lang=EN-US> PM&lt;/SPAN>명을 기재한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>3.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>프로젝트기간&lt;SPAN lang=EN-US>: &lt;/SPAN>프로젝트의 수행기간을 기재한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>4.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>검수내역&lt;SPAN lang=EN-US> : &lt;/SPAN>검수 항목과 검수 결과 확인 사항을 기재한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>5.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>검수결과&lt;SPAN lang=EN-US>: &lt;/SPAN>최종 검수책임자가 검수결과에 대한 총평을 기재한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>6.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>보완사항&lt;SPAN lang=EN-US>: &lt;/SPAN>조건부검수를 하는 경우&lt;SPAN lang=EN-US>, &lt;/SPAN>산출물에 대한 보완사항을 기재한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>7.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>조치계획&lt;SPAN lang=EN-US>: &lt;/SPAN>조건부검수시 보완사항에 대한 조치계획을 기재한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>8.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>최종승인자&lt;SPAN lang=EN-US>: &lt;/SPAN>최종 검수책임자가 전체 사항을 확인한 후 이름과 서명을 한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>9.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>승인일&lt;SPAN lang=EN-US>: &lt;/SPAN>최종 검수 책임자가 승인한 날짜&lt;SPAN lang=EN-US>(&lt;/SPAN>년월일&lt;SPAN lang=EN-US>)&lt;/SPAN>를 기재한다&lt;SPAN lang=EN-US>. &lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    작성시 고려사항&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        최종검수확인서의 산출물은 최종검수요청서의 산출물 목록을 바탕으로 누락된 것이 없도록 한다.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        각 산출물에 대한 개별인수 책임자의 확인 뿐만 아니라 최종검수책임자의 확인을 받도록 한다.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        최종검수확인서 상에는 “최종 산출물의 검수 및 프로젝트의 완료를 승인한다.” 문구가 반드시 기술되도록 작성한다.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+  <impactOfNotHaving>&lt;p>&#xD;
+    미작성시 영향&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        최종검수확인서는 해당 프로젝트가 고객에게 인도하기로 한 모든 산출물에 대해 고객이 검수하고 인수하기로 하였음을 공식화 하는 문서로 미 작성시 프로젝트의 종료에 대한 고객의 승인을 획득하지 않은 것으로 간주될&#xD;
+        수 있다.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></impactOfNotHaving>
+  <representationOptions>&lt;p>&#xD;
+    제출시 고려사항&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        고객 측 검수 책임자의 승인을 획득하였는지 확인한다.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

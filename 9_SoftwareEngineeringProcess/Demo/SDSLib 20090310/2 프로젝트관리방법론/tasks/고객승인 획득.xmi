@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-rS2nDFQNutp16_kWb44rDg"
+    name="고객승인 획득,_bmioi8sUEd2VS4iuY7h1kQ" guid="-rS2nDFQNutp16_kWb44rDg" changeDate="2008-12-15T13:56:19.234+0900">
+  <mainDescription>&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt; WORD-BREAK: keep-all; TEXT-INDENT: -1cm; TEXT-ALIGN: left; mso-list: l0 level2 lfo1; tab-stops: list 49.6pt; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>1.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림; mso-font-kerning: 0pt&quot;>개별인수확인서는 프로젝트의 산출물이 나오는 시점별로 받을 수도 있고 각 단계말에 일괄적으로 받을 수도 있다&lt;SPAN lang=EN-US>. &lt;/SPAN>프로젝트 산출물의 고객인도 시점은 프로젝트 계획수립시점에 정의되어야 한다&lt;SPAN lang=EN-US>.&lt;/SPAN>&lt;/SPAN>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림&quot;>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt; WORD-BREAK: keep-all; TEXT-INDENT: -1cm; TEXT-ALIGN: left; mso-list: l0 level2 lfo1; tab-stops: list 49.6pt; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>2.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림; mso-font-kerning: 0pt&quot;>개별인수확인서상에 고객에 제출할 대상 산출물 목록을 작성하여 함께 제출한다&lt;SPAN lang=EN-US>. &lt;/SPAN>&lt;/SPAN>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림&quot;>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt; WORD-BREAK: keep-all; TEXT-INDENT: -1cm; TEXT-ALIGN: left; mso-list: l0 level2 lfo1; tab-stops: list 49.6pt; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림; mso-font-kerning: 0pt; mso-bidi-font-size: 10.0pt&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>3.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>고객 승인 요청&lt;/SPAN>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-font-kerning: 0pt; mso-bidi-font-size: 10.0pt&quot;>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt 50.4pt; WORD-BREAK: keep-all; TEXT-INDENT: -0.8pt; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=left>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>프로젝트 특성에 따라서 단계별 완료시점 뿐만 아니라&lt;SPAN lang=EN-US>, &lt;/SPAN>프로젝트 계획 및 검수 기준 상의 고객측과 합의된 시점별로 작업산출물에 대한 고객 승인을 요청할 수 있다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt; WORD-BREAK: keep-all; TEXT-INDENT: -1cm; TEXT-ALIGN: left; mso-list: l0 level2 lfo1; tab-stops: list 49.6pt; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>4.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>고객 승인시 주의사항&lt;SPAN lang=EN-US>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=a style=&quot;MARGIN: 0cm 0cm 0pt 57pt; WORD-BREAK: keep-all; TEXT-INDENT: -8.5pt; LINE-HEIGHT: normal; mso-list: l2 level1 lfo2; tab-stops: list 57.0pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>-&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>승인 절차를 만들었다고 해서 단계별 승인이 원활히 이루어지는 것은 아니다&lt;SPAN lang=EN-US>(&lt;/SPAN>미리 고객의 검토가 있어야 한다&lt;SPAN lang=EN-US>).&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=a style=&quot;MARGIN: 0cm 0cm 0pt 57pt; WORD-BREAK: keep-all; TEXT-INDENT: -8.5pt; LINE-HEIGHT: normal; mso-list: l2 level1 lfo2; tab-stops: list 57.0pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>-&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>단계별 승인이 원활히 이루어지려면 해당 단계에 하기로 약속한 업무를 수행하고 고객도 이에 동의해야 한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=a style=&quot;MARGIN: 0cm 0cm 0pt 57pt; WORD-BREAK: keep-all; TEXT-INDENT: -8.5pt; LINE-HEIGHT: normal; mso-list: l2 level1 lfo2; tab-stops: list 57.0pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>-&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>고객의 동의가 이루어지면 승인 절차를 밟아 단계 기준선을 마련한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=a style=&quot;MARGIN: 0cm 0cm 0pt 57pt; WORD-BREAK: keep-all; TEXT-INDENT: -8.5pt; LINE-HEIGHT: normal; mso-list: l2 level1 lfo2; tab-stops: list 57.0pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>-&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>승인 절차가 마련되어 있지 않다면 고객의 동의가 있더라도 승인을 받지 않고 지나칠 수 있으므로 승인 절차를 반드시 마련하여 둔다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt; WORD-BREAK: keep-all; TEXT-INDENT: -1cm; TEXT-ALIGN: left; mso-list: l0 level2 lfo1; tab-stops: list 49.6pt; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>5.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림&quot;>&lt;SPAN style=&quot;mso-spacerun: yes&quot;>&amp;nbsp;&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>고객 검토가 충실히 이루어지면 승인을 받는 데 별 어려움이 없겠지만&lt;SPAN lang=EN-US>, &lt;/SPAN>상황에 따라 승인을 받기 위한 전략이 필요할 수도 있다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=a style=&quot;MARGIN: 0cm 0cm 0pt 57pt; WORD-BREAK: keep-all; TEXT-INDENT: -8.5pt; LINE-HEIGHT: normal; mso-list: l1 level1 lfo3; tab-stops: list 57.0pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>-&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>책임 부담을 분산시킨다&lt;SPAN lang=EN-US>. &lt;BR>&lt;/SPAN>영역별 담당자에게 각자 맡은 영역에 대해 승인하도록 하고 인수책임자는 각 영역의 승인 내역을 확인하고 승인하도록 구성한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=a style=&quot;MARGIN: 0cm 0cm 0pt 57pt; WORD-BREAK: keep-all; TEXT-INDENT: -8.5pt; LINE-HEIGHT: normal; mso-list: l1 level1 lfo3; tab-stops: list 57.0pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 'Times New Roman'; mso-fareast-font-family: 'Times New Roman'&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>-&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>책임감이 있는 한 사람의 사인을 주도한다&lt;SPAN lang=EN-US>. &lt;BR>&lt;/SPAN>서로 사인하는 것을 꺼려할 경우에는 주도적인 역할을 하는 한 사람의 사인을 받으면 다른 사람도 사인을 하기 쉽게 된다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt; WORD-BREAK: keep-all; TEXT-INDENT: -1cm; TEXT-ALIGN: left; mso-list: l0 level2 lfo1; tab-stops: list 49.6pt; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림; mso-font-kerning: 0pt; mso-bidi-font-size: 10.0pt&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>6.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>부적합 사항 보완 및 고객 승인 획득&lt;/SPAN>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-font-kerning: 0pt; mso-bidi-font-size: 10.0pt&quot;>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt 50.4pt; WORD-BREAK: keep-all; TEXT-INDENT: -0.8pt; TEXT-ALIGN: left; tab-stops: 27.0pt; mso-layout-grid-align: none&quot; align=left>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>고객이 지적한 부적합사항을 처리하기 위하여 보완사항을 실행항목으로 관리하고 고객의 승인을 획득한다&lt;SPAN lang=EN-US>. &lt;/SPAN>&lt;/SPAN>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-font-kerning: 0pt; mso-bidi-font-size: 10.0pt&quot;>&lt;SPAN style=&quot;mso-spacerun: yes&quot;>&amp;nbsp;&lt;/SPAN>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></mainDescription>
+  <sections xmi:id="_4y7_4AE7Ed6LXYN6PlIfOw" name="각 단계에서 완료한 최종버전의 산출물을 고객에게 제출할 형태로 정리한다"
+      guid="_4y7_4AE7Ed6LXYN6PlIfOw">
+    <sectionDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>이때&#xD;
+품질활동에 따라 발견된 결함은 모두 제거된 상태이어야 한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span></sectionDescription>
+  </sections>
+  <sections xmi:id="_5xONEAE7Ed6LXYN6PlIfOw" name="프로젝트계획서상에 정의된 고객에게 제출할 대상 산출물을 인수책임자에게 제출한다"
+      guid="_5xONEAE7Ed6LXYN6PlIfOw"/>
+  <sections xmi:id="__XJ60AE7Ed6LXYN6PlIfOw" name="고객은 산출물을 검수 기준에 따라서 검토하여 보완 사항을 프로젝트에 수정 요청을 한다. "
+      guid="__XJ60AE7Ed6LXYN6PlIfOw">
+    <sectionDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>필요시&#xD;
+고객이 참여하는 공식적인 산출물 품질검토&lt;span lang=&quot;EN-US&quot;>(&lt;/span>기술검토 및 &lt;span lang=&quot;EN-US&quot;>Inspection&lt;/span>등&lt;span lang=&quot;EN-US&quot;>)&lt;/span>를&#xD;
+수행할 수 있다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span></sectionDescription>
+  </sections>
+  <sections xmi:id="_Bx0mcAE8Ed6LXYN6PlIfOw" name="보완 요청이 있는 경우 이 부분에 대해 산출물 보완작업을 실시한다"
+      guid="_Bx0mcAE8Ed6LXYN6PlIfOw">
+    <sectionDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>이때&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>보완일정을&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>수립하여&#xD;
+작업을&lt;/span> &lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>수행하며&lt;span&#xD;
+ lang=&quot;EN-US&quot;>,&lt;/span>&lt;/span> &lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>보완내용이&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>프로젝트계획서에&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>정의한&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>범위를&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>벗어날&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>경우&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>변경요청서를&#xD;
+작성하고 변경요청절차에&lt;/span> &lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>따라서&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>변경요청을&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 9.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>수행&lt;/span>&lt;span&#xD;
+ style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>한다&lt;span&#xD;
+ lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span></sectionDescription>
+  </sections>
+  <sections xmi:id="_GEJ-UAE8Ed6LXYN6PlIfOw" name="보완작업 완료 후 인수책임자의 최종 승인을 얻는다" guid="_GEJ-UAE8Ed6LXYN6PlIfOw">
+    <sectionDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>각각의&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>산출물에&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>대한&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>최종&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>승인된&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 9.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>개별&lt;/span>&lt;span&#xD;
+ style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>인수확인서&#xD;
+등의 인수확인문서&lt;/span>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 9.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>를&#xD;
+별도&lt;/span> &lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>보관한다&lt;span&#xD;
+ lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span></sectionDescription>
+  </sections>
+  <sections xmi:id="_VGU9AAE8Ed6LXYN6PlIfOw" name="PM과 인수책임자는 단계 완료에 합의하고 이를 각자의 상위관리자에 보고한다"
+      guid="_VGU9AAE8Ed6LXYN6PlIfOw"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-bidi-language: AR-SA; mso-ansi-language: EN-US; mso-fareast-language: KO&quot;>완성된&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-bidi-language: AR-SA; mso-ansi-language: EN-US; mso-fareast-language: KO&quot;>각각의&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-bidi-language: AR-SA; mso-ansi-language: EN-US; mso-fareast-language: KO&quot;>산출물에&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-bidi-language: AR-SA; mso-ansi-language: EN-US; mso-fareast-language: KO&quot;>대하여&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-bidi-language: AR-SA; mso-ansi-language: EN-US; mso-fareast-language: KO&quot;>인수책임자의&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-bidi-language: AR-SA; mso-ansi-language: EN-US; mso-fareast-language: KO&quot;>서명을&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-bidi-language: AR-SA; mso-ansi-language: EN-US; mso-fareast-language: KO&quot;>받음으로써&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 9.5pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-bidi-language: AR-SA; mso-ansi-language: EN-US; mso-fareast-language: KO&quot;>고객과&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-bidi-language: AR-SA; mso-ansi-language: EN-US; mso-fareast-language: KO&quot;>각&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 10.5pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-bidi-language: AR-SA; mso-ansi-language: EN-US; mso-fareast-language: KO&quot;>단계성과에&#xD;
+대한 공감대를 형성하고&lt;span lang=&quot;EN-US&quot;>,&lt;/span> 해당 단계의 공식적 승인을 획득한다.&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

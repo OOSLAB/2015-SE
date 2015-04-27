@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-RiZHcilUDdLitotglMwB7g"
+    name="기능요구사항분류구조도 작성,_RdRLcvdTEd2jtupPQEbLLw" guid="-RiZHcilUDdLitotglMwB7g" changeDate="2009-03-10T17:03:38.171+0900">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;굴림&quot;>[&lt;/font>&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../SDSEng_MethodContent_Core/tasks/%D328%D0A4%C9C0%B2E4%C774%C5B4%ADF8%B7A8%20%C791%C131_16823261.html&quot;&#xD;
+    guid=&quot;_V3fWQJxJEd2b9o00yINnSg&quot;>패키지다이어그램 작성&lt;/a>&lt;font face=&quot;굴림&quot;>]&lt;/font>&#xD;
+&lt;/p>&lt;br /></mainDescription>
+  <sections xmi:id="_bBMiPPmrEd2JRcy3PiAHxw" name="요구 패키지 식별기준 정립" guid="_bBMiPPmrEd2JRcy3PiAHxw"/>
+  <sections xmi:id="_bBMiPfmrEd2JRcy3PiAHxw" name="요구 패키지 정의" guid="_bBMiPfmrEd2JRcy3PiAHxw"/>
+</org.eclipse.epf.uma:TaskDescription>

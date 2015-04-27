@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-ww3H90bmjBvhxsCo4ggr8A"
+    name="new_discipline,_Rki94JYIEd2f_MiqbDX5Hg" guid="-ww3H90bmjBvhxsCo4ggr8A" changeDate="2008-10-09T22:43:50.578+0900">
+  <mainDescription>길이, 비고, 업무규칙, 인덱스, 인덱스키, 주제영역명, 컬럼명, 타입, 테이블명, 테이블설명, 테이블ID, DEFAULT, Key, No., NULL</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

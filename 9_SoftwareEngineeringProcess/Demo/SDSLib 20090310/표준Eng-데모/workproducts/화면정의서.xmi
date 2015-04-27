@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-g97JkxoubJvla_ldKiIxig"
+    name="화면정의서,_5s7iL5X_Ed2f_MiqbDX5Hg" guid="-g97JkxoubJvla_ldKiIxig" changeDate="2008-10-09T21:46:13.109+0900">
+  <mainDescription>&lt;p>&#xD;
+    비고/제약사항, 설명, 수정여부, 컨트롤(영문명), 필수, 항목명(한글),&amp;nbsp;이벤트명, 입력값/파라메터, 처리내용, 출력값/처리결과, 프레젠테이션 레이어 설계,&amp;nbsp;화면개요, 화면레이아웃, 화면명,&#xD;
+    화면ID, 서버단 클래스 및 함수, 시작JSP, 출력JSP, 프리젠테이션 레이어설계, controller 클래스, request URL&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

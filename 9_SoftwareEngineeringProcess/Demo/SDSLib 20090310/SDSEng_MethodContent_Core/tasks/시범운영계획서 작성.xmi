@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Kj4WK1DLdXs0HFmhi37Nlg"
+    name=",_rsAZ4KAXEd2n5q0acG373A" guid="-Kj4WK1DLdXs0HFmhi37Nlg" changeDate="2009-02-26T03:36:03.531+0900">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;굴림&quot;>수행 가이드(Task Guideline)&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>시범운영과 관련된 사항이 계약서에 명기된 경우에는 반드시 계약대로 수행될 수 있도록 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>시범운영은 고객이 주도하여 수행될 수 있도록 할 것을 권장한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>시범운영 계획 시에는 시스템 운영 방안과 관련하여 운영기간, 운영방식, 운영 중 나타날 수 있는 문제에 대한 대처 방안을 기술하여 시범운영일지 등 관련 양식을 정의한다. 다음은&#xD;
+        시범운영방안을 구성하는 항목이다.&lt;/font> &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>운영기간&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>운영방식&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li style=&quot;list-style: none&quot;>&#xD;
+                &lt;ul>&#xD;
+                    &lt;li>&#xD;
+                        투입인원&#xD;
+                    &lt;/li>&#xD;
+                    &lt;li>&#xD;
+                        현업인원 참여방안&#xD;
+                    &lt;/li>&#xD;
+                    &lt;li>&#xD;
+                        운영될 시스템&#xD;
+                    &lt;/li>&#xD;
+                &lt;/ul>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                문제에 대한 대처방안&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <sections xmi:id="_Wa3uFOF_Ed2itKHlK_Q0qg" name="시범운영에 대한 적절한 운영수준(범위)을 정의한다." guid="_Wa3uFOF_Ed2itKHlK_Q0qg"/>
+  <sections xmi:id="_Wa3uFeF_Ed2itKHlK_Q0qg" name="시범운영에 대한 필요한 준비사항을 파악한다." guid="_Wa3uFeF_Ed2itKHlK_Q0qg"/>
+  <sections xmi:id="_Wa3uE-F_Ed2itKHlK_Q0qg" name="시범운영방안을 수립한다." guid="_Wa3uE-F_Ed2itKHlK_Q0qg"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림체; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+ face=&quot;굴림&quot;>실제 운영환경에서의 시범운영계획을 수립한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/font>&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

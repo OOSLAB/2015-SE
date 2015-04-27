@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Gmq2ofKNmn1p48SQj0O_qA"
+    name="교육계획서 작성,_5ths4Md0Ed2wA9_TUU3fKA" guid="-Gmq2ofKNmn1p48SQj0O_qA" changeDate="2009-02-26T03:29:42.453+0900">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;굴림&quot;>수행 가이드(Task Guideline)&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>교육훈련계획 수립 시는 다음을 고려하여 계획을 수립하도록 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>교육대상/교육수행조직&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>교육계획&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>교육진행준비&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>교육결과정리&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>사용자 교육이 구체적인 요구사항으로 명시되어 있는 경우 즉 제안/계약에 기술되어 있거나 공식적인 요청이 있는 경우 해당 내용에 따라 교육 범위, 대상, 횟수, 일정, 방법 등을&#xD;
+        포함하여 계획을 수립한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>신 시스템에 대한 사용자 및 운영자 교육 외에 계약서 상에 기술된 추가적인 교육(예, 기술관련 교육 등)이 있는 경우, 교육계획서 내에 이를 포함하도록 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>사용자 교육이 별도로 명시된 요구사항이 없는 경우에는 적정한 교육 범위 및 수행 수준을 고객과 협의하여 계획에 반영한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>사용자 교육은 고객의 현업담당자 또는 사용자가 직접 강의를 할 수 있도록 할 것을 권장한다. 이를 위해서는 별도의 강사 양성을 위한 교육이 추가되지만, 교육의 대상이 많거나&#xD;
+        지역적으로 여러 곳에 분포되어 있는 경우에는 고객이 전파 교육을 하는 것이 유리하며 교육의 효과측면에서도 권장할 방법이라 할 수 있다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <sections xmi:id="_h4gxgANqEd6oPoG4YvsEDA" name="고객이 시스템을 효율적으로 운영하거나, 사용하기에 필요한 교육수준을 파악한다."
+      guid="_h4gxgANqEd6oPoG4YvsEDA">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        교육내용 수준&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        교육대상자&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_ivgD4ANqEd6oPoG4YvsEDA" name="시스템 운영 및 사용에 대한 교육훈련계획을 수립한다."
+      guid="_ivgD4ANqEd6oPoG4YvsEDA">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        교육담당자&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        교육내용&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        교재개발계획&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        교육장소 및 일정&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림체; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+ face=&quot;굴림&quot;>시스템 사용자와 운영자에게 시스템의 올바른 사용 가이드를 제공하고 정상적인 운영을 할 수 있도록 교육계획을 수립한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/font>&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

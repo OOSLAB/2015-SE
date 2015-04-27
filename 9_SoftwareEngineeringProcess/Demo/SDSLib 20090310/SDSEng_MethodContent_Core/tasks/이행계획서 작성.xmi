@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-6lOMe8jLrWSfaeFkT7FfPw"
+    name=",_79LF0KAYEd2n5q0acG373A" guid="-6lOMe8jLrWSfaeFkT7FfPw" changeDate="2009-02-26T03:48:30.406+0900">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;굴림&quot;>수행 가이드(Task Guideline)&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>릴리이즈 계획 시는 다음을 고려하여 계획을 수립하도록 한다.&lt;/font> &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>릴리이즈 구성 및 방법&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>릴리이즈 일정&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>오픈시나리오&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>오픈일정&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>운영팀구성&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>운영기간&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>장애대책/복구절차&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>릴리이즈 계획 수립 가이드&lt;/font> &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>최종적인 시스템을 사용자에게 인도하기 위한 릴리이즈 대상을 정의하고 이행단계에서 발생될 수 있는 실패나 사고에 대비한 비상계획을 반영한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>릴리이즈 계획에 반영해야 될 내용은 다음을 참조한다.&lt;/font> &#xD;
+                &lt;ul>&#xD;
+                    &lt;li>&#xD;
+                        &lt;font face=&quot;굴림&quot;>시스템 구성 (하드웨어/네트워크/DBMS/시스템 소프트웨어)&lt;/font>&#xD;
+                    &lt;/li>&#xD;
+                    &lt;li>&#xD;
+                        &lt;font face=&quot;굴림&quot;>지원 Tool / 어플리케이션 소프트웨어 / 데이터&lt;/font>&#xD;
+                    &lt;/li>&#xD;
+                    &lt;li>&#xD;
+                        &lt;font face=&quot;굴림&quot;>관련 소프트웨어 릴리이즈 일정 및 담당자&lt;/font>&#xD;
+                    &lt;/li>&#xD;
+                &lt;/ul>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>시스템이 성공적으로 설치되었더라도 긴급한 돌발상황이 발생한 경우에 적절히 대처할 수 있어야 한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>비상계획(납기지연, 인수불가사태)에 반영해야 될 내용은 다음과 같다.&lt;/font> &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>프로그램 및 파일(테이블)의 손상&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>네트워크 장애&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>하드웨어, 소프트웨어의 버전 불일치&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>기존시스템의 복원&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>기타&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>비상계획에 반영된 각각의 문제에 대해서는 관련 원인을 분석하여 다음의 예와 같은 조치계획을 수립한다.&lt;/font> &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>신 시스템의 보완 또는 철수&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>기존시스템의 복원&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>시스템 오픈 계획에 반영해야 될 내용은 다음을 참조한다.&lt;/font> &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>시스템의 순조로운 오픈을 위해 사전에 상세한 오픈 준비 계획을 수립한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>오픈 계획은 시범 운영 시에 수립해도 무방하나, 시스템 사용자 교육 및 시범운영과 병행하여 사전 오픈 리허설을 실시할 수도 있으므로, 되도록이면 이행 초기 단계에&#xD;
+                오픈을 위한 전략 및 상세 시나리오를 수립하는 것이 바람직하다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>오픈 계획에 반영해야 될 내용은 다음을 참조한다.&lt;/font> &#xD;
+                &lt;ul>&#xD;
+                    &lt;li>&#xD;
+                        &lt;font face=&quot;굴림&quot;>오픈 일정&lt;/font>&#xD;
+                    &lt;/li>&#xD;
+                    &lt;li>&#xD;
+                        &lt;font face=&quot;굴림&quot;>오픈 준비 역할&lt;/font>&#xD;
+                    &lt;/li>&#xD;
+                    &lt;li>&#xD;
+                        &lt;font face=&quot;굴림&quot;>오픈 준비 시나리오&lt;/font>&#xD;
+                    &lt;/li>&#xD;
+                    &lt;li>&#xD;
+                        &lt;font face=&quot;굴림&quot;>오픈 시 체크 항목 등&lt;/font>&#xD;
+                    &lt;/li>&#xD;
+                &lt;/ul>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>작성한 오픈시나리오는 인수책임자와 함께 검토하여, 고객 측 일정과 준비에 대해 문제가 없음을 확인한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <sections xmi:id="_AG3fEKAZEd2n5q0acG373A" name="시스템의 릴리이즈 계획을 수립한다." guid="_AG3fEKAZEd2n5q0acG373A"/>
+  <sections xmi:id="_Ch1ssKAZEd2n5q0acG373A" name="릴리이즈 대상항목을 선정한다." guid="_Ch1ssKAZEd2n5q0acG373A"/>
+  <sections xmi:id="_E0wxkKAZEd2n5q0acG373A" name="릴리이즈의 일정(이양방법, 시기 등)을 수립한다." guid="_E0wxkKAZEd2n5q0acG373A"/>
+  <sections xmi:id="_G2jDIKAZEd2n5q0acG373A" name="릴리이즈시 발생 가능한 문제점을 파악하여, 해당 문제의 원인과 조치 계획을 수립한다."
+      guid="_G2jDIKAZEd2n5q0acG373A"/>
+  <sections xmi:id="_I_ynkKAZEd2n5q0acG373A" name="시스템 오픈을 위한 상세한 오픈시나리오를 작성한다." guid="_I_ynkKAZEd2n5q0acG373A"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림체; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+ face=&quot;굴림&quot;>최종적인 시스템을 사용자에게 인도하기 위한 릴리이즈 계획을 수립하고 이행단계에서 발생될 수 있는 실패나 사고에 대비하여 원인파악 및 조치계획을 수립한다&lt;span&#xD;
+lang=&quot;EN-US&quot;>.&lt;/span>&lt;/font>&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

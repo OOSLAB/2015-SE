@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-yABVGclAy5u9CwljKhkpFQ"
+    name="new_artifact,_eJHhoJOrEd2QOZMWcM0ZMQ" guid="-yABVGclAy5u9CwljKhkpFQ" changeDate="2009-02-24T23:05:26.312+0900">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>작성항목&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>서브시스템&#xD;
+        &lt;span lang=&quot;EN-US&quot;>:&lt;/span> 프로젝트에서 분류한 서브시스템명을 기술한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         lang=&quot;EN-US&quot;>&lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>작성일&lt;span&#xD;
+         lang=&quot;EN-US&quot;>/&lt;/span>작성자 &lt;span lang=&quot;EN-US&quot;>:&lt;/span> 작성내용이 명확하지 않은 경우 작성자에게 작성내용의 의미를 확인하고&lt;span&#xD;
+        lang=&quot;EN-US&quot;>,&lt;/span> 작성내용에 대한 작성일을 확인하기 위한 목적으로 작성자와 작성일을 기재한다&lt;span&#xD;
+        lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         lang=&quot;EN-US&quot;>&lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         lang=&quot;EN-US&quot;>&lt;span lang=&quot;EN-US&quot;&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>n&lt;/span>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>레벨&#xD;
+        &lt;span lang=&quot;EN-US&quot;>:&lt;/span> 메뉴의 레벨별로 메뉴명을 기술한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         lang=&quot;EN-US&quot;>&lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         lang=&quot;EN-US&quot;>&lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         lang=&quot;EN-US&quot;>&lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>목적화면&#xD;
+        &lt;span lang=&quot;EN-US&quot;>:&lt;/span> 메뉴를 선택했을 때 대상이 되는 화면명을 기술한다&lt;span&#xD;
+        lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>작성시&#xD;
+    고려사항&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         lang=&quot;EN-US&quot;&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>N/A&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+  <impactOfNotHaving>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>미작성시&#xD;
+    영향&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>도출된&#xD;
+        전체 메뉴의 구성 및 현황을 파악하기 어렵고&lt;span lang=&quot;EN-US&quot;>,&lt;/span> 시스템 개발에 문제가 발생한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></impactOfNotHaving>
+  <reasonsForNotNeeding>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>작성이&#xD;
+    불필요한 경우&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>메뉴구조도는&#xD;
+        반드시 작성하도록 한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></reasonsForNotNeeding>
+  <representationOptions>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>제출시&#xD;
+    고려사항&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         lang=&quot;EN-US&quot;&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>N/A&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

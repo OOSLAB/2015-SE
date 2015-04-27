@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-l8MQcDok9578QIIz7HiWLA"
+    name="분석 클래스다이어그램 작성기법,_bBWTJvmrEd2JRcy3PiAHxw" guid="-l8MQcDok9578QIIz7HiWLA"
+    changeDate="2009-02-27T04:25:22.562+0900">
+  <mainDescription>&lt;p>&#xD;
+    1. 분석 클래스다이어그램 작성 절차&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    2. 입력물&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    유스케이스 정의서 ::= 시나리오&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    시나리오 ::=&amp;nbsp;문장&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    문장 ::=&amp;nbsp;명사 +&amp;nbsp;동사&amp;nbsp;+ 부사&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;p>&#xD;
+    3. 출력물&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    분석클래스다이어그램 ::=&amp;nbsp;클래스 +&amp;nbsp;연관&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    클래스 ::= 이름 + 속성 + 오퍼레이션&amp;nbsp; + 스테레오타입&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    연관 ::= 이름 + 방향성 + 다중성 + 역할&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;p>&#xD;
+    4. 매핑 가이드&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    4.1. 분석클래스는 일반적으로 모델-뷰-컨트롤러의 아키텍처 패턴으로 분류하여 정의한다.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; - 모델은 엔티티 스테레오타입 클래스로 정의되며, 지속적 데이터의 저장 장소의 의미를 갖는다.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; - 뷰는 바운더리 스테레오타입 클래스로 정의되며, 사용자와의 상호작용을 정의한다.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; - 컨트롤러는 컨트롤 스테레오타입 클래스로 정의되며, 바운더리 클래스와 엔티티 클래스 간의 데이터 매핑 을 정의한다.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    4.2. 유스케이스 정의서 시나리오의 명사를 중심으로 클래스를 추출한다.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    4.3. 추출된 클래스를&amp;nbsp;엔티티,&amp;nbsp;바운더리, 컨트롤 클래스로 분류한다.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    4.4. 해당 클래스와 연관된 동사를 중심으로 연관을 추출한다.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- 연관은&amp;nbsp;메시지와 달리 지속적, 행위적 패턴을 중심으로 정의한다.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; - 지속적, 행위적 패턴은 반복적으로 메시지를 주고 받는 상호작용의 형태를 의미한다.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

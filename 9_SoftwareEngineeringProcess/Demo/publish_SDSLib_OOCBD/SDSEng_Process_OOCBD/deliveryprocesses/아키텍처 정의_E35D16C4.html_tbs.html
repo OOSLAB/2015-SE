@@ -1,0 +1,584 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko" xml:lang="ko" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Capability Pattern: 아키텍처 정의</title>
+<meta name="uma.type" content="CapabilityPattern">
+<meta name="uma.name" content="아키텍처 정의">
+<meta name="uma.presentationName" content="아키텍처 정의">
+<meta name="element_type" content="other">
+<meta name="filetype" content="description">
+<meta name="role" content="">
+<link rel="StyleSheet" href="./../../css/default.css" type="text/css">
+<script src="./../../scripts/ContentPageResource.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSubSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ActivityTreeTable.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ProcessElementPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageToolbar.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/contentPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/processElementData.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+					var defaultQueryStr = '?proc=_TsE-4QfGEd6PyOiijdVpWA&path=_TsE-4QfGEd6PyOiijdVpWA,_MS1exwjqEd6CD-m1e93cOw';
+					var backPath = './../../';
+					var imgPath = './../../images/';
+					var nodeInfo=null;
+					contentPage.preload(imgPath, backPath, nodeInfo,  defaultQueryStr, false, true, true);
+				</script>
+</head>
+<body>
+<div id="breadcrumbs"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top">
+<div autoWrap="true">
+<div id="page-guid" value="_MS1exwjqEd6CD-m1e93cOw"></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="pageTitle" nowrap="true">Capability Pattern: 아키텍처 정의</td><td width="100%">
+<div align="right" id="contentPageToolbar"></div>
+</td><td width="100%" class="expandCollapseLink" align="right"><a name="mainIndex" href="./../../index.htm"></a><script language="JavaScript" type="text/javascript" src="./../../scripts/treebrowser.js"></script></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pageTitleSeparator"><img src="./../../images/shim.gif" alt="" title="" height="1"></td>
+</tr>
+</table>
+<div class="overview">
+<table width="97%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50"><img src="./../../images/capabilitypattern.gif" alt="" title=""></td><td>
+<table class="overviewTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"></td>
+</tr>
+<tr>
+<td valign="top">Extends: <a href="./../../SDSEng_Process_OOCBD/capabilitypatterns/아키텍처 정의_C3E75EFF.html" guid="_DkJHcQfFEd6PyOiijdVpWA">아키텍처 정의</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="middle">
+<td class="tab"><img src="./../../images/shim.gif" width="10" height="17" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_Description" href="./../../SDSEng_Process_OOCBD/deliveryprocesses/아키텍처 정의_E35D16C4.html_desc.html">Description</a></td><td width="21"><img src="./../../images/tab_middle-i_i.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_WBS" href="./../../SDSEng_Process_OOCBD/deliveryprocesses/아키텍처 정의_E35D16C4.html_wbs.html"><span style="white-space:nowrap;">Work Breakdown Structure</span></a></td><td width="1"><img src="./../../images/tab_middle-i_a.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="activeTab"><span style="white-space:nowrap;">Team Allocation</span></td><td width="21"><img src="./../../images/tab_middle-a_i.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_WPBS" href="./../../SDSEng_Process_OOCBD/deliveryprocesses/아키텍처 정의_E35D16C4.html_wpbs.html"><span style="white-space:nowrap;">Work Product Usage</span></a></td><td width="21"><img src="./../../images/tab_end-i.gif" width="21" height="17" alt="" title=""></td><td width="50%"><img src="./../../images/shim.gif" width="10" height="17" alt="" title=""></td>
+</tr>
+<tr>
+<td colspan="4"><img src="./../../images/shim.gif" alt="" title="" height="2"></td><td><img src="./../../images/tab_space_middle.gif" width="21" height="2" alt="" title=""></td><td class="activeTab"><img src="./../../images/shim.gif" width="10" height="2" alt="" title=""></td><td><img src="./../../images/tab_space.gif" width="21" height="2" alt="" title=""></td><td colspan="3"><img src="./../../images/shim.gif" height="2" alt="" title=""></td>
+</tr>
+<tr>
+<td colspan="10" class="activeTab"><img src="./../../images/shim.gif" height="5" alt="" title=""></td>
+</tr>
+</table>
+<div class="sectionHeading">Team Breakdown</div>
+<div class="sectionContent">
+<div id="treeContent"></div>
+<script language="JavaScript">
+contentPage.processPage.treeTable.data = {
+title: "Team Breakdown", summary: "Team Breakdown", 
+columns: [
+["presentation_name", "Breakdown Element"],
+["model_info", "Model Info"],
+["teams", "Team"],
+["type", "Type"],
+["is_planned", "Planned"],
+["has_multiple_occurrences", "Multiple Occurrences"],
+["is_optional", "Optional"]],
+rows: [
+
+{id: "e7055984", parentId: "", relPath: ",_5N_PiQgSEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "개발자", title: "개발자", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/개발자_1394054.html", 
+	predecessors: "", info: "", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "ebd9acd2", parentId: "e7055984", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "실행아키텍쳐", title: "실행아키텍쳐", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/실행아키텍쳐_4EEEE6B1.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "43fc48f2", parentId: "e7055984", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "실행아키텍처 구축", title: "실행아키텍처 구축", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/실행아키텍처 구축_2B40724B.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e8787192", parentId: "e7055984", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "실행아키텍쳐구축결과서 작성", title: "실행아키텍쳐구축결과서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/실행아키텍쳐구축결과서 작성_35DE525B.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e515d396", parentId: "", relPath: ",_WfLHFwgSEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "데이터아키텍트", title: "데이터아키텍트", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/데이터아키텍트_8842205E.html", 
+	predecessors: "", info: "", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "edfa4334", parentId: "e515d396", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "데이터아키텍처설계서", title: "데이터아키텍처설계서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/데이터아키텍처설계서_5EEF8064.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3cf041a9", parentId: "e515d396", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "데이터아키텍처설계서 작성", title: "데이터아키텍처설계서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/데이터아키텍처설계서 작성_20303999.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "44b93a71", parentId: "e515d396", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "개념데이터아키텍처 작성", title: "개념데이터아키텍처 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/개념데이터아키텍처 작성_CA794A19.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "ec29aa93", parentId: "e515d396", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "실행아키텍처 구축", title: "실행아키텍처 구축", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/실행아키텍처 구축_2B40724B.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "36538023", parentId: "e515d396", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "실행아키텍쳐구축결과서 작성", title: "실행아키텍쳐구축결과서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/실행아키텍쳐구축결과서 작성_35DE525B.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "46c31c68", parentId: "e515d396", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "실행아키텍쳐구축계획서 작성", title: "실행아키텍쳐구축계획서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/실행아키텍쳐구축계획서 작성_F69B6044.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "38d6f6db", parentId: "e515d396", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "아키텍처설계방향정의서 작성", title: "아키텍처설계방향정의서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/아키텍처설계방향정의서 작성_EB8B2792.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "ecd22513", parentId: "", relPath: ",_WfLHFAgSEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "리드아키텍트", title: "리드아키텍트", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/리드아키텍트_846D4C28.html", 
+	predecessors: "", info: "", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3c70d5aa", parentId: "ecd22513", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "개념기술인프라아키텍처", title: "개념기술인프라아키텍처", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/개념기술인프라아키텍처_6C8048C.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3a83689c", parentId: "ecd22513", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "개념데이터아키텍처", title: "개념데이터아키텍처", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/개념데이터아키텍처_1165E49C.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "355725f3", parentId: "ecd22513", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "개념소프트웨어아키텍처", title: "개념소프트웨어아키텍처", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/개념소프트웨어아키텍처_D222F285.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "ecaeb5ce", parentId: "ecd22513", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "아키텍처기술표준정의서", title: "아키텍처기술표준정의서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/아키텍처기술표준정의서_182EF076.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "431dda60", parentId: "ecd22513", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "아키텍처설계방향정의서", title: "아키텍처설계방향정의서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/아키텍처설계방향정의서_9A5D9E45.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "4689b367", parentId: "ecd22513", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "개념기술인프라아키텍처 작성", title: "개념기술인프라아키텍처 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/개념기술인프라아키텍처 작성_BFDB6A09.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "8cb69590", parentId: "ecd22513", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "개념데이터아키텍처 작성", title: "개념데이터아키텍처 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/개념데이터아키텍처 작성_CA794A19.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "36477819", parentId: "ecd22513", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "개념소프트웨어아키텍처 작성", title: "개념소프트웨어아키텍처 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/개념소프트웨어아키텍처 작성_B9125E2F.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e1f1dcd7", parentId: "ecd22513", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "아키텍처기술표준정의서 작성", title: "아키텍처기술표준정의서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/아키텍처기술표준정의서 작성_C3B03E3F.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "38fe109e", parentId: "ecd22513", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "아키텍처설계방향정의서 작성", title: "아키텍처설계방향정의서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/아키텍처설계방향정의서 작성_EB8B2792.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3d43f683", parentId: "", relPath: ",_5N_PjggSEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "분석자", title: "분석자", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석자_B4643689.html", 
+	predecessors: "", info: "", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "true",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e7c91d68", parentId: "3d43f683", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "실행아키텍쳐구축계획서 작성", title: "실행아키텍쳐구축계획서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/실행아키텍쳐구축계획서 작성_F69B6044.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "94494761", parentId: "", relPath: ",_WfLHFggSEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "비즈니스아키텍트", title: "비즈니스아키텍트", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/비즈니스아키텍트_7DA4404E.html", 
+	predecessors: "", info: "", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "8cbf2350", parentId: "94494761", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "개념기술인프라아키텍처 작성", title: "개념기술인프라아키텍처 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/개념기술인프라아키텍처 작성_BFDB6A09.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e9a1fdf8", parentId: "", relPath: ",_cfoNpAgSEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "설계자", title: "설계자", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/설계자_8FBFBE35.html", 
+	predecessors: "", info: "", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "ebdbd140", parentId: "e9a1fdf8", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "실행아키텍처 구축", title: "실행아키텍처 구축", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/실행아키텍처 구축_2B40724B.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3a66bc64", parentId: "e9a1fdf8", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "실행아키텍쳐구축결과서 작성", title: "실행아키텍쳐구축결과서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/실행아키텍쳐구축결과서 작성_35DE525B.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "ebf826b0", parentId: "e9a1fdf8", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "아키텍처설계방향정의서 작성", title: "아키텍처설계방향정의서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/아키텍처설계방향정의서 작성_EB8B2792.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "443396cd", parentId: "", relPath: ",_WfLHGAgSEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "소프트웨어아키텍트", title: "소프트웨어아키텍트", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/소프트웨어아키텍트_48FF2E47.html", 
+	predecessors: "", info: "", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "f0742c63", parentId: "443396cd", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "소프트웨어아키텍처설계서", title: "소프트웨어아키텍처설계서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/소프트웨어아키텍처설계서_5826748A.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "361e7bfd", parentId: "443396cd", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "실행아키텍쳐구축결과서", title: "실행아키텍쳐구축결과서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/실행아키텍쳐구축결과서_3D87FAC7.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e4ebfdd7", parentId: "443396cd", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "실행아키텍쳐구축계획서", title: "실행아키텍쳐구축계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/실행아키텍쳐구축계획서_445106A1.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "8fe35394", parentId: "443396cd", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "소프트웨어아키텍처설계서 작성", title: "소프트웨어아키텍처설계서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/소프트웨어아키텍처설계서 작성_2ACE19A9.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "347513e4", parentId: "443396cd", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "실행아키텍쳐구축결과서 작성", title: "실행아키텍쳐구축결과서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/실행아키텍쳐구축결과서 작성_35DE525B.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e34c688a", parentId: "443396cd", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "실행아키텍쳐구축계획서 작성", title: "실행아키텍쳐구축계획서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/실행아키텍쳐구축계획서 작성_F69B6044.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "8e5eafcf", parentId: "443396cd", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "개념소프트웨어아키텍처 작성", title: "개념소프트웨어아키텍처 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/개념소프트웨어아키텍처 작성_B9125E2F.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "478862b7", parentId: "443396cd", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "실행아키텍처 구축", title: "실행아키텍처 구축", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/실행아키텍처 구축_2B40724B.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "ec07d0be", parentId: "443396cd", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "아키텍처설계방향정의서 작성", title: "아키텍처설계방향정의서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/아키텍처설계방향정의서 작성_EB8B2792.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3a765fce", parentId: "", relPath: ",_WfLHFQgSEd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "프로젝트TA", title: "프로젝트TA", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/프로젝트TA_8F0B2C38.html", 
+	predecessors: "", info: "", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "8e9fb110", parentId: "3a765fce", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "기술인프라아키텍처설계서", title: "기술인프라아키텍처설계서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/기술인프라아키텍처설계서_9394926B.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "8db01ed7", parentId: "3a765fce", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "기술인프라아키텍쳐설계서 작성", title: "기술인프라아키텍쳐설계서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/기술인프라아키텍쳐설계서 작성_31972583.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "354333fb", parentId: "3a765fce", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "개념기술인프라아키텍처 작성", title: "개념기술인프라아키텍처 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/개념기술인프라아키텍처 작성_BFDB6A09.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "44c7fb2f", parentId: "3a765fce", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "개념데이터아키텍처 작성", title: "개념데이터아키텍처 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/개념데이터아키텍처 작성_CA794A19.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "8f4fa7d0", parentId: "3a765fce", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "개념소프트웨어아키텍처 작성", title: "개념소프트웨어아키텍처 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/개념소프트웨어아키텍처 작성_B9125E2F.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "39198a51", parentId: "3a765fce", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "데이터아키텍처설계서 작성", title: "데이터아키텍처설계서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/데이터아키텍처설계서 작성_20303999.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e2b99c11", parentId: "3a765fce", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "소프트웨어아키텍처설계서 작성", title: "소프트웨어아키텍처설계서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/소프트웨어아키텍처설계서 작성_2ACE19A9.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "320a20be", parentId: "3a765fce", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "실행아키텍처 구축", title: "실행아키텍처 구축", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/실행아키텍처 구축_2B40724B.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "40c37d3c", parentId: "3a765fce", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "실행아키텍쳐구축결과서 작성", title: "실행아키텍쳐구축결과서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/실행아키텍쳐구축결과서 작성_35DE525B.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "4515af02", parentId: "3a765fce", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "실행아키텍쳐구축계획서 작성", title: "실행아키텍쳐구축계획서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/실행아키텍쳐구축계획서 작성_F69B6044.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "320b0075", parentId: "3a765fce", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "아키텍처기술표준정의서 작성", title: "아키텍처기술표준정의서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/아키텍처기술표준정의서 작성_C3B03E3F.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3d34bbaf", parentId: "3a765fce", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "아키텍처설계방향정의서 작성", title: "아키텍처설계방향정의서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/아키텍처설계방향정의서 작성_EB8B2792.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+]};
+				</script>
+</div>
+<table class="copyright" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="copyright"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+<script language="JavaScript" type="text/javascript">
+				contentPage.onload();
+			</script>
+</html>

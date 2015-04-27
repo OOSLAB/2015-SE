@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_m-hPwPmrEd2JRcy3PiAHxw"
+      guid="_m-hPwPmrEd2JRcy3PiAHxw">
+    <resourceDescriptors xmi:id="_m-hPwfmrEd2JRcy3PiAHxw" id="-9vcsi20lDu1dm3uRETWpCQ"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_m2xpCPmrEd2JRcy3PiAHxw" name="배치작업 분석"
+      guid="_m2xpCPmrEd2JRcy3PiAHxw">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_SksOgAgSEd6PpbmBy1d4Hw"
+        name="배치목록 작성" guid="_SksOgAgSEd6PpbmBy1d4Hw" presentationName="배치목록 작성" superActivities="_m2xpDPmrEd2JRcy3PiAHxw"
+        additionallyPerformedBy="_SksOgggSEd6PpbmBy1d4Hw" output="_SksOgwgSEd6PpbmBy1d4Hw"
+        performedPrimarilyBy="_SksOgQgSEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_ZIqt8JxbEd2IZdao1IJ_iw"/>
+      <selectedSteps href="uma://-ItYfRYUe8l9jjV3xKVv4yA#_hoG_cJxbEd2IZdao1IJ_iw"/>
+      <selectedSteps href="uma://-ItYfRYUe8l9jjV3xKVv4yA#_jAB0oJxbEd2IZdao1IJ_iw"/>
+      <selectedSteps href="uma://-ItYfRYUe8l9jjV3xKVv4yA#_fmno0JxbEd2IZdao1IJ_iw"/>
+      <selectedSteps href="uma://-ItYfRYUe8l9jjV3xKVv4yA#_kszfgJxbEd2IZdao1IJ_iw"/>
+      <selectedSteps href="uma://-ItYfRYUe8l9jjV3xKVv4yA#_l_WsgJxbEd2IZdao1IJ_iw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_SksOgQgSEd6PpbmBy1d4Hw"
+        name="분석자" guid="_SksOgQgSEd6PpbmBy1d4Hw" presentationName="분석자" isPlanned="false"
+        superActivities="_m2xpDPmrEd2JRcy3PiAHxw" modifies="_SksOgwgSEd6PpbmBy1d4Hw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to1eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_SksOgggSEd6PpbmBy1d4Hw"
+        name="소프트웨어아키텍트" guid="_SksOgggSEd6PpbmBy1d4Hw" presentationName="소프트웨어아키텍트"
+        isPlanned="false" superActivities="_m2xpDPmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to2eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_SksOgwgSEd6PpbmBy1d4Hw"
+        name="배치목록" guid="_SksOgwgSEd6PpbmBy1d4Hw" presentationName="배치목록" isPlanned="false"
+        superActivities="_m2xpDPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_5s7iY5X_Ed2f_MiqbDX5Hg"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_m2xpDPmrEd2JRcy3PiAHxw"
+        name="배치작업 분석" guid="_m2xpDPmrEd2JRcy3PiAHxw" presentationName="배치작업 분석" breakdownElements="_SksOgAgSEd6PpbmBy1d4Hw _SksOgQgSEd6PpbmBy1d4Hw _SksOgggSEd6PpbmBy1d4Hw _SksOgwgSEd6PpbmBy1d4Hw">
+      <presentation xmi:id="-9vcsi20lDu1dm3uRETWpCQ" href="uma://-9vcsi20lDu1dm3uRETWpCQ#-9vcsi20lDu1dm3uRETWpCQ"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

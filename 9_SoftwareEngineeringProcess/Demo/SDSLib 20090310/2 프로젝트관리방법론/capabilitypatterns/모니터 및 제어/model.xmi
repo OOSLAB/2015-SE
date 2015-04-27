@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_4WDHsfZHEd2OhLPIr_EKbA"
+      guid="_4WDHsfZHEd2OhLPIr_EKbA">
+    <resourceDescriptors xmi:id="_4WDHsvZHEd2OhLPIr_EKbA" id="-Pvy33cpIDDIz3Tlr3Bpqwg"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_4VTg0PZHEd2OhLPIr_EKbA" name="모니터 및 제어"
+      guid="_4VTg0PZHEd2OhLPIr_EKbA">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_D39EoPZIEd2OhLPIr_EKbA"
+        name="공정진척 입력" guid="_D39EoPZIEd2OhLPIr_EKbA" presentationName="공정진척 입력" superActivities="_4VTg0fZHEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_Kc0DgPGMEd2JDeNeZI1pKA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_4A0-QPZKEd2OhLPIr_EKbA"
+        name="프로젝트성과 측정" guid="_4A0-QPZKEd2OhLPIr_EKbA" presentationName="프로젝트성과 측정"
+        superActivities="_4VTg0fZHEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_l9secM0VEd2A0Kjz7fgG4Q"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_4admQPZKEd2OhLPIr_EKbA"
+        name="프로젝트성과 취합 및 보고" guid="_4admQPZKEd2OhLPIr_EKbA" presentationName="프로젝트성과 취합 및 보고"
+        superActivities="_4VTg0fZHEd2OhLPIr_EKbA" output="_4admQfZKEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_rv-xsM0LEd2A0Kjz7fgG4Q"/>
+      <selectedSteps href="uma://-wQg5ffB6argnOPqkU-9gaQ#_tZBzIM0LEd2A0Kjz7fgG4Q"/>
+      <selectedSteps href="uma://-wQg5ffB6argnOPqkU-9gaQ#_wxjOIM0LEd2A0Kjz7fgG4Q"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_4admQfZKEd2OhLPIr_EKbA"
+        name="성과보고서" guid="_4admQfZKEd2OhLPIr_EKbA" presentationName="성과보고서" isPlanned="false"
+        superActivities="_4VTg0fZHEd2OhLPIr_EKbA">
+      <WorkProduct href="uma://_2SE8oMWmEd2eFf4iygnyuw#_qNx_IM0LEd2A0Kjz7fgG4Q"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_5yE5cPZKEd2OhLPIr_EKbA"
+        name="위험 식별 및 관리" guid="_5yE5cPZKEd2OhLPIr_EKbA" presentationName="위험 식별 및 관리"
+        superActivities="_4VTg0fZHEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_kODLQOjsEd2lTK4h8EdsoQ"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_4VTg0fZHEd2OhLPIr_EKbA"
+        name="모니터 및 제어" guid="_4VTg0fZHEd2OhLPIr_EKbA" presentationName="모니터 및 제어"
+        breakdownElements="_D39EoPZIEd2OhLPIr_EKbA _4A0-QPZKEd2OhLPIr_EKbA _4admQPZKEd2OhLPIr_EKbA _4admQfZKEd2OhLPIr_EKbA _5yE5cPZKEd2OhLPIr_EKbA">
+      <presentation xmi:id="-Pvy33cpIDDIz3Tlr3Bpqwg" href="uma://-Pvy33cpIDDIz3Tlr3Bpqwg#-Pvy33cpIDDIz3Tlr3Bpqwg"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

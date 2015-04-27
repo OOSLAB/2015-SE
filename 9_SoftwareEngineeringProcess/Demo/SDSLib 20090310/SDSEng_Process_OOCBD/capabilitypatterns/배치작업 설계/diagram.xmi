@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML">
+  <uml:Activity xmi:id="_FaiHAAjmEd6CD-m1e93cOw" name="설계 배치모델">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_FaiHAQjmEd6CD-m1e93cOw" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FaiHAgjmEd6CD-m1e93cOw"
+          key="uri" value="uma://_m2n4D_mrEd2JRcy3PiAHxw#_m2n4EPmrEd2JRcy3PiAHxw"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FaiHAwjmEd6CD-m1e93cOw"
+          key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_Fa1B8AjmEd6CD-m1e93cOw" name="배치프로그램명세서 작성">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Fa1B8QjmEd6CD-m1e93cOw"
+          source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Fa1B8gjmEd6CD-m1e93cOw"
+            key="uri" value="uma://_m2n4D_mrEd2JRcy3PiAHxw#_txvOpwgSEd6PpbmBy1d4Hw"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Fa1B8wjmEd6CD-m1e93cOw"
+            key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_FaiHBAjmEd6CD-m1e93cOw" type="AD" element="_FaiHAAjmEd6CD-m1e93cOw"
+      name="설계 배치모델" measurementUnit="Pixel">
+    <children xmi:type="notation:Node" xmi:id="_Fa1B9AjmEd6CD-m1e93cOw" type="1009"
+        element="_Fa1B8AjmEd6CD-m1e93cOw">
+      <children xmi:type="notation:Node" xmi:id="_Fa1B-gjmEd6CD-m1e93cOw" type="4008"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_Fa1B9QjmEd6CD-m1e93cOw" fontName="Arial"
+          fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_Fa1B9gjmEd6CD-m1e93cOw"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_Fa1B9wjmEd6CD-m1e93cOw"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_Fa1B-AjmEd6CD-m1e93cOw" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Fa1B-QjmEd6CD-m1e93cOw"
+          x="24" y="24"/>
+    </children>
+    <styles xmi:type="notation:PageStyle" xmi:id="_FaiHBQjmEd6CD-m1e93cOw"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_FaiHBgjmEd6CD-m1e93cOw"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_FaiHBwjmEd6CD-m1e93cOw"/>
+  </notation:Diagram>
+</xmi:XMI>

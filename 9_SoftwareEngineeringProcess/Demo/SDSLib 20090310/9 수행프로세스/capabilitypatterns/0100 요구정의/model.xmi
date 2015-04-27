@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Cc4qYMs-Ed2r2Jyk2t76Nw"
+      guid="_Cc4qYMs-Ed2r2Jyk2t76Nw">
+    <resourceDescriptors xmi:id="_Cc4qYcs-Ed2r2Jyk2t76Nw" id="-JOHxQkax8Kb3wT08Qo1rUA"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_d8lsIeXqEd2_9Y2wXnaaqw" id="-etDo-oakAHlSnccWl1rwhQ"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_hbNIEOXqEd2_9Y2wXnaaqw" id="--eDoEL5wu4aPhpQs0LizfQ"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_FMmLAOXvEd2_9Y2wXnaaqw" id="-KLIi26HHiupMCRT6QBXxMg"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Y7xEUeXvEd2_9Y2wXnaaqw" id="-aRx0HTHl40HbUovNLVNYpQ"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Y761UOXvEd2_9Y2wXnaaqw" id="-oPGRHwQh54kNUNudchav8Q"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_CZ6O48s-Ed2r2Jyk2t76Nw" name="0100 요구정의"
+      guid="_CZ6O48s-Ed2r2Jyk2t76Nw">
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_XTnawOXvEd2_9Y2wXnaaqw"
+        name="단계착수" guid="_XTnawOXvEd2_9Y2wXnaaqw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_XTnaweXvEd2_9Y2wXnaaqw"
+          name="단계착수" guid="_XTnaweXvEd2_9Y2wXnaaqw" presentationName="단계착수" presentedAfter="_XyTh4eXvEd2_9Y2wXnaaqw"
+          superActivities="_CaDY08s-Ed2r2Jyk2t76Nw" breakdownElements="_XTnaw-XvEd2_9Y2wXnaaqw _XTnaxuXvEd2_9Y2wXnaaqw _XTnayeXvEd2_9Y2wXnaaqw">
+        <presentation xmi:id="-aRx0HTHl40HbUovNLVNYpQ" href="uma://-JOHxQkax8Kb3wT08Qo1rUA#-aRx0HTHl40HbUovNLVNYpQ"/>
+        <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_GD3VwOXlEd2_9Y2wXnaaqw"/>
+        <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_GD3VwOXlEd2_9Y2wXnaaqw"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_XTnaw-XvEd2_9Y2wXnaaqw"
+          name="단계교육결과 작성" guid="_XTnaw-XvEd2_9Y2wXnaaqw" presentationName="단계교육결과 작성"
+          superActivities="_XTnaweXvEd2_9Y2wXnaaqw" mandatoryInput="_XTnayeXvEd2_9Y2wXnaaqw"
+          output="_XTnaxuXvEd2_9Y2wXnaaqw">
+        <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_gmZ0MM0WEd2A0Kjz7fgG4Q"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_XTnaxuXvEd2_9Y2wXnaaqw"
+          name="단계교육결과" guid="_XTnaxuXvEd2_9Y2wXnaaqw" presentationName="단계교육결과" isPlanned="false"
+          superActivities="_XTnaweXvEd2_9Y2wXnaaqw">
+        <WorkProduct href="uma://_2SE8oMWmEd2eFf4iygnyuw#_etQhQM0WEd2A0Kjz7fgG4Q"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_XTnayeXvEd2_9Y2wXnaaqw"
+          name="교육자료" guid="_XTnayeXvEd2_9Y2wXnaaqw" presentationName="교육자료" isPlanned="false"
+          superActivities="_XTnaweXvEd2_9Y2wXnaaqw">
+        <WorkProduct href="uma://_2SE8oMWmEd2eFf4iygnyuw#_XpT9YM0WEd2A0Kjz7fgG4Q"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_XyTh4OXvEd2_9Y2wXnaaqw"
+        name="단계완료" guid="_XyTh4OXvEd2_9Y2wXnaaqw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_XyTh4eXvEd2_9Y2wXnaaqw"
+          name="단계완료" guid="_XyTh4eXvEd2_9Y2wXnaaqw" presentationName="단계완료" presentedBefore="_XTnaweXvEd2_9Y2wXnaaqw"
+          superActivities="_CaDY08s-Ed2r2Jyk2t76Nw">
+        <presentation xmi:id="-oPGRHwQh54kNUNudchav8Q" href="uma://-JOHxQkax8Kb3wT08Qo1rUA#-oPGRHwQh54kNUNudchav8Q"/>
+        <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_GD3VwOXlEd2_9Y2wXnaaqw"/>
+        <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_GD3VwOXlEd2_9Y2wXnaaqw"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_L1PZIOhDEd2wo6CBFtfaig"
+        name="기능요구 정의" guid="_L1PZIOhDEd2wo6CBFtfaig">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_L1PZIehDEd2wo6CBFtfaig"
+          name="기능요구 정의" guid="_L1PZIehDEd2wo6CBFtfaig" presentationName="기능요구 정의"
+          superActivities="_CaDY08s-Ed2r2Jyk2t76Nw"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_CaDY08s-Ed2r2Jyk2t76Nw"
+        name="0100 요구정의" guid="_CaDY08s-Ed2r2Jyk2t76Nw" presentationName="0100 요구정의"
+        breakdownElements="_XTnaweXvEd2_9Y2wXnaaqw _L1PZIehDEd2wo6CBFtfaig _XyTh4eXvEd2_9Y2wXnaaqw">
+      <presentation xmi:id="-JOHxQkax8Kb3wT08Qo1rUA" href="uma://-JOHxQkax8Kb3wT08Qo1rUA#-JOHxQkax8Kb3wT08Qo1rUA"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

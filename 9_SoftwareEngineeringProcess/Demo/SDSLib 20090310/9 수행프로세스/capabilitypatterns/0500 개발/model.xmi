@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Cft78Ms-Ed2r2Jyk2t76Nw"
+      guid="_Cft78Ms-Ed2r2Jyk2t76Nw">
+    <resourceDescriptors xmi:id="_Cft78cs-Ed2r2Jyk2t76Nw" id="-BnJfbImLg2SN_gR31Qdy4Q"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_CZ6O4cs-Ed2r2Jyk2t76Nw" name="0500 개발"
+      guid="_CZ6O4cs-Ed2r2Jyk2t76Nw">
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_i8tqoM0eEd2A0Kjz7fgG4Q"
+        name="코딩" guid="_i8tqoM0eEd2A0Kjz7fgG4Q">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_yIc64M5kEd2YkrTpti830g"
+          name="코딩모델 작성" guid="_yIc64M5kEd2YkrTpti830g">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_yIc64c5kEd2YkrTpti830g"
+            name="코딩모델 작성" guid="_yIc64c5kEd2YkrTpti830g" presentationName="코딩모델 작성"
+            superActivities="_i8tqoc0eEd2A0Kjz7fgG4Q"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_CxcGYM5lEd2YkrTpti830g"
+          name="단위테스트모델 작성" guid="_CxcGYM5lEd2YkrTpti830g">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_CxcGYc5lEd2YkrTpti830g"
+            name="단위테스트모델 작성" guid="_CxcGYc5lEd2YkrTpti830g" presentationName="단위테스트모델 작성"
+            superActivities="_i8tqoc0eEd2A0Kjz7fgG4Q" linkToPredecessor="_9iEEMc50Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_9iEEMc50Ed2YkrTpti830g"
+            guid="_9iEEMc50Ed2YkrTpti830g" pred="_yIc64c5kEd2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_AcB68M51Ed2YkrTpti830g"
+            guid="_AcB68M51Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_j4XZ4eG_Ed27s-Zwgwa2Xw"
+            guid="_j4XZ4eG_Ed27s-Zwgwa2Xw"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_JSq-wM5lEd2YkrTpti830g"
+          name="배포모델 작성" guid="_JSq-wM5lEd2YkrTpti830g">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_JSq-wc5lEd2YkrTpti830g"
+            name="배포모델 작성" guid="_JSq-wc5lEd2YkrTpti830g" presentationName="배포모델 작성"
+            superActivities="_i8tqoc0eEd2A0Kjz7fgG4Q" linkToPredecessor="_-CGPIM50Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_-CGPIM50Ed2YkrTpti830g"
+            guid="_-CGPIM50Ed2YkrTpti830g" pred="_CxcGYc5lEd2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_B-hocc51Ed2YkrTpti830g"
+            guid="_B-hocc51Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_lbmuQeG_Ed27s-Zwgwa2Xw"
+            guid="_lbmuQeG_Ed27s-Zwgwa2Xw"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_i8tqoc0eEd2A0Kjz7fgG4Q"
+          name="코딩" guid="_i8tqoc0eEd2A0Kjz7fgG4Q" presentationName="코딩" superActivities="_CZ6O4ss-Ed2r2Jyk2t76Nw"
+          breakdownElements="_yIc64c5kEd2YkrTpti830g _CxcGYc5lEd2YkrTpti830g _JSq-wc5lEd2YkrTpti830g"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_j91JYM0eEd2A0Kjz7fgG4Q"
+        name="테스트실시" guid="_j91JYM0eEd2A0Kjz7fgG4Q">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_RmpAEM5lEd2YkrTpti830g"
+          name="통합테스트모델 작성" guid="_RmpAEM5lEd2YkrTpti830g">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_RmpAEc5lEd2YkrTpti830g"
+            name="통합테스트모델 작성" guid="_RmpAEc5lEd2YkrTpti830g" presentationName="통합테스트모델 작성"
+            superActivities="_j91JYc0eEd2A0Kjz7fgG4Q"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_FNNK8M51Ed2YkrTpti830g"
+            guid="_FNNK8M51Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_nMjugeG_Ed27s-Zwgwa2Xw"
+            guid="_nMjugeG_Ed27s-Zwgwa2Xw"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_WSTd8M5lEd2YkrTpti830g"
+          name="시스템테스트모델 작성" guid="_WSTd8M5lEd2YkrTpti830g">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_WSTd8c5lEd2YkrTpti830g"
+            name="시스템테스트모델 작성" guid="_WSTd8c5lEd2YkrTpti830g" presentationName="시스템테스트모델 작성"
+            superActivities="_j91JYc0eEd2A0Kjz7fgG4Q" linkToPredecessor="_EFO2QM51Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_EFO2QM51Ed2YkrTpti830g"
+            guid="_EFO2QM51Ed2YkrTpti830g" pred="_RmpAEc5lEd2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_GpvaYc51Ed2YkrTpti830g"
+            guid="_GpvaYc51Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_oeXUoeG_Ed27s-Zwgwa2Xw"
+            guid="_oeXUoeG_Ed27s-Zwgwa2Xw"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_j91JYc0eEd2A0Kjz7fgG4Q"
+          name="테스트실시" guid="_j91JYc0eEd2A0Kjz7fgG4Q" presentationName="테스트" superActivities="_CZ6O4ss-Ed2r2Jyk2t76Nw"
+          linkToPredecessor="_6dXkIM50Ed2YkrTpti830g" breakdownElements="_RmpAEc5lEd2YkrTpti830g _WSTd8c5lEd2YkrTpti830g"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_6dXkIM50Ed2YkrTpti830g"
+          guid="_6dXkIM50Ed2YkrTpti830g" pred="_i8tqoc0eEd2A0Kjz7fgG4Q"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_CZ6O4ss-Ed2r2Jyk2t76Nw"
+        name="0500 개발" guid="_CZ6O4ss-Ed2r2Jyk2t76Nw" presentationName="0500 개발" breakdownElements="_i8tqoc0eEd2A0Kjz7fgG4Q _j91JYc0eEd2A0Kjz7fgG4Q">
+      <presentation xmi:id="-BnJfbImLg2SN_gR31Qdy4Q" href="uma://-BnJfbImLg2SN_gR31Qdy4Q#-BnJfbImLg2SN_gR31Qdy4Q"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

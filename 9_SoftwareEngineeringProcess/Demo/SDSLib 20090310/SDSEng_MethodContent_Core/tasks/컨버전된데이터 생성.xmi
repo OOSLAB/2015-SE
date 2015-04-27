@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-m3HM9vbfMR-e5O7_dyinHw"
+    name=",_u2aqQJxPEd2b9o00yINnSg" guid="-m3HM9vbfMR-e5O7_dyinHw" changeDate="2009-02-26T03:53:08.515+0900">
+  <mainDescription>&lt;font face=&quot;굴림&quot;>수행 가이드(Task Guideline)&lt;/font> &#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>컨버전 대상이 존재하지 않는 경우 해당 태스크는 생략될 수 있다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>컨버전 방법은 프로그램 혹은 툴을 이용할 수 있다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>컨버전 대상이 되는 데이터를 컨버전하기 위해 필요한 정보는 다음과 같다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;list-style: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>구 컨버전 대상(데이터)의 위치&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>각각의 컨버전 대상을 컨버전하는데 필요한 프로그램명&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>컨버전 결과에 대한 정확성 검증 시 반드시 고객이 참여하도록 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>오류 발생시 컨버전 계획서에 정의된 처리방법에 따라 조치한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>오류 발생시 이전 상태로 데이터를 복구하기 위해 컨버전 프로그램 수행 이전에 반드시 구 데이터를 백업받도록 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>컨버전 결과에 대한 정확성 확인 후 컨버전된 최초 데이터는 백업하여 향후 오류 발생시 복구 가능하도록 한다.&lt;br />&#xD;
+        &lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <sections xmi:id="_2IOrAJxPEd2b9o00yINnSg" name="컨버전 설계에서 도출된 컨버전 대상 데이터의 목록, 범위, 방법을 확인한다."
+      guid="_2IOrAJxPEd2b9o00yINnSg"/>
+  <sections xmi:id="_3knJcJxPEd2b9o00yINnSg" name="컨버전 실시전의 구 데이터는 데이터를 백업한다." guid="_3knJcJxPEd2b9o00yINnSg"/>
+  <sections xmi:id="_4_z8IJxPEd2b9o00yINnSg" name="컨버전에 필요한 컨버전용 프로그램을 수행한다." guid="_4_z8IJxPEd2b9o00yINnSg"/>
+  <sections xmi:id="_6W_KcJxPEd2b9o00yINnSg" name="컨버전된 데이터를 신 시스템으로 이관한다." guid="_6W_KcJxPEd2b9o00yINnSg"/>
+  <sections xmi:id="_7022oJxPEd2b9o00yINnSg" name="컨버전 결과에 대한 정확성을 확인한다." guid="_7022oJxPEd2b9o00yINnSg"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>구축된&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>데이터베이스에&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>운영에&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>필요한&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>데이터를&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>컨버전&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>프로그램&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>등을&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>통해서&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>로드한다&lt;/span>&lt;span&#xD;
+ lang=&quot;EN-US&quot;&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA; mso-fareast-font-family: 굴림&quot;>.&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

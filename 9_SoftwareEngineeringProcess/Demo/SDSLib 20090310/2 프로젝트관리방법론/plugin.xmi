@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_2SOGkMWmEd2eFf4iygnyuw"
+      guid="_2SOGkMWmEd2eFf4iygnyuw">
+    <subManagers xmi:id="_ofToQejwEd2spdXEUaTaEw" href="uma://_oetyYOjwEd2spdXEUaTaEw#_ofToQejwEd2spdXEUaTaEw"/>
+    <subManagers xmi:id="_Y6zeQfZGEd2OhLPIr_EKbA" href="uma://_Y31CwPZGEd2OhLPIr_EKbA#_Y6zeQfZGEd2OhLPIr_EKbA"/>
+    <subManagers xmi:id="_5iT78fZGEd2OhLPIr_EKbA" href="uma://_5hakEPZGEd2OhLPIr_EKbA#_5iT78fZGEd2OhLPIr_EKbA"/>
+    <subManagers xmi:id="_faIcsfZHEd2OhLPIr_EKbA" href="uma://_fY8J4PZHEd2OhLPIr_EKbA#_faIcsfZHEd2OhLPIr_EKbA"/>
+    <subManagers xmi:id="_snLFwfZHEd2OhLPIr_EKbA" href="uma://_smSU8PZHEd2OhLPIr_EKbA#_snLFwfZHEd2OhLPIr_EKbA"/>
+    <subManagers xmi:id="_4WDHsfZHEd2OhLPIr_EKbA" href="uma://_4VTg0PZHEd2OhLPIr_EKbA#_4WDHsfZHEd2OhLPIr_EKbA"/>
+    <subManagers xmi:id="_5wpdcfZHEd2OhLPIr_EKbA" href="uma://_5vwFkPZHEd2OhLPIr_EKbA#_5wpdcfZHEd2OhLPIr_EKbA"/>
+    <subManagers xmi:id="_7owOkfZHEd2OhLPIr_EKbA" href="uma://_7n22sPZHEd2OhLPIr_EKbA#_7owOkfZHEd2OhLPIr_EKbA"/>
+    <subManagers xmi:id="_84618fZHEd2OhLPIr_EKbA" href="uma://_84BeEPZHEd2OhLPIr_EKbA#_84618fZHEd2OhLPIr_EKbA"/>
+    <subManagers xmi:id="_-Qr6IfZHEd2OhLPIr_EKbA" href="uma://_-PyiQPZHEd2OhLPIr_EKbA#_-Qr6IfZHEd2OhLPIr_EKbA"/>
+    <subManagers xmi:id="_yPpX4fZMEd2OhLPIr_EKbA" href="uma://_yOmPAPZMEd2OhLPIr_EKbA#_yPpX4fZMEd2OhLPIr_EKbA"/>
+    <subManagers xmi:id="_zycAUfZMEd2OhLPIr_EKbA" href="uma://_zxiocPZMEd2OhLPIr_EKbA#_zycAUfZMEd2OhLPIr_EKbA"/>
+    <subManagers xmi:id="_BTPykfZQEd2OhLPIr_EKbA" href="uma://_BSNQwPZQEd2OhLPIr_EKbA#_BTPykfZQEd2OhLPIr_EKbA"/>
+    <subManagers xmi:id="_DivwAfZQEd2OhLPIr_EKbA" href="uma://_Dh2YIPZQEd2OhLPIr_EKbA#_DivwAfZQEd2OhLPIr_EKbA"/>
+    <subManagers xmi:id="_q1nScfZQEd2OhLPIr_EKbA" href="uma://_q0t6kPZQEd2OhLPIr_EKbA#_q1nScfZQEd2OhLPIr_EKbA"/>
+    <subManagers xmi:id="_tfCy0fZQEd2OhLPIr_EKbA" href="uma://_td_p8PZQEd2OhLPIr_EKbA#_tfCy0fZQEd2OhLPIr_EKbA"/>
+    <subManagers xmi:id="_XzYNQfZ0Ed2OhLPIr_EKbA" href="uma://_XyL6cPZ0Ed2OhLPIr_EKbA#_XzYNQfZ0Ed2OhLPIr_EKbA"/>
+    <subManagers xmi:id="_tTigoA9uEd61s4WhKxejYQ" href="uma://_tECsEA9uEd61s4WhKxejYQ#_tTigoA9uEd61s4WhKxejYQ"/>
+    <resourceDescriptors xmi:id="_x-b4Ac0LEd2A0Kjz7fgG4Q" id="-wQg5ffB6argnOPqkU-9gaQ"
+        uri="tasks/프로젝트성과%20취합%20및%20보고.xmi"/>
+    <resourceDescriptors xmi:id="_wbFnMc0REd2A0Kjz7fgG4Q" id="-sfyeqzuh1NrMaGQLjtwOPw"
+        uri="tasks/성과관리계획%20수립.xmi"/>
+    <resourceDescriptors xmi:id="_z8gGYOgWEd2wo6CBFtfaig" id="-uCrb4TQVZEGXZBBpswpC6w"
+        uri="roles/UI기획자.xmi"/>
+    <resourceDescriptors xmi:id="_z88yUOgWEd2wo6CBFtfaig" id="-YRMSNK42Hr6GR3pNdiwD5g"
+        uri="roles/개발자.xmi"/>
+    <resourceDescriptors xmi:id="_z88yUegWEd2wo6CBFtfaig" id="-u5AzS1H0zLuaIc14RS81_g"
+        uri="roles/분석자.xmi"/>
+    <resourceDescriptors xmi:id="_z88yUugWEd2wo6CBFtfaig" id="-XJOF2c-Z5OIsS-ID0shC4Q"
+        uri="roles/비즈니스아키텍트.xmi"/>
+    <resourceDescriptors xmi:id="_z88yU-gWEd2wo6CBFtfaig" id="-V2EU2EWEa0N4AjtSd8Sobg"
+        uri="roles/사업관리자.xmi"/>
+    <resourceDescriptors xmi:id="_z9GjUOgWEd2wo6CBFtfaig" id="-IrFHinGgL5MvuV5SwoS5Ag"
+        uri="roles/설계자.xmi"/>
+    <resourceDescriptors xmi:id="_z9GjUegWEd2wo6CBFtfaig" id="-McB2pJ1nPEX4rmJKcWAIdw"
+        uri="roles/소프트웨어아키텍트.xmi"/>
+    <resourceDescriptors xmi:id="_z9GjUugWEd2wo6CBFtfaig" id="-F1mslYgLvKLfDHN_jZL9jQ"
+        uri="roles/테스트관리자.xmi"/>
+    <resourceDescriptors xmi:id="_z9GjU-gWEd2wo6CBFtfaig" id="-72oq5BOKPo3oOTSy2uN-AA"
+        uri="roles/프로젝트TA.xmi"/>
+    <resourceDescriptors xmi:id="_z9PtQOgWEd2wo6CBFtfaig" id="-v7OLMQbW9qo_rTpPJr3JiQ"
+        uri="roles/프로젝트관리자.xmi"/>
+    <resourceDescriptors xmi:id="_z9PtQegWEd2wo6CBFtfaig" id="-R6BQ5YlynS8HNAVYnimudw"
+        uri="roles/프로젝트리더.xmi"/>
+    <resourceDescriptors xmi:id="_z9PtQugWEd2wo6CBFtfaig" id="-NpVSNF4JFiFt9XYKTLkvzw"
+        uri="roles/형상관리자.xmi"/>
+    <resourceDescriptors xmi:id="_oetyY-jwEd2spdXEUaTaEw" id="_oetyYOjwEd2spdXEUaTaEw"
+        uri="capabilitypatterns/형상관리활동%20수행/model.xmi"/>
+    <resourceDescriptors xmi:id="_D7PvQOkNEd2yf9xvOnGjzg" id="-Jpyn8PPQUsBdd4YRClqs5g"
+        uri="workproducts/검수관리계획서.xmi"/>
+    <resourceDescriptors xmi:id="_Y6NoYPZGEd2OhLPIr_EKbA" id="_Y31CwPZGEd2OhLPIr_EKbA"
+        uri="capabilitypatterns/단계계획/model.xmi"/>
+    <resourceDescriptors xmi:id="_5hkVEPZGEd2OhLPIr_EKbA" id="_5hakEPZGEd2OhLPIr_EKbA"
+        uri="capabilitypatterns/단계완료/model.xmi"/>
+    <resourceDescriptors xmi:id="_fZPE0PZHEd2OhLPIr_EKbA" id="_fY8J4PZHEd2OhLPIr_EKbA"
+        uri="capabilitypatterns/단계준비/model.xmi"/>
+    <resourceDescriptors xmi:id="_smbe4PZHEd2OhLPIr_EKbA" id="_smSU8PZHEd2OhLPIr_EKbA"
+        uri="capabilitypatterns/단계지속수행/model.xmi"/>
+    <resourceDescriptors xmi:id="_4VTg0_ZHEd2OhLPIr_EKbA" id="_4VTg0PZHEd2OhLPIr_EKbA"
+        uri="capabilitypatterns/모니터%20및%20제어/model.xmi"/>
+    <resourceDescriptors xmi:id="_5v52kfZHEd2OhLPIr_EKbA" id="_5vwFkPZHEd2OhLPIr_EKbA"
+        uri="capabilitypatterns/변경요청관리/model.xmi"/>
+    <resourceDescriptors xmi:id="_7oAAoPZHEd2OhLPIr_EKbA" id="_7n22sPZHEd2OhLPIr_EKbA"
+        uri="capabilitypatterns/요구사항변경관리/model.xmi"/>
+    <resourceDescriptors xmi:id="_84LPEPZHEd2OhLPIr_EKbA" id="_84BeEPZHEd2OhLPIr_EKbA"
+        uri="capabilitypatterns/품질활동/model.xmi"/>
+    <resourceDescriptors xmi:id="_-P8TQfZHEd2OhLPIr_EKbA" id="_-PyiQPZHEd2OhLPIr_EKbA"
+        uri="capabilitypatterns/형상모니터/model.xmi"/>
+    <resourceDescriptors xmi:id="_yOwAAfZMEd2OhLPIr_EKbA" id="_yOmPAPZMEd2OhLPIr_EKbA"
+        uri="capabilitypatterns/착수준비/model.xmi"/>
+    <resourceDescriptors xmi:id="_zxioc_ZMEd2OhLPIr_EKbA" id="_zxiocPZMEd2OhLPIr_EKbA"
+        uri="capabilitypatterns/착수계획/model.xmi"/>
+    <resourceDescriptors xmi:id="_BSWasPZQEd2OhLPIr_EKbA" id="_BSNQwPZQEd2OhLPIr_EKbA"
+        uri="capabilitypatterns/검수준비/model.xmi"/>
+    <resourceDescriptors xmi:id="_DiAJIPZQEd2OhLPIr_EKbA" id="_Dh2YIPZQEd2OhLPIr_EKbA"
+        uri="capabilitypatterns/완료보고/model.xmi"/>
+    <resourceDescriptors xmi:id="_q03rkPZQEd2OhLPIr_EKbA" id="_q0t6kPZQEd2OhLPIr_EKbA"
+        uri="capabilitypatterns/프로젝트착수/model.xmi"/>
+    <resourceDescriptors xmi:id="_teJa8fZQEd2OhLPIr_EKbA" id="_td_p8PZQEd2OhLPIr_EKbA"
+        uri="capabilitypatterns/프로젝트종료/model.xmi"/>
+    <resourceDescriptors xmi:id="_XyVEYPZ0Ed2OhLPIr_EKbA" id="_XyL6cPZ0Ed2OhLPIr_EKbA"
+        uri="capabilitypatterns/프로젝트수행통제/model.xmi"/>
+    <resourceDescriptors xmi:id="_EXy_oAE7Ed6LXYN6PlIfOw" id="-vgA_lOHhArG2r6a1EVO8Sg"
+        uri="tasks/고객검토%20실시.xmi"/>
+    <resourceDescriptors xmi:id="_1FJqEAE8Ed6LXYN6PlIfOw" id="-rS2nDFQNutp16_kWb44rDg"
+        uri="tasks/고객승인%20획득.xmi"/>
+    <resourceDescriptors xmi:id="_CZcRAAFFEd6LXYN6PlIfOw" id="-6L7GEDz09sND9oRFikzpXw"
+        uri="workproducts/고객인수확인서.xmi"/>
+    <resourceDescriptors xmi:id="_gPmwUMpOEd2EjMdX2hnh6w" id="-COTm8uJqtMofrNDs_rN3pg"
+        uri="guidances/templates/고객검수확인서.xmi"/>
+    <resourceDescriptors xmi:id="_SxCngMpQEd2CAJ2o_vewag" id="-M_iLGNaiCcm6QmYncPk6vg"
+        uri="tasks/검수관리계획%20수립.xmi"/>
+    <resourceDescriptors xmi:id="_SxfTcMpQEd2CAJ2o_vewag" id="-1bhqwtvwoN6RzemnD5UCrg"
+        uri="guidances/templates/검수관리계획서.xmi"/>
+    <resourceDescriptors xmi:id="_Do0eocplEd2CAJ2o_vewag" id="-i86CBRlFcsZs_vDYeygFTA"
+        uri="tasks/검수기준%20수립.xmi"/>
+    <resourceDescriptors xmi:id="_gkza4MpnEd2CAJ2o_vewag" id="-1XQToGnMHXjZAKDiov4pnQ"
+        uri="tasks/검수기준%20검토%20및%20합의.xmi"/>
+    <resourceDescriptors xmi:id="_gkza4cpnEd2CAJ2o_vewag" id="-0h4xQLvEXifI6ikaMzMbFQ"
+        uri="tasks/시스템인수인계계획%20수립.xmi"/>
+    <resourceDescriptors xmi:id="_gk8k0MpnEd2CAJ2o_vewag" id="-7_gT2fdQXpLQ8INIG5bUCw"
+        uri="guidances/templates/검수기준서.xmi"/>
+    <resourceDescriptors xmi:id="_YT70EMprEd2CAJ2o_vewag" id="-Pc5Yt9MfJpv3_P2dEfyYiw"
+        uri="tasks/시스템인수인계서%20실시.xmi"/>
+    <resourceDescriptors xmi:id="_YT70EcprEd2CAJ2o_vewag" id="-XxFAP8KjGaqtj4WZySHtig"
+        uri="workproducts/시스템인수인계서.xmi"/>
+    <resourceDescriptors xmi:id="_YUOvAMprEd2CAJ2o_vewag" id="-L8eCH7PjHJDTSd2RKbjKTQ"
+        uri="guidances/templates/시스템인수인계계획서.xmi"/>
+    <resourceDescriptors xmi:id="_hGTooMprEd2CAJ2o_vewag" id="-GgQr1mcb3yfh5pbhNFT7iA"
+        uri="guidances/templates/시스템인수인계서.xmi"/>
+    <resourceDescriptors xmi:id="_2fET8MqBEd21DP-EQ0fYRg" id="-Z9SWxNEVAD0cs448KBf6Fw"
+        uri="tasks/종료계획%20수립.xmi"/>
+    <resourceDescriptors xmi:id="_mkVqsMqDEd21DP-EQ0fYRg" id="-gynKuW3QJgu6ddCU7Of2vw"
+        uri="workproducts/종료계획서.xmi"/>
+    <resourceDescriptors xmi:id="_c9wSwAItEd6ruNDOcAmcDg" id="-81vUERpCMPcrbnWKL8CpWA"
+        uri="workproducts/검수기준서.xmi"/>
+    <resourceDescriptors xmi:id="_c-WIoAItEd6ruNDOcAmcDg" id="-fE0oq-Q51RBNtNIpDfXjyQ"
+        uri="workproducts/시스템인수인계계획서.xmi"/>
+    <resourceDescriptors xmi:id="_lVmHcAItEd6ruNDOcAmcDg" id="-Y0-EXbCcwwe_wI4UAa2oIg"
+        uri="guidances/templates/종료계획서.xmi"/>
+    <resourceDescriptors xmi:id="_n_KHsAJOEd6ruNDOcAmcDg" id="-RPc6XE7whheoO8PauGl9PA"
+        uri="tasks/최종검수%20준비.xmi"/>
+    <resourceDescriptors xmi:id="_n_T4sAJOEd6ruNDOcAmcDg" id="-2lneOp5Fz7_u9n0arHE2Zw"
+        uri="tasks/최종검수%20확인.xmi"/>
+    <resourceDescriptors xmi:id="_n_dCoAJOEd6ruNDOcAmcDg" id="-yK5pbTsvJfdlmhnp-YwFKg"
+        uri="tasks/업무범위%20정의.xmi"/>
+    <resourceDescriptors xmi:id="_n_5ukAJOEd6ruNDOcAmcDg" id="-jKDHEvYiMtMTM5zOTcEy-g"
+        uri="workproducts/업무범위기술서.xmi"/>
+    <resourceDescriptors xmi:id="_Up2_kAJREd6ruNDOcAmcDg" id="-6xpfBQXhTbL7A60zJGQZLg"
+        uri="guidances/guidelines/new_guideline.xmi"/>
+    <resourceDescriptors xmi:id="_5eF-QAPDEd661YoVKrCMOg" id="-rXGpUgC0_4sldDMwHJVsCw"
+        uri="workproducts/검수요청서.xmi"/>
+    <resourceDescriptors xmi:id="_B0IfUAPIEd661YoVKrCMOg" id="-OUJYDmTKPOkVeQtpcjTZhg"
+        uri="workproducts/최종검수확인서.xmi"/>
+    <resourceDescriptors xmi:id="_B0IfUQPIEd661YoVKrCMOg" id="-OTnLtsQZ6jlhmi1XEYXwbw"
+        uri="guidances/templates/검수요청서.xmi"/>
+    <resourceDescriptors xmi:id="_1svDIQPcEd661YoVKrCMOg" id="-PaLAAlGGkL5sF1-bezQFmw"
+        uri="workproducts/단계교육결과.xmi"/>
+    <resourceDescriptors xmi:id="_1svDIgPcEd661YoVKrCMOg" id="-GOHrnK-KrKqASjTrsXJ-yg"
+        uri="tasks/단계교육%20실시.xmi"/>
+    <resourceDescriptors xmi:id="_1s4NEAPcEd661YoVKrCMOg" id="-YvFmgq9pjx-3JF512orrLw"
+        uri="guidances/templates/최종검수확인서.xmi"/>
+    <resourceDescriptors xmi:id="_wTU8MAPhEd6ywbecb_a4aQ" id="-ETV3-jgwlcqWh2ZJbjOwHQ"
+        uri="guidances/templates/단계교육결과.xmi"/>
+    <resourceDescriptors xmi:id="_VT5lcAcPEd6aHrdXPSwwNg" id="-2VtA1GgZun0yLPwOPpELnQ"
+        uri="tasks/프로젝트교육계획%20수립.xmi"/>
+    <resourceDescriptors xmi:id="_VUfbUAcPEd6aHrdXPSwwNg" id="-xE_E9epWdVPfRePN320EXw"
+        uri="workproducts/프로젝트교육계획서.xmi"/>
+    <resourceDescriptors xmi:id="_nl7yYAcPEd6aHrdXPSwwNg" id="-1Z7MlyZum7-0YeJhkJf_cA"
+        uri="guidances/templates/프로젝트교육계획서.xmi"/>
+    <resourceDescriptors xmi:id="_3Bf2kAcREd6aHrdXPSwwNg" id="-Jl3N9or29ag4yEYkCi3x4g"
+        uri="tasks/구매관리계획%20수립.xmi"/>
+    <resourceDescriptors xmi:id="_3Bf2kQcREd6aHrdXPSwwNg" id="-WW6omt4iLt7Mk9a54h8EHg"
+        uri="workproducts/구매관리계획서.xmi"/>
+    <resourceDescriptors xmi:id="_iQ2x0AcUEd6aHrdXPSwwNg" id="-jvErmDW907nrs8FyHdJ-vQ"
+        uri="guidances/templates/구매관리계획서.xmi"/>
+    <resourceDescriptors xmi:id="_20zTwAfUEd6iXZwxaPWT4w" id="-TKrTCWSBlu5VWPJ6ZIPJrg"
+        uri="tasks/장비납품합의%20및%20검사.xmi"/>
+    <resourceDescriptors xmi:id="_gr1icAfdEd6iXZwxaPWT4w" id="-JG2I_KMkMeH_i3K0K7gXag"
+        uri="workproducts/장비검사서.xmi"/>
+    <resourceDescriptors xmi:id="_gsIdYAfdEd6iXZwxaPWT4w" id="-S9j2z9rq8Dr8X_Wp_YfpsA"
+        uri="workproducts/장비결함보고서.xmi"/>
+    <resourceDescriptors xmi:id="_gsSOYAfdEd6iXZwxaPWT4w" id="-Bj1694sgFN-xyBd55oc32Q"
+        uri="workproducts/장비관리대장.xmi"/>
+    <resourceDescriptors xmi:id="_uGUVIAfeEd6iXZwxaPWT4w" id="-Iok4jJDkaVqNYImaYxZ4kw"
+        uri="tasks/장비유지관리%20및%20인도.xmi"/>
+    <resourceDescriptors xmi:id="_uGUVIQfeEd6iXZwxaPWT4w" id="-88P_n9ZUXBZIA5FFLZXBVQ"
+        uri="guidances/templates/장비검사서.xmi"/>
+    <resourceDescriptors xmi:id="_uGUVIgfeEd6iXZwxaPWT4w" id="-rSqg2prdn01UgZzxEAkoMg"
+        uri="guidances/templates/장비결함보고서.xmi"/>
+    <resourceDescriptors xmi:id="_uGn3IAfeEd6iXZwxaPWT4w" id="-a7RGddU8m-kZ_KaEsuf4gw"
+        uri="guidances/templates/장비관리대장.xmi"/>
+    <resourceDescriptors xmi:id="_QZTAsgfgEd6iXZwxaPWT4w" id="-d9gmPb36e3rwXlvUvwfdzA"
+        uri="workproducts/장비설치확인서.xmi"/>
+    <resourceDescriptors xmi:id="_uCNmUAfgEd6iXZwxaPWT4w" id="-NpG2kxz4wyN_8P_GaDxolQ"
+        uri="guidances/templates/장비설치확인서.xmi"/>
+    <resourceDescriptors xmi:id="_c7dEQAfhEd6iXZwxaPWT4w" id="-QlXnkRy-w3ZNJ00R2obBTQ"
+        uri="tasks/변경요청처리.xmi"/>
+    <resourceDescriptors xmi:id="_1LMp4AieEd6pD7CQL_wPRw" id="-r8ryrnNBcFpSEqtrFZ7BZw"
+        uri="workproducts/변경요청목록.xmi"/>
+    <resourceDescriptors xmi:id="_tSWN0A9uEd61s4WhKxejYQ" id="_tECsEA9uEd61s4WhKxejYQ"
+        uri="deliveryprocesses/테크윈관리방법론/model.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_2SE8oMWmEd2eFf4iygnyuw" name="2 프로젝트관리방법론"
+      guid="_2SE8oMWmEd2eFf4iygnyuw" changeDate="2009-03-11T08:23:50.750+0900">
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2SE8ocWmEd2eFf4iygnyuw"
+        name="Content" guid="_2SE8ocWmEd2eFf4iygnyuw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2SE8osWmEd2eFf4iygnyuw"
+          name="Categories" guid="_2SE8osWmEd2eFf4iygnyuw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2SE8o8WmEd2eFf4iygnyuw"
+            name="Domains" guid="_2SE8o8WmEd2eFf4iygnyuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2SE8pMWmEd2eFf4iygnyuw"
+            name="Disciplines" guid="_2SE8pMWmEd2eFf4iygnyuw">
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_OjYusMspEd2VS4iuY7h1kQ"
+              name="관리 컴포넌트" guid="_OjYusMspEd2VS4iuY7h1kQ" presentationName="관리 컴포넌트"
+              briefDescription="메소드 클래스를 메소드 컴포넌트로 분류하여 체계회한다." disciplines="_v9RGkPZBEd2OhLPIr_EKbA _zr1qEPZBEd2OhLPIr_EKbA _14zQ4PZBEd2OhLPIr_EKbA _4SlLsPZBEd2OhLPIr_EKbA _6sXGgPZBEd2OhLPIr_EKbA _8f12UPZBEd2OhLPIr_EKbA _-pFawPZBEd2OhLPIr_EKbA _AzNwAPZCEd2OhLPIr_EKbA _C_I1APZCEd2OhLPIr_EKbA _EopJcPZCEd2OhLPIr_EKbA _Gd6pAPZCEd2OhLPIr_EKbA _LcWR4PZCEd2OhLPIr_EKbA _3x-jkPZCEd2OhLPIr_EKbA _6Ab_MPZCEd2OhLPIr_EKbA _7yImUPZCEd2OhLPIr_EKbA _-HcQ0PZCEd2OhLPIr_EKbA ___184PZCEd2OhLPIr_EKbA _BhTIkPZDEd2OhLPIr_EKbA"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_v9RGkPZBEd2OhLPIr_EKbA"
+              name="검수관리" guid="_v9RGkPZBEd2OhLPIr_EKbA" presentationName="검수관리">
+            <subdiscipline xmi:id="_F67bQPZDEd2OhLPIr_EKbA" name="프로젝트단위" guid="_F67bQPZDEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_2yYK4MsYEd2VS4iuY7h1kQ _KEChAOjiEd2lTK4h8EdsoQ _VUgvsOjiEd2lTK4h8EdsoQ _oRWqUPGMEd2JDeNeZI1pKA _adMVoMsmEd2VS4iuY7h1kQ _QyDGAMsmEd2VS4iuY7h1kQ _iFp70MsmEd2VS4iuY7h1kQ _y8f9IMsmEd2VS4iuY7h1kQ _DBH3UMsnEd2VS4iuY7h1kQ"/>
+            <subdiscipline xmi:id="_IDaxwPZDEd2OhLPIr_EKbA" name="단계단위" guid="_IDaxwPZDEd2OhLPIr_EKbA"
+                presentationName="단계단위" tasks="_bmioh8sUEd2VS4iuY7h1kQ _bmiohMsUEd2VS4iuY7h1kQ _bmioi8sUEd2VS4iuY7h1kQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_zr1qEPZBEd2OhLPIr_EKbA"
+              name="교육관리" guid="_zr1qEPZBEd2OhLPIr_EKbA" presentationName="교육관리">
+            <subdiscipline xmi:id="_KZLIMPZDEd2OhLPIr_EKbA" name="단계단위" guid="_KZLIMPZDEd2OhLPIr_EKbA"
+                presentationName="단계단위" tasks="_gmZ0MM0WEd2A0Kjz7fgG4Q"/>
+            <subdiscipline xmi:id="_KZLIMfZDEd2OhLPIr_EKbA" name="프로젝트단위" guid="_KZLIMfZDEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_KrvCUMsWEd2VS4iuY7h1kQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_14zQ4PZBEd2OhLPIr_EKbA"
+              name="구매장비관리" guid="_14zQ4PZBEd2OhLPIr_EKbA" presentationName="구매장비관리">
+            <subdiscipline xmi:id="_K5XEIPZDEd2OhLPIr_EKbA" name="단계단위" guid="_K5XEIPZDEd2OhLPIr_EKbA"
+                presentationName="단계단위"/>
+            <subdiscipline xmi:id="_K5XEIfZDEd2OhLPIr_EKbA" name="프로젝트단위" guid="_K5XEIfZDEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_eCNSUMsXEd2VS4iuY7h1kQ _pHrSQOhgEd2-iuQOrgnDkg _MODsEOjjEd2lTK4h8EdsoQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_4SlLsPZBEd2OhLPIr_EKbA"
+              name="변경요청관리" guid="_4SlLsPZBEd2OhLPIr_EKbA" presentationName="변경요청관리">
+            <subdiscipline xmi:id="_LcFWsPZDEd2OhLPIr_EKbA" name="단계단위" guid="_LcFWsPZDEd2OhLPIr_EKbA"
+                presentationName="단계단위" tasks="_XPl2ZMsUEd2VS4iuY7h1kQ"/>
+            <subdiscipline xmi:id="_LcFWsfZDEd2OhLPIr_EKbA" name="프로젝트단위" guid="_LcFWsfZDEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_nlzxUsEYEd21POOz5z_HpQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_6sXGgPZBEd2OhLPIr_EKbA"
+              name="성과관리" guid="_6sXGgPZBEd2OhLPIr_EKbA" presentationName="성과관리">
+            <subdiscipline xmi:id="_L7Ow0PZDEd2OhLPIr_EKbA" name="단계단위" guid="_L7Ow0PZDEd2OhLPIr_EKbA"
+                presentationName="단계단위" tasks="_l9secM0VEd2A0Kjz7fgG4Q _rv-xsM0LEd2A0Kjz7fgG4Q"/>
+            <subdiscipline xmi:id="_L7Ow0fZDEd2OhLPIr_EKbA" name="프로젝트단위" guid="_L7Ow0fZDEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_etaEgM0REd2A0Kjz7fgG4Q _chAhkM0VEd2A0Kjz7fgG4Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_8f12UPZBEd2OhLPIr_EKbA"
+              name="오픈소스관리" guid="_8f12UPZBEd2OhLPIr_EKbA" presentationName="오픈소스관리">
+            <subdiscipline xmi:id="_MZVCEPZDEd2OhLPIr_EKbA" name="단계단위" guid="_MZVCEPZDEd2OhLPIr_EKbA"
+                presentationName="단계단위"/>
+            <subdiscipline xmi:id="_MZVCEfZDEd2OhLPIr_EKbA" name="프로젝트단위" guid="_MZVCEfZDEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_ilQKQMsYEd2VS4iuY7h1kQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_-pFawPZBEd2OhLPIr_EKbA"
+              name="요구사항관리" guid="_-pFawPZBEd2OhLPIr_EKbA" presentationName="요구사항관리">
+            <subdiscipline xmi:id="_NWa8cPZDEd2OhLPIr_EKbA" name="단계단위" guid="_NWa8cPZDEd2OhLPIr_EKbA"
+                presentationName="단계단위" tasks="_CRPeUPGOEd2JDeNeZI1pKA _-ndnAM5pEd2YkrTpti830g"/>
+            <subdiscipline xmi:id="_NWa8cfZDEd2OhLPIr_EKbA" name="프로젝트단위" guid="_NWa8cfZDEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_WIjWIMJeEd2gouL4w_6FfA _quXjSMsUEd2VS4iuY7h1kQ _XbA74MsXEd2VS4iuY7h1kQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_AzNwAPZCEd2OhLPIr_EKbA"
+              name="위험관리" guid="_AzNwAPZCEd2OhLPIr_EKbA" presentationName="위험관리">
+            <subdiscipline xmi:id="_NwWfYPZDEd2OhLPIr_EKbA" name="단계단위" guid="_NwWfYPZDEd2OhLPIr_EKbA"
+                presentationName="단계단위" tasks="_kODLQOjsEd2lTK4h8EdsoQ"/>
+            <subdiscipline xmi:id="_NwWfYfZDEd2OhLPIr_EKbA" name="프로젝트단위" guid="_NwWfYfZDEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_BVhO8MsYEd2VS4iuY7h1kQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_C_I1APZCEd2OhLPIr_EKbA"
+              name="의사소통관리" guid="_C_I1APZCEd2OhLPIr_EKbA" presentationName="의사소통관리">
+            <subdiscipline xmi:id="_OLnfEPZDEd2OhLPIr_EKbA" name="단계단위" guid="_OLnfEPZDEd2OhLPIr_EKbA"
+                presentationName="단계단위"/>
+            <subdiscipline xmi:id="_OLnfEfZDEd2OhLPIr_EKbA" name="프로젝트단위" guid="_OLnfEfZDEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_ezKgEMsVEd2VS4iuY7h1kQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_EopJcPZCEd2OhLPIr_EKbA"
+              name="인력관리" guid="_EopJcPZCEd2OhLPIr_EKbA" presentationName="인력관리">
+            <subdiscipline xmi:id="_OiREgPZDEd2OhLPIr_EKbA" name="단계단위" guid="_OiREgPZDEd2OhLPIr_EKbA"
+                presentationName="단계단위"/>
+            <subdiscipline xmi:id="_OiREgfZDEd2OhLPIr_EKbA" name="프로젝트단위" guid="_OiREgfZDEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_Tz1EsMsVEd2VS4iuY7h1kQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_Gd6pAPZCEd2OhLPIr_EKbA"
+              name="일정진척관리" guid="_Gd6pAPZCEd2OhLPIr_EKbA" presentationName="일정진척관리">
+            <subdiscipline xmi:id="_PWk2UPZDEd2OhLPIr_EKbA" name="단계단위" guid="_PWk2UPZDEd2OhLPIr_EKbA"
+                presentationName="단계단위" tasks="_Kc0DgPGMEd2JDeNeZI1pKA"/>
+            <subdiscipline xmi:id="_PWk2UfZDEd2OhLPIr_EKbA" name="프로젝트단위" guid="_PWk2UfZDEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_VwkvkM0VEd2A0Kjz7fgG4Q _PXY_8M0VEd2A0Kjz7fgG4Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_LcWR4PZCEd2OhLPIr_EKbA"
+              name="지식재사용및자산관리" guid="_LcWR4PZCEd2OhLPIr_EKbA" presentationName="지식재사용및자산관리">
+            <subdiscipline xmi:id="_PwDtUPZDEd2OhLPIr_EKbA" name="단계단위" guid="_PwDtUPZDEd2OhLPIr_EKbA"
+                presentationName="단계단위" tasks="_AhuvkMveEd2so6-cDXaTSQ"/>
+            <subdiscipline xmi:id="_PwDtUfZDEd2OhLPIr_EKbA" name="프로젝트단위" guid="_PwDtUfZDEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_UUjr0MsYEd2VS4iuY7h1kQ _m3kysMsmEd2VS4iuY7h1kQ _VMT1YMsnEd2VS4iuY7h1kQ _eNDsoOkBEd2spdXEUaTaEw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_3x-jkPZCEd2OhLPIr_EKbA"
+              name="품질활동관리" guid="_3x-jkPZCEd2OhLPIr_EKbA" presentationName="품질활동관리">
+            <subdiscipline xmi:id="_QKSLMPZDEd2OhLPIr_EKbA" name="단계단위" guid="_QKSLMPZDEd2OhLPIr_EKbA"
+                presentationName="단계단위" tasks="__xAUAPPvEd2DAcGLfpDwYQ _8q0mMPPvEd2DAcGLfpDwYQ _4DyJoPPvEd2DAcGLfpDwYQ _tyVvAPPvEd2DAcGLfpDwYQ _w47iMPDeEd2abPWzIcHKEA _bmiogcsUEd2VS4iuY7h1kQ"/>
+            <subdiscipline xmi:id="_QKSLMfZDEd2OhLPIr_EKbA" name="프로젝트단위" guid="_QKSLMfZDEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_dh_WoMsWEd2VS4iuY7h1kQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_6Ab_MPZCEd2OhLPIr_EKbA"
+              name="프로젝트계획" guid="_6Ab_MPZCEd2OhLPIr_EKbA" presentationName="프로젝트계획">
+            <subdiscipline xmi:id="_Rjkc4PZEEd2OhLPIr_EKbA" name="단계단위" guid="_Rjkc4PZEEd2OhLPIr_EKbA"
+                presentationName="단계단위"/>
+            <subdiscipline xmi:id="_Rjkc4fZEEd2OhLPIr_EKbA" name="프로젝트단위" guid="_Rjkc4fZEEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_BMbWkMvXEd2so6-cDXaTSQ _K8CPcMvXEd2so6-cDXaTSQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_7yImUPZCEd2OhLPIr_EKbA"
+              name="프로젝트평가" guid="_7yImUPZCEd2OhLPIr_EKbA" presentationName="프로젝트평가">
+            <subdiscipline xmi:id="_RnkBgPZDEd2OhLPIr_EKbA" name="단계단위" guid="_RnkBgPZDEd2OhLPIr_EKbA"
+                presentationName="단계단위"/>
+            <subdiscipline xmi:id="_RnkBgfZDEd2OhLPIr_EKbA" name="프로젝트단위" guid="_RnkBgfZDEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_N4ATIOjoEd2lTK4h8EdsoQ _a4-2IOjoEd2lTK4h8EdsoQ _IFmaMOjpEd2lTK4h8EdsoQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_-HcQ0PZCEd2OhLPIr_EKbA"
+              name="협력업체관리" guid="_-HcQ0PZCEd2OhLPIr_EKbA" presentationName="협력업체관리">
+            <subdiscipline xmi:id="_SC-yMPZDEd2OhLPIr_EKbA" name="단계단위" guid="_SC-yMPZDEd2OhLPIr_EKbA"
+                presentationName="단계단위" tasks="_dMHrgOjqEd2lTK4h8EdsoQ _q_AzoOjqEd2lTK4h8EdsoQ"/>
+            <subdiscipline xmi:id="_SC-yMfZDEd2OhLPIr_EKbA" name="프로젝트단위" guid="_SC-yMfZDEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_mxcTUMsXEd2VS4iuY7h1kQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="___184PZCEd2OhLPIr_EKbA"
+              name="형상관리" guid="___184PZCEd2OhLPIr_EKbA" presentationName="형상관리">
+            <subdiscipline xmi:id="_SbagUPZDEd2OhLPIr_EKbA" name="단계단위" guid="_SbagUPZDEd2OhLPIr_EKbA"
+                presentationName="단계단위" tasks="_GIKAoOjqEd2lTK4h8EdsoQ _QZmbQOjqEd2lTK4h8EdsoQ"/>
+            <subdiscipline xmi:id="_SbagUfZDEd2OhLPIr_EKbA" name="프로젝트단위" guid="_SbagUfZDEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_nAw-MMsWEd2VS4iuY7h1kQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_BhTIkPZDEd2OhLPIr_EKbA"
+              name="환경준비" guid="_BhTIkPZDEd2OhLPIr_EKbA" presentationName="환경준비">
+            <subdiscipline xmi:id="_TuHeUPZDEd2OhLPIr_EKbA" name="단계단위" guid="_TuHeUPZDEd2OhLPIr_EKbA"
+                presentationName="단계단위" tasks="_GDNJgPGNEd2JDeNeZI1pKA"/>
+            <subdiscipline xmi:id="_TuHeUfZDEd2OhLPIr_EKbA" name="프로젝트단위" guid="_TuHeUfZDEd2OhLPIr_EKbA"
+                presentationName="프로젝트단위" tasks="_quXjSssUEd2VS4iuY7h1kQ _RqWXAMvWEd2so6-cDXaTSQ _eWKiUMvWEd2so6-cDXaTSQ"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2SE8pcWmEd2eFf4iygnyuw"
+            name="RoleSets" guid="_2SE8pcWmEd2eFf4iygnyuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2SE8psWmEd2eFf4iygnyuw"
+            name="WP Types" guid="_2SE8psWmEd2eFf4iygnyuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2SE8p8WmEd2eFf4iygnyuw"
+            name="Tools" guid="_2SE8p8WmEd2eFf4iygnyuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2SE8qMWmEd2eFf4iygnyuw"
+            name="StandardCategories" guid="_2SE8qMWmEd2eFf4iygnyuw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2SE8qcWmEd2eFf4iygnyuw"
+            name="CustomCategories" guid="_2SE8qcWmEd2eFf4iygnyuw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2SE8qsWmEd2eFf4iygnyuw"
+              name="Hidden" guid="_2SE8qsWmEd2eFf4iygnyuw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_2SE8q8WmEd2eFf4iygnyuw"
+                name="Custom Categories" guid="_2SE8q8WmEd2eFf4iygnyuw" categorizedElements="_mCEBoA9vEd61s4WhKxejYQ _2QOSUA9vEd61s4WhKxejYQ"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_mCEBoA9vEd61s4WhKxejYQ"
+              name="관리방법론" guid="_mCEBoA9vEd61s4WhKxejYQ" presentationName="관리방법론">
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_tECsEA9uEd61s4WhKxejYQ#_tECsEQ9uEd61s4WhKxejYQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_2QOSUA9vEd61s4WhKxejYQ"
+              name="개요" guid="_2QOSUA9vEd61s4WhKxejYQ" presentationName="개요" categorizedElements="_axjWIM0VEd2A0Kjz7fgG4Q"/>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2SE8rMWmEd2eFf4iygnyuw"
+          name="CoreContent" guid="_2SE8rMWmEd2eFf4iygnyuw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_beZCQMWnEd2eFf4iygnyuw"
+            name="관리공통" guid="_beZCQMWnEd2eFf4iygnyuw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_pE_nIMsTEd2tTNe4gqHtXw"
+              name="성과관리" guid="_pE_nIMsTEd2tTNe4gqHtXw">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_y20YAMHHEd2-_NRxu_2JDw"
+                name="단계단위" guid="_y20YAMHHEd2-_NRxu_2JDw">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_M8nuAM0SEd2A0Kjz7fgG4Q"
+                  name="프로젝트성과데이터" guid="_M8nuAM0SEd2A0Kjz7fgG4Q">
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_hSodgM0VEd2A0Kjz7fgG4Q"
+                    name="프로젝트성과데이터" guid="_hSodgM0VEd2A0Kjz7fgG4Q" presentationName="프로젝트성과데이터"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_l9secM0VEd2A0Kjz7fgG4Q"
+                    name="프로젝트성과 측정" guid="_l9secM0VEd2A0Kjz7fgG4Q" presentationName="프로젝트성과 측정"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_cKDDIOjtEd2lTK4h8EdsoQ"
+                    name="규모측정내역서" guid="_cKDDIOjtEd2lTK4h8EdsoQ" presentationName="규모측정내역서"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_mtE9AOjtEd2lTK4h8EdsoQ"
+                    name="실행항목" guid="_mtE9AOjtEd2lTK4h8EdsoQ" presentationName="실행항목"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mCdOMM0LEd2A0Kjz7fgG4Q"
+                  name="성과보고서" guid="_mCdOMM0LEd2A0Kjz7fgG4Q">
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_qNx_IM0LEd2A0Kjz7fgG4Q"
+                    name="성과보고서" guid="_qNx_IM0LEd2A0Kjz7fgG4Q" presentationName="성과보고서"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_rv-xsM0LEd2A0Kjz7fgG4Q"
+                    name="프로젝트성과 취합 및 보고" guid="_rv-xsM0LEd2A0Kjz7fgG4Q" presentationName="프로젝트성과 취합 및 보고"
+                    output="_qNx_IM0LEd2A0Kjz7fgG4Q">
+                  <presentation xmi:id="-wQg5ffB6argnOPqkU-9gaQ" href="uma://-wQg5ffB6argnOPqkU-9gaQ#-wQg5ffB6argnOPqkU-9gaQ"/>
+                </contentElements>
+              </childPackages>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0erGoMHHEd2-_NRxu_2JDw"
+                name="프로젝트단위" guid="_0erGoMHHEd2-_NRxu_2JDw">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_c0s2cM0REd2A0Kjz7fgG4Q"
+                  name="성과관리계획" guid="_c0s2cM0REd2A0Kjz7fgG4Q">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_etaEgM0REd2A0Kjz7fgG4Q"
+                    name="성과관리계획 수립" guid="_etaEgM0REd2A0Kjz7fgG4Q" presentationName="성과관리계획 수립"
+                    output="_gegOsM0REd2A0Kjz7fgG4Q">
+                  <presentation xmi:id="-sfyeqzuh1NrMaGQLjtwOPw" href="uma://-sfyeqzuh1NrMaGQLjtwOPw#-sfyeqzuh1NrMaGQLjtwOPw"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_gegOsM0REd2A0Kjz7fgG4Q"
+                    name="성과관리계획" guid="_gegOsM0REd2A0Kjz7fgG4Q" presentationName="성과관리계획"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IBnMkM0SEd2A0Kjz7fgG4Q"
+                  name="지표정의서" guid="_IBnMkM0SEd2A0Kjz7fgG4Q">
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_axjWIM0VEd2A0Kjz7fgG4Q"
+                    name="지표정의서" guid="_axjWIM0VEd2A0Kjz7fgG4Q" presentationName="지표정의서"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_chAhkM0VEd2A0Kjz7fgG4Q"
+                    name="지표정의서 작성" guid="_chAhkM0VEd2A0Kjz7fgG4Q" presentationName="지표정의서 작성"
+                    output="_axjWIM0VEd2A0Kjz7fgG4Q"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yRj14A7WEd6e5_E-So0vag"
+                  name="착수보고서" guid="_yRj14A7WEd6e5_E-So0vag"/>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_7RC5YA7WEd6e5_E-So0vag"
+                  name="착수보고결과" guid="_7RC5YA7WEd6e5_E-So0vag"/>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bw4lYMsWEd2tTNe4gqHtXw"
+              name="인력관리" guid="_bw4lYMsWEd2tTNe4gqHtXw">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4pJGgMHIEd2-_NRxu_2JDw"
+                name="프로젝트단위" guid="_4pJGgMHIEd2-_NRxu_2JDw">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PDZbkMsVEd2VS4iuY7h1kQ"
+                  name="인력계획" guid="_PDZbkMsVEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Tz1EsMsVEd2VS4iuY7h1kQ"
+                    name="인력계획 수립" guid="_Tz1EsMsVEd2VS4iuY7h1kQ" presentationName="인력계획 수립"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_XKZ-8MsVEd2VS4iuY7h1kQ"
+                    name="인력계획서" guid="_XKZ-8MsVEd2VS4iuY7h1kQ" presentationName="인력계획서"/>
+              </childPackages>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_doY5kMsWEd2tTNe4gqHtXw"
+              name="교육관리" guid="_doY5kMsWEd2tTNe4gqHtXw">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_LF5-kPJiEd2z-4kksBy77A"
+                name="단계단위" guid="_LF5-kPJiEd2z-4kksBy77A">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fJbecMsqEd2tTNe4gqHtXw"
+                  name="단계교육" guid="_fJbecMsqEd2tTNe4gqHtXw">
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_etQhQM0WEd2A0Kjz7fgG4Q"
+                    name="단계교육결과" guid="_etQhQM0WEd2A0Kjz7fgG4Q" presentationName="단계교육결과"
+                    briefDescription="각 단계별로 프로젝트팀원 및 외부 인터페이스 담당자들이 함께 공유해야 할 사안에 대하여 교육을 실시하고 결과를 기록한다. "
+                    templates="_7CitYAPgEd6ywbecb_a4aQ">
+                  <presentation xmi:id="-PaLAAlGGkL5sF1-bezQFmw" href="uma://-PaLAAlGGkL5sF1-bezQFmw#-PaLAAlGGkL5sF1-bezQFmw"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_gmZ0MM0WEd2A0Kjz7fgG4Q"
+                    name="단계교육 실시" guid="_gmZ0MM0WEd2A0Kjz7fgG4Q" presentationName="단계교육 실시"
+                    performedBy="_sRVFQOgoEd2wo6CBFtfaig" mandatoryInput="_NwfUEMvXEd2so6-cDXaTSQ _quXjS8sUEd2VS4iuY7h1kQ _XpT9YM0WEd2A0Kjz7fgG4Q"
+                    output="_etQhQM0WEd2A0Kjz7fgG4Q" additionallyPerformedBy="_zztWwegWEd2wo6CBFtfaig _zztWxegWEd2wo6CBFtfaig _zztWx-gWEd2wo6CBFtfaig _zztWyOgWEd2wo6CBFtfaig _zztWz-gWEd2wo6CBFtfaig _zztW0OgWEd2wo6CBFtfaig">
+                  <presentation xmi:id="-GOHrnK-KrKqASjTrsXJ-yg" href="uma://-GOHrnK-KrKqASjTrsXJ-yg#-GOHrnK-KrKqASjTrsXJ-yg"/>
+                </contentElements>
+              </childPackages>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_MN4TQPJiEd2z-4kksBy77A"
+                name="프로젝트단위" guid="_MN4TQPJiEd2z-4kksBy77A">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ddPpcMsqEd2tTNe4gqHtXw"
+                  name="프로젝트교육계획" guid="_ddPpcMsqEd2tTNe4gqHtXw">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KrvCUMsWEd2VS4iuY7h1kQ"
+                    name="프로젝트교육계획 수립" guid="_KrvCUMsWEd2VS4iuY7h1kQ" presentationName="프로젝트교육계획 수립"
+                    performedBy="_zztWz-gWEd2wo6CBFtfaig" mandatoryInput="_XKZ-8MsVEd2VS4iuY7h1kQ"
+                    output="_PvPYcMsWEd2VS4iuY7h1kQ" additionallyPerformedBy="_zztWx-gWEd2wo6CBFtfaig _zztWyegWEd2wo6CBFtfaig _sRVFQOgoEd2wo6CBFtfaig _zztWzugWEd2wo6CBFtfaig">
+                  <presentation xmi:id="-2VtA1GgZun0yLPwOPpELnQ" href="uma://-2VtA1GgZun0yLPwOPpELnQ#-2VtA1GgZun0yLPwOPpELnQ"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_PvPYcMsWEd2VS4iuY7h1kQ"
+                    name="프로젝트교육계획서" guid="_PvPYcMsWEd2VS4iuY7h1kQ" presentationName="프로젝트교육계획서"
+                    briefDescription="프로젝트 착수시점에 프로젝트 인력에 대한 역량을 확인하여, 자체의 교육계획을 수립하여야 한다. 이 계획의 목적은 프로젝트 인력이 해당 개발업무를 수행하는데 있어서 자신의 역할을 충실히 해 낼 수 있도록 준비하는 것이다. 이 교육계획은 개발 라이프사이클 과정에 포함된 고객을 대상으로 하는 시스템 사용자 및 시스템 유지보수/운영자교육과는 구별되어야 한다."
+                    templates="_VStSoAcPEd6aHrdXPSwwNg">
+                  <presentation xmi:id="-xE_E9epWdVPfRePN320EXw" href="uma://-xE_E9epWdVPfRePN320EXw#-xE_E9epWdVPfRePN320EXw"/>
+                </contentElements>
+              </childPackages>
+            </childPackages>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_7CitYAPgEd6ywbecb_a4aQ"
+                name="단계교육결과" guid="_7CitYAPgEd6ywbecb_a4aQ" presentationName="단계교육결과">
+              <presentation xmi:id="-ETV3-jgwlcqWh2ZJbjOwHQ" href="uma://-ETV3-jgwlcqWh2ZJbjOwHQ#-ETV3-jgwlcqWh2ZJbjOwHQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_VStSoAcPEd6aHrdXPSwwNg"
+                name="프로젝트교육계획서" guid="_VStSoAcPEd6aHrdXPSwwNg" presentationName="프로젝트교육계획서">
+              <presentation xmi:id="-1Z7MlyZum7-0YeJhkJf_cA" href="uma://-1Z7MlyZum7-0YeJhkJf_cA#-1Z7MlyZum7-0YeJhkJf_cA"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jLCp0MsWEd2tTNe4gqHtXw"
+              name="형상관리" guid="_jLCp0MsWEd2tTNe4gqHtXw">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eKLFoMHOEd2-_NRxu_2JDw"
+                name="프로젝트단위" guid="_eKLFoMHOEd2-_NRxu_2JDw">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jekCwMsWEd2VS4iuY7h1kQ"
+                  name="형상관리계획" guid="_jekCwMsWEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_nAw-MMsWEd2VS4iuY7h1kQ"
+                    name="형상관리계획 수립" guid="_nAw-MMsWEd2VS4iuY7h1kQ" presentationName="형상관리계획 수립"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_pCQU0MsWEd2VS4iuY7h1kQ"
+                    name="형상관리계획서" guid="_pCQU0MsWEd2VS4iuY7h1kQ" presentationName="형상관리계획서"/>
+              </childPackages>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fayY8MHOEd2-_NRxu_2JDw"
+                name="단계단위" guid="_fayY8MHOEd2-_NRxu_2JDw">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OUrWIOjqEd2lTK4h8EdsoQ"
+                  name="형상감사결과" guid="_OUrWIOjqEd2lTK4h8EdsoQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QZmbQOjqEd2lTK4h8EdsoQ"
+                    name="형상감사" guid="_QZmbQOjqEd2lTK4h8EdsoQ" presentationName="형상감사"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_SVuJsOjqEd2lTK4h8EdsoQ"
+                    name="형상감사결과" guid="_SVuJsOjqEd2lTK4h8EdsoQ" presentationName="형상감사결과"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_-TLocOjpEd2lTK4h8EdsoQ"
+                  name="형상관리라이브러리" guid="_-TLocOjpEd2lTK4h8EdsoQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_GIKAoOjqEd2lTK4h8EdsoQ"
+                    name="형상통제 및 기록" guid="_GIKAoOjqEd2lTK4h8EdsoQ" presentationName="형상통제 및 기록"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_Jot9UOjqEd2lTK4h8EdsoQ"
+                    name="형상관리라이브러리" guid="_Jot9UOjqEd2lTK4h8EdsoQ" presentationName="형상관리라이브러리"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_L2utAOjqEd2lTK4h8EdsoQ"
+                    name="백업결과" guid="_L2utAOjqEd2lTK4h8EdsoQ" presentationName="백업결과"/>
+              </childPackages>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_k-07oMsWEd2tTNe4gqHtXw"
+              name="품질활동관리" guid="_k-07oMsWEd2tTNe4gqHtXw">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0ByLgMJlEd2gouL4w_6FfA"
+                name="프로젝트단위" guid="_0ByLgMJlEd2gouL4w_6FfA">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_a_HKMMsWEd2VS4iuY7h1kQ"
+                  name="품질활동계획" guid="_a_HKMMsWEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dh_WoMsWEd2VS4iuY7h1kQ"
+                    name="품질활동계획 수립" guid="_dh_WoMsWEd2VS4iuY7h1kQ" presentationName="품질활동계획 수립"
+                    output="_f4Vi8MsWEd2VS4iuY7h1kQ"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_f4Vi8MsWEd2VS4iuY7h1kQ"
+                    name="품질활동계획서" guid="_f4Vi8MsWEd2VS4iuY7h1kQ" presentationName="품질활동계획서"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_XPl2Y8sUEd2VS4iuY7h1kQ"
+                  name="프로젝트계획검토결과" guid="_XPl2Y8sUEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_XPl2ZcsUEd2VS4iuY7h1kQ"
+                    name="프로젝트계획서" guid="_XPl2ZcsUEd2VS4iuY7h1kQ" presentationName="프로젝트계획서"
+                    variabilityType="extendsReplaces" variabilityBasedOnElement="_NwfUEMvXEd2so6-cDXaTSQ"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_XPl2ZMsUEd2VS4iuY7h1kQ"
+                    name="프로젝트계획 변경검토" guid="_XPl2ZMsUEd2VS4iuY7h1kQ" presentationName="프로젝트계획 변경검토"
+                    output="_XPl2ZcsUEd2VS4iuY7h1kQ"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_B7TgsMvVEd2so6-cDXaTSQ"
+                    name="프로젝트검토결과" guid="_B7TgsMvVEd2so6-cDXaTSQ" presentationName="프로젝트검토결과"/>
+              </childPackages>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1XKqEMJlEd2gouL4w_6FfA"
+                name="단계단위" guid="_1XKqEMJlEd2gouL4w_6FfA">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bmiojMsUEd2VS4iuY7h1kQ"
+                  name="단계점검결과" guid="_bmiojMsUEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bmiojssUEd2VS4iuY7h1kQ"
+                    name="단계점검결과" guid="_bmiojssUEd2VS4iuY7h1kQ" presentationName="단계점검결과"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_w47iMPDeEd2abPWzIcHKEA"
+                    name="단계결과 점검 회의 실시" guid="_w47iMPDeEd2abPWzIcHKEA" presentationName="단계결과 점검 회의 실시"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yx8e0MJmEd2gouL4w_6FfA"
+                  name="인스펙션개별검토결과" guid="_yx8e0MJmEd2gouL4w_6FfA">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_4DyJoPPvEd2DAcGLfpDwYQ"
+                    name="개별검토" guid="_4DyJoPPvEd2DAcGLfpDwYQ" presentationName="개별검토"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_MTOWIMJmEd2gouL4w_6FfA"
+                  name="인스펙션계획서" guid="_MTOWIMJmEd2gouL4w_6FfA">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__xAUAPPvEd2DAcGLfpDwYQ"
+                    name="인스펙션계획 상세화" guid="__xAUAPPvEd2DAcGLfpDwYQ" presentationName="인스펙션계획 상세화"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1aeAQMJmEd2gouL4w_6FfA"
+                  name="인스펙션결과서" guid="_1aeAQMJmEd2gouL4w_6FfA">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_tyVvAPPvEd2DAcGLfpDwYQ"
+                    name="검토수행" guid="_tyVvAPPvEd2DAcGLfpDwYQ" presentationName="검토수행"/>
+              </childPackages>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_q4uHMMsWEd2tTNe4gqHtXw"
+              name="협력업체협업관리" guid="_q4uHMMsWEd2tTNe4gqHtXw">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Ykr2EMHJEd2-_NRxu_2JDw"
+                name="프로젝트단위" guid="_Ykr2EMHJEd2-_NRxu_2JDw">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_lKeVgMsXEd2VS4iuY7h1kQ"
+                  name="위탁업무내역서" guid="_lKeVgMsXEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mxcTUMsXEd2VS4iuY7h1kQ"
+                    name="협력업체협업계획 수립" guid="_mxcTUMsXEd2VS4iuY7h1kQ" presentationName="협력업체협업계획 수립"
+                    output="_pY76AMsXEd2VS4iuY7h1kQ"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_pY76AMsXEd2VS4iuY7h1kQ"
+                    name="위탁업무내역서" guid="_pY76AMsXEd2VS4iuY7h1kQ" presentationName="위탁업무내역서"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_-DYhUA7aEd6e5_E-So0vag"
+                  name="업체평가(PMS)" guid="_-DYhUA7aEd6e5_E-So0vag">
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_MeNzMA7bEd6e5_E-So0vag"
+                    name="업체평가(PMS)" guid="_MeNzMA7bEd6e5_E-So0vag" presentationName="업체평가(PMS)"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_QIAkYA7bEd6e5_E-So0vag"
+                    name="업체산출물검수확인서(최종)" guid="_QIAkYA7bEd6e5_E-So0vag" presentationName="업체산출물검수확인서"/>
+              </childPackages>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_VTJ3EMHNEd2-_NRxu_2JDw"
+                name="단계단위" guid="_VTJ3EMHNEd2-_NRxu_2JDw">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Z_q9oOjqEd2lTK4h8EdsoQ"
+                  name="업체산출물검수확인서" guid="_Z_q9oOjqEd2lTK4h8EdsoQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_q_AzoOjqEd2lTK4h8EdsoQ"
+                    name="협력업체 단계검수" guid="_q_AzoOjqEd2lTK4h8EdsoQ" presentationName="협력업체 단계검수"
+                    output="_4neNYOjqEd2lTK4h8EdsoQ _xjE9kOjqEd2lTK4h8EdsoQ"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xjE9kOjqEd2lTK4h8EdsoQ"
+                    name="업체산출물검수확인서" guid="_xjE9kOjqEd2lTK4h8EdsoQ" presentationName="업체산출물검수확인서"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_4neNYOjqEd2lTK4h8EdsoQ"
+                    name="단계검수체크리스트" guid="_4neNYOjqEd2lTK4h8EdsoQ" presentationName="단계검수체크리스트"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YyyTwOjqEd2lTK4h8EdsoQ"
+                  name="업체업무성과" guid="_YyyTwOjqEd2lTK4h8EdsoQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dMHrgOjqEd2lTK4h8EdsoQ"
+                    name="협력업체 성과검토" guid="_dMHrgOjqEd2lTK4h8EdsoQ" presentationName="협력업체 성과검토"
+                    output="_icvQkOjqEd2lTK4h8EdsoQ"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_icvQkOjqEd2lTK4h8EdsoQ"
+                    name="업체업무성과서" guid="_icvQkOjqEd2lTK4h8EdsoQ" presentationName="업체업무성과서"
+                    briefDescription="주간,월간"/>
+              </childPackages>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_w6p0cMsWEd2tTNe4gqHtXw"
+              name="재사용관리" guid="_w6p0cMsWEd2tTNe4gqHtXw">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NI5IMMHJEd2-_NRxu_2JDw"
+                name="단계단위" guid="_NI5IMMHJEd2-_NRxu_2JDw">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8pn1kMvdEd2so6-cDXaTSQ"
+                  name="지식재사용 및 창출활동" guid="_8pn1kMvdEd2so6-cDXaTSQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_AhuvkMveEd2so6-cDXaTSQ"
+                    name="지식재사용 및 창출 활동" guid="_AhuvkMveEd2so6-cDXaTSQ" presentationName="지식재사용 및 창출 활동"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_EzwlcMveEd2so6-cDXaTSQ"
+                    name="BP" guid="_EzwlcMveEd2so6-cDXaTSQ" presentationName="BP"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="__QqscA7dEd6e5_E-So0vag"
+                    name="BP활용사례" guid="__QqscA7dEd6e5_E-So0vag" presentationName="BP활용사례"/>
+              </childPackages>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OLyvoMHJEd2-_NRxu_2JDw"
+                name="프로젝트단위" guid="_OLyvoMHJEd2-_NRxu_2JDw">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NjFYAMsYEd2VS4iuY7h1kQ"
+                  name="지식재사용 및 창출계획서" guid="_NjFYAMsYEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_UUjr0MsYEd2VS4iuY7h1kQ"
+                    name="지식재사용 및 창출계획서 수립" guid="_UUjr0MsYEd2VS4iuY7h1kQ" presentationName="지식재사용 및 창출계획서 수립"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Y18MUMsYEd2VS4iuY7h1kQ"
+                    name="지식재사용 및 창출계획서" guid="_Y18MUMsYEd2VS4iuY7h1kQ" presentationName="지식재사용 및 창출계획서"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_x0bpMMsjEd2VS4iuY7h1kQ"
+                  name="지식재사용및창출결과서" guid="_x0bpMMsjEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_m3kysMsmEd2VS4iuY7h1kQ"
+                    name="지식재사용창출결과서 작성" guid="_m3kysMsmEd2VS4iuY7h1kQ" presentationName="지식재사용창출결과서 작성"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_tNek0MsmEd2VS4iuY7h1kQ"
+                    name="지식재사용및창출결과서" guid="_tNek0MsmEd2VS4iuY7h1kQ" presentationName="지식재사용및창출결과서"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0lT1YMsjEd2VS4iuY7h1kQ"
+                  name="산출물관리시스템" guid="_0lT1YMsjEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VMT1YMsnEd2VS4iuY7h1kQ"
+                    name="프로젝트 정보등록" guid="_VMT1YMsnEd2VS4iuY7h1kQ" presentationName="프로젝트 정보등록"
+                    briefDescription="산출물관리시스템"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_YkhuYMsnEd2VS4iuY7h1kQ"
+                    name="산출물관리시스템" guid="_YkhuYMsnEd2VS4iuY7h1kQ" presentationName="산출물관리시스템"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ghh_AMsYEd2VS4iuY7h1kQ"
+                  name="오픈소스관리계획" guid="_ghh_AMsYEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ilQKQMsYEd2VS4iuY7h1kQ"
+                    name="오픈소스관리계획 수립" guid="_ilQKQMsYEd2VS4iuY7h1kQ" presentationName="오픈소스관리계획 수립"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_laAJ0MsYEd2VS4iuY7h1kQ"
+                    name="오픈소스관리계획서" guid="_laAJ0MsYEd2VS4iuY7h1kQ" presentationName="오픈소스관리계획서"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_10G50BKrEd6GQ7D2lPq-fw"
+                  name="content_package" guid="_10G50BKrEd6GQ7D2lPq-fw"/>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0VQTEMsWEd2tTNe4gqHtXw"
+              name="검수관리" guid="_0VQTEMsWEd2tTNe4gqHtXw">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_xaKZIPJhEd2z-4kksBy77A"
+                name="단계단위" guid="_xaKZIPJhEd2z-4kksBy77A">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bmiog8sUEd2VS4iuY7h1kQ"
+                  name="고객검토결과" guid="_bmiog8sUEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bmiohMsUEd2VS4iuY7h1kQ"
+                    name="고객검토 실시" guid="_bmiohMsUEd2VS4iuY7h1kQ" presentationName="고객검토 실시"
+                    performedBy="_zztWz-gWEd2wo6CBFtfaig" mandatoryInput="_f4Vi8MsWEd2VS4iuY7h1kQ _bmioiMsUEd2VS4iuY7h1kQ"
+                    additionallyPerformedBy="_zztWwegWEd2wo6CBFtfaig _zztWxegWEd2wo6CBFtfaig _zztWyOgWEd2wo6CBFtfaig _sRVFQOgoEd2wo6CBFtfaig _zztW0OgWEd2wo6CBFtfaig _zztW0egWEd2wo6CBFtfaig">
+                  <presentation xmi:id="-vgA_lOHhArG2r6a1EVO8Sg" href="uma://-vgA_lOHhArG2r6a1EVO8Sg#-vgA_lOHhArG2r6a1EVO8Sg"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_poM7kMpHEd2EjMdX2hnh6w"
+                    name="고객검토결과" guid="_poM7kMpHEd2EjMdX2hnh6w" presentationName="고객검토결과"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bmioicsUEd2VS4iuY7h1kQ"
+                  name="고객인수확인서" guid="_bmioicsUEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bmioissUEd2VS4iuY7h1kQ"
+                    name="고객인수확인서" guid="_bmioissUEd2VS4iuY7h1kQ" presentationName="고객인수확인서"
+                    briefDescription="단계별 산출물에 대하여 인수책임자의 승인을 공식적으로 획득하는 것은 변경관리를 위한 기준선을 설정하기 위한 것과 다음 단계의 착수를 공식화한다는 2가지의 의미가 있다. 상황에 따라 인수책임자측에서 단계별 승인을 지연하거나 거부하는 경우가 있을 수 있는데, 그것과 상관없이 단계별 검수요청을 공식적으로 요청하여 그 근거를 남겨 두어 후일 발생할 수 있는 분쟁에 대비하여야 한다. 고객에게 인수해야할 산출물은 프로젝트 착수 시점에 명확하게 정의해야 한다."
+                    templates="_yApNMMpHEd2EjMdX2hnh6w">
+                  <presentation xmi:id="-6L7GEDz09sND9oRFikzpXw" href="uma://-6L7GEDz09sND9oRFikzpXw#-6L7GEDz09sND9oRFikzpXw"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bmioi8sUEd2VS4iuY7h1kQ"
+                    name="고객승인 획득" guid="_bmioi8sUEd2VS4iuY7h1kQ" presentationName="고객승인 획득"
+                    performedBy="_zztWz-gWEd2wo6CBFtfaig" output="_bmioissUEd2VS4iuY7h1kQ"
+                    additionallyPerformedBy="_zztWx-gWEd2wo6CBFtfaig _sRVFQOgoEd2wo6CBFtfaig">
+                  <presentation xmi:id="-rS2nDFQNutp16_kWb44rDg" href="uma://-rS2nDFQNutp16_kWb44rDg#-rS2nDFQNutp16_kWb44rDg"/>
+                </contentElements>
+              </childPackages>
+              <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_pNg3oP8hEd2yh-CYhX4-xw"
+                  name="new_template" guid="_pNg3oP8hEd2yh-CYhX4-xw" presentationName="New Template"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_syZToP8hEd2yh-CYhX4-xw"
+                  name="new_checklist" guid="_syZToP8hEd2yh-CYhX4-xw" presentationName="New Checklist"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_uSDvkP8hEd2yh-CYhX4-xw"
+                  name="new_guideline" guid="_uSDvkP8hEd2yh-CYhX4-xw" presentationName="New Guideline"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_8KUf4P8hEd2yh-CYhX4-xw"
+                  name="new_report" guid="_8KUf4P8hEd2yh-CYhX4-xw" presentationName="New Report"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_9AaaYP8hEd2yh-CYhX4-xw"
+                  name="new_example" guid="_9AaaYP8hEd2yh-CYhX4-xw" presentationName="New Example"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="__LvCcP8hEd2yh-CYhX4-xw"
+                  name="new_supporting_material" guid="__LvCcP8hEd2yh-CYhX4-xw" presentationName="New Supporting Material"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_zYXyQPJhEd2z-4kksBy77A"
+                name="프로젝트단위" guid="_zYXyQPJhEd2z-4kksBy77A">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1QLYUMsYEd2VS4iuY7h1kQ"
+                  name="검수관리계획서" guid="_1QLYUMsYEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2yYK4MsYEd2VS4iuY7h1kQ"
+                    name="검수관리계획 수립" guid="_2yYK4MsYEd2VS4iuY7h1kQ" presentationName="검수관리계획 수립"
+                    performedBy="_zztWz-gWEd2wo6CBFtfaig" mandatoryInput="_gF3_kOgpEd2wo6CBFtfaig _HOmSgMplEd2CAJ2o_vewag"
+                    output="_4r0YwMsYEd2VS4iuY7h1kQ" additionallyPerformedBy="_zztWx-gWEd2wo6CBFtfaig _sRVFQOgoEd2wo6CBFtfaig _zztW0OgWEd2wo6CBFtfaig">
+                  <presentation xmi:id="-M_iLGNaiCcm6QmYncPk6vg" href="uma://-M_iLGNaiCcm6QmYncPk6vg#-M_iLGNaiCcm6QmYncPk6vg"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_4r0YwMsYEd2VS4iuY7h1kQ"
+                    name="검수관리계획서" guid="_4r0YwMsYEd2VS4iuY7h1kQ" presentationName="검수관리계획서"
+                    templates="_gPKEYMpOEd2EjMdX2hnh6w">
+                  <presentation xmi:id="-Jpyn8PPQUsBdd4YRClqs5g" href="uma://-Jpyn8PPQUsBdd4YRClqs5g#-Jpyn8PPQUsBdd4YRClqs5g"/>
+                </contentElements>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OFZMIMseEd2tTNe4gqHtXw"
+                  name="검수기준서" guid="_OFZMIMseEd2tTNe4gqHtXw">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KEChAOjiEd2lTK4h8EdsoQ"
+                    name="검수기준 수립" guid="_KEChAOjiEd2lTK4h8EdsoQ" presentationName="검수기준 수립"
+                    performedBy="_zztWz-gWEd2wo6CBFtfaig" mandatoryInput="_HOmSgMplEd2CAJ2o_vewag _gF3_kOgpEd2wo6CBFtfaig"
+                    output="_M9Z60OjiEd2lTK4h8EdsoQ" additionallyPerformedBy="_zztWx-gWEd2wo6CBFtfaig _sRVFQOgoEd2wo6CBFtfaig _zztW0OgWEd2wo6CBFtfaig">
+                  <presentation xmi:id="-i86CBRlFcsZs_vDYeygFTA" href="uma://-i86CBRlFcsZs_vDYeygFTA#-i86CBRlFcsZs_vDYeygFTA"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_M9Z60OjiEd2lTK4h8EdsoQ"
+                    name="검수기준서" guid="_M9Z60OjiEd2lTK4h8EdsoQ" presentationName="검수기준서"
+                    briefDescription="검수기준서는 프로젝트 수행 결과가 업무범위와 일치하는지를 확인하여 고객이 승인하고 &#xD;&#xA;검수하는 기준을 기술한 문서이다. 검수범위는 제안서, 계약서, 프로젝트계획서, 요구사항정의서로하며 사업수행 결과물을 명확하게 정의 및 관리함으로써 과업의 누락요소를 사전에 방지할 수 있다.&#xD;&#xA;">
+                  <presentation xmi:id="-81vUERpCMPcrbnWKL8CpWA" href="uma://-81vUERpCMPcrbnWKL8CpWA#-81vUERpCMPcrbnWKL8CpWA"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VUgvsOjiEd2lTK4h8EdsoQ"
+                    name="검수기준 검토 및 합의" guid="_VUgvsOjiEd2lTK4h8EdsoQ" presentationName="검수기준 검토 및 합의"
+                    performedBy="_zztWz-gWEd2wo6CBFtfaig" mandatoryInput="_NwfUEMvXEd2so6-cDXaTSQ _M9Z60OjiEd2lTK4h8EdsoQ"
+                    additionallyPerformedBy="_zztWx-gWEd2wo6CBFtfaig _sRVFQOgoEd2wo6CBFtfaig _zztW0OgWEd2wo6CBFtfaig _zztW0egWEd2wo6CBFtfaig">
+                  <presentation xmi:id="-1XQToGnMHXjZAKDiov4pnQ" href="uma://-1XQToGnMHXjZAKDiov4pnQ#-1XQToGnMHXjZAKDiov4pnQ"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_oRWqUPGMEd2JDeNeZI1pKA"
+                    name="단계별 검수기준 상세화" guid="_oRWqUPGMEd2JDeNeZI1pKA" presentationName="단계별 검수기준 상세화"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nx5NQMsjEd2VS4iuY7h1kQ"
+                  name="시스템인수인계계획서" guid="_nx5NQMsjEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_adMVoMsmEd2VS4iuY7h1kQ"
+                    name="시스템인수인계계획 수립" guid="_adMVoMsmEd2VS4iuY7h1kQ" presentationName="시스템인수인계계획 수립"
+                    performedBy="_zztWz-gWEd2wo6CBFtfaig" mandatoryInput="_Nc_nEMpoEd2CAJ2o_vewag _e_gbkMpoEd2CAJ2o_vewag"
+                    output="_fPHMgMsmEd2VS4iuY7h1kQ" additionallyPerformedBy="_zztWx-gWEd2wo6CBFtfaig _sRVFQOgoEd2wo6CBFtfaig _zztW0OgWEd2wo6CBFtfaig _zztW0egWEd2wo6CBFtfaig">
+                  <presentation xmi:id="-0h4xQLvEXifI6ikaMzMbFQ" href="uma://-0h4xQLvEXifI6ikaMzMbFQ#-0h4xQLvEXifI6ikaMzMbFQ"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_fPHMgMsmEd2VS4iuY7h1kQ"
+                    name="시스템인수인계계획서" guid="_fPHMgMsmEd2VS4iuY7h1kQ" presentationName="시스템인수인계계획서"
+                    briefDescription="시스템 구축 후 안정적인 운영이 가능하고 납품 이후 개발 프로그램의 유지 보수를 용이하게 할 수 있도록 프로젝트 완료후 기술 이전함을 목적으로 시스템 운영 및 유지 보수를 위한 최소한의 소요 인력에 대해 정의하고 선정된 유지 보수 인력이 담당해야 할 업무 및 이를 위한 기술 이전 방안을 제시한다. "
+                    templates="_fkVxgMppEd2CAJ2o_vewag">
+                  <presentation xmi:id="-fE0oq-Q51RBNtNIpDfXjyQ" href="uma://-fE0oq-Q51RBNtNIpDfXjyQ#-fE0oq-Q51RBNtNIpDfXjyQ"/>
+                </contentElements>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sGnKwMsjEd2VS4iuY7h1kQ"
+                  name="시스템인수인계서" guid="_sGnKwMsjEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QyDGAMsmEd2VS4iuY7h1kQ"
+                    name="시스템인수인계서 실시" guid="_QyDGAMsmEd2VS4iuY7h1kQ" presentationName="시스템인수인계서 실시"
+                    performedBy="_zztWz-gWEd2wo6CBFtfaig" mandatoryInput="_fPHMgMsmEd2VS4iuY7h1kQ _Nc_nEMpoEd2CAJ2o_vewag _e_gbkMpoEd2CAJ2o_vewag"
+                    output="_X83G4MsmEd2VS4iuY7h1kQ" additionallyPerformedBy="_zztWx-gWEd2wo6CBFtfaig _sRVFQOgoEd2wo6CBFtfaig _zztW0OgWEd2wo6CBFtfaig _zztW0egWEd2wo6CBFtfaig _zztWwegWEd2wo6CBFtfaig">
+                  <presentation xmi:id="-Pc5Yt9MfJpv3_P2dEfyYiw" href="uma://-Pc5Yt9MfJpv3_P2dEfyYiw#-Pc5Yt9MfJpv3_P2dEfyYiw"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_X83G4MsmEd2VS4iuY7h1kQ"
+                    name="시스템인수인계서" guid="_X83G4MsmEd2VS4iuY7h1kQ" presentationName="시스템인수인계서"
+                    briefDescription="시스템 인수인계 계획서에 제시된 방법과 절차로 인수 인계를 수행하고, 인수 인계가 완료되었음을 인수자 및 인계자가 상호 확인을 하여 프로젝트 팀과 고객 인수 팀의 책임자에게 공식적인 확인 문서를 제출한다"
+                    templates="_YTyDEMprEd2CAJ2o_vewag">
+                  <presentation xmi:id="-XxFAP8KjGaqtj4WZySHtig" href="uma://-XxFAP8KjGaqtj4WZySHtig#-XxFAP8KjGaqtj4WZySHtig"/>
+                </contentElements>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_t8LlQMsjEd2VS4iuY7h1kQ"
+                  name="최종검수요청서" guid="_t8LlQMsjEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_y8f9IMsmEd2VS4iuY7h1kQ"
+                    name="최종검수 준비" guid="_y8f9IMsmEd2VS4iuY7h1kQ" presentationName="최종검수 준비"
+                    performedBy="_zztWz-gWEd2wo6CBFtfaig" additionallyPerformedBy="_zztWwegWEd2wo6CBFtfaig _zztWx-gWEd2wo6CBFtfaig _sRVFQOgoEd2wo6CBFtfaig _zztW0OgWEd2wo6CBFtfaig _zztW0egWEd2wo6CBFtfaig">
+                  <presentation xmi:id="-RPc6XE7whheoO8PauGl9PA" href="uma://-RPc6XE7whheoO8PauGl9PA#-RPc6XE7whheoO8PauGl9PA"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_1jPV4MsmEd2VS4iuY7h1kQ"
+                    name="검수요청서" guid="_1jPV4MsmEd2VS4iuY7h1kQ" presentationName="검수요청서"
+                    briefDescription="계약서, 프로젝트계획서, 요구사항정의서의 내용을 근거로 작성된 검수기준서를 기준으로 해당 과업의 이행여부를 점검하여 기록하고, 고객에게 검수 내역 및 요청서로 제출한다."
+                    templates="_5cmwgAPDEd661YoVKrCMOg">
+                  <presentation xmi:id="-rXGpUgC0_4sldDMwHJVsCw" href="uma://-rXGpUgC0_4sldDMwHJVsCw#-rXGpUgC0_4sldDMwHJVsCw"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_o4EFAA7YEd6e5_E-So0vag"
+                    name="최종납품결과" guid="_o4EFAA7YEd6e5_E-So0vag" presentationName="최종납품결과"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_v8nzAMsjEd2VS4iuY7h1kQ"
+                  name="최종검수확인서" guid="_v8nzAMsjEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DBH3UMsnEd2VS4iuY7h1kQ"
+                    name="최종검수 확인" guid="_DBH3UMsnEd2VS4iuY7h1kQ" presentationName="최종검수 확인"
+                    performedBy="_zztWz-gWEd2wo6CBFtfaig" mandatoryInput="_1jPV4MsmEd2VS4iuY7h1kQ"
+                    output="_FY0HcMsnEd2VS4iuY7h1kQ" additionallyPerformedBy="_zztWwegWEd2wo6CBFtfaig _zztWx-gWEd2wo6CBFtfaig _sRVFQOgoEd2wo6CBFtfaig _zztW0OgWEd2wo6CBFtfaig _zztW0egWEd2wo6CBFtfaig">
+                  <presentation xmi:id="-2lneOp5Fz7_u9n0arHE2Zw" href="uma://-2lneOp5Fz7_u9n0arHE2Zw#-2lneOp5Fz7_u9n0arHE2Zw"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_FY0HcMsnEd2VS4iuY7h1kQ"
+                    name="최종검수확인서" guid="_FY0HcMsnEd2VS4iuY7h1kQ" presentationName="최종검수확인서"
+                    briefDescription="프로젝트 전체 과정상에 발생한 산출물이 요구사항을 제공한 고객에게 원활히 이관 되어 졌음을 승인한다. 승인된 최종검수확인서는 영업대표에게 전달되어 고객에게 잔금을 청구하는 자료로 이용되게 된다."
+                    templates="_Bz1kYAPIEd661YoVKrCMOg">
+                  <presentation xmi:id="-OUJYDmTKPOkVeQtpcjTZhg" href="uma://-OUJYDmTKPOkVeQtpcjTZhg#-OUJYDmTKPOkVeQtpcjTZhg"/>
+                </contentElements>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mCbawMsjEd2VS4iuY7h1kQ"
+                  name="종료계획서" guid="_mCbawMsjEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_iFp70MsmEd2VS4iuY7h1kQ"
+                    name="종료계획 수립" guid="_iFp70MsmEd2VS4iuY7h1kQ" presentationName="종료계획 수립"
+                    performedBy="_zztWz-gWEd2wo6CBFtfaig" mandatoryInput="_M9Z60OjiEd2lTK4h8EdsoQ _MtXpsM0VEd2A0Kjz7fgG4Q"
+                    output="_kZeYkMsmEd2VS4iuY7h1kQ" additionallyPerformedBy="_zztWx-gWEd2wo6CBFtfaig _sRVFQOgoEd2wo6CBFtfaig _zztW0OgWEd2wo6CBFtfaig _zztW0egWEd2wo6CBFtfaig">
+                  <presentation xmi:id="-Z9SWxNEVAD0cs448KBf6Fw" href="uma://-Z9SWxNEVAD0cs448KBf6Fw#-Z9SWxNEVAD0cs448KBf6Fw"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_kZeYkMsmEd2VS4iuY7h1kQ"
+                    name="종료계획서" guid="_kZeYkMsmEd2VS4iuY7h1kQ" presentationName="종료계획서 "
+                    briefDescription="검수기준 대비하여 업무범위, 납품산출물, 변경업무, 미진업무에 대한 현재 상태를 점검하고, 검수와 별도로 프로젝트의 실질적 종료를 위해 잔여업무 일정계획, 이슈, 자원 재배치 및 환원, 내부 종료절차 계획등을 수립한다"
+                    templates="_c5SCcAItEd6ruNDOcAmcDg">
+                  <presentation xmi:id="-gynKuW3QJgu6ddCU7Of2vw" href="uma://-gynKuW3QJgu6ddCU7Of2vw#-gynKuW3QJgu6ddCU7Of2vw"/>
+                </contentElements>
+              </childPackages>
+            </childPackages>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_yApNMMpHEd2EjMdX2hnh6w"
+                name="고객검수확인서" guid="_yApNMMpHEd2EjMdX2hnh6w" presentationName="고객검수확인서">
+              <presentation xmi:id="-COTm8uJqtMofrNDs_rN3pg" href="uma://-COTm8uJqtMofrNDs_rN3pg#-COTm8uJqtMofrNDs_rN3pg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_gPKEYMpOEd2EjMdX2hnh6w"
+                name="검수관리계획서" guid="_gPKEYMpOEd2EjMdX2hnh6w" presentationName="검수관리계획서">
+              <presentation xmi:id="-1bhqwtvwoN6RzemnD5UCrg" href="uma://-1bhqwtvwoN6RzemnD5UCrg#-1bhqwtvwoN6RzemnD5UCrg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="__DmKgMplEd2CAJ2o_vewag"
+                name="검수기준서" guid="__DmKgMplEd2CAJ2o_vewag" presentationName="검수기준서">
+              <presentation xmi:id="-7_gT2fdQXpLQ8INIG5bUCw" href="uma://-7_gT2fdQXpLQ8INIG5bUCw#-7_gT2fdQXpLQ8INIG5bUCw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_fkVxgMppEd2CAJ2o_vewag"
+                name="시스템인수인계계획서" guid="_fkVxgMppEd2CAJ2o_vewag" presentationName="시스템인수인계계획서">
+              <presentation xmi:id="-L8eCH7PjHJDTSd2RKbjKTQ" href="uma://-L8eCH7PjHJDTSd2RKbjKTQ#-L8eCH7PjHJDTSd2RKbjKTQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_YTyDEMprEd2CAJ2o_vewag"
+                name="시스템인수인계서" guid="_YTyDEMprEd2CAJ2o_vewag" presentationName="시스템인수인계서">
+              <presentation xmi:id="-GgQr1mcb3yfh5pbhNFT7iA" href="uma://-GgQr1mcb3yfh5pbhNFT7iA#-GgQr1mcb3yfh5pbhNFT7iA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_c5SCcAItEd6ruNDOcAmcDg"
+                name="종료계획서" guid="_c5SCcAItEd6ruNDOcAmcDg" presentationName="종료계획서">
+              <presentation xmi:id="-Y0-EXbCcwwe_wI4UAa2oIg" href="uma://-Y0-EXbCcwwe_wI4UAa2oIg#-Y0-EXbCcwwe_wI4UAa2oIg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_5cmwgAPDEd661YoVKrCMOg"
+                name="검수요청서" guid="_5cmwgAPDEd661YoVKrCMOg" presentationName="검수요청서">
+              <presentation xmi:id="-OTnLtsQZ6jlhmi1XEYXwbw" href="uma://-OTnLtsQZ6jlhmi1XEYXwbw#-OTnLtsQZ6jlhmi1XEYXwbw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_Bz1kYAPIEd661YoVKrCMOg"
+                name="최종검수확인서" guid="_Bz1kYAPIEd661YoVKrCMOg" presentationName="최종검수확인서">
+              <presentation xmi:id="-YvFmgq9pjx-3JF512orrLw" href="uma://-YvFmgq9pjx-3JF512orrLw#-YvFmgq9pjx-3JF512orrLw"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4glEAMsWEd2tTNe4gqHtXw"
+              name="관련문서" guid="_4glEAMsWEd2tTNe4gqHtXw">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_USEJwMseEd2tTNe4gqHtXw"
+                name="교육자료" guid="_USEJwMseEd2tTNe4gqHtXw">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_XpT9YM0WEd2A0Kjz7fgG4Q"
+                  name="교육자료" guid="_XpT9YM0WEd2A0Kjz7fgG4Q" presentationName="교육자료"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ZNJHoM0WEd2A0Kjz7fgG4Q"
+                  name="교육자료 작성" guid="_ZNJHoM0WEd2A0Kjz7fgG4Q" presentationName="교육자료 작성"
+                  output="_XpT9YM0WEd2A0Kjz7fgG4Q"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YKd-sMseEd2tTNe4gqHtXw"
+                name="협상내용" guid="_YKd-sMseEd2tTNe4gqHtXw"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_d2O4MOgpEd2wo6CBFtfaig"
+                name="제안서" guid="_d2O4MOgpEd2wo6CBFtfaig">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_gF3_kOgpEd2wo6CBFtfaig"
+                  name="제안서" guid="_gF3_kOgpEd2wo6CBFtfaig" presentationName="제안서"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_DkpwUMplEd2CAJ2o_vewag"
+                name="계약서" guid="_DkpwUMplEd2CAJ2o_vewag">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_HOmSgMplEd2CAJ2o_vewag"
+                  name="계약서" guid="_HOmSgMplEd2CAJ2o_vewag" presentationName="계약서"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_MC_uQMpoEd2CAJ2o_vewag"
+                name="개발관련산출물" guid="_MC_uQMpoEd2CAJ2o_vewag">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Nc_nEMpoEd2CAJ2o_vewag"
+                  name="개발산출물" guid="_Nc_nEMpoEd2CAJ2o_vewag" presentationName="개발산출물"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_e_gbkMpoEd2CAJ2o_vewag"
+                  name="운영시스템" guid="_e_gbkMpoEd2CAJ2o_vewag" presentationName="운영시스템"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bmiohssUEd2VS4iuY7h1kQ"
+                name="고객검토계획서" guid="_bmiohssUEd2VS4iuY7h1kQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bmioh8sUEd2VS4iuY7h1kQ"
+                  name="고객검토계획서 작성" guid="_bmioh8sUEd2VS4iuY7h1kQ" presentationName="고객검토계획서 작성"
+                  output="_bmioiMsUEd2VS4iuY7h1kQ"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bmioiMsUEd2VS4iuY7h1kQ"
+                  name="고객검토계획서" guid="_bmioiMsUEd2VS4iuY7h1kQ" presentationName="고객검토계획서"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_wla84MJmEd2gouL4w_6FfA"
+                name="인스펙션검토체크리스트" guid="_wla84MJmEd2gouL4w_6FfA">
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8q0mMPPvEd2DAcGLfpDwYQ"
+                  name="검토체크리스트 작성" guid="_8q0mMPPvEd2DAcGLfpDwYQ" presentationName="검토체크리스트 작성"/>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_3fo5wPGJEd2JDeNeZI1pKA"
+              name="일정진척관리" guid="_3fo5wPGJEd2JDeNeZI1pKA">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_jDy0IMEXEd21POOz5z_HpQ"
+                name="프로젝트단위" guid="_jDy0IMEXEd21POOz5z_HpQ">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_DjXfoM0SEd2A0Kjz7fgG4Q"
+                  name="일정관리계획" guid="_DjXfoM0SEd2A0Kjz7fgG4Q">
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_T0AVMM0VEd2A0Kjz7fgG4Q"
+                    name="일정관리계획" guid="_T0AVMM0VEd2A0Kjz7fgG4Q" presentationName="일정관리계획"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_VwkvkM0VEd2A0Kjz7fgG4Q"
+                    name="일정관리계획 수립" guid="_VwkvkM0VEd2A0Kjz7fgG4Q" presentationName="일정관리계획 수립"
+                    output="_T0AVMM0VEd2A0Kjz7fgG4Q"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_F-xyIM0SEd2A0Kjz7fgG4Q"
+                  name="일정계획(i-PM)" guid="_F-xyIM0SEd2A0Kjz7fgG4Q">
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_MtXpsM0VEd2A0Kjz7fgG4Q"
+                    name="일정계획(i-PM)" guid="_MtXpsM0VEd2A0Kjz7fgG4Q" presentationName="일정계획(i-PM)"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_PXY_8M0VEd2A0Kjz7fgG4Q"
+                    name="일정계획(i-PM) 작성" guid="_PXY_8M0VEd2A0Kjz7fgG4Q" presentationName="일정계획(i-PM) 작성"
+                    output="_MtXpsM0VEd2A0Kjz7fgG4Q"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PpmnQMvWEd2so6-cDXaTSQ"
+                  name="개발전략" guid="_PpmnQMvWEd2so6-cDXaTSQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_RqWXAMvWEd2so6-cDXaTSQ"
+                    name="개발전략 수립" guid="_RqWXAMvWEd2so6-cDXaTSQ" presentationName="개발전략 수립"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Ui-xAMvWEd2so6-cDXaTSQ"
+                    name="개발전략" guid="_Ui-xAMvWEd2so6-cDXaTSQ" presentationName="개발전략"/>
+              </childPackages>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_klGO0MEXEd21POOz5z_HpQ"
+                name="단계단위" guid="_klGO0MEXEd21POOz5z_HpQ">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_-y-Q8MEXEd21POOz5z_HpQ"
+                  name="일정계획(i-PM)" guid="_-y-Q8MEXEd21POOz5z_HpQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_-y-Q8sEXEd21POOz5z_HpQ"
+                    name="일정계획(i-PM)" guid="_-y-Q8sEXEd21POOz5z_HpQ" presentationName="일정계획(i-PM)"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WFPs8A7dEd6e5_E-So0vag"
+                    name="공정계획 상세화" guid="_WFPs8A7dEd6e5_E-So0vag" presentationName="공정계획 상세화"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_M9tvcPGLEd2JDeNeZI1pKA"
+                  name="공정진척실적" guid="_M9tvcPGLEd2JDeNeZI1pKA">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Kc0DgPGMEd2JDeNeZI1pKA"
+                    name="공정진척 입력" guid="_Kc0DgPGMEd2JDeNeZI1pKA" presentationName="공정진척 입력"/>
+              </childPackages>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_qu8zAP8SEd2yh-CYhX4-xw"
+                name="산출물 단위" guid="_qu8zAP8SEd2yh-CYhX4-xw">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PfPrAP8TEd2yh-CYhX4-xw"
+                  name="공수예측" guid="_PfPrAP8TEd2yh-CYhX4-xw">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6vu5kP8TEd2yh-CYhX4-xw"
+                    name="공수예측" guid="_6vu5kP8TEd2yh-CYhX4-xw" presentationName="공수예측"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RLkp8P8TEd2yh-CYhX4-xw"
+                  name="진척계산" guid="_RLkp8P8TEd2yh-CYhX4-xw">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9DQbYP8TEd2yh-CYhX4-xw"
+                    name="진척계산" guid="_9DQbYP8TEd2yh-CYhX4-xw" presentationName="진척계산"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Est0MP8hEd2yh-CYhX4-xw"
+                  name="공수입력" guid="_Est0MP8hEd2yh-CYhX4-xw">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_HNyp0P8hEd2yh-CYhX4-xw"
+                    name="공수입력" guid="_HNyp0P8hEd2yh-CYhX4-xw" presentationName="공수입력"/>
+              </childPackages>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_UHdtwMHSEd2-_NRxu_2JDw"
+              name="프로젝트통합" guid="_UHdtwMHSEd2-_NRxu_2JDw">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_gPUlQMJzEd2gouL4w_6FfA"
+                name="프로젝트단위" guid="_gPUlQMJzEd2gouL4w_6FfA">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_quXjScsUEd2VS4iuY7h1kQ"
+                  name="표준및절차매뉴얼(SPM)" guid="_quXjScsUEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_quXjS8sUEd2VS4iuY7h1kQ"
+                    name="표준및절차매뉴얼(SPM)" guid="_quXjS8sUEd2VS4iuY7h1kQ" presentationName="표준및절차매뉴얼(SPM)"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_quXjSssUEd2VS4iuY7h1kQ"
+                    name="표준및절차매뉴얼(SPM) 작성" guid="_quXjSssUEd2VS4iuY7h1kQ" presentationName="표준및절차매뉴얼(SPM) 작성"
+                    output="_quXjS8sUEd2VS4iuY7h1kQ"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_GDNJgPGNEd2JDeNeZI1pKA"
+                    name="단계별 SPM 검토" guid="_GDNJgPGNEd2JDeNeZI1pKA" presentationName="단계별 SPM 검토"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bF_yEMvWEd2so6-cDXaTSQ"
+                  name="수행환경" guid="_bF_yEMvWEd2so6-cDXaTSQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_eWKiUMvWEd2so6-cDXaTSQ"
+                    name="수행환경 구축" guid="_eWKiUMvWEd2so6-cDXaTSQ" presentationName="수행환경 구축"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_gyokwMvWEd2so6-cDXaTSQ"
+                    name="수행환경" guid="_gyokwMvWEd2so6-cDXaTSQ" presentationName="수행환경"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ZCGqsOkBEd2spdXEUaTaEw"
+                  name="프로젝트완료보고" guid="_ZCGqsOkBEd2spdXEUaTaEw">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_eNDsoOkBEd2spdXEUaTaEw"
+                    name="프로젝트 완료보고" guid="_eNDsoOkBEd2spdXEUaTaEw" presentationName="프로젝트 완료보고"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_gjHlEOkBEd2spdXEUaTaEw"
+                    name="프로젝트완료보고" guid="_gjHlEOkBEd2spdXEUaTaEw" presentationName="프로젝트완료보고"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_IVS2sMvXEd2so6-cDXaTSQ"
+                  name="프로젝트계획서" guid="_IVS2sMvXEd2so6-cDXaTSQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_K8CPcMvXEd2so6-cDXaTSQ"
+                    name="프로젝트계획 통합 및 검토" guid="_K8CPcMvXEd2so6-cDXaTSQ" presentationName="프로젝트계획 통합 및 검토"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_NwfUEMvXEd2so6-cDXaTSQ"
+                    name="프로젝트계획서" guid="_NwfUEMvXEd2so6-cDXaTSQ" presentationName="프로젝트계획서"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_H-poYPBiEd29sstZlkwSQw"
+                    name="new_template" guid="_H-poYPBiEd29sstZlkwSQw" presentationName="New Template"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_-T8tkMvWEd2so6-cDXaTSQ"
+                  name="프로젝트계획수립계획서" guid="_-T8tkMvWEd2so6-cDXaTSQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_BMbWkMvXEd2so6-cDXaTSQ"
+                    name="프로젝트계획수립 준비" guid="_BMbWkMvXEd2so6-cDXaTSQ" presentationName="프로젝트계획수립 준비"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_DYygcMvXEd2so6-cDXaTSQ"
+                    name="프로젝트계획수립계획" guid="_DYygcMvXEd2so6-cDXaTSQ" presentationName="프로젝트계획수립계획"/>
+              </childPackages>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1LK-QMHdEd2-_NRxu_2JDw"
+              name="요구사항관리" guid="_1LK-QMHdEd2-_NRxu_2JDw">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_sFA1kMHeEd2-_NRxu_2JDw"
+                name="단계단위" guid="_sFA1kMHeEd2-_NRxu_2JDw">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6BKKQM5pEd2YkrTpti830g"
+                  name="요구사항추적표" guid="_6BKKQM5pEd2YkrTpti830g">
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_9CRx4M5pEd2YkrTpti830g"
+                    name="요구사항추적표" guid="_9CRx4M5pEd2YkrTpti830g" presentationName="요구사항추적표"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-ndnAM5pEd2YkrTpti830g"
+                    name="요구사항추적표 작성" guid="_-ndnAM5pEd2YkrTpti830g" presentationName="요구사항추적표 작성"
+                    output="_9CRx4M5pEd2YkrTpti830g"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CRPeUPGOEd2JDeNeZI1pKA"
+                    name="시스템화 범위 점검" guid="_CRPeUPGOEd2JDeNeZI1pKA" presentationName="시스템화 범위 점검"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JGnGcM5qEd2YkrTpti830g"
+                  name="변경요청서" guid="_JGnGcM5qEd2YkrTpti830g">
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Knd1MM5qEd2YkrTpti830g"
+                    name="변경요청서" guid="_Knd1MM5qEd2YkrTpti830g" presentationName="변경요청서"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_8gWuAOjrEd2lTK4h8EdsoQ"
+                    name="변경요청목록" guid="_8gWuAOjrEd2lTK4h8EdsoQ" presentationName="변경요청목록"
+                    briefDescription="이미 승인된 제품의 개발, 지원, 영업의 범위 및 산출물에 대하여 변경을 요청하는 문서이다. 발생한 변경요청에 대하여 사안이 중요하고, 일정, 범위, 예산, 품질 등에 심각한 영향을 초래할 수 있다고 판단될 경우에는 그에 따른 영향력을 분석 하고, 영향력 분석표를 작성을 한다. 향후 예산 추가 발생 및 인력 추가 투입 등이 발생할 경우의 근거로 사용할 수 있으므로, 반드시 고객의 승인을 득해야 하며, 그 책임이 고객에게 있음을 명확히 한다">
+                  <presentation xmi:id="-r8ryrnNBcFpSEqtrFZ7BZw" href="uma://-r8ryrnNBcFpSEqtrFZ7BZw#-r8ryrnNBcFpSEqtrFZ7BZw"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_uBLEgAfgEd6iXZwxaPWT4w"
+                    name="변경요청처리" guid="_uBLEgAfgEd6iXZwxaPWT4w" presentationName="변경요청처리"
+                    performedBy="_zztWz-gWEd2wo6CBFtfaig" mandatoryInput="_nlzxUcEYEd21POOz5z_HpQ"
+                    output="_8gWuAOjrEd2lTK4h8EdsoQ _Knd1MM5qEd2YkrTpti830g" additionallyPerformedBy="_zztWx-gWEd2wo6CBFtfaig _sRVFQOgoEd2wo6CBFtfaig _zztW0OgWEd2wo6CBFtfaig _zztW0egWEd2wo6CBFtfaig">
+                  <presentation xmi:id="-QlXnkRy-w3ZNJ00R2obBTQ" href="uma://-QlXnkRy-w3ZNJ00R2obBTQ#-QlXnkRy-w3ZNJ00R2obBTQ"/>
+                </contentElements>
+              </childPackages>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_uOGpAMHeEd2-_NRxu_2JDw"
+                name="프로젝트단위" guid="_uOGpAMHeEd2-_NRxu_2JDw">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Vu1G4MsXEd2VS4iuY7h1kQ"
+                  name="요구사항관리계획" guid="_Vu1G4MsXEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_XbA74MsXEd2VS4iuY7h1kQ"
+                    name="요구사항관리계획 수립" guid="_XbA74MsXEd2VS4iuY7h1kQ" presentationName="요구사항관리계획 수립"
+                    output="_ZmVj8MsXEd2VS4iuY7h1kQ"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ZmVj8MsXEd2VS4iuY7h1kQ"
+                    name="요구사항관리계획서" guid="_ZmVj8MsXEd2VS4iuY7h1kQ" presentationName="요구사항관리계획서"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_TlPE0MJeEd2gouL4w_6FfA"
+                  name="실무고객협의체" guid="_TlPE0MJeEd2gouL4w_6FfA">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WIjWIMJeEd2gouL4w_6FfA"
+                    name="실무고객협의체 식별 및 구성" guid="_WIjWIMJeEd2gouL4w_6FfA" presentationName="실무고객협의체 식별 및 구성"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ZbQdAMJeEd2gouL4w_6FfA"
+                    name="실무고객협의체명단" guid="_ZbQdAMJeEd2gouL4w_6FfA" presentationName="실무고객협의체명단"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_quXjRssUEd2VS4iuY7h1kQ"
+                  name="업무범위기술서" guid="_quXjRssUEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_quXjSMsUEd2VS4iuY7h1kQ"
+                    name="업무범위 정의" guid="_quXjSMsUEd2VS4iuY7h1kQ" presentationName="업무범위 정의"
+                    output="_quXjR8sUEd2VS4iuY7h1kQ">
+                  <presentation xmi:id="-yK5pbTsvJfdlmhnp-YwFKg" href="uma://-yK5pbTsvJfdlmhnp-YwFKg#-yK5pbTsvJfdlmhnp-YwFKg"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_quXjR8sUEd2VS4iuY7h1kQ"
+                    name="업무범위기술서" guid="_quXjR8sUEd2VS4iuY7h1kQ" presentationName="업무범위기술서"
+                    briefDescription="프로젝트 업무범위는 프로젝트 비전을 수립하고 프로젝트 착수 이전에 정의된 제안요청서(RFP), 제안서, 계약서 등의 고객 업무 범위의 일관성 확인을 위해 과업대비표를 작성하여 확인하고, 과업대비의 결과로 협의된 업무범위에 대해 프로젝트 계획서에 3 레벨 이상으로 상세히 기술한다. 여기서 정의된 업무범위는 프로젝트 일정, 공수, 비용 등을 산정하기 위한 기초자료가 된다. ">
+                  <presentation xmi:id="-jKDHEvYiMtMTM5zOTcEy-g" href="uma://-jKDHEvYiMtMTM5zOTcEy-g#-jKDHEvYiMtMTM5zOTcEy-g"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_78EssMvVEd2so6-cDXaTSQ"
+                    name="과업대비표" guid="_78EssMvVEd2so6-cDXaTSQ" presentationName="과업대비표"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_quXjRMsUEd2VS4iuY7h1kQ"
+                    name="실무고객협의체명단" guid="_quXjRMsUEd2VS4iuY7h1kQ" presentationName="실무고객협의체명단"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_nlzxUMEYEd21POOz5z_HpQ"
+                  name="변경관리계획" guid="_nlzxUMEYEd21POOz5z_HpQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_nlzxUcEYEd21POOz5z_HpQ"
+                    name="변경관리계획" guid="_nlzxUcEYEd21POOz5z_HpQ" presentationName="변경관리계획"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_nlzxUsEYEd21POOz5z_HpQ"
+                    name="변경관리계획 수립" guid="_nlzxUsEYEd21POOz5z_HpQ" presentationName="변경관리계획 수립"
+                    output="_nlzxUcEYEd21POOz5z_HpQ"/>
+              </childPackages>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_g2EkkMJlEd2gouL4w_6FfA"
+              name="프로젝트평가" guid="_g2EkkMJlEd2gouL4w_6FfA">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_DPPI4A7gEd6e5_E-So0vag"
+                name="단계단위" guid="_DPPI4A7gEd6e5_E-So0vag">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bmiogMsUEd2VS4iuY7h1kQ"
+                  name="GB활동체크리스트" guid="_bmiogMsUEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bmiogcsUEd2VS4iuY7h1kQ"
+                    name="GB활동 보고" guid="_bmiogcsUEd2VS4iuY7h1kQ" presentationName="GB활동 보고"
+                    output="_bmiogssUEd2VS4iuY7h1kQ"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bmiogssUEd2VS4iuY7h1kQ"
+                    name="GB활동체크리스트" guid="_bmiogssUEd2VS4iuY7h1kQ" presentationName="GB활동체크리스트"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1OauQOjnEd2lTK4h8EdsoQ"
+                  name="감리활동" guid="_1OauQOjnEd2lTK4h8EdsoQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_N4ATIOjoEd2lTK4h8EdsoQ"
+                    name="감리 실시" guid="_N4ATIOjoEd2lTK4h8EdsoQ" presentationName="감리 실시"
+                    output="_CsVPcOjpEd2lTK4h8EdsoQ _Q3yeAOjoEd2lTK4h8EdsoQ"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Q3yeAOjoEd2lTK4h8EdsoQ"
+                    name="감리조치계획서" guid="_Q3yeAOjoEd2lTK4h8EdsoQ" presentationName="감리조치계획서"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_CsVPcOjpEd2lTK4h8EdsoQ"
+                    name="감리조치결과" guid="_CsVPcOjpEd2lTK4h8EdsoQ" presentationName="감리조치결과"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_2nh2QOjnEd2lTK4h8EdsoQ"
+                  name="제품검사" guid="_2nh2QOjnEd2lTK4h8EdsoQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_a4-2IOjoEd2lTK4h8EdsoQ"
+                    name="제품검사 실시" guid="_a4-2IOjoEd2lTK4h8EdsoQ" presentationName="제품검사 실시"
+                    output="_ewCnQOjoEd2lTK4h8EdsoQ _r_7I8OjoEd2lTK4h8EdsoQ _p9YpcOjoEd2lTK4h8EdsoQ"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ewCnQOjoEd2lTK4h8EdsoQ"
+                    name="결함목록" guid="_ewCnQOjoEd2lTK4h8EdsoQ" presentationName="결함목록"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_p9YpcOjoEd2lTK4h8EdsoQ"
+                    name="제품검사결과" guid="_p9YpcOjoEd2lTK4h8EdsoQ" presentationName="제품검사결과"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_r_7I8OjoEd2lTK4h8EdsoQ"
+                    name="오픈소스라이센스점검결과" guid="_r_7I8OjoEd2lTK4h8EdsoQ" presentationName="오픈소스라이센스점검결과"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_zUO5gOjnEd2lTK4h8EdsoQ"
+                  name="프로세스심사활동" guid="_zUO5gOjnEd2lTK4h8EdsoQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_IFmaMOjpEd2lTK4h8EdsoQ"
+                    name="프로세스심사 실시" guid="_IFmaMOjpEd2lTK4h8EdsoQ" presentationName="프로세스심사 실시"
+                    output="_OrvnwOjpEd2lTK4h8EdsoQ"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_OrvnwOjpEd2lTK4h8EdsoQ"
+                    name="프로세스심사결과" guid="_OrvnwOjpEd2lTK4h8EdsoQ" presentationName="프로세스심사결과"/>
+              </childPackages>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EXg_kA7gEd6e5_E-So0vag"
+                name="프로젝트단위" guid="_EXg_kA7gEd6e5_E-So0vag"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tlt48MsWEd2tTNe4gqHtXw"
+              name="위험관리" guid="_tlt48MsWEd2tTNe4gqHtXw">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_kZV6IA7cEd6e5_E-So0vag"
+                name="프로젝트단위" guid="_kZV6IA7cEd6e5_E-So0vag">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_9mpwgMsXEd2VS4iuY7h1kQ"
+                  name="위험관리계획" guid="_9mpwgMsXEd2VS4iuY7h1kQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_BVhO8MsYEd2VS4iuY7h1kQ"
+                    name="위험관리계획 수립" guid="_BVhO8MsYEd2VS4iuY7h1kQ" presentationName="위험관리계획 수립"
+                    output="_EfkwIMsYEd2VS4iuY7h1kQ _IY388MsYEd2VS4iuY7h1kQ"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_EfkwIMsYEd2VS4iuY7h1kQ"
+                    name="위험관리계획서" guid="_EfkwIMsYEd2VS4iuY7h1kQ" presentationName="위험관리계획서"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_IY388MsYEd2VS4iuY7h1kQ"
+                    name="위험목록" guid="_IY388MsYEd2VS4iuY7h1kQ" presentationName="위험목록"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1l8JAA7cEd6e5_E-So0vag"
+                  name="착수점검결과" guid="_1l8JAA7cEd6e5_E-So0vag"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_qskLsA7cEd6e5_E-So0vag"
+                name="단계단위" guid="_qskLsA7cEd6e5_E-So0vag">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_bITuwOjsEd2lTK4h8EdsoQ"
+                  name="이슈및위험목록" guid="_bITuwOjsEd2lTK4h8EdsoQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_kODLQOjsEd2lTK4h8EdsoQ"
+                    name="위험 식별 및 관리" guid="_kODLQOjsEd2lTK4h8EdsoQ" presentationName="위험 식별 및 관리"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_p_5OEOjsEd2lTK4h8EdsoQ"
+                    name="위험목록" guid="_p_5OEOjsEd2lTK4h8EdsoQ" presentationName="위험목록"
+                    variabilityType="extendsReplaces" variabilityBasedOnElement="_IY388MsYEd2VS4iuY7h1kQ"/>
+              </childPackages>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_m4HYgMsWEd2tTNe4gqHtXw"
+              name="구매장비관리" guid="_m4HYgMsWEd2tTNe4gqHtXw">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_lpkhAA7eEd6e5_E-So0vag"
+                name="단계단위" guid="_lpkhAA7eEd6e5_E-So0vag">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_cjwesOhgEd2-iuQOrgnDkg"
+                  name="장비납품검사서" guid="_cjwesOhgEd2-iuQOrgnDkg">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pHrSQOhgEd2-iuQOrgnDkg"
+                    name="장비납품합의 및 검사" guid="_pHrSQOhgEd2-iuQOrgnDkg" presentationName="장비납품합의 및 검사"
+                    performedBy="_zztWz-gWEd2wo6CBFtfaig" mandatoryInput="_HOmSgMplEd2CAJ2o_vewag _gqSu4MsXEd2VS4iuY7h1kQ _gyokwMvWEd2so6-cDXaTSQ"
+                    output="_5w1i0OjiEd2lTK4h8EdsoQ _9EcBkOjiEd2lTK4h8EdsoQ __l9jIOjiEd2lTK4h8EdsoQ _2qEqcAfUEd6iXZwxaPWT4w"
+                    additionallyPerformedBy="_zztWx-gWEd2wo6CBFtfaig _zztWyegWEd2wo6CBFtfaig _zztWzugWEd2wo6CBFtfaig _zztW0OgWEd2wo6CBFtfaig">
+                  <presentation xmi:id="-TKrTCWSBlu5VWPJ6ZIPJrg" href="uma://-TKrTCWSBlu5VWPJ6ZIPJrg#-TKrTCWSBlu5VWPJ6ZIPJrg"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_5w1i0OjiEd2lTK4h8EdsoQ"
+                    name="장비검사서" guid="_5w1i0OjiEd2lTK4h8EdsoQ" presentationName="장비검사서"
+                    briefDescription="장비 검사항목을 기재하여 장비 검사시 활용한다.&#xD;&#xA;" templates="_grPFgAfdEd6iXZwxaPWT4w">
+                  <presentation xmi:id="-JG2I_KMkMeH_i3K0K7gXag" href="uma://-JG2I_KMkMeH_i3K0K7gXag#-JG2I_KMkMeH_i3K0K7gXag"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_9EcBkOjiEd2lTK4h8EdsoQ"
+                    name="장비결함보고서" guid="_9EcBkOjiEd2lTK4h8EdsoQ" presentationName="장비결함보고서"
+                    briefDescription="장비의 입고검사결과 이상이 발생한 경우 장비결함보고서를 작성하여 공급업체에 시정조치를 요청하게 한다.&#xD;&#xA;"
+                    templates="_kysDEAfdEd6iXZwxaPWT4w">
+                  <presentation xmi:id="-S9j2z9rq8Dr8X_Wp_YfpsA" href="uma://-S9j2z9rq8Dr8X_Wp_YfpsA#-S9j2z9rq8Dr8X_Wp_YfpsA"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="__l9jIOjiEd2lTK4h8EdsoQ"
+                    name="장비관리대장" guid="__l9jIOjiEd2lTK4h8EdsoQ" presentationName="장비관리대장"
+                    briefDescription="장비관리대장은 장비관리 절차에 따라 장비입고 시 해당 장비에 대한 정보를 기입하고 변동사항에 대해 기록한다"
+                    templates="_ni0oYAfdEd6iXZwxaPWT4w">
+                  <presentation xmi:id="-Bj1694sgFN-xyBd55oc32Q" href="uma://-Bj1694sgFN-xyBd55oc32Q#-Bj1694sgFN-xyBd55oc32Q"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_2qEqcAfUEd6iXZwxaPWT4w"
+                    name="납품확인서" guid="_2qEqcAfUEd6iXZwxaPWT4w" presentationName="납품확인서"/>
+              </childPackages>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J0IAQOjjEd2lTK4h8EdsoQ"
+                  name="장비인수확인서" guid="_J0IAQOjjEd2lTK4h8EdsoQ">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MODsEOjjEd2lTK4h8EdsoQ"
+                    name="장비유지관리 및 인도" guid="_MODsEOjjEd2lTK4h8EdsoQ" presentationName="장비유지관리 및 인도"
+                    performedBy="_zztWz-gWEd2wo6CBFtfaig" mandatoryInput="_gqSu4MsXEd2VS4iuY7h1kQ _2qEqcAfUEd6iXZwxaPWT4w _gyokwMvWEd2so6-cDXaTSQ _HOmSgMplEd2CAJ2o_vewag"
+                    output="_XPBfIOjjEd2lTK4h8EdsoQ _OTH7IOjjEd2lTK4h8EdsoQ" additionallyPerformedBy="_zztWx-gWEd2wo6CBFtfaig _zztWyegWEd2wo6CBFtfaig _zztWzugWEd2wo6CBFtfaig _zztW0OgWEd2wo6CBFtfaig">
+                  <presentation xmi:id="-Iok4jJDkaVqNYImaYxZ4kw" href="uma://-Iok4jJDkaVqNYImaYxZ4kw#-Iok4jJDkaVqNYImaYxZ4kw"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_OTH7IOjjEd2lTK4h8EdsoQ"
+                    name="고객인수확인서(PAD)" guid="_OTH7IOjjEd2lTK4h8EdsoQ" presentationName="고객인수확인서(PAD)"
+                    variabilityType="extendsReplaces" variabilityBasedOnElement="_bmioissUEd2VS4iuY7h1kQ"/>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_XPBfIOjjEd2lTK4h8EdsoQ"
+                    name="장비설치확인서" guid="_XPBfIOjjEd2lTK4h8EdsoQ" presentationName="장비설치확인서"
+                    briefDescription="입고검사가 완료된 직후 H/W장비를 고객에게 인도하는 경우 장비설치확인서를 작성하여 고객으로부터 설치확인을 받는다"
+                    templates="_QZTAsAfgEd6iXZwxaPWT4w">
+                  <presentation xmi:id="-d9gmPb36e3rwXlvUvwfdzA" href="uma://-d9gmPb36e3rwXlvUvwfdzA#-d9gmPb36e3rwXlvUvwfdzA"/>
+                </contentElements>
+              </childPackages>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_mzogYA7eEd6e5_E-So0vag"
+                name="프로젝트단위" guid="_mzogYA7eEd6e5_E-So0vag">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_j1ryMMsqEd2tTNe4gqHtXw"
+                  name="구매관리계획" guid="_j1ryMMsqEd2tTNe4gqHtXw">
+                <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_eCNSUMsXEd2VS4iuY7h1kQ"
+                    name="구매관리계획 수립" guid="_eCNSUMsXEd2VS4iuY7h1kQ" presentationName="구매관리계획 수립"
+                    performedBy="_zztWz-gWEd2wo6CBFtfaig" mandatoryInput="_HOmSgMplEd2CAJ2o_vewag _gF3_kOgpEd2wo6CBFtfaig _gyokwMvWEd2so6-cDXaTSQ _T0AVMM0VEd2A0Kjz7fgG4Q"
+                    output="_gqSu4MsXEd2VS4iuY7h1kQ" additionallyPerformedBy="_zztWx-gWEd2wo6CBFtfaig _zztWyegWEd2wo6CBFtfaig _zztWzugWEd2wo6CBFtfaig _zztW0OgWEd2wo6CBFtfaig">
+                  <presentation xmi:id="-Jl3N9or29ag4yEYkCi3x4g" href="uma://-Jl3N9or29ag4yEYkCi3x4g#-Jl3N9or29ag4yEYkCi3x4g"/>
+                </contentElements>
+                <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_gqSu4MsXEd2VS4iuY7h1kQ"
+                    name="구매관리계획서" guid="_gqSu4MsXEd2VS4iuY7h1kQ" presentationName="구매관리계획서"
+                    briefDescription="프로젝트 수행 과정에서 필요한 각종 H/W, S/W(COTS, 시스템 S/W 등), 장비 등의 구매, 도입 및 설치, 시험 등의 과정을 원활하게 관리함으로써 효과적인 프로젝트 수행을 보장하고, 최적의 시스템 환경을 구축하기 위한 계획을 수립한다."
+                    templates="_3BWFkAcREd6aHrdXPSwwNg">
+                  <presentation xmi:id="-WW6omt4iLt7Mk9a54h8EHg" href="uma://-WW6omt4iLt7Mk9a54h8EHg#-WW6omt4iLt7Mk9a54h8EHg"/>
+                </contentElements>
+              </childPackages>
+            </childPackages>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_3BWFkAcREd6aHrdXPSwwNg"
+                name="구매관리계획서" guid="_3BWFkAcREd6aHrdXPSwwNg" presentationName="구매관리계획서">
+              <presentation xmi:id="-jvErmDW907nrs8FyHdJ-vQ" href="uma://-jvErmDW907nrs8FyHdJ-vQ#-jvErmDW907nrs8FyHdJ-vQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_grPFgAfdEd6iXZwxaPWT4w"
+                name="장비검사서" guid="_grPFgAfdEd6iXZwxaPWT4w" presentationName="장비검사서">
+              <presentation xmi:id="-88P_n9ZUXBZIA5FFLZXBVQ" href="uma://-88P_n9ZUXBZIA5FFLZXBVQ#-88P_n9ZUXBZIA5FFLZXBVQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_kysDEAfdEd6iXZwxaPWT4w"
+                name="장비결함보고서" guid="_kysDEAfdEd6iXZwxaPWT4w" presentationName="장비결함보고서">
+              <presentation xmi:id="-rSqg2prdn01UgZzxEAkoMg" href="uma://-rSqg2prdn01UgZzxEAkoMg#-rSqg2prdn01UgZzxEAkoMg"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_ni0oYAfdEd6iXZwxaPWT4w"
+                name="장비관리대장" guid="_ni0oYAfdEd6iXZwxaPWT4w" presentationName="장비관리대장">
+              <presentation xmi:id="-a7RGddU8m-kZ_KaEsuf4gw" href="uma://-a7RGddU8m-kZ_KaEsuf4gw#-a7RGddU8m-kZ_KaEsuf4gw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_QZTAsAfgEd6iXZwxaPWT4w"
+                name="장비설치확인서" guid="_QZTAsAfgEd6iXZwxaPWT4w" presentationName="장비설치확인서">
+              <presentation xmi:id="-NpG2kxz4wyN_8P_GaDxolQ" href="uma://-NpG2kxz4wyN_8P_GaDxolQ#-NpG2kxz4wyN_8P_GaDxolQ"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fURzoMsWEd2tTNe4gqHtXw"
+              name="의사소통관리" guid="_fURzoMsWEd2tTNe4gqHtXw">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_baD2QMsVEd2VS4iuY7h1kQ"
+                name="의사소통관리계획" guid="_baD2QMsVEd2VS4iuY7h1kQ">
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ezKgEMsVEd2VS4iuY7h1kQ"
+                  name="의사소통관리계획 수립" guid="_ezKgEMsVEd2VS4iuY7h1kQ" presentationName="의사소통관리계획 수립"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_hZwu4MsVEd2VS4iuY7h1kQ"
+                  name="의사소통관리계획서" guid="_hZwu4MsVEd2VS4iuY7h1kQ" presentationName="의사소통관리계획서"/>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_L6CSoA7cEd6e5_E-So0vag"
+              name="원가관리" guid="_L6CSoA7cEd6e5_E-So0vag">
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Nyb-sA7cEd6e5_E-So0vag"
+                name="프로젝트단위" guid="_Nyb-sA7cEd6e5_E-So0vag">
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Q-lKkA7cEd6e5_E-So0vag"
+                  name="원가계획산정서" guid="_Q-lKkA7cEd6e5_E-So0vag"/>
+              <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SrqXcA7cEd6e5_E-So0vag"
+                  name="실행품의" guid="_SrqXcA7cEd6e5_E-So0vag"/>
+            </childPackages>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztWwOgWEd2wo6CBFtfaig"
+              name="UI기획자" guid="_zztWwOgWEd2wo6CBFtfaig" presentationName="UI기획자">
+            <presentation xmi:id="-uCrb4TQVZEGXZBBpswpC6w" href="uma://-uCrb4TQVZEGXZBBpswpC6w#-uCrb4TQVZEGXZBBpswpC6w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztWwegWEd2wo6CBFtfaig"
+              name="개발자" guid="_zztWwegWEd2wo6CBFtfaig" presentationName="개발자">
+            <presentation xmi:id="-YRMSNK42Hr6GR3pNdiwD5g" href="uma://-YRMSNK42Hr6GR3pNdiwD5g#-YRMSNK42Hr6GR3pNdiwD5g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztWwugWEd2wo6CBFtfaig"
+              name="고객" guid="_zztWwugWEd2wo6CBFtfaig" presentationName="고객"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztWw-gWEd2wo6CBFtfaig"
+              name="데이터아키텍트" guid="_zztWw-gWEd2wo6CBFtfaig" presentationName="데이터아키텍트"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztWxOgWEd2wo6CBFtfaig"
+              name="리드아키텍트" guid="_zztWxOgWEd2wo6CBFtfaig" presentationName="리드아키텍트"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztWxegWEd2wo6CBFtfaig"
+              name="분석자" guid="_zztWxegWEd2wo6CBFtfaig" presentationName="분석자">
+            <presentation xmi:id="-u5AzS1H0zLuaIc14RS81_g" href="uma://-u5AzS1H0zLuaIc14RS81_g#-u5AzS1H0zLuaIc14RS81_g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztWxugWEd2wo6CBFtfaig"
+              name="비즈니스아키텍트" guid="_zztWxugWEd2wo6CBFtfaig" presentationName="비즈니스아키텍트">
+            <presentation xmi:id="-XJOF2c-Z5OIsS-ID0shC4Q" href="uma://-XJOF2c-Z5OIsS-ID0shC4Q#-XJOF2c-Z5OIsS-ID0shC4Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztWx-gWEd2wo6CBFtfaig"
+              name="사업관리자" guid="_zztWx-gWEd2wo6CBFtfaig" presentationName="사업관리자">
+            <presentation xmi:id="-V2EU2EWEa0N4AjtSd8Sobg" href="uma://-V2EU2EWEa0N4AjtSd8Sobg#-V2EU2EWEa0N4AjtSd8Sobg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztWyOgWEd2wo6CBFtfaig"
+              name="설계자" guid="_zztWyOgWEd2wo6CBFtfaig" presentationName="설계자">
+            <presentation xmi:id="-IrFHinGgL5MvuV5SwoS5Ag" href="uma://-IrFHinGgL5MvuV5SwoS5Ag#-IrFHinGgL5MvuV5SwoS5Ag"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztWyegWEd2wo6CBFtfaig"
+              name="소프트웨어아키텍트" guid="_zztWyegWEd2wo6CBFtfaig" presentationName="소프트웨어아키텍트">
+            <presentation xmi:id="-McB2pJ1nPEX4rmJKcWAIdw" href="uma://-McB2pJ1nPEX4rmJKcWAIdw#-McB2pJ1nPEX4rmJKcWAIdw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztWyugWEd2wo6CBFtfaig"
+              name="인수책임자" guid="_zztWyugWEd2wo6CBFtfaig" presentationName="인수책임자"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztWy-gWEd2wo6CBFtfaig"
+              name="테스터" guid="_zztWy-gWEd2wo6CBFtfaig" presentationName="테스터"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztWzOgWEd2wo6CBFtfaig"
+              name="테스트관리자" guid="_zztWzOgWEd2wo6CBFtfaig" presentationName="테스트관리자">
+            <presentation xmi:id="-F1mslYgLvKLfDHN_jZL9jQ" href="uma://-F1mslYgLvKLfDHN_jZL9jQ#-F1mslYgLvKLfDHN_jZL9jQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztWzegWEd2wo6CBFtfaig"
+              name="테스트엔지니어" guid="_zztWzegWEd2wo6CBFtfaig" presentationName="테스트엔지니어"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztWzugWEd2wo6CBFtfaig"
+              name="프로젝트TA" guid="_zztWzugWEd2wo6CBFtfaig" presentationName="프로젝트TA">
+            <presentation xmi:id="-72oq5BOKPo3oOTSy2uN-AA" href="uma://-72oq5BOKPo3oOTSy2uN-AA#-72oq5BOKPo3oOTSy2uN-AA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztWz-gWEd2wo6CBFtfaig"
+              name="프로젝트관리자" guid="_zztWz-gWEd2wo6CBFtfaig" presentationName="프로젝트관리자">
+            <presentation xmi:id="-v7OLMQbW9qo_rTpPJr3JiQ" href="uma://-v7OLMQbW9qo_rTpPJr3JiQ#-v7OLMQbW9qo_rTpPJr3JiQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztW0OgWEd2wo6CBFtfaig"
+              name="프로젝트리더" guid="_zztW0OgWEd2wo6CBFtfaig" presentationName="프로젝트리더">
+            <presentation xmi:id="-R6BQ5YlynS8HNAVYnimudw" href="uma://-R6BQ5YlynS8HNAVYnimudw#-R6BQ5YlynS8HNAVYnimudw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zztW0egWEd2wo6CBFtfaig"
+              name="형상관리자" guid="_zztW0egWEd2wo6CBFtfaig" presentationName="형상관리자">
+            <presentation xmi:id="-NpVSNF4JFiFt9XYKTLkvzw" href="uma://-NpVSNF4JFiFt9XYKTLkvzw#-NpVSNF4JFiFt9XYKTLkvzw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_-CP-oOgnEd2wo6CBFtfaig"
+              name="사용자" guid="_-CP-oOgnEd2wo6CBFtfaig" presentationName="사용자"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Ak0pEOgoEd2wo6CBFtfaig"
+              name="현업담당자" guid="_Ak0pEOgoEd2wo6CBFtfaig" presentationName="현업담당자"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_Gd-NwOgoEd2wo6CBFtfaig"
+              name="유지보수담당자" guid="_Gd-NwOgoEd2wo6CBFtfaig" presentationName="유지보수담당자"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_MeHyUOgoEd2wo6CBFtfaig"
+              name="툴 솔루션전문가" guid="_MeHyUOgoEd2wo6CBFtfaig" presentationName="툴 솔루션전문가"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_ZPAq4OgoEd2wo6CBFtfaig"
+              name="GB" guid="_ZPAq4OgoEd2wo6CBFtfaig" presentationName="GB"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_ctMB8OgoEd2wo6CBFtfaig"
+              name="감리인" guid="_ctMB8OgoEd2wo6CBFtfaig" presentationName="감리인"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_fLbmAOgoEd2wo6CBFtfaig"
+              name="검사인" guid="_fLbmAOgoEd2wo6CBFtfaig" presentationName="검사인"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_g3nbAOgoEd2wo6CBFtfaig"
+              name="비용전문가" guid="_g3nbAOgoEd2wo6CBFtfaig" presentationName="비용전문가"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_sRVFQOgoEd2wo6CBFtfaig"
+              name="품질보증담당자(QAO)" guid="_sRVFQOgoEd2wo6CBFtfaig" presentationName="품질보증담당자(QAO)"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_w24UEOgoEd2wo6CBFtfaig"
+              name="프로세스엔지니어(SPE)" guid="_w24UEOgoEd2wo6CBFtfaig" presentationName="프로세스엔지니어(SPE)"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_n-3MwAJOEd6ruNDOcAmcDg"
+              name="new_guideline" guid="_n-3MwAJOEd6ruNDOcAmcDg" presentationName="New Guideline">
+            <presentation xmi:id="-6xpfBQXhTbL7A60zJGQZLg" href="uma://-6xpfBQXhTbL7A60zJGQZLg#-6xpfBQXhTbL7A60zJGQZLg"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_2SE8rcWmEd2eFf4iygnyuw"
+          name="CapabilityPatterns" guid="_2SE8rcWmEd2eFf4iygnyuw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_KnIkUPZGEd2OhLPIr_EKbA"
+            name="프로젝트관리 패턴" guid="_KnIkUPZGEd2OhLPIr_EKbA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_TasEoPZGEd2OhLPIr_EKbA"
+              name="단계반복" guid="_TasEoPZGEd2OhLPIr_EKbA">
+            <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_Y31CwPZGEd2OhLPIr_EKbA"
+                href="uma://_Y31CwPZGEd2OhLPIr_EKbA#_Y31CwPZGEd2OhLPIr_EKbA"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_5hakEPZGEd2OhLPIr_EKbA"
+                href="uma://_5hakEPZGEd2OhLPIr_EKbA#_5hakEPZGEd2OhLPIr_EKbA"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_fY8J4PZHEd2OhLPIr_EKbA"
+                href="uma://_fY8J4PZHEd2OhLPIr_EKbA#_fY8J4PZHEd2OhLPIr_EKbA"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_smSU8PZHEd2OhLPIr_EKbA"
+                href="uma://_smSU8PZHEd2OhLPIr_EKbA#_smSU8PZHEd2OhLPIr_EKbA"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_fZZDkPZMEd2OhLPIr_EKbA"
+                name="지속수행" guid="_fZZDkPZMEd2OhLPIr_EKbA">
+              <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_4VTg0PZHEd2OhLPIr_EKbA"
+                  href="uma://_4VTg0PZHEd2OhLPIr_EKbA#_4VTg0PZHEd2OhLPIr_EKbA"/>
+              <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_5vwFkPZHEd2OhLPIr_EKbA"
+                  href="uma://_5vwFkPZHEd2OhLPIr_EKbA#_5vwFkPZHEd2OhLPIr_EKbA"/>
+              <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_7n22sPZHEd2OhLPIr_EKbA"
+                  href="uma://_7n22sPZHEd2OhLPIr_EKbA#_7n22sPZHEd2OhLPIr_EKbA"/>
+              <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_84BeEPZHEd2OhLPIr_EKbA"
+                  href="uma://_84BeEPZHEd2OhLPIr_EKbA#_84BeEPZHEd2OhLPIr_EKbA"/>
+              <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_-PyiQPZHEd2OhLPIr_EKbA"
+                  href="uma://_-PyiQPZHEd2OhLPIr_EKbA#_-PyiQPZHEd2OhLPIr_EKbA"/>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_vvmdAPZMEd2OhLPIr_EKbA"
+              name="프로젝트" guid="_vvmdAPZMEd2OhLPIr_EKbA">
+            <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_yOmPAPZMEd2OhLPIr_EKbA"
+                href="uma://_yOmPAPZMEd2OhLPIr_EKbA#_yOmPAPZMEd2OhLPIr_EKbA"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_zxiocPZMEd2OhLPIr_EKbA"
+                href="uma://_zxiocPZMEd2OhLPIr_EKbA#_zxiocPZMEd2OhLPIr_EKbA"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_BSNQwPZQEd2OhLPIr_EKbA"
+                href="uma://_BSNQwPZQEd2OhLPIr_EKbA#_BSNQwPZQEd2OhLPIr_EKbA"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_Dh2YIPZQEd2OhLPIr_EKbA"
+                href="uma://_Dh2YIPZQEd2OhLPIr_EKbA#_Dh2YIPZQEd2OhLPIr_EKbA"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_q0t6kPZQEd2OhLPIr_EKbA"
+                href="uma://_q0t6kPZQEd2OhLPIr_EKbA#_q0t6kPZQEd2OhLPIr_EKbA"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_td_p8PZQEd2OhLPIr_EKbA"
+                href="uma://_td_p8PZQEd2OhLPIr_EKbA#_td_p8PZQEd2OhLPIr_EKbA"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_XyL6cPZ0Ed2OhLPIr_EKbA"
+                href="uma://_XyL6cPZ0Ed2OhLPIr_EKbA#_XyL6cPZ0Ed2OhLPIr_EKbA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_2SE8rsWmEd2eFf4iygnyuw"
+        name="DeliveryProcesses" guid="_2SE8rsWmEd2eFf4iygnyuw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_tECsEA9uEd61s4WhKxejYQ"
+          href="uma://_tECsEA9uEd61s4WhKxejYQ#_tECsEA9uEd61s4WhKxejYQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_2SE8r8WmEd2eFf4iygnyuw"
+        name="ProcessContributions" guid="_2SE8r8WmEd2eFf4iygnyuw"/>
+    <bases href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_Td_GcJUxEd2ptuaOn8CiHA"/>
+    <bases href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_3TkIYPmnEd2L2cXOqZYpVA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

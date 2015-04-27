@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-JT5jCSoL6d2xUeZ2ulrCdw"
+    name=",_9L5WgJxZEd2IZdao1IJ_iw" guid="-JT5jCSoL6d2xUeZ2ulrCdw">
+  <sections xmi:id="__6Y9EJxZEd2IZdao1IJ_iw" name="provided interface 작성" guid="__6Y9EJxZEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_BFMjUJxaEd2IZdao1IJ_iw" name="컴포넌트 개요 작성" guid="_BFMjUJxaEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_CQl_cJxaEd2IZdao1IJ_iw" name="컴포넌트 유형 작성" guid="_CQl_cJxaEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_Dt31wJxaEd2IZdao1IJ_iw" name="컴포넌트명 작성" guid="_Dt31wJxaEd2IZdao1IJ_iw"/>
+</org.eclipse.epf.uma:TaskDescription>

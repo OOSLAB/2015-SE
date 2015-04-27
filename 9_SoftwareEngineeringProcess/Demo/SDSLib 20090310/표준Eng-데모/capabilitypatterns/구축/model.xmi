@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_9XXQ8ZVZEd2ptuaOn8CiHA"
+      guid="_9XXQ8ZVZEd2ptuaOn8CiHA">
+    <resourceDescriptors xmi:id="_9XXQ8pVZEd2ptuaOn8CiHA" id="-rfl3tP8jeWhZS2p3o4_yIg"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_9W6lAJVZEd2ptuaOn8CiHA" name="구축"
+      guid="_9W6lAJVZEd2ptuaOn8CiHA">
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_9W6lAZVZEd2ptuaOn8CiHA"
+        name="구축" guid="_9W6lAZVZEd2ptuaOn8CiHA" presentationName="구축">
+      <presentation xmi:id="-rfl3tP8jeWhZS2p3o4_yIg" href="uma://-rfl3tP8jeWhZS2p3o4_yIg#-rfl3tP8jeWhZS2p3o4_yIg"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_bUAngJUxEd2ptuaOn8CiHA"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_bUAngJUxEd2ptuaOn8CiHA"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

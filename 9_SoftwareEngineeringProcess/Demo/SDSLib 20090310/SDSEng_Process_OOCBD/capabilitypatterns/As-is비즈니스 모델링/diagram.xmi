@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML">
+  <uml:Activity xmi:id="_FFupwAjoEd6CD-m1e93cOw" name="As-is비즈니스모델">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_FFupwQjoEd6CD-m1e93cOw" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FFupwgjoEd6CD-m1e93cOw"
+          key="uri" value="uma://_m3Xe4_mrEd2JRcy3PiAHxw#_m3Xe5PmrEd2JRcy3PiAHxw"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FFupwwjoEd6CD-m1e93cOw"
+          key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_FF4awAjoEd6CD-m1e93cOw" name="As-is비즈니스다이어그램 작성">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_FF4awQjoEd6CD-m1e93cOw"
+          source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FF4awgjoEd6CD-m1e93cOw"
+            key="uri" value="uma://_m3Xe4_mrEd2JRcy3PiAHxw#_-HenQAfAEd6Obes9cAqsag"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_FF4awwjoEd6CD-m1e93cOw"
+            key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_kTDp4Q1FEd6iC6R9CzBo1w" name="As-is비즈니스다이어그램 작성">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_kTDp4g1FEd6iC6R9CzBo1w"
+          source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_kTDp4w1FEd6iC6R9CzBo1w"
+            key="uri" value="uma://_m3Xe4_mrEd2JRcy3PiAHxw#_kTDp4A1FEd6iC6R9CzBo1w"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_kTDp5A1FEd6iC6R9CzBo1w"
+            key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_FFupxAjoEd6CD-m1e93cOw" type="AD" element="_FFupwAjoEd6CD-m1e93cOw"
+      name="As-is비즈니스모델" measurementUnit="Pixel">
+    <children xmi:type="notation:Node" xmi:id="_r8ERYA0_Ed6iC6R9CzBo1w" visible="false"
+        type="1009" element="_FF4awAjoEd6CD-m1e93cOw">
+      <children xmi:type="notation:Node" xmi:id="_r8ERZg0_Ed6iC6R9CzBo1w" type="4008"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_r8ERYQ0_Ed6iC6R9CzBo1w" fontName="Arial"
+          fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_r8ERYg0_Ed6iC6R9CzBo1w"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_r8ERYw0_Ed6iC6R9CzBo1w"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_r8ERZA0_Ed6iC6R9CzBo1w" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r8ERZQ0_Ed6iC6R9CzBo1w"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_k8oLUA1FEd6iC6R9CzBo1w" type="1009"
+        element="_kTDp4Q1FEd6iC6R9CzBo1w">
+      <children xmi:type="notation:Node" xmi:id="_k8oLVg1FEd6iC6R9CzBo1w" type="4008"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_k8oLUQ1FEd6iC6R9CzBo1w" fontName="Arial"
+          fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_k8oLUg1FEd6iC6R9CzBo1w"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_k8oLUw1FEd6iC6R9CzBo1w"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_k8oLVA1FEd6iC6R9CzBo1w" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_k8oLVQ1FEd6iC6R9CzBo1w"
+          x="12" y="12"/>
+    </children>
+    <styles xmi:type="notation:PageStyle" xmi:id="_FFupxQjoEd6CD-m1e93cOw"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_FFupxgjoEd6CD-m1e93cOw"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_FFupxwjoEd6CD-m1e93cOw"/>
+  </notation:Diagram>
+</xmi:XMI>

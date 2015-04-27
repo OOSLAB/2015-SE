@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-SVBHrdQO1Hjy6cQpKESDzA"
+    name=",_TQqXQKAVEd2n5q0acG373A" guid="-SVBHrdQO1Hjy6cQpKESDzA">
+  <sections xmi:id="_ZkeesKAVEd2n5q0acG373A" name="액티비티 단위 정의" guid="_ZkeesKAVEd2n5q0acG373A"/>
+  <sections xmi:id="_dIxE0KAVEd2n5q0acG373A" name="액티비티 수행의 책임 정의" guid="_dIxE0KAVEd2n5q0acG373A"/>
+  <sections xmi:id="_f2NigKAVEd2n5q0acG373A" name="액티비티간 업무흐름 정의" guid="_f2NigKAVEd2n5q0acG373A"/>
+</org.eclipse.epf.uma:TaskDescription>

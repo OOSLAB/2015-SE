@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-nor-O7sYLhVfzBspdW7qYA"
+    name="new_artifact,_6s7D4JOsEd2QOZMWcM0ZMQ" guid="-nor-O7sYLhVfzBspdW7qYA" changeDate="2008-10-06T22:45:58.625+0900">
+  <mainDescription>&lt;p>&#xD;
+    &amp;lt;&amp;lt;보고서 서식&amp;gt;&amp;gt; 보고서 개요,&amp;nbsp;보고서 ID, 보고서명&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;lt;&amp;lt;보고서 서식 [레이아웃 정의]&amp;gt;&amp;gt; 보고서 레이아웃&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

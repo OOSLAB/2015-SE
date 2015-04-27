@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML">
+  <uml:Activity xmi:id="_ZNmtIJVcEd2ptuaOn8CiHA" name="삼성화재">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ZNv3EJVcEd2ptuaOn8CiHA" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZNv3EZVcEd2ptuaOn8CiHA"
+          key="uri" value="uma://_nv0EQJVaEd2ptuaOn8CiHA#_nv0EQZVaEd2ptuaOn8CiHA"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZNv3EpVcEd2ptuaOn8CiHA"
+          key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_Zbdi8JVcEd2ptuaOn8CiHA" name="Iteration1">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Zbdi8ZVcEd2ptuaOn8CiHA"
+          source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Zbdi8pVcEd2ptuaOn8CiHA"
+            key="uri" value="uma://_nv0EQJVaEd2ptuaOn8CiHA#_I4uwcZVcEd2ptuaOn8CiHA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Zbdi85VcEd2ptuaOn8CiHA"
+            key="type" value="Iteration"/>
+      </eAnnotations>
+    </node>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_ZOMjAJVcEd2ptuaOn8CiHA" type="AD" element="_ZNmtIJVcEd2ptuaOn8CiHA"
+      name="삼성화재" measurementUnit="Pixel">
+    <children xmi:type="notation:Node" xmi:id="_ZcNJ0JVcEd2ptuaOn8CiHA" type="1011"
+        element="_Zbdi8JVcEd2ptuaOn8CiHA">
+      <children xmi:type="notation:Node" xmi:id="_ZcWTwJVcEd2ptuaOn8CiHA" type="4010"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_ZcNJ0ZVcEd2ptuaOn8CiHA" fontName="Arial"
+          fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_ZcNJ0pVcEd2ptuaOn8CiHA"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_ZcNJ05VcEd2ptuaOn8CiHA"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_ZcNJ1JVcEd2ptuaOn8CiHA" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZcNJ1ZVcEd2ptuaOn8CiHA"/>
+    </children>
+    <styles xmi:type="notation:PageStyle" xmi:id="_ZOMjAZVcEd2ptuaOn8CiHA"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_ZOMjApVcEd2ptuaOn8CiHA"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_ZOMjA5VcEd2ptuaOn8CiHA"/>
+  </notation:Diagram>
+  <uml:Activity xmi:id="_ikLa8JVcEd2ptuaOn8CiHA" name="Iteration1">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ikLa8ZVcEd2ptuaOn8CiHA" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ikLa8pVcEd2ptuaOn8CiHA"
+          key="uri" value="uma://_nv0EQJVaEd2ptuaOn8CiHA#_I4uwcZVcEd2ptuaOn8CiHA"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ikLa85VcEd2ptuaOn8CiHA"
+          key="type" value="Iteration"/>
+    </eAnnotations>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_ikeV4JVcEd2ptuaOn8CiHA" name="업무분석"
+        isLeaf="true">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ikeV4ZVcEd2ptuaOn8CiHA"
+          source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ikeV4pVcEd2ptuaOn8CiHA"
+            key="uri" value="uma://_7ScL0JVZEd2ptuaOn8CiHA#_KQb1IZVaEd2ptuaOn8CiHA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ikeV45VcEd2ptuaOn8CiHA"
+            key="type" value="Activity"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_ikeV5JVcEd2ptuaOn8CiHA" name="데이터분석"
+        isLeaf="true">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ikeV5ZVcEd2ptuaOn8CiHA"
+          source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ikeV5pVcEd2ptuaOn8CiHA"
+            key="uri" value="uma://_7ScL0JVZEd2ptuaOn8CiHA#_cybJoZVaEd2ptuaOn8CiHA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ikeV55VcEd2ptuaOn8CiHA"
+            key="type" value="Activity"/>
+      </eAnnotations>
+    </node>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_ikLa9JVcEd2ptuaOn8CiHA" type="AD" element="_ikLa8JVcEd2ptuaOn8CiHA"
+      name="Iteration1" measurementUnit="Pixel">
+    <children xmi:type="notation:Node" xmi:id="_il-KsJVcEd2ptuaOn8CiHA" type="1007"
+        element="_ikeV4JVcEd2ptuaOn8CiHA">
+      <children xmi:type="notation:Node" xmi:id="_il-KtpVcEd2ptuaOn8CiHA" type="4005"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_il-KsZVcEd2ptuaOn8CiHA" fontName="Arial"
+          fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_il-KspVcEd2ptuaOn8CiHA"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_il-Ks5VcEd2ptuaOn8CiHA"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_il-KtJVcEd2ptuaOn8CiHA" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_il-KtZVcEd2ptuaOn8CiHA"
+          x="264" y="216"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_il-Kt5VcEd2ptuaOn8CiHA" type="1007"
+        element="_ikeV5JVcEd2ptuaOn8CiHA">
+      <children xmi:type="notation:Node" xmi:id="_il-KvZVcEd2ptuaOn8CiHA" type="4005"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_il-KuJVcEd2ptuaOn8CiHA" fontName="Arial"
+          fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_il-KuZVcEd2ptuaOn8CiHA"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_il-KupVcEd2ptuaOn8CiHA"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_il-Ku5VcEd2ptuaOn8CiHA" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_il-KvJVcEd2ptuaOn8CiHA"
+          x="396" y="216"/>
+    </children>
+    <styles xmi:type="notation:PageStyle" xmi:id="_ikLa9ZVcEd2ptuaOn8CiHA"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_ikLa9pVcEd2ptuaOn8CiHA"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_ikLa95VcEd2ptuaOn8CiHA"/>
+  </notation:Diagram>
+</xmi:XMI>

@@ -1,0 +1,593 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko" xml:lang="ko" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Capability Pattern: 분석</title>
+<meta name="uma.type" content="CapabilityPattern">
+<meta name="uma.name" content="분석">
+<meta name="uma.presentationName" content="분석">
+<meta name="element_type" content="other">
+<meta name="filetype" content="description">
+<meta name="role" content="">
+<link rel="StyleSheet" href="./../../css/default.css" type="text/css">
+<script src="./../../scripts/ContentPageResource.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSubSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ActivityTreeTable.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ProcessElementPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageToolbar.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/contentPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/processElementData.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+					var defaultQueryStr = '?proc=_TsE-4QfGEd6PyOiijdVpWA&path=_TsE-4QfGEd6PyOiijdVpWA,_MS1ewwjqEd6CD-m1e93cOw';
+					var backPath = './../../';
+					var imgPath = './../../images/';
+					var nodeInfo=null;
+					contentPage.preload(imgPath, backPath, nodeInfo,  defaultQueryStr, false, true, true);
+				</script>
+</head>
+<body>
+<div id="breadcrumbs"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top">
+<div autoWrap="true">
+<div id="page-guid" value="_MS1ewwjqEd6CD-m1e93cOw"></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="pageTitle" nowrap="true">Capability Pattern: 분석</td><td width="100%">
+<div align="right" id="contentPageToolbar"></div>
+</td><td width="100%" class="expandCollapseLink" align="right"><a name="mainIndex" href="./../../index.htm"></a><script language="JavaScript" type="text/javascript" src="./../../scripts/treebrowser.js"></script></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pageTitleSeparator"><img src="./../../images/shim.gif" alt="" title="" height="1"></td>
+</tr>
+</table>
+<div class="overview">
+<table width="97%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50"><img src="./../../images/capabilitypattern.gif" alt="" title=""></td><td>
+<table class="overviewTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"></td>
+</tr>
+<tr>
+<td valign="top">Extends: <a href="./../../SDSEng_Process_OOCBD/capabilitypatterns/분석_C57302FC.html" guid="_AWEB4QfFEd6PyOiijdVpWA">분석</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="middle">
+<td class="tab"><img src="./../../images/shim.gif" width="10" height="17" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_Description" href="./../../SDSEng_Process_OOCBD/deliveryprocesses/분석_1ECB34A5.html_desc.html">Description</a></td><td width="21"><img src="./../../images/tab_middle-i_i.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_WBS" href="./../../SDSEng_Process_OOCBD/deliveryprocesses/분석_1ECB34A5.html_wbs.html"><span style="white-space:nowrap;">Work Breakdown Structure</span></a></td><td width="1"><img src="./../../images/tab_middle-i_a.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="activeTab"><span style="white-space:nowrap;">Team Allocation</span></td><td width="21"><img src="./../../images/tab_middle-a_i.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_WPBS" href="./../../SDSEng_Process_OOCBD/deliveryprocesses/분석_1ECB34A5.html_wpbs.html"><span style="white-space:nowrap;">Work Product Usage</span></a></td><td width="21"><img src="./../../images/tab_end-i.gif" width="21" height="17" alt="" title=""></td><td width="50%"><img src="./../../images/shim.gif" width="10" height="17" alt="" title=""></td>
+</tr>
+<tr>
+<td colspan="4"><img src="./../../images/shim.gif" alt="" title="" height="2"></td><td><img src="./../../images/tab_space_middle.gif" width="21" height="2" alt="" title=""></td><td class="activeTab"><img src="./../../images/shim.gif" width="10" height="2" alt="" title=""></td><td><img src="./../../images/tab_space.gif" width="21" height="2" alt="" title=""></td><td colspan="3"><img src="./../../images/shim.gif" height="2" alt="" title=""></td>
+</tr>
+<tr>
+<td colspan="10" class="activeTab"><img src="./../../images/shim.gif" height="5" alt="" title=""></td>
+</tr>
+</table>
+<div class="sectionHeading">Team Breakdown</div>
+<div class="sectionContent">
+<div id="treeContent"></div>
+<script language="JavaScript">
+contentPage.processPage.treeTable.data = {
+title: "Team Breakdown", summary: "Team Breakdown", 
+columns: [
+["presentation_name", "Breakdown Element"],
+["model_info", "Model Info"],
+["teams", "Team"],
+["type", "Type"],
+["is_planned", "Planned"],
+["has_multiple_occurrences", "Multiple Occurrences"],
+["is_optional", "Optional"]],
+rows: [
+
+{id: "ea5fff26", parentId: "", relPath: ",_9RYo8QgREd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "UI기획자", title: "UI기획자", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/UI기획자_CDC31EC9.html", 
+	predecessors: "", info: "", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "de36a562", parentId: "ea5fff26", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "화면표준정의서", title: "화면표준정의서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/화면표준정의서_C6FA12EF.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e45d456c", parentId: "ea5fff26", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "화면표준정의서 작성", title: "화면표준정의서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/화면표준정의서 작성_109F3E72.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e691c1ae", parentId: "", relPath: ",_m3Ej9PmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "고객", title: "고객", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/고객_4FD50767.html", 
+	predecessors: "", info: "", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "46054248", parentId: "e691c1ae", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "정비된데이터 생성", title: "정비된데이터 생성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/정비된데이터 생성_79DC395E.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "edab4725", parentId: "", relPath: ",_m3Ej9_mrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "데이터아키텍트", title: "데이터아키텍트", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/데이터아키텍트_9C90976.html", 
+	predecessors: "", info: "", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3a6e6135", parentId: "edab4725", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "컨버전계획서", title: "컨버전계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/컨버전계획서_847A196E.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "ee9e9b5b", parentId: "edab4725", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "컨버전계획서 작성", title: "컨버전계획서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/컨버전계획서 작성_18FE6DF3.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e96742f9", parentId: "edab4725", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "논리 ERD 작성", title: "논리 ERD 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/논리 ERD 작성_7978209.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "9426d176", parentId: "edab4725", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "자료사전 작성", title: "자료사전 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/자료사전 작성_6DBE85A2.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3d64b712", parentId: "", relPath: ",_5_304QgREd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "분석자", title: "분석자", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석자_463542C5.html", 
+	predecessors: "", info: "", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "8b1839a0", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "네비게이션정의서", title: "네비게이션정의서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/네비게이션정의서_87B720D8.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3d4793bd", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "논리 ERD", title: "논리 ERD", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/논리 ERD_8B432548.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "8d62e5ba", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "메뉴구조도", title: "메뉴구조도", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/메뉴구조도_925500E8.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e1d5f041", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "배치목록", title: "배치목록", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/배치목록_ED467C26.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "ed71e970", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 보고서목록", title: "분석 보고서목록", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 보고서목록_80EE14FE.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "ec160061", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 보고서정의서", title: "분석 보고서정의서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 보고서정의서_8B8BF50E.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "944f82ed", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 시스템인터페이스정의서", title: "분석 시스템인터페이스정의서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 시스템인터페이스정의서_98A7E790.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "f017af5b", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 시퀀스다이어그램", title: "분석 시퀀스다이어그램", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 시퀀스다이어그램_34E052DB.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "90cb2ac4", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 클래스다이어그램", title: "분석 클래스다이어그램", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 클래스다이어그램_2A4272CB.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "8c87925f", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 화면목록", title: "분석 화면목록", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 화면목록_BC5C32DF.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e452f649", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 화면정의서", title: "분석 화면정의서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 화면정의서_50E08764.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "91745186", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석패키지다이어그램", title: "분석패키지다이어그램", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석패키지다이어그램_F96038FA.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "44ab5d1e", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "시스템인터페이스목록", title: "시스템인터페이스목록", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/시스템인터페이스목록_AA0ED37A.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "eafa71b3", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "자료사전", title: "자료사전", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/자료사전_45372757.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "94256cf9", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "정비된데이터", title: "정비된데이터", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/정비된데이터_6320A592.html", 
+	predecessors: "", info: "Modifies", type: "Artifact", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3de46832", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "네비게이션정의서 작성", title: "네비게이션정의서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/네비게이션정의서 작성_7C1AE9ED.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3c5a8e1a", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "논리 ERD 작성", title: "논리 ERD 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/논리 ERD 작성_7978209.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e5629957", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "메뉴구조도 작성", title: "메뉴구조도 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/메뉴구조도 작성_86B8C9FD.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3d28e4e5", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "배치목록 작성", title: "배치목록 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/배치목록 작성_E971A7F0.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e88cb063", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 보고서목록 작성", title: "분석 보고서목록 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 보고서목록 작성_4775D7E6.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "443a7440", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 보고서정의서 작성", title: "분석 보고서정의서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 보고서정의서 작성_5213B7F6.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "40bbc0b8", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 시스템인터페이스정의서 작성", title: "분석 시스템인터페이스정의서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 시스템인터페이스정의서 작성_DADF114B.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3b675fa5", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 시퀀스다이어그램 작성", title: "분석 시퀀스다이어그램 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 시퀀스다이어그램 작성_65B090AC.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "918967c2", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 클래스다이어그램 작성", title: "분석 클래스다이어그램 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 클래스다이어그램 작성_704E70BC.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3b006cf4", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 화면목록 작성", title: "분석 화면목록 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 화면목록 작성_40ACCC0C.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3ab40aae", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 화면정의서 작성", title: "분석 화면정의서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 화면정의서 작성_4B4AAC1C.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "8e2e0fc7", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석패키지다이어그램 작성", title: "분석패키지다이어그램 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석패키지다이어그램 작성_3B9762B5.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "ecc5e690", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "시스템인터페이스목록 작성", title: "시스템인터페이스목록 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/시스템인터페이스목록 작성_E57CF15B.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "38f85527", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "자료사전 작성", title: "자료사전 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/자료사전 작성_6DBE85A2.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e0c8d19c", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "정비된데이터 생성", title: "정비된데이터 생성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/정비된데이터 생성_79DC395E.html", 
+	predecessors: "", info: "Performs as Owner", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "8fe9bd5c", parentId: "3d64b712", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "화면표준정의서 작성", title: "화면표준정의서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/화면표준정의서 작성_109F3E72.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "8d622d4d", parentId: "", relPath: ",_5_304ggREd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "비즈니스아키텍트", title: "비즈니스아키텍트", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/비즈니스아키텍트_34CE56DB.html", 
+	predecessors: "", info: "", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "394cf143", parentId: "8d622d4d", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 시스템인터페이스정의서 작성", title: "분석 시스템인터페이스정의서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 시스템인터페이스정의서 작성_DADF114B.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "43f757ab", parentId: "8d622d4d", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석패키지다이어그램 작성", title: "분석패키지다이어그램 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석패키지다이어그램 작성_3B9762B5.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "36242e37", parentId: "8d622d4d", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "시스템인터페이스목록 작성", title: "시스템인터페이스목록 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/시스템인터페이스목록 작성_E57CF15B.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "4449904f", parentId: "", relPath: ",_5_304wgREd6PpbmBy1d4Hw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "소프트웨어아키텍트", title: "소프트웨어아키텍트", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/소프트웨어아키텍트_3F6C36EB.html", 
+	predecessors: "", info: "", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "e2a2eeba", parentId: "4449904f", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "배치목록 작성", title: "배치목록 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/배치목록 작성_E971A7F0.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "351f86b9", parentId: "4449904f", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 시스템인터페이스정의서 작성", title: "분석 시스템인터페이스정의서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 시스템인터페이스정의서 작성_DADF114B.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "39d66882", parentId: "4449904f", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 시퀀스다이어그램 작성", title: "분석 시퀀스다이어그램 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 시퀀스다이어그램 작성_65B090AC.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "43258795", parentId: "4449904f", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석 클래스다이어그램 작성", title: "분석 클래스다이어그램 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 클래스다이어그램 작성_704E70BC.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "3adc86d7", parentId: "4449904f", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석패키지다이어그램 작성", title: "분석패키지다이어그램 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석패키지다이어그램 작성_3B9762B5.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "353c56c2", parentId: "4449904f", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "시스템인터페이스목록 작성", title: "시스템인터페이스목록 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/시스템인터페이스목록 작성_E57CF15B.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "4195cbf8", parentId: "", relPath: ",_m3Ej9vmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "", prefix: "", name: "프로젝트TA", title: "프로젝트TA", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/프로젝트TA_490BFB8D.html", 
+	predecessors: "", info: "", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+
+{id: "8aa20e6d", parentId: "4195cbf8", relPath: "", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "컨버전계획서 작성", title: "컨버전계획서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/컨버전계획서 작성_18FE6DF3.html", 
+	predecessors: "", info: "Performs as Additional", type: "Task", 
+	repeatable: "", multiOccurences: "", optional: "", planned: "",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: ""},
+	
+
+		
+]};
+				</script>
+</div>
+<table class="copyright" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="copyright"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+<script language="JavaScript" type="text/javascript">
+				contentPage.onload();
+			</script>
+</html>

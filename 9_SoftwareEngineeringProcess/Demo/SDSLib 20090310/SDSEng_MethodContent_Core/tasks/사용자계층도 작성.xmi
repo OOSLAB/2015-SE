@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-EPwDndU6uCEkYfGd9SyZwg"
+    name="사용자계층도 작성,_SVK_4Pa7Ed2DW9Xz6RbeHQ" guid="-EPwDndU6uCEkYfGd9SyZwg">
+  <sections xmi:id="_JVrrcPkjEd2wTMSGTWecjA" name="사용자 계층과 특성 파악" guid="_JVrrcPkjEd2wTMSGTWecjA"/>
+</org.eclipse.epf.uma:TaskDescription>

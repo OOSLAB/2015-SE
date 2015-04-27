@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-xE_E9epWdVPfRePN320EXw"
+    name="프로젝트교육계획서,_PvPYcMsWEd2VS4iuY7h1kQ" guid="-xE_E9epWdVPfRePN320EXw" changeDate="2009-03-02T18:42:57.546+0900">
+  <mainDescription>&lt;P class=S1 style=&quot;MARGIN: 0cm 0cm 0pt 21.25pt&quot;>&lt;FONT color=#0000cc>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>작성항목&lt;/SPAN>&lt;/FONT>&lt;/P>&#xD;
+&lt;P class=S1 style=&quot;MARGIN: 0cm 0cm 0pt 21.25pt&quot;>&lt;FONT color=#0000cc>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>&lt;STRONG>&lt;SPAN lang=EN-US>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/STRONG>&lt;/SPAN>&lt;/FONT>&amp;nbsp;&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림; mso-font-kerning: 0pt&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>1.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림; mso-font-kerning: 0pt&quot;>프로젝트 교육 요건&lt;SPAN lang=EN-US>: &lt;/SPAN>프로젝트에서 필요한 역할별 프로세스&lt;SPAN lang=EN-US>, &lt;/SPAN>업종&lt;SPAN lang=EN-US>, &lt;/SPAN>기술 교육요건을 파악하여 교육요건표로 정리한다&lt;SPAN lang=EN-US>. &lt;/SPAN>교육이 필요한 단계와 면제요건도 기술한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt 21.25pt; WORD-BREAK: keep-all; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-US style=&quot;COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-bidi-font-size: 10.0pt&quot;>&lt;o:p>&amp;nbsp;&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>2.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>교육요건별 교육 대상자&lt;SPAN lang=EN-US>: &lt;/SPAN>프로젝트에서 정한 교육요건표를 토대로 참여인력의 역량을 파악하여 교육 대상자를 선별한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; WORD-BREAK: keep-all; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-font-kerning: 0pt&quot;>&lt;o:p>&amp;nbsp;&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림; mso-font-kerning: 0pt&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>3.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림; mso-font-kerning: 0pt&quot;>교육과정 계획&lt;SPAN lang=EN-US>: &lt;/SPAN>각 과정별 교육대상과 시기를 고려해서 교육과정을 &lt;/SPAN>&lt;SPAN style=&quot;COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-family: Arial; mso-font-kerning: 0pt&quot;>현장교육&lt;SPAN lang=EN-US>, &lt;/SPAN>사내교육&lt;SPAN lang=EN-US>, &lt;/SPAN>사외교육 중 하나로 방법으로 정한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; WORD-BREAK: keep-all; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-US style=&quot;COLOR: black; FONT-FAMILY: 굴림; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-bidi-font-size: 10.0pt&quot;>&lt;o:p>&amp;nbsp;&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림; mso-font-kerning: 0pt&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>4.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림; mso-font-kerning: 0pt&quot;>현장자체 교육과정 계획&lt;SPAN lang=EN-US>: &lt;/SPAN>현장교육과정에 대한 상세 계획을 수립한다&lt;SPAN lang=EN-US>. &lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; WORD-BREAK: keep-all; TEXT-ALIGN: left; mso-layout-grid-align: none&quot; align=left>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-font-kerning: 0pt&quot;>&lt;o:p>&amp;nbsp;&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림; mso-font-kerning: 0pt&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>5.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림; mso-font-kerning: 0pt&quot;>교육결과 평가 및 보고 방법&lt;SPAN lang=EN-US>: &lt;/SPAN>교육결과를 평가하고 보고하는 절차를 정리한다&lt;SPAN lang=EN-US>. &lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    작성시 고려사항&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        고객의 프로젝트 참여인력에 대한 교육계획을 요구할 경우, 프로젝트 교육계획에 고객의 참여인력도 정의할 수 있다.&lt;br />&#xD;
+        프로젝트 수행을 위해 필수적으로 필요한 과정으로 최소한 과정을 계획한다. 개인 역량향상이나, 전사적인 교육요건을 포함시켜 정리할 필요는 없다.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+  <impactOfNotHaving>&lt;p>&#xD;
+    미작성시 영향&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        프로젝트 참여 인력들이 각자 담당한 역할별로 필요한 역량에 비해 부족한 역량을 보충하기 위하여, 프로젝트 팀원에 대한 교육계획을 수립한다. 프로젝트를 진행하는 중간에 부족한 역량이 발견되어, 새로이&#xD;
+        교육계획을 수립한다면, 잘못된 산출물을 보완하고, 재교육을 준비하고 실행하기 위해서 실패비용이 발생할 수 있다. 교육계획 미작성시 단계별로 필요한 교육을 체계적으로 수행하지 못할 가능성이&#xD;
+        높아진다.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></impactOfNotHaving>
+  <reasonsForNotNeeding>&lt;p>&#xD;
+    작성이 불필요한 경우&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        프로젝트 팀원들이 역할별로 프로젝트에서 필요로 하는 역량을 갖춘 경우나, 이미 유사한 교육을 수강한 경우에는 별도의 교육계획을 작성할 필요는 없다.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></reasonsForNotNeeding>
+  <representationOptions>&lt;p>&#xD;
+    제출시 고려사항&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        본 산출물은 프로젝트 참여인력을 위한 교육 계획이다. 고객의 특별한 요청이 없다면, 제출할 필요가 없다.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

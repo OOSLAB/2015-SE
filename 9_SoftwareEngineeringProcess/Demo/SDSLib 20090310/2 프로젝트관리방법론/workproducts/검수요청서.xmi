@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-rXGpUgC0_4sldDMwHJVsCw"
+    name="검수요청서,_1jPV4MsmEd2VS4iuY7h1kQ" guid="-rXGpUgC0_4sldDMwHJVsCw" changeDate="2009-02-26T14:05:14.859+0900">
+  <mainDescription>&lt;P class=S1 style=&quot;MARGIN: 0cm 0cm 0pt 21.25pt&quot;>&lt;SPAN style=&quot;COLOR: windowtext; FONT-FAMILY: 굴림&quot;>작성항목&lt;SPAN lang=EN-US>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>1. &lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>개요&lt;SPAN lang=EN-US>: &lt;/SPAN>검수요청서의 용도를 기재한다&lt;SPAN lang=EN-US>..&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>2. &lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>산출물 부문&lt;SPAN lang=EN-US>: &lt;/SPAN>제출 산출물과 각 산출물에 대한 확인 결과를 기재한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>3. &lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>응용시스템 부문&lt;SPAN lang=EN-US>: &lt;/SPAN>응용 시스템의 완료 여부에 대한 확인 결과를 기재한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>4. &lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>장비 부문&lt;SPAN lang=EN-US>: &lt;/SPAN>장비&lt;SPAN lang=EN-US>(H/W, S/W) &lt;/SPAN>납품 및 설치 완료 여부에 대한 결과를 기재한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>5. &lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>교육 부문&lt;SPAN lang=EN-US>: &lt;/SPAN>교육부문 계약사항 이행 완료 여부에 대한 결과를 기재한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>6. &lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>기타계약이행부문&lt;SPAN lang=EN-US>: &lt;/SPAN>기타 계약 사항의 이행 완료 여부에 대한 결과를 기재한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=S3 style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>7. &lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>별첨&lt;SPAN lang=EN-US>: &lt;/SPAN>검수요청서와 함께 제출될 검수대상 별 완료확인 결과물을 기재한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    작성시 고려사항&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        검수기준서를 기준으로 과업의 완료여부를 기재하도록 한다.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+  <impactOfNotHaving>&lt;p>&#xD;
+    미작성시 영향&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        고객과 합의한 검수 기준에 따라 제시된 과업 내용이 이행 되었는지에 대한 점검 결과이므로 검수 요청시 함께 제출되지 않는다면 과업 누락이나 검수 내역에 대한 근거 미비로 고객의 최종 검수 시 문제가 될 수&#xD;
+        있다,&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

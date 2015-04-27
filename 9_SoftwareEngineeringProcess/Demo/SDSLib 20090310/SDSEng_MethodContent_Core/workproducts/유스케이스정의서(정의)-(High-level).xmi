@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-lYrKbwmuRSD40lkXJW_l9A"
+    name="new_artifact,_jKBhoJOpEd2QOZMWcM0ZMQ" guid="-lYrKbwmuRSD40lkXJW_l9A" changeDate="2008-10-06T22:22:07.656+0900">
+  <mainDescription>&lt;p>&#xD;
+    &amp;lt;&amp;lt;처리흐름&amp;gt;&amp;gt; 기본흐름, 대안흐름&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;lt;&amp;lt;관계&amp;gt;&amp;gt; 부액터, 선행조건, 주액터, 후행조건, Include/Extend&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;lt;&amp;lt;비지니스 규칙&amp;gt;&amp;gt; 업무 수행방법, 업무처리 규칙, 제약사항&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;lt;&amp;lt;개요&amp;gt;&amp;gt; 유스케이스 개요, 유스케이스 ID, 유스케이스명&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;lt;&amp;lt;기타&amp;gt;&amp;gt; 주석, 특별 요구사항&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

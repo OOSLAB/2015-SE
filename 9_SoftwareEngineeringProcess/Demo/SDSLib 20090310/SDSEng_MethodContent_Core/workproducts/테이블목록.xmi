@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-x8vdIXpZuACGJQdFSJpeXQ"
+    name="new_artifact,_E1-5YJO_Ed2QOZMWcM0ZMQ" guid="-x8vdIXpZuACGJQdFSJpeXQ" changeDate="2008-10-07T00:55:07.656+0900">
+  <mainDescription>길이, 시스템명, 주제영역명, 증가건수, 초기건수, 최대건수, 테이블명, 테이블ID</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

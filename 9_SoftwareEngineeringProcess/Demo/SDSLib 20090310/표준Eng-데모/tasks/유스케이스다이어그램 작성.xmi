@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-CL4NUd99HhrAO_aTPbU46w"
+    name=",_6lpnAJVIEd2ptuaOn8CiHA" guid="-CL4NUd99HhrAO_aTPbU46w">
+  <sections xmi:id="_-hyFYJVIEd2ptuaOn8CiHA" name="기능적 요구사항 대상 유스케이스 유형 정의" guid="_-hyFYJVIEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_AdT98JVJEd2ptuaOn8CiHA" name="사용자 관점의 액터 식별" guid="_AdT98JVJEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_Cae1QJVJEd2ptuaOn8CiHA" name="액터 기반 유스케이스 식별" guid="_Cae1QJVJEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_EL4hcJVJEd2ptuaOn8CiHA" name="액터간, 유스케이스간 및 액터와 유스케이스간 관계 정의"
+      guid="_EL4hcJVJEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_HfoKIJVJEd2ptuaOn8CiHA" name="유스케이스 유형분류" guid="_HfoKIJVJEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_JTQq8JVJEd2ptuaOn8CiHA" name="유스케이스의 복잡도 및 성격에 따른 유형분류" guid="_JTQq8JVJEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_Lc8UQJVJEd2ptuaOn8CiHA" name="추가 및 삭제 유스케이스의 다이어그램 반영" guid="_Lc8UQJVJEd2ptuaOn8CiHA"/>
+</org.eclipse.epf.uma:TaskDescription>
