@@ -10,6 +10,9 @@ import java.sql.Statement;
 import kr.ac.mju.dto.LoginInfo;
 import kr.ac.mju.dto.User;
 
+import org.springframework.stereotype.Repository;
+
+@Repository
 public class PlainDAO {
 	 
 	static{
@@ -20,7 +23,7 @@ public class PlainDAO {
 		}
 	}
 	
-	private final static String url = "jdbc:mysql://localhost:3306/lms";
+	private final static String url = "jdbc:mysql://117.17.158.205:3306/LMS";
 	private final static String id = "lge920904";
 	private final static String pw = "82150009";
 	
@@ -50,6 +53,7 @@ public class PlainDAO {
 			while(resultSet.next()){
 				String id = resultSet.getString("id");
 				String password = resultSet.getString("password");
+				System.out.println(id+password);
 				if(id.equals(info.getID()) && password.equals(info.getPassword())){
 					user = new User();
 					user.setID(id);

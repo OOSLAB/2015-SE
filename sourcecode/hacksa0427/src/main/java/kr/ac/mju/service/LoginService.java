@@ -1,9 +1,5 @@
 package kr.ac.mju.service;
 
-import java.io.IOException;
-
-import javax.servlet.http.HttpServletRequest;
-
 import kr.ac.mju.dao.PlainDAO;
 import kr.ac.mju.dto.LoginInfo;
 import kr.ac.mju.dto.User;
@@ -21,7 +17,7 @@ public class LoginService {
 			.getLogger(LoginService.class);
 	public User login(LoginInfo info) {
 		// TODO Auto-generated method stub
-	return null;
+	return dao.login(info);
 	}
 	
 	

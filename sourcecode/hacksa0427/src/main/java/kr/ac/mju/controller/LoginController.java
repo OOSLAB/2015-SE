@@ -28,6 +28,7 @@ public class LoginController {
 		LoginInfo info = new LoginInfo();
 		info.setID(request.getParameter("userID"));
 		info.setPassword(request.getParameter("userPassword"));
+		
 		User user = service.login(info);
 		if (user != null) {
 			request.getSession().setAttribute("userLoginSession", user);
