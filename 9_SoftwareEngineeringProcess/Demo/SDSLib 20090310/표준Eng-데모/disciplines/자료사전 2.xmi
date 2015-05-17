@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-AciBbPUOkwP5R0NweUtqfQ"
+    name="new_discipline,_08JaEJYHEd2f_MiqbDX5Hg" guid="-AciBbPUOkwP5R0NweUtqfQ" changeDate="2008-10-09T22:40:32.265+0900">
+  <mainDescription>길이, 도메인, 설명, 타입, 표준영문명, 표준용어명</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

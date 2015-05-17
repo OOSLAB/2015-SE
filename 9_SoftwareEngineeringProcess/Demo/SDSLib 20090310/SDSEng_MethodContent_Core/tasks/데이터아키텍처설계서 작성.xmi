@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-EniD7rK-AI_fHZKSm2vIRA"
+    name="데이터아키텍처설계서 작성,_wYXskJxMEd2b9o00yINnSg" guid="-EniD7rK-AI_fHZKSm2vIRA" changeDate="2009-02-26T01:32:09.546+0900">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;굴림&quot;>수행 가이드(Task Guideline)&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>데이터 아키텍처 뷰의 Layer와 구성요소는 프로젝트 구축 범위 및 특성을 고려하여 정의하도록 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>설계 매커니즘은 시스템적으로 동일한 문제에 대한 해결방안을 제시하는 것으로, 프로젝트 특성에 따라 전체적으로 데이터 설계 이슈에 대한 항목들을 식별하여 해당 이슈에 대한 방안들을&#xD;
+        기술하도록 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>설계 매커니즘을 정의할 때 타 아키텍처 영역과 관련성이 높은 부분들에 대해 SA,TA들과 협업하여 매커니즘을 정의하도록 한다. 예) 데이터 보안 등&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <sections xmi:id="_yga-MJxMEd2b9o00yINnSg" name="데이터 아키텍처에 대한 데이터 아키텍처 뷰를 정의한다."
+      guid="_yga-MJxMEd2b9o00yINnSg">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        데이터 아키텍처 Layer 및 세부 구성요소를 정의하여 데이터구성도를 작성하고, Layer별 역할을 정의한다.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        데이터 아키텍처 Layer 간 세부 데이터 흐름요소를 식별하고, 각 흐름에 대한 설계방안을 정의한다.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        데이터 통합 및 분산 구성요소를 식별하고, 각 구성에 대한 설계방안을 정의한다.(선택)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        데이터 아키텍처에 대한 관리측면의 세부 구성요소를 식별하고, 각 관리요소에 대한 설계방안을 정의한다.(선택)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_0hxK4JxMEd2b9o00yINnSg" name="데이터 아키텍처를 위한 설계 매커니즘을 정의한다." guid="_0hxK4JxMEd2b9o00yINnSg">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        데이터 아키텍처를 구현하기 위한 설계 관점에서 상세화할 설계 매커니즘을 식별한다.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        식별된 설계 매커니즘 별 설계방안을 정의한다. 데이터 아키텍처 설계 매커니즘은 다음과 같은 항목 등이 포함될 수 있다.&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                데이터베이스 설계 방안&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                데이터 표준화 방안&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                데이터 보안 방안&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        기술인프라 및 어플리케이션 측면을 고려하여 데이터 구성요소의 배치와 설계 매커니즘의 정의를 지원한다.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        데이터 아키텍처 요소 별 설계방안을 통합하여 정합성을 검토한다.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        타 아키텍처와의 상호 정합성을 검토한다.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>데이터&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>아키텍처의&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>구조를&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>정의하고&lt;/span>&lt;span&#xD;
+ lang=&quot;EN-US&quot;&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA; mso-fareast-font-family: 굴림&quot;>,&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>데이터&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>아키텍처를&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>구현하기&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>위해&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>필요한&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>구성요소&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>및&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>설계&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>매커니즘들에&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>대해&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>상세화하여&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>설계한다&lt;/span>&lt;span&#xD;
+ lang=&quot;EN-US&quot;&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA; mso-fareast-font-family: 굴림&quot;>.&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

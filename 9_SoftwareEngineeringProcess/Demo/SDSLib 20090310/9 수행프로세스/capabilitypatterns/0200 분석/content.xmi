@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-03hqasyqr_pp4WV5lTj9BQ" name="0200 분석,_y3EyAdQjEd2omLHmP-Ku2g"
+      guid="-03hqasyqr_pp4WV5lTj9BQ"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-4Wm1Us8uOXKoBDUTMHQflg" name="단계착수,_gkM1gcs5Ed2VS4iuY7h1kQ"
+      guid="-4Wm1Us8uOXKoBDUTMHQflg"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-yeCjCCpQUEneYCFVL11Izg" name="단계종료,_ijJ1gcs5Ed2VS4iuY7h1kQ"
+      guid="-yeCjCCpQUEneYCFVL11Izg"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-8hlYrAabwyUAFzt126UoJw" name="액티비티관리,_RLBcYfGWEd2JDeNeZI1pKA"
+      guid="-8hlYrAabwyUAFzt126UoJw"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-NoSmeqMz6r0Wa_F6nVEYdA" name="산출물관리,_O6eWEfGWEd2JDeNeZI1pKA"
+      guid="-NoSmeqMz6r0Wa_F6nVEYdA"/>
+</xmi:XMI>

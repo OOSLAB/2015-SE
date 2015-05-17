@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-UqjSMNk6S-uXv_W69JB48w"
+    name="new_discipline,_mUtksJYJEd2f_MiqbDX5Hg" guid="-UqjSMNk6S-uXv_W69JB48w" changeDate="2008-10-09T22:53:15.828+0900">
+  <mainDescription>레벨, 설명, 시스템명, 작성일, 작성자, 패키지명</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

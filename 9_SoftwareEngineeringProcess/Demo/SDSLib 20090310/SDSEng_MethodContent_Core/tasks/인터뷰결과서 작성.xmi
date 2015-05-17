@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-RdTDk7gOu8aoxEbVyDT4YA"
+    name=",_ypK-oJxZEd2IZdao1IJ_iw" guid="-RdTDk7gOu8aoxEbVyDT4YA" changeDate="2009-02-24T21:42:49.875+0900">
+  <mainDescription>&lt;SPAN style=&quot;FONT-FAMILY: 굴림체; mso-bidi-font-family: 굴림; mso-bidi-font-size: 10.0pt; mso-font-kerning: 0pt&quot;>&lt;SPAN lang=EN-US>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt&quot;>&lt;SPAN style=&quot;FONT-FAMILY: 굴림체; mso-bidi-font-family: 굴림; mso-bidi-font-size: 10.0pt; mso-font-kerning: 0pt&quot;>&lt;SPAN lang=EN-US>&lt;FONT face=굴림>수행 가이드(Task Guideline)&lt;/FONT>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt&quot;>&lt;SPAN style=&quot;FONT-FAMILY: 굴림체; mso-bidi-font-family: 굴림; mso-bidi-font-size: 10.0pt; mso-font-kerning: 0pt&quot;>&lt;SPAN lang=EN-US>&lt;FONT face=굴림>&lt;/FONT>&lt;/SPAN>&lt;/SPAN>&amp;nbsp;&lt;/P>&#xD;
+&lt;OL>&#xD;
+&lt;LI>&lt;FONT face=굴림>현행업무흐름도에서 담당업무별로 정의된 내용 중 보다 상세한 정보가 필요한 경우 해당 업무 담당자와의 인터뷰를 통해 이를 확인한다. &lt;/FONT>&#xD;
+&lt;LI>&lt;FONT face=굴림>여러 사용자 부서의 의견을 취합하여 조정하는 것이 중요한 경우에는 개별적인 인터뷰와 병행하여 관련 사용자 그룹과 워크샵을 실시한다. &lt;/FONT>&#xD;
+&lt;LI>&lt;FONT face=굴림>인터뷰 시 질문사항은 간결하고 명확하게 한다. &lt;/FONT>&#xD;
+&lt;LI>&lt;FONT face=굴림>인터뷰를 실시할 고객명(고객 담당자)과 질문내용을 사전에 준비한 후 고객과 인터뷰를 실시한다. &lt;/FONT>&#xD;
+&lt;LI>&lt;FONT face=굴림>사전에 준비한 인터뷰 내용 외에 추가적인 질문내용이 있으면 해당 질문내용과 고객담당자의 응답을 인터뷰 결과에 같이 기록한다.&lt;/FONT>&lt;/LI>&lt;/OL>&lt;/o:p>&lt;/SPAN>&lt;/SPAN></mainDescription>
+  <sections xmi:id="_0y3PAJxZEd2IZdao1IJ_iw" name="현행분석 결과를 검토하여 분석자가 이해할 수 없거나, 보다 명확하고 상세한 정보가 요구되는 사항을 도출한다."
+      guid="_0y3PAJxZEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_3aMdoJxZEd2IZdao1IJ_iw" name="인터뷰 계획을 수립한다." guid="_3aMdoJxZEd2IZdao1IJ_iw">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        인터뷰 대상자 선정&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        인터뷰 수행팀 구성&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        인터뷰 일정 수립&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        인터뷰 내용 정리(인터뷰 대상자별로)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_4sTlwJxZEd2IZdao1IJ_iw" name="인터뷰를 실시한다." guid="_4sTlwJxZEd2IZdao1IJ_iw">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        현행분석 결과 확인&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        현행분석 시 누락된 추가적인 요구사항 도출&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_2I_UcJxZEd2IZdao1IJ_iw" name="인터뷰 결과를 정리한다." guid="_2I_UcJxZEd2IZdao1IJ_iw"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림체; mso-bidi-font-family: 굴림; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+ face=&quot;굴림&quot;>사용자와의 인터뷰를 통해 현행분석 결과를 확인하고 추가적인 문제점 및 개선요구사항을 도출한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/font>&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

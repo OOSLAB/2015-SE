@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-TbbrEsBuMjW4Q4mNE6a2GA"
+    name="설계,_F9VMYQfFEd6PyOiijdVpWA" guid="-TbbrEsBuMjW4Q4mNE6a2GA">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/concepts/%C124%ACC4%B2E8%ACC4%20%AC1C%C694_528336C5.html&quot;&#xD;
+        guid=&quot;_PGLngAS1Ed6u1pdhw4SOFA&quot;>설계단계 개요&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ProcessDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-_33KoypvdY5wfijD1wfsdw"
+    name="new_role,_NPeQgJh4Ed2ok9DYfbNoeg" guid="-_33KoypvdY5wfijD1wfsdw" changeDate="2008-10-13T01:19:22.734+0900">
+  <mainDescription>구축할 시스템을 위해 최적의 소프트웨어 개발 전략을 수립하고, 시스템의 주요한 구성 요소와 각 요소간의 매커니즘을 파악하고 설계하여 구축할 시스템의 청사진을 제시함으로써, 프로젝트 이해 당사자들이 공통된 비전으로 시스템을&#xD;
+구축할 수 있도록 이끄는 사람</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

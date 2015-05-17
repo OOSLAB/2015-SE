@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-ff7jNpcyaU0TWJOuXoH-hw"
+    name="new_artifact,_Dyvq0JOrEd2QOZMWcM0ZMQ" guid="-ff7jNpcyaU0TWJOuXoH-hw" changeDate="2008-10-06T22:31:45.078+0900">
+  <mainDescription>메뉴명, 시작화면명, 이동화면명, 이벤트명</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

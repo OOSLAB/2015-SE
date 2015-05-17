@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_CeraIcs-Ed2r2Jyk2t76Nw"
+      guid="_CeraIcs-Ed2r2Jyk2t76Nw">
+    <resourceDescriptors xmi:id="_CeraIss-Ed2r2Jyk2t76Nw" id="-IvbXCExVT5k4DqYe5i4X_A"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_FK5lQMs9Ed2VS4iuY7h1kQ" id="-t7PGuujo1RADDc-YtXlLNQ"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_FK5lQcs9Ed2VS4iuY7h1kQ" id="-VXzg7i-Mascdcu6-qyLCsw"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_CaDY1Ms-Ed2r2Jyk2t76Nw" name="0300 아키텍처정의"
+      guid="_CaDY1Ms-Ed2r2Jyk2t76Nw">
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_SPHE4M0eEd2A0Kjz7fgG4Q"
+        name="아키텍처분석" guid="_SPHE4M0eEd2A0Kjz7fgG4Q">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="__rbJ0M12Ed2eSYU0T35fEA"
+          name="비기능요구모델 작성" guid="__rbJ0M12Ed2eSYU0T35fEA">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="__rbJ0c12Ed2eSYU0T35fEA"
+            name="비기능요구모델 작성" guid="__rbJ0c12Ed2eSYU0T35fEA" presentationName="비기능요구모델 작성"
+            superActivities="_SPHE4c0eEd2A0Kjz7fgG4Q"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_QarVYM13Ed2eSYU0T35fEA"
+          name="설계 아키텍처 모델 작성" guid="_QarVYM13Ed2eSYU0T35fEA">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_QarVYc13Ed2eSYU0T35fEA"
+            name="설계 아키텍처 모델 작성" guid="_QarVYc13Ed2eSYU0T35fEA" presentationName="설계 아키텍처 모델 작성"
+            superActivities="_SPHE4c0eEd2A0Kjz7fgG4Q" linkToPredecessor="_NpMVQc50Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_NpMVQc50Ed2YkrTpti830g"
+            guid="_NpMVQc50Ed2YkrTpti830g" pred="__rbJ0c12Ed2eSYU0T35fEA"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_SPHE4c0eEd2A0Kjz7fgG4Q"
+          name="아키텍처분석" guid="_SPHE4c0eEd2A0Kjz7fgG4Q" presentationName="아키텍처분석" presentedAfter="_YUycscs8Ed2VS4iuY7h1kQ"
+          presentedBefore="_X0wRwcs8Ed2VS4iuY7h1kQ" superActivities="_CaDY1cs-Ed2r2Jyk2t76Nw"
+          breakdownElements="__rbJ0c12Ed2eSYU0T35fEA _QarVYc13Ed2eSYU0T35fEA"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_TLAscM0eEd2A0Kjz7fgG4Q"
+        name="아키텍처설계" guid="_TLAscM0eEd2A0Kjz7fgG4Q">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_M7VrQM14Ed2eSYU0T35fEA"
+          name="설계 아키텍처 모델 작성" guid="_M7VrQM14Ed2eSYU0T35fEA">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_M7VrQc14Ed2eSYU0T35fEA"
+            name="설계 아키텍처 모델 작성" guid="_M7VrQc14Ed2eSYU0T35fEA" presentationName="설계 아키텍처모델 작성"
+            superActivities="_TLAscc0eEd2A0Kjz7fgG4Q"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_SOmaIc50Ed2YkrTpti830g"
+            guid="_SOmaIc50Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Spat4c50Ed2YkrTpti830g"
+            guid="_Spat4c50Ed2YkrTpti830g"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_TLAscc0eEd2A0Kjz7fgG4Q"
+          name="아키텍처설계" guid="_TLAscc0eEd2A0Kjz7fgG4Q" presentationName="아키텍처설계" superActivities="_CaDY1cs-Ed2r2Jyk2t76Nw"
+          linkToPredecessor="_Lzxrwc50Ed2YkrTpti830g" breakdownElements="_M7VrQc14Ed2eSYU0T35fEA"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Lzxrwc50Ed2YkrTpti830g"
+          guid="_Lzxrwc50Ed2YkrTpti830g" pred="_SPHE4c0eEd2A0Kjz7fgG4Q"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_UE-aUM0eEd2A0Kjz7fgG4Q"
+        name="아키텍처개발" guid="_UE-aUM0eEd2A0Kjz7fgG4Q">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Wg0XwM14Ed2eSYU0T35fEA"
+          name="개발아키텍처모델 작성" guid="_Wg0XwM14Ed2eSYU0T35fEA">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_Wg0Xwc14Ed2eSYU0T35fEA"
+            name="개발아키텍처모델 작성" guid="_Wg0Xwc14Ed2eSYU0T35fEA" presentationName="개발 아키텍처모델 작성"
+            superActivities="_UE-aUc0eEd2A0Kjz7fgG4Q"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_VRNPgc50Ed2YkrTpti830g"
+            guid="_VRNPgc50Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_W2PToM50Ed2YkrTpti830g"
+            guid="_W2PToM50Ed2YkrTpti830g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Jw6I0eG_Ed27s-Zwgwa2Xw"
+            guid="_Jw6I0eG_Ed27s-Zwgwa2Xw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_KPAaEeG_Ed27s-Zwgwa2Xw"
+            guid="_KPAaEeG_Ed27s-Zwgwa2Xw"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_UE-aUc0eEd2A0Kjz7fgG4Q"
+          name="아키텍처개발" guid="_UE-aUc0eEd2A0Kjz7fgG4Q" presentationName="아키텍처개발" superActivities="_CaDY1cs-Ed2r2Jyk2t76Nw"
+          linkToPredecessor="_MOvwgc50Ed2YkrTpti830g" breakdownElements="_Wg0Xwc14Ed2eSYU0T35fEA"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_MOvwgc50Ed2YkrTpti830g"
+          guid="_MOvwgc50Ed2YkrTpti830g" pred="_TLAscc0eEd2A0Kjz7fgG4Q"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_X0wRwMs8Ed2VS4iuY7h1kQ"
+        name="단계착수" guid="_X0wRwMs8Ed2VS4iuY7h1kQ">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_X0wRwcs8Ed2VS4iuY7h1kQ"
+          name="단계착수" guid="_X0wRwcs8Ed2VS4iuY7h1kQ" presentationName="단계착수" presentedAfter="_YUycscs8Ed2VS4iuY7h1kQ"
+          presentedBefore="_YUycscs8Ed2VS4iuY7h1kQ" superActivities="_CaDY1cs-Ed2r2Jyk2t76Nw">
+        <presentation xmi:id="-t7PGuujo1RADDc-YtXlLNQ" href="uma://-IvbXCExVT5k4DqYe5i4X_A#-t7PGuujo1RADDc-YtXlLNQ"/>
+        <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+        <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_YUycsMs8Ed2VS4iuY7h1kQ"
+        name="단계종료" guid="_YUycsMs8Ed2VS4iuY7h1kQ">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_YUycscs8Ed2VS4iuY7h1kQ"
+          name="단계종료" guid="_YUycscs8Ed2VS4iuY7h1kQ" presentationName="단계종료" superActivities="_CaDY1cs-Ed2r2Jyk2t76Nw">
+        <presentation xmi:id="-VXzg7i-Mascdcu6-qyLCsw" href="uma://-IvbXCExVT5k4DqYe5i4X_A#-VXzg7i-Mascdcu6-qyLCsw"/>
+        <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+        <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      </processElements>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_CaDY1cs-Ed2r2Jyk2t76Nw"
+        name="0300 아키텍처정의" guid="_CaDY1cs-Ed2r2Jyk2t76Nw" presentationName="0300 아키텍처정의"
+        breakdownElements="_X0wRwcs8Ed2VS4iuY7h1kQ _SPHE4c0eEd2A0Kjz7fgG4Q _TLAscc0eEd2A0Kjz7fgG4Q _UE-aUc0eEd2A0Kjz7fgG4Q _YUycscs8Ed2VS4iuY7h1kQ">
+      <presentation xmi:id="-IvbXCExVT5k4DqYe5i4X_A" href="uma://-IvbXCExVT5k4DqYe5i4X_A#-IvbXCExVT5k4DqYe5i4X_A"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-QZ7k29OH2OnVpSn75rOHgw"
+    name="new_role,_ULrNoJh4Ed2ok9DYfbNoeg" guid="-QZ7k29OH2OnVpSn75rOHgw" changeDate="2008-10-13T01:21:30.828+0900">
+  <mainDescription>프로젝트 전반에 걸친 테스트 관리를 실시하며, 전사 테스트 프로세스 절차 수립 및 개선, 프로덕트 품질 향상 등의 업무를 수행하는 사람</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

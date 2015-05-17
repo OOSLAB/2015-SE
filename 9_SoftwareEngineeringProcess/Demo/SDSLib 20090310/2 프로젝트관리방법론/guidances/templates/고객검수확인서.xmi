@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-COTm8uJqtMofrNDs_rN3pg"
+    name="new_template,_yApNMMpHEd2EjMdX2hnh6w" guid="-COTm8uJqtMofrNDs_rN3pg">
+  <attachments>resources/고객인수확인서(F).doc|resources/고객인수확인서S.doc</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

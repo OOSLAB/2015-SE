@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_T5fIwQfGEd6PyOiijdVpWA"
+      guid="_T5fIwQfGEd6PyOiijdVpWA">
+    <resourceDescriptors xmi:id="_T5fIwgfGEd6PyOiijdVpWA" id="-46DBoX5F3wvWdby6ogRCBw"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_TsE-4AfGEd6PyOiijdVpWA" name="OOCBD 방법론"
+      guid="_TsE-4AfGEd6PyOiijdVpWA">
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_MS1ewAjqEd6CD-m1e93cOw"
+        name="개발" guid="_MS1ewAjqEd6CD-m1e93cOw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_MS1ewQjqEd6CD-m1e93cOw"
+          name="개발" guid="_MS1ewQjqEd6CD-m1e93cOw" superActivities="_TsE-4QfGEd6PyOiijdVpWA"
+          variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+            href="uma://_IO6NcAfFEd6PyOiijdVpWA#_IO6NcQfFEd6PyOiijdVpWA"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_MS1ewgjqEd6CD-m1e93cOw"
+        name="분석" guid="_MS1ewgjqEd6CD-m1e93cOw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_MS1ewwjqEd6CD-m1e93cOw"
+          name="분석" guid="_MS1ewwjqEd6CD-m1e93cOw" superActivities="_TsE-4QfGEd6PyOiijdVpWA"
+          variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+            href="uma://_AWEB4AfFEd6PyOiijdVpWA#_AWEB4QfFEd6PyOiijdVpWA"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_MS1exAjqEd6CD-m1e93cOw"
+        name="설계" guid="_MS1exAjqEd6CD-m1e93cOw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_MS1exQjqEd6CD-m1e93cOw"
+          name="설계" guid="_MS1exQjqEd6CD-m1e93cOw" superActivities="_TsE-4QfGEd6PyOiijdVpWA"
+          variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+            href="uma://_F9VMYAfFEd6PyOiijdVpWA#_F9VMYQfFEd6PyOiijdVpWA"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_MS1exgjqEd6CD-m1e93cOw"
+        name="아키텍처 정의" guid="_MS1exgjqEd6CD-m1e93cOw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_MS1exwjqEd6CD-m1e93cOw"
+          name="아키텍처 정의" guid="_MS1exwjqEd6CD-m1e93cOw" superActivities="_TsE-4QfGEd6PyOiijdVpWA"
+          variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+            href="uma://_DkJHcAfFEd6PyOiijdVpWA#_DkJHcQfFEd6PyOiijdVpWA"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_MS1eyAjqEd6CD-m1e93cOw"
+        name="요구정의" guid="_MS1eyAjqEd6CD-m1e93cOw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_MS1eyQjqEd6CD-m1e93cOw"
+          name="요구정의" guid="_MS1eyQjqEd6CD-m1e93cOw" superActivities="_TsE-4QfGEd6PyOiijdVpWA"
+          variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+            href="uma://_9-qssAfEEd6PyOiijdVpWA#_9-qssQfEEd6PyOiijdVpWA"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_MS1eygjqEd6CD-m1e93cOw"
+        name="이행" guid="_MS1eygjqEd6CD-m1e93cOw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_MS1eywjqEd6CD-m1e93cOw"
+          name="이행" guid="_MS1eywjqEd6CD-m1e93cOw" superActivities="_TsE-4QfGEd6PyOiijdVpWA"
+          variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+            href="uma://_KXGpAAfFEd6PyOiijdVpWA#_KXGpAQfFEd6PyOiijdVpWA"/>
+      </processElements>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_TsE-4QfGEd6PyOiijdVpWA"
+        name="OOCBD 방법론" guid="_TsE-4QfGEd6PyOiijdVpWA" presentationName="OOCBD 방법론"
+        breakdownElements="_MS1eyQjqEd6CD-m1e93cOw _MS1ewwjqEd6CD-m1e93cOw _MS1exwjqEd6CD-m1e93cOw _MS1exQjqEd6CD-m1e93cOw _MS1ewQjqEd6CD-m1e93cOw _MS1eywjqEd6CD-m1e93cOw">
+      <presentation xmi:id="-46DBoX5F3wvWdby6ogRCBw" href="uma://-46DBoX5F3wvWdby6ogRCBw#-46DBoX5F3wvWdby6ogRCBw"/>
+      <includesPatterns href="uma://_IO6NcAfFEd6PyOiijdVpWA#_IO6NcQfFEd6PyOiijdVpWA"/>
+      <includesPatterns href="uma://_AWEB4AfFEd6PyOiijdVpWA#_AWEB4QfFEd6PyOiijdVpWA"/>
+      <includesPatterns href="uma://_F9VMYAfFEd6PyOiijdVpWA#_F9VMYQfFEd6PyOiijdVpWA"/>
+      <includesPatterns href="uma://_DkJHcAfFEd6PyOiijdVpWA#_DkJHcQfFEd6PyOiijdVpWA"/>
+      <includesPatterns href="uma://_9-qssAfEEd6PyOiijdVpWA#_9-qssQfEEd6PyOiijdVpWA"/>
+      <includesPatterns href="uma://_KXGpAAfFEd6PyOiijdVpWA#_KXGpAQfFEd6PyOiijdVpWA"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

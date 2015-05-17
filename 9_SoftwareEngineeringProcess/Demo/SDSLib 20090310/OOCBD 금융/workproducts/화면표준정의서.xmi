@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-thG-XiStmy-RwNrdgd4qRw"
+    name="new_artifact,_m-HFAJOuEd2QOZMWcM0ZMQ" guid="-thG-XiStmy-RwNrdgd4qRw" changeDate="2008-10-06T22:58:31.718+0900">
+  <mainDescription>날짜, 내용, 문서명, 버전, 이벤트 표준 정의, 작성자, 화면 네비게이션 표준 및 스타일 정의, 화면 디자인 원칙 및 제약사항 식별, 화면 레이아웃 종류 식별</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

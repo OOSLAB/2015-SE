@@ -1,0 +1,878 @@
+Info: CustomCategory:표준Eng 수행 프로세스: 15 mini seconds publishing element
+Info: DeliveryProcess:OOCBD 방법론: 983 mini seconds publishing element
+Info: DeliveryProcess:OOCBD 방법론: 7394 mini seconds publishing process specific layout data
+Info: CapabilityPattern:요구정의: 328 mini seconds publishing element
+Info: CapabilityPattern:As-is비즈니스모델: 234 mini seconds publishing element
+Info: TaskDescriptor:As-is비즈니스다이어그램 작성: 31 mini seconds publishing element
+Info: CapabilityPattern:인터뷰모델: 250 mini seconds publishing element
+Info: TaskDescriptor:인터뷰결과서 작성: 31 mini seconds publishing element
+Info: CapabilityPattern:To-be비즈니스모델: 281 mini seconds publishing element
+Info: TaskDescriptor:To-be비즈니스다이어그램 작성: 31 mini seconds publishing element
+Info: CapabilityPattern:기능요구모델: 702 mini seconds publishing element
+Info: TaskDescriptor:사용자계층도 작성: 16 mini seconds publishing element
+Info: TaskDescriptor:요구 패키지다이어그램 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:요구 유스케이스다이어그램 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:요구 유스케이스정의서 작성: 47 mini seconds publishing element
+Info: CapabilityPattern:비기능요구모델: 593 mini seconds publishing element
+Info: TaskDescriptor:이해당사자계층도 작성: 15 mini seconds publishing element
+Info: TaskDescriptor:QAW품질속성시나리오 작성: 16 mini seconds publishing element
+Info: TaskDescriptor:시스템인터페이스요구사항정의서 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:컨버전대상목록 작성: 16 mini seconds publishing element
+Info: CapabilityPattern:분석: 359 mini seconds publishing element
+Info: CapabilityPattern:분석 패키지모델: 250 mini seconds publishing element
+Info: TaskDescriptor:분석패키지다이어그램 작성: 31 mini seconds publishing element
+Info: CapabilityPattern:분석 업무모델: 312 mini seconds publishing element
+Info: TaskDescriptor:분석 클래스다이어그램 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:분석 시퀀스다이어그램 작성: 31 mini seconds publishing element
+Info: CapabilityPattern:시스템인터페이스모델: 297 mini seconds publishing element
+Info: TaskDescriptor:시스템인터페이스목록 작성: 46 mini seconds publishing element
+Info: TaskDescriptor:분석 시스템인터페이스정의서 작성: 32 mini seconds publishing element
+Info: CapabilityPattern:분석 화면모델: 577 mini seconds publishing element
+Info: TaskDescriptor:화면표준정의서 작성: 47 mini seconds publishing element
+Info: TaskDescriptor:분석 화면목록 작성: 15 mini seconds publishing element
+Info: TaskDescriptor:분석 화면정의서 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:분석 보고서목록 작성: 16 mini seconds publishing element
+Info: TaskDescriptor:분석 보고서정의서 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:메뉴구조도 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:네비게이션정의서 작성: 32 mini seconds publishing element
+Info: : 1201 mini-second(s) publishing element CapabilityPattern:분석 데이터모델[SDSEng_Process_OOCBD\capabilitypatterns\분석 데이터모델_60D17DC4.html]
+Info: CapabilityPattern:분석 데이터모델: 1201 mini seconds publishing element
+Info: TaskDescriptor:논리 ERD 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:자료사전 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:컨버전계획서 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:정비된데이터 생성: 32 mini seconds publishing element
+Info: CapabilityPattern:분석 배치모델: 187 mini seconds publishing element
+Info: TaskDescriptor:배치목록 작성: 31 mini seconds publishing element
+Info: CapabilityPattern:아키텍처 정의: 359 mini seconds publishing element
+Info: CapabilityPattern:개념 아키텍처모델: 546 mini seconds publishing element
+Info: TaskDescriptor:아키텍처기술표준정의서 작성: 15 mini seconds publishing element
+Info: TaskDescriptor:현행시스템분석서 작성: 32 mini seconds publishing element
+Info: TaskDescriptor:개념소프트웨어아키텍처 작성: 46 mini seconds publishing element
+Info: TaskDescriptor:개념데이터아키텍처 작성: 47 mini seconds publishing element
+Info: TaskDescriptor:개념기술인프라아키텍처 작성: 31 mini seconds publishing element
+Info: CapabilityPattern:설계 아키텍처모델: 546 mini seconds publishing element
+Info: TaskDescriptor:아키텍처설계방향정의서 작성: 32 mini seconds publishing element
+Info: TaskDescriptor:소프트웨어아키텍처설계서 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:데이터아키텍처설계서 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:기술인프라아키텍쳐설계서 작성: 31 mini seconds publishing element
+Info: CapabilityPattern:개발 아키텍처모델: 515 mini seconds publishing element
+Info: TaskDescriptor:실행아키텍쳐구축계획서 작성: 62 mini seconds publishing element
+Info: TaskDescriptor:실행아키텍처 구축: 47 mini seconds publishing element
+Info: TaskDescriptor:실행아키텍쳐구축결과서 작성: 15 mini seconds publishing element
+Info: CapabilityPattern:설계: 749 mini seconds publishing element
+Info: CapabilityPattern:설계 패키지모델: 219 mini seconds publishing element
+Info: TaskDescriptor:설계 컴포넌트다이어그램 작성: 31 mini seconds publishing element
+Info: CapabilityPattern:설계 업무모델: 437 mini seconds publishing element
+Info: TaskDescriptor:설계 클래스다이어그램 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:설계 시퀀스다이어그램 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:클래스명세서 작성: 31 mini seconds publishing element
+Info: CapabilityPattern:설계 배치모델: 219 mini seconds publishing element
+Info: TaskDescriptor:배치프로그램명세서 작성: 31 mini seconds publishing element
+Info: CapabilityPattern:설계 화면모델: 421 mini seconds publishing element
+Info: TaskDescriptor:설계 화면목록 작성: 140 mini seconds publishing element
+Info: TaskDescriptor:설계 화면정의서 작성: 63 mini seconds publishing element
+Info: TaskDescriptor:설계 보고서목록 작성: 62 mini seconds publishing element
+Info: TaskDescriptor:설계 보고서정의서 작성: 63 mini seconds publishing element
+Info: CapabilityPattern:설계 데이터모델: 670 mini seconds publishing element
+Info: TaskDescriptor:물리 ERD 작성: 32 mini seconds publishing element
+Info: TaskDescriptor:데이터코드목록 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:데이터코드정의서 작성: 15 mini seconds publishing element
+Info: TaskDescriptor:테이블목록 작성: 32 mini seconds publishing element
+Info: TaskDescriptor:테이블정의서 작성: 15 mini seconds publishing element
+Info: TaskDescriptor:코드매핑정의서 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:테이블매핑정의서 작성: 47 mini seconds publishing element
+Info: TaskDescriptor:컨버전설계서 작성: 31 mini seconds publishing element
+Info: CapabilityPattern:설계 테스트모델: 406 mini seconds publishing element
+Info: TaskDescriptor:테스트계획서 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:시스템테스트계획서 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:단위테스트계획서 작성: 16 mini seconds publishing element
+Info: TaskDescriptor:인수테스트계획서 작성: 16 mini seconds publishing element
+Info: TaskDescriptor:통합테스트계획서 작성: 15 mini seconds publishing element
+Info: CapabilityPattern:개발: 359 mini seconds publishing element
+Info: CapabilityPattern:코딩모델: 296 mini seconds publishing element
+Info: TaskDescriptor:소스코드 작성: 32 mini seconds publishing element
+Info: : 1060 mini-second(s) publishing element CapabilityPattern:단위테스트모델[SDSEng_Process_OOCBD\capabilitypatterns\단위테스트모델_98A8E0BD.html]
+Info: CapabilityPattern:단위테스트모델: 1060 mini seconds publishing element
+Info: TaskDescriptor:단위테스트정의서 작성: 16 mini seconds publishing element
+Info: TaskDescriptor:단위테스트코드 작성: 47 mini seconds publishing element
+Info: TaskDescriptor:단위테스트체크리스트 작성: 47 mini seconds publishing element
+Info: CapabilityPattern:배포모델: 280 mini seconds publishing element
+Info: TaskDescriptor:배포정의서 작성: 32 mini seconds publishing element
+Info: TaskDescriptor:배포파일 생성: 31 mini seconds publishing element
+Info: CapabilityPattern:통합테스트모델: 780 mini seconds publishing element
+Info: TaskDescriptor:통합테스트시나리오 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:통합테스트결과보고서 작성: 47 mini seconds publishing element
+Info: TaskDescriptor:통합테스트결함보고서 작성: 31 mini seconds publishing element
+Info: CapabilityPattern:시스템테스트모델: 358 mini seconds publishing element
+Info: TaskDescriptor:시스템테스트결과보고서 작성: 32 mini seconds publishing element
+Info: TaskDescriptor:시스템테스트결함보고서 작성: 46 mini seconds publishing element
+Info: CapabilityPattern:이행: 453 mini seconds publishing element
+Info: CapabilityPattern:이행계획모델: 327 mini seconds publishing element
+Info: TaskDescriptor:이행계획서 작성: 32 mini seconds publishing element
+Info: TaskDescriptor:교육계획서 작성: 31 mini seconds publishing element
+Info: CapabilityPattern:컨버전및릴리이즈모델: 452 mini seconds publishing element
+Info: TaskDescriptor:운영시스템 수립: 16 mini seconds publishing element
+Info: TaskDescriptor:데이터베이스 생성: 31 mini seconds publishing element
+Info: TaskDescriptor:소프트웨어 설치: 31 mini seconds publishing element
+Info: TaskDescriptor:컨버전된데이터 생성: 16 mini seconds publishing element
+Info: CapabilityPattern:인수테스트모델: 405 mini seconds publishing element
+Info: TaskDescriptor:인수테스트결과 작성: 32 mini seconds publishing element
+Info: TaskDescriptor:인수테스트결함보고서 작성: 31 mini seconds publishing element
+Info: CapabilityPattern:시스템사용교육모델: 483 mini seconds publishing element
+Info: TaskDescriptor:사용자매뉴얼 작성: 16 mini seconds publishing element
+Info: TaskDescriptor:운영매뉴얼 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:교육교재 작성: 31 mini seconds publishing element
+Info: TaskDescriptor:교육결과서 작성: 16 mini seconds publishing element
+Info: CapabilityPattern:시범운영모델: 390 mini seconds publishing element
+Info: TaskDescriptor:시범운영계획서 작성: 16 mini seconds publishing element
+Info: TaskDescriptor:시범운영일지 작성: 31 mini seconds publishing element
+Info: RoleDescriptor:UI기획자: 31 mini seconds publishing element
+Info: RoleDescriptor:개발자: 16 mini seconds publishing element
+Info: RoleDescriptor:고객: 15 mini seconds publishing element
+Info: RoleDescriptor:데이터아키텍트: 16 mini seconds publishing element
+Info: RoleDescriptor:리드아키텍트: 15 mini seconds publishing element
+Info: RoleDescriptor:분석자: 32 mini seconds publishing element
+Info: RoleDescriptor:비즈니스아키텍트: 15 mini seconds publishing element
+Info: RoleDescriptor:설계자: 16 mini seconds publishing element
+Info: RoleDescriptor:소프트웨어아키텍트: 15 mini seconds publishing element
+Info: RoleDescriptor:인수책임자: 32 mini seconds publishing element
+Info: RoleDescriptor:테스터: 15 mini seconds publishing element
+Info: RoleDescriptor:테스트관리자: 16 mini seconds publishing element
+Info: RoleDescriptor:테스트엔지니어: 31 mini seconds publishing element
+Info: RoleDescriptor:프로젝트TA: 16 mini seconds publishing element
+Info: RoleDescriptor:프로젝트관리자: 15 mini seconds publishing element
+Info: RoleDescriptor:프로젝트리더: 16 mini seconds publishing element
+Info: WorkProductDescriptor:As-is비즈니스다이어그램: 47 mini seconds publishing element
+Info: WorkProductDescriptor:EA,ISP산출물: 15 mini seconds publishing element
+Info: WorkProductDescriptor:QAW품질속성시나리오: 16 mini seconds publishing element
+Info: WorkProductDescriptor:RFP: 15 mini seconds publishing element
+Info: WorkProductDescriptor:SPM: 16 mini seconds publishing element
+Info: WorkProductDescriptor:To-be비즈니스다이어그램: 31 mini seconds publishing element
+Info: WorkProductDescriptor:개념기술인프라아키텍처: 63 mini seconds publishing element
+Info: WorkProductDescriptor:개념데이터아키텍처: 46 mini seconds publishing element
+Info: WorkProductDescriptor:개념소프트웨어아키텍처: 63 mini seconds publishing element
+Info: WorkProductDescriptor:계약서: 15 mini seconds publishing element
+Info: WorkProductDescriptor:고객조직도: 16 mini seconds publishing element
+Info: WorkProductDescriptor:교육결과서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:교육계획서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:교육교재: 16 mini seconds publishing element
+Info: WorkProductDescriptor:기술인프라아키텍처설계서: 62 mini seconds publishing element
+Info: WorkProductDescriptor:네비게이션정의서: 32 mini seconds publishing element
+Info: WorkProductDescriptor:논리 ERD: 31 mini seconds publishing element
+Info: WorkProductDescriptor:단위테스트계획서: 15 mini seconds publishing element
+Info: WorkProductDescriptor:단위테스트정의서: 32 mini seconds publishing element
+Info: WorkProductDescriptor:단위테스트체크리스트: 31 mini seconds publishing element
+Info: WorkProductDescriptor:단위테스트코드: 31 mini seconds publishing element
+Info: WorkProductDescriptor:데이터베이스: 16 mini seconds publishing element
+Info: WorkProductDescriptor:데이터아키텍처설계서: 46 mini seconds publishing element
+Info: WorkProductDescriptor:데이터코드목록: 172 mini seconds publishing element
+Info: WorkProductDescriptor:데이터코드정의서: 47 mini seconds publishing element
+Info: WorkProductDescriptor:메뉴구조도: 31 mini seconds publishing element
+Info: WorkProductDescriptor:물리 ERD: 31 mini seconds publishing element
+Info: WorkProductDescriptor:배치목록: 78 mini seconds publishing element
+Info: WorkProductDescriptor:배치프로그램명세서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:배포정의서: 63 mini seconds publishing element
+Info: WorkProductDescriptor:배포파일: 15 mini seconds publishing element
+Info: WorkProductDescriptor:분석 보고서목록: 47 mini seconds publishing element
+Info: WorkProductDescriptor:분석 보고서정의서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:분석 시스템인터페이스정의서: 125 mini seconds publishing element
+Info: WorkProductDescriptor:분석 시퀀스다이어그램: 94 mini seconds publishing element
+Info: WorkProductDescriptor:분석 클래스다이어그램: 140 mini seconds publishing element
+Info: WorkProductDescriptor:분석 화면목록: 31 mini seconds publishing element
+Info: WorkProductDescriptor:분석 화면정의서: 78 mini seconds publishing element
+Info: WorkProductDescriptor:분석패키지다이어그램: 47 mini seconds publishing element
+Info: WorkProductDescriptor:사용자계층도: 31 mini seconds publishing element
+Info: WorkProductDescriptor:사용자매뉴얼: 156 mini seconds publishing element
+Info: WorkProductDescriptor:설계 보고서목록: 47 mini seconds publishing element
+Info: WorkProductDescriptor:설계 보고서정의서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:설계 시스템인터페이스정의서: 125 mini seconds publishing element
+Info: WorkProductDescriptor:설계 시퀀스다이어그램: 63 mini seconds publishing element
+Info: WorkProductDescriptor:설계 컴포넌트다이어그램: 15 mini seconds publishing element
+Info: WorkProductDescriptor:설계 클래스다이어그램: 78 mini seconds publishing element
+Info: WorkProductDescriptor:설계 화면목록: 31 mini seconds publishing element
+Info: WorkProductDescriptor:설계 화면정의서: 78 mini seconds publishing element
+Info: WorkProductDescriptor:소스코드: 16 mini seconds publishing element
+Info: WorkProductDescriptor:소프트웨어아키텍처설계서: 62 mini seconds publishing element
+Info: WorkProductDescriptor:수행계획서: 16 mini seconds publishing element
+Info: WorkProductDescriptor:시범운영계획서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:시범운영일지: 31 mini seconds publishing element
+Info: WorkProductDescriptor:시스템인터페이스목록: 78 mini seconds publishing element
+Info: WorkProductDescriptor:시스템인터페이스요구사항정의서: 16 mini seconds publishing element
+Info: WorkProductDescriptor:시스템테스트결과보고서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:시스템테스트결함보고서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:시스템테스트계획서: 47 mini seconds publishing element
+Info: WorkProductDescriptor:실행아키텍쳐: 16 mini seconds publishing element
+Info: WorkProductDescriptor:실행아키텍쳐구축결과서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:실행아키텍쳐구축계획서: 359 mini seconds publishing element
+Info: WorkProductDescriptor:아키텍처기술표준정의서: 15 mini seconds publishing element
+Info: WorkProductDescriptor:아키텍처설계방향정의서: 32 mini seconds publishing element
+Info: WorkProductDescriptor:어플리케이션: 31 mini seconds publishing element
+Info: WorkProductDescriptor:업무범위서: 15 mini seconds publishing element
+Info: WorkProductDescriptor:요구 유스케이스다이어그램: 32 mini seconds publishing element
+Info: WorkProductDescriptor:요구 유스케이스정의서: 46 mini seconds publishing element
+Info: WorkProductDescriptor:요구 패키지다이어그램: 16 mini seconds publishing element
+Info: WorkProductDescriptor:용어사전: 16 mini seconds publishing element
+Info: WorkProductDescriptor:운영매뉴얼: 46 mini seconds publishing element
+Info: WorkProductDescriptor:운영시스템: 16 mini seconds publishing element
+Info: WorkProductDescriptor:이해당사자계층도: 16 mini seconds publishing element
+Info: WorkProductDescriptor:이행계획서: 46 mini seconds publishing element
+Info: WorkProductDescriptor:인수테스트결과: 16 mini seconds publishing element
+Info: WorkProductDescriptor:인수테스트결함보고서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:인수테스트계획서: 16 mini seconds publishing element
+Info: WorkProductDescriptor:인터뷰결과서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:자료사전: 31 mini seconds publishing element
+Info: WorkProductDescriptor:정비된데이터: 31 mini seconds publishing element
+Info: WorkProductDescriptor:제안서: 16 mini seconds publishing element
+Info: WorkProductDescriptor:컨버전계획서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:컨버전대상목록: 47 mini seconds publishing element
+Info: WorkProductDescriptor:컨버전된데이터: 31 mini seconds publishing element
+Info: WorkProductDescriptor:컨버전설계서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:코드매핑정의서: 47 mini seconds publishing element
+Info: WorkProductDescriptor:클래스명세서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:테스트계획서: 62 mini seconds publishing element
+Info: WorkProductDescriptor:테이블매핑정의서: 32 mini seconds publishing element
+Info: WorkProductDescriptor:테이블목록: 46 mini seconds publishing element
+Info: WorkProductDescriptor:테이블정의서: 63 mini seconds publishing element
+Info: WorkProductDescriptor:통합테스트결과보고서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:통합테스트결함보고서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:통합테스트계획서: 16 mini seconds publishing element
+Info: WorkProductDescriptor:통합테스트시나리오: 31 mini seconds publishing element
+Info: WorkProductDescriptor:현행시스템분석서: 47 mini seconds publishing element
+Info: WorkProductDescriptor:화면표준정의서: 31 mini seconds publishing element
+Info: Concept:표준 Eng.방법론 소개: 218 mini seconds publishing element
+Info: RoleDescriptor:비즈니스아키텍트: 16 mini seconds publishing element
+Info: RoleDescriptor:분석자: 16 mini seconds publishing element
+Info: RoleDescriptor:비즈니스아키텍트: 15 mini seconds publishing element
+Info: RoleDescriptor:분석자: 31 mini seconds publishing element
+Info: WorkProductDescriptor:As-is비즈니스다이어그램: 32 mini seconds publishing element
+Info: WorkProductDescriptor:현행시스템분석서: 31 mini seconds publishing element
+Info: RoleDescriptor:분석자: 15 mini seconds publishing element
+Info: RoleDescriptor:비즈니스아키텍트: 32 mini seconds publishing element
+Info: RoleDescriptor:소프트웨어아키텍트: 15 mini seconds publishing element
+Info: RoleDescriptor:프로젝트TA: 16 mini seconds publishing element
+Info: WorkProductDescriptor:현행시스템분석서: 47 mini seconds publishing element
+Info: RoleDescriptor:분석자: 15 mini seconds publishing element
+Info: WorkProductDescriptor:현행시스템분석서: 31 mini seconds publishing element
+Info: RoleDescriptor:비즈니스아키텍트: 16 mini seconds publishing element
+Info: RoleDescriptor:소프트웨어아키텍트: 16 mini seconds publishing element
+Info: RoleDescriptor:프로젝트TA: 31 mini seconds publishing element
+Info: WorkProductDescriptor:수행계획서: 15 mini seconds publishing element
+Info: CapabilityPattern:요구정의: 624 mini seconds publishing element
+Info: CapabilityPattern:요구정의: 656 mini seconds publishing process specific layout data
+Info: Concept:요구정의단계 개요: 109 mini seconds publishing element
+Info: CapabilityPattern:As-is비즈니스 모델링: 219 mini seconds publishing element
+Info: CapabilityPattern:As-is비즈니스 모델링: 62 mini seconds publishing process specific layout data
+Info: Concept:비즈니스모델링(AS-IS)활동 개요: 109 mini seconds publishing element
+Info: Task:액티비티다이어그램 작성: 32 mini seconds publishing element
+Info: CapabilityPattern:인터뷰 수행: 234 mini seconds publishing element
+Info: CapabilityPattern:인터뷰 수행: 78 mini seconds publishing process specific layout data
+Info: CapabilityPattern:To-be비즈니스 모델링: 265 mini seconds publishing element
+Info: CapabilityPattern:To-be비즈니스 모델링: 109 mini seconds publishing process specific layout data
+Info: Concept:비즈니스모델링(TO-BE)활동 개요: 78 mini seconds publishing element
+Info: CapabilityPattern:기능요구 정의: 484 mini seconds publishing element
+Info: CapabilityPattern:기능요구 정의: 249 mini seconds publishing process specific layout data
+Info: Concept:요구사항정의활동 개요: 63 mini seconds publishing element
+Info: Guideline:요구사항 도출 기법: 46 mini seconds publishing element
+Info: Guideline:요구사항 정제 기법: 47 mini seconds publishing element
+Info: Guideline:유스케이스 정의 기법: 141 mini seconds publishing element
+Info: Task:패키지다이어그램 작성: 93 mini seconds publishing element
+Info: Task:요구 유스케이스다이어그램 작성: 31 mini seconds publishing element
+Info: Task:요구 유스케이스정의서 작성: 32 mini seconds publishing element
+Info: CapabilityPattern:비기능요구 정의: 296 mini seconds publishing element
+Info: CapabilityPattern:비기능요구 정의: 94 mini seconds publishing process specific layout data
+Info: RoleDescriptor:분석자: 15 mini seconds publishing element
+Info: RoleDescriptor:비즈니스아키텍트: 16 mini seconds publishing element
+Info: RoleDescriptor:소프트웨어아키텍트: 15 mini seconds publishing element
+Info: WorkProductDescriptor:요구 유스케이스다이어그램: 32 mini seconds publishing element
+Info: WorkProductDescriptor:요구 패키지다이어그램: 15 mini seconds publishing element
+Info: RoleDescriptor:분석자: 31 mini seconds publishing element
+Info: RoleDescriptor:소프트웨어아키텍트: 16 mini seconds publishing element
+Info: WorkProductDescriptor:요구 유스케이스정의서: 31 mini seconds publishing element
+Info: RoleDescriptor:분석자: 31 mini seconds publishing element
+Info: RoleDescriptor:비즈니스아키텍트: 16 mini seconds publishing element
+Info: RoleDescriptor:소프트웨어아키텍트: 16 mini seconds publishing element
+Info: RoleDescriptor:분석자: 31 mini seconds publishing element
+Info: RoleDescriptor:분석자: 15 mini seconds publishing element
+Info: RoleDescriptor:데이터아키텍트: 32 mini seconds publishing element
+Info: WorkProductDescriptor:현행시스템분석서: 31 mini seconds publishing element
+Info: RoleDescriptor:프로젝트TA: 15 mini seconds publishing element
+Info: WorkProductDescriptor:컨버전대상목록: 47 mini seconds publishing element
+Info: RoleDescriptor:분석자: 16 mini seconds publishing element
+Info: RoleDescriptor:소프트웨어아키텍트: 15 mini seconds publishing element
+Info: CapabilityPattern:분석: 375 mini seconds publishing element
+Info: CapabilityPattern:분석: 998 mini seconds publishing process specific layout data
+Info: Concept:분석단계 개요: 94 mini seconds publishing element
+Info: CapabilityPattern:분석패키지 정의: 249 mini seconds publishing element
+Info: CapabilityPattern:분석패키지 정의: 94 mini seconds publishing process specific layout data
+Info: CapabilityPattern:업무 분석: 312 mini seconds publishing element
+Info: CapabilityPattern:업무 분석: 140 mini seconds publishing process specific layout data
+Info: Concept:업무분석활동 개요: 63 mini seconds publishing element
+Info: Guideline:업무분석 기법: 109 mini seconds publishing element
+Info: Task:클래스다이어그램 작성: 16 mini seconds publishing element
+Info: Guideline:분석 클래스다이어그램 작성기법: 15 mini seconds publishing element
+Info: Task:시퀀스다이어그램 작성: 16 mini seconds publishing element
+Info: Guideline:분석시퀀스다이어그램 작성기법: 31 mini seconds publishing element
+Info: CapabilityPattern:시스템인터페이스 분석: 967 mini seconds publishing element
+Info: CapabilityPattern:시스템인터페이스 분석: 125 mini seconds publishing process specific layout data
+Info: CapabilityPattern:화면 분석: 530 mini seconds publishing element
+Info: CapabilityPattern:화면 분석: 624 mini seconds publishing process specific layout data
+Info: Concept:화면분석활동 개요: 47 mini seconds publishing element
+Info: Guideline:화면분석 기법: 141 mini seconds publishing element
+Info: CapabilityPattern:데이터 분석: 358 mini seconds publishing element
+Info: CapabilityPattern:데이터 분석: 172 mini seconds publishing process specific layout data
+Info: Concept:데이터분석활동 개요: 62 mini seconds publishing element
+Info: Guideline:데이터모델링 기법: 110 mini seconds publishing element
+Info: Concept:컨버전분석활동 개요: 46 mini seconds publishing element
+Info: Guideline:데이터컨버전 기법: 47 mini seconds publishing element
+Info: Task:ERD 작성: 15 mini seconds publishing element
+Info: CapabilityPattern:배치작업 분석: 188 mini seconds publishing element
+Info: CapabilityPattern:배치작업 분석: 31 mini seconds publishing process specific layout data
+Info: RoleDescriptor:리드아키텍트: 31 mini seconds publishing element
+Info: RoleDescriptor:프로젝트TA: 16 mini seconds publishing element
+Info: WorkProductDescriptor:현행시스템분석서: 46 mini seconds publishing element
+Info: RoleDescriptor:소프트웨어아키텍트: 16 mini seconds publishing element
+Info: WorkProductDescriptor:RFP: 16 mini seconds publishing element
+Info: WorkProductDescriptor:수행계획서: 15 mini seconds publishing element
+Info: WorkProductDescriptor:제안서: 16 mini seconds publishing element
+Info: RoleDescriptor:데이터아키텍트: 31 mini seconds publishing element
+Info: RoleDescriptor:비즈니스아키텍트: 16 mini seconds publishing element
+Info: RoleDescriptor:리드아키텍트: 15 mini seconds publishing element
+Info: RoleDescriptor:데이터아키텍트: 16 mini seconds publishing element
+Info: RoleDescriptor:설계자: 15 mini seconds publishing element
+Info: RoleDescriptor:소프트웨어아키텍트: 16 mini seconds publishing element
+Info: RoleDescriptor:프로젝트TA: 31 mini seconds publishing element
+Info: WorkProductDescriptor:QAW품질속성시나리오: 16 mini seconds publishing element
+Info: WorkProductDescriptor:개념소프트웨어아키텍처: 47 mini seconds publishing element
+Info: WorkProductDescriptor:개념데이터아키텍처: 46 mini seconds publishing element
+Info: WorkProductDescriptor:개념기술인프라아키텍처: 63 mini seconds publishing element
+Info: RoleDescriptor:소프트웨어아키텍트: 15 mini seconds publishing element
+Info: RoleDescriptor:데이터아키텍트: 32 mini seconds publishing element
+Info: RoleDescriptor:분석자: 15 mini seconds publishing element
+Info: RoleDescriptor:프로젝트TA: 16 mini seconds publishing element
+Info: WorkProductDescriptor:기술인프라아키텍처설계서: 62 mini seconds publishing element
+Info: WorkProductDescriptor:데이터아키텍처설계서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:소프트웨어아키텍처설계서: 63 mini seconds publishing element
+Info: WorkProductDescriptor:아키텍처설계방향정의서: 31 mini seconds publishing element
+Info: RoleDescriptor:설계자: 16 mini seconds publishing element
+Info: WorkProductDescriptor:논리 ERD: 31 mini seconds publishing element
+Info: WorkProductDescriptor:분석 화면정의서: 78 mini seconds publishing element
+Info: CapabilityPattern:아키텍처 정의: 343 mini seconds publishing element
+Info: CapabilityPattern:아키텍처 정의: 967 mini seconds publishing process specific layout data
+Info: Concept:아키텍처정의단계 개요: 47 mini seconds publishing element
+Info: CapabilityPattern:개념아키텍처 정의: 530 mini seconds publishing element
+Info: CapabilityPattern:개념아키텍처 정의: 281 mini seconds publishing process specific layout data
+Info: Concept:아키텍처분석활동 개요: 78 mini seconds publishing element
+Info: CapabilityPattern:아키텍처 설계: 531 mini seconds publishing element
+Info: CapabilityPattern:아키텍처 설계: 655 mini seconds publishing process specific layout data
+Info: Concept:아키텍처설계활동 개요: 78 mini seconds publishing element
+Info: Guideline:아키텍처설계방향정의 기법: 15 mini seconds publishing element
+Info: Guideline:아키텍처설계 기법: 63 mini seconds publishing element
+Info: Guideline:아키텍처검증 기법: 15 mini seconds publishing element
+Info: CapabilityPattern:아키텍처 개발: 546 mini seconds publishing element
+Info: CapabilityPattern:아키텍처 개발: 344 mini seconds publishing process specific layout data
+Info: Concept:아키텍처개발활동 개요: 62 mini seconds publishing element
+Info: RoleDescriptor:설계자: 15 mini seconds publishing element
+Info: RoleDescriptor:소프트웨어아키텍트: 16 mini seconds publishing element
+Info: RoleDescriptor:설계자: 31 mini seconds publishing element
+Info: RoleDescriptor:소프트웨어아키텍트: 16 mini seconds publishing element
+Info: WorkProductDescriptor:분석 클래스다이어그램: 78 mini seconds publishing element
+Info: WorkProductDescriptor:설계 컴포넌트다이어그램: 31 mini seconds publishing element
+Info: WorkProductDescriptor:분석 시퀀스다이어그램: 47 mini seconds publishing element
+Info: RoleDescriptor:설계자: 15 mini seconds publishing element
+Info: RoleDescriptor:소프트웨어아키텍트: 16 mini seconds publishing element
+Info: WorkProductDescriptor:배치목록: 78 mini seconds publishing element
+Info: RoleDescriptor:설계자: 31 mini seconds publishing element
+Info: RoleDescriptor:소프트웨어아키텍트: 16 mini seconds publishing element
+Info: WorkProductDescriptor:네비게이션정의서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:분석 화면정의서: 78 mini seconds publishing element
+Info: WorkProductDescriptor:소프트웨어아키텍처설계서: 62 mini seconds publishing element
+Info: WorkProductDescriptor:분석 보고서목록: 31 mini seconds publishing element
+Info: RoleDescriptor:설계자: 32 mini seconds publishing element
+Info: RoleDescriptor:데이터아키텍트: 15 mini seconds publishing element
+Info: WorkProductDescriptor:논리 ERD: 31 mini seconds publishing element
+Info: WorkProductDescriptor:컨버전계획서: 47 mini seconds publishing element
+Info: WorkProductDescriptor:컨버전대상목록: 31 mini seconds publishing element
+Info: RoleDescriptor:분석자: 32 mini seconds publishing element
+Info: RoleDescriptor:소프트웨어아키텍트: 15 mini seconds publishing element
+Info: RoleDescriptor:프로젝트TA: 16 mini seconds publishing element
+Info: RoleDescriptor:프로젝트리더: 15 mini seconds publishing element
+Info: WorkProductDescriptor:수행계획서: 32 mini seconds publishing element
+Info: WorkProductDescriptor:요구 유스케이스다이어그램: 31 mini seconds publishing element
+Info: WorkProductDescriptor:요구 유스케이스정의서: 47 mini seconds publishing element
+Info: CapabilityPattern:설계: 421 mini seconds publishing element
+Info: CapabilityPattern:설계: 1232 mini seconds publishing process specific layout data
+Info: Concept:설계단계 개요: 63 mini seconds publishing element
+Info: CapabilityPattern:설계패키지 정의: 218 mini seconds publishing element
+Info: CapabilityPattern:설계패키지 정의: 47 mini seconds publishing process specific layout data
+Info: Task:설계 컴포넌트다이어그램 작성: 47 mini seconds publishing element
+Info: CapabilityPattern:업무 설계: 967 mini seconds publishing element
+Info: CapabilityPattern:업무 설계: 187 mini seconds publishing process specific layout data
+Info: Concept:업무설계활동 개요: 62 mini seconds publishing element
+Info: Guideline:업무설계 기법: 62 mini seconds publishing element
+Info: Task:클래스명세서 작성: 16 mini seconds publishing element
+Info: CapabilityPattern:배치작업 설계: 218 mini seconds publishing element
+Info: CapabilityPattern:배치작업 설계: 63 mini seconds publishing process specific layout data
+Info: CapabilityPattern:화면 설계: 421 mini seconds publishing element
+Info: CapabilityPattern:화면 설계: 218 mini seconds publishing process specific layout data
+Info: Concept:화면설계활동 개요: 78 mini seconds publishing element
+Info: CapabilityPattern:데이터 설계: 936 mini seconds publishing element
+Info: CapabilityPattern:데이터 설계: 390 mini seconds publishing process specific layout data
+Info: Concept:데이터설계활동 개요: 78 mini seconds publishing element
+Info: Guideline:데이터베이스설계 기법: 63 mini seconds publishing element
+Info: Concept:컨버전설계활동 개요: 31 mini seconds publishing element
+Info: CapabilityPattern:테스트 설계: 374 mini seconds publishing element
+Info: CapabilityPattern:테스트 설계: 203 mini seconds publishing process specific layout data
+Info: Concept:테스트설계활동 개요: 63 mini seconds publishing element
+Info: Guideline:테스트설계 기법: 46 mini seconds publishing element
+Info: RoleDescriptor:개발자: 32 mini seconds publishing element
+Info: WorkProductDescriptor:배치프로그램명세서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:분석 시스템인터페이스정의서: 125 mini seconds publishing element
+Info: WorkProductDescriptor:설계 화면정의서: 109 mini seconds publishing element
+Info: WorkProductDescriptor:테이블정의서: 62 mini seconds publishing element
+Info: RoleDescriptor:설계자: 31 mini seconds publishing element
+Info: RoleDescriptor:개발자: 16 mini seconds publishing element
+Info: WorkProductDescriptor:배치프로그램명세서: 47 mini seconds publishing element
+Info: WorkProductDescriptor:설계 클래스다이어그램: 31 mini seconds publishing element
+Info: WorkProductDescriptor:설계 화면정의서: 94 mini seconds publishing element
+Info: WorkProductDescriptor:클래스명세서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:테이블정의서: 62 mini seconds publishing element
+Info: WorkProductDescriptor:물리 ERD: 31 mini seconds publishing element
+Info: RoleDescriptor:설계자: 32 mini seconds publishing element
+Info: RoleDescriptor:소프트웨어아키텍트: 15 mini seconds publishing element
+Info: WorkProductDescriptor:기술인프라아키텍처설계서: 47 mini seconds publishing element
+Info: WorkProductDescriptor:소프트웨어아키텍처설계서: 62 mini seconds publishing element
+Info: RoleDescriptor:개발자: 16 mini seconds publishing element
+Info: WorkProductDescriptor:소스코드: 16 mini seconds publishing element
+Info: RoleDescriptor:분석자: 31 mini seconds publishing element
+Info: RoleDescriptor:프로젝트리더: 15 mini seconds publishing element
+Info: WorkProductDescriptor:설계 화면정의서: 78 mini seconds publishing element
+Info: WorkProductDescriptor:요구 유스케이스다이어그램: 32 mini seconds publishing element
+Info: WorkProductDescriptor:요구 유스케이스정의서: 46 mini seconds publishing element
+Info: WorkProductDescriptor:테스트계획서: 47 mini seconds publishing element
+Info: RoleDescriptor:개발자: 31 mini seconds publishing element
+Info: RoleDescriptor:소프트웨어아키텍트: 16 mini seconds publishing element
+Info: RoleDescriptor:프로젝트TA: 16 mini seconds publishing element
+Info: RoleDescriptor:개발자: 31 mini seconds publishing element
+Info: RoleDescriptor:테스트엔지니어: 15 mini seconds publishing element
+Info: RoleDescriptor:프로젝트관리자: 16 mini seconds publishing element
+Info: RoleDescriptor:프로젝트리더: 31 mini seconds publishing element
+Info: WorkProductDescriptor:시스템테스트계획서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:통합테스트시나리오: 32 mini seconds publishing element
+Info: CapabilityPattern:개발: 358 mini seconds publishing element
+Info: CapabilityPattern:개발: 1046 mini seconds publishing process specific layout data
+Info: Concept:개발단계 개요: 62 mini seconds publishing element
+Info: CapabilityPattern:코딩: 234 mini seconds publishing element
+Info: CapabilityPattern:코딩: 94 mini seconds publishing process specific layout data
+Info: Concept:코딩활동 개요: 124 mini seconds publishing element
+Info: CapabilityPattern:단위 테스트: 562 mini seconds publishing element
+Info: CapabilityPattern:단위 테스트: 374 mini seconds publishing process specific layout data
+Info: Concept:테스트실시활동 개요: 78 mini seconds publishing element
+Info: Guideline:테스트 기법: 47 mini seconds publishing element
+Info: Guideline:단위테스트작성 기법: 47 mini seconds publishing element
+Info: CapabilityPattern:배포 준비: 281 mini seconds publishing element
+Info: CapabilityPattern:배포 준비: 125 mini seconds publishing process specific layout data
+Info: CapabilityPattern:통합 테스트: 452 mini seconds publishing element
+Info: CapabilityPattern:통합 테스트: 593 mini seconds publishing process specific layout data
+Info: CapabilityPattern:시스템 테스트: 343 mini seconds publishing element
+Info: CapabilityPattern:시스템 테스트: 172 mini seconds publishing process specific layout data
+Info: RoleDescriptor:프로젝트관리자: 15 mini seconds publishing element
+Info: RoleDescriptor:분석자: 16 mini seconds publishing element
+Info: RoleDescriptor:설계자: 31 mini seconds publishing element
+Info: RoleDescriptor:프로젝트TA: 16 mini seconds publishing element
+Info: RoleDescriptor:프로젝트리더: 15 mini seconds publishing element
+Info: WorkProductDescriptor:수행계획서: 16 mini seconds publishing element
+Info: WorkProductDescriptor:컨버전계획서: 47 mini seconds publishing element
+Info: WorkProductDescriptor:테이블목록: 31 mini seconds publishing element
+Info: WorkProductDescriptor:제안서: 31 mini seconds publishing element
+Info: RoleDescriptor:프로젝트관리자: 16 mini seconds publishing element
+Info: RoleDescriptor:개발자: 15 mini seconds publishing element
+Info: RoleDescriptor:분석자: 15 mini seconds publishing element
+Info: RoleDescriptor:설계자: 16 mini seconds publishing element
+Info: RoleDescriptor:프로젝트TA: 31 mini seconds publishing element
+Info: RoleDescriptor:프로젝트리더: 16 mini seconds publishing element
+Info: WorkProductDescriptor:소스코드: 31 mini seconds publishing element
+Info: WorkProductDescriptor:이행계획서: 31 mini seconds publishing element
+Info: WorkProductDescriptor:물리 ERD: 484 mini seconds publishing element
+Info: WorkProductDescriptor:테이블목록: 31 mini seconds publishing element
+Info: RoleDescriptor:개발자: 31 mini seconds publishing element
+Info: RoleDescriptor:분석자: 31 mini seconds publishing element
+Info: RoleDescriptor:설계자: 16 mini seconds publishing element
+Info: RoleDescriptor:테스트관리자: 31 mini seconds publishing element
+Info: RoleDescriptor:프로젝트TA: 16 mini seconds publishing element
+Info: RoleDescriptor:프로젝트관리자: 15 mini seconds publishing element
+Info: RoleDescriptor:프로젝트리더: 32 mini seconds publishing element
+Info: WorkProductDescriptor:설계 보고서정의서: 46 mini seconds publishing element
+Info: WorkProductDescriptor:설계 화면정의서: 78 mini seconds publishing element
+Info: WorkProductDescriptor:소스코드: 16 mini seconds publishing element
+Info: WorkProductDescriptor:요구 유스케이스다이어그램: 31 mini seconds publishing element
+Info: WorkProductDescriptor:요구 유스케이스정의서: 47 mini seconds publishing element
+Info: WorkProductDescriptor:테스트계획서: 47 mini seconds publishing element
+Info: RoleDescriptor:분석자: 16 mini seconds publishing element
+Info: RoleDescriptor:개발자: 31 mini seconds publishing element
+Info: RoleDescriptor:설계자: 16 mini seconds publishing element
+Info: WorkProductDescriptor:데이터코드정의서: 47 mini seconds publishing element
+Info: WorkProductDescriptor:설계 보고서정의서: 46 mini seconds publishing element
+Info: WorkProductDescriptor:설계 화면정의서: 78 mini seconds publishing element
+Info: RoleDescriptor:프로젝트TA: 15 mini seconds publishing element
+Info: WorkProductDescriptor:SPM: 16 mini seconds publishing element
+Info: WorkProductDescriptor:테이블목록: 47 mini seconds publishing element
+Info: WorkProductDescriptor:테이블정의서: 78 mini seconds publishing element
+Info: WorkProductDescriptor:교육계획서: 31 mini seconds publishing element
+Info: RoleDescriptor:프로젝트관리자: 16 mini seconds publishing element
+Info: RoleDescriptor:개발자: 15 mini seconds publishing element
+Info: RoleDescriptor:분석자: 31 mini seconds publishing element
+Info: RoleDescriptor:설계자: 16 mini seconds publishing element
+Info: RoleDescriptor:프로젝트TA: 16 mini seconds publishing element
+Info: RoleDescriptor:프로젝트리더: 31 mini seconds publishing element
+Info: WorkProductDescriptor:기술인프라아키텍처설계서: 47 mini seconds publishing element
+Info: WorkProductDescriptor:소프트웨어아키텍처설계서: 62 mini seconds publishing element
+Info: WorkProductDescriptor:이행계획서: 31 mini seconds publishing element
+Info: CapabilityPattern:이행: 453 mini seconds publishing element
+Info: CapabilityPattern:이행: 1029 mini seconds publishing process specific layout data
+Info: Concept:이행단계 개요: 141 mini seconds publishing element
+Info: CapabilityPattern:이행계획 수립: 296 mini seconds publishing element
+Info: CapabilityPattern:이행계획 수립: 125 mini seconds publishing process specific layout data
+Info: Concept:이행계획수립활동 개요: 31 mini seconds publishing element
+Info: CapabilityPattern:컨버전 및 릴리이즈: 437 mini seconds publishing element
+Info: CapabilityPattern:컨버전 및 릴리이즈: 234 mini seconds publishing process specific layout data
+Info: Concept:컨버전및릴리이즈활동 개요: 78 mini seconds publishing element
+Info: CapabilityPattern:인수 테스트: 422 mini seconds publishing element
+Info: CapabilityPattern:인수 테스트: 218 mini seconds publishing process specific layout data
+Info: CapabilityPattern:시스템 사용교육: 530 mini seconds publishing element
+Info: CapabilityPattern:시스템 사용교육: 266 mini seconds publishing process specific layout data
+Info: Concept:시스템사용교육활동 개요: 62 mini seconds publishing element
+Info: CapabilityPattern:시범 운영: 312 mini seconds publishing element
+Info: CapabilityPattern:시범 운영: 140 mini seconds publishing process specific layout data
+Info: Concept:시범운영활동 개요: 78 mini seconds publishing element
+Info: Artifact:액티비티다이어그램: 141 mini seconds publishing element
+Info: Template:As-is비즈니스다이어그램 포맷: 93 mini seconds publishing element
+Info: Template:To-be비즈니스다이어그램 포맷: 32 mini seconds publishing element
+Info: Template:개념아키텍처정의서 포맷: 46 mini seconds publishing element
+Info: Template:개념아키텍처정의서 포맷: 32 mini seconds publishing element
+Info: Template:개념아키텍처정의서 포맷: 15 mini seconds publishing element
+Info: Template:교육결과서 포맷: 125 mini seconds publishing element
+Info: Template:교육계획서 포맷: 47 mini seconds publishing element
+Info: Template:기술인프라아키텍처설계서 포맷: 93 mini seconds publishing element
+Info: Template:네비게이션정의서 포맷: 47 mini seconds publishing element
+Info: Artifact:ERD: 16 mini seconds publishing element
+Info: Template:논리 ERD 포맷: 47 mini seconds publishing element
+Info: Template:단위테스트정의서 포맷: 31 mini seconds publishing element
+Info: Template:단위테스트체크리스트 포맷: 47 mini seconds publishing element
+Info: Template:데이터아키텍처설계서 포맷: 93 mini seconds publishing element
+Info: Template:데이터코드목록 포맷: 47 mini seconds publishing element
+Info: Template:데이터코드정의서 포맷: 47 mini seconds publishing element
+Info: Template:메뉴구조도 포맷: 15 mini seconds publishing element
+Info: Template:물리 ERD 포맷: 16 mini seconds publishing element
+Info: Template:배치목록 포맷: 16 mini seconds publishing element
+Info: Template:배치프로그램명세서 포맷: 46 mini seconds publishing element
+Info: Template:배포정의서 포맷: 16 mini seconds publishing element
+Info: Template:보고서목록 포맷: 62 mini seconds publishing element
+Info: Template:보고서정의서 포맷: 47 mini seconds publishing element
+Info: Template:시스템인터페이스정의서 포맷: 375 mini seconds publishing element
+Info: Artifact:시퀀스다이어그램: 15 mini seconds publishing element
+Info: Template:분석 시퀀스다이어그램 포맷: 31 mini seconds publishing element
+Info: Artifact:클래스다이어그램: 16 mini seconds publishing element
+Info: Template:분석 클래스다이어그램 포맷: 47 mini seconds publishing element
+Info: Template:화면목록 포맷: 93 mini seconds publishing element
+Info: Template:화면정의서 포맷: 47 mini seconds publishing element
+Info: Artifact:패키지다이어그램: 16 mini seconds publishing element
+Info: Template:분석패키지다이어그램 포맷: 78 mini seconds publishing element
+Info: Template:사용자매뉴얼 포맷: 109 mini seconds publishing element
+Info: Template:보고서목록 포맷: 94 mini seconds publishing element
+Info: Template:보고서정의서 포맷: 93 mini seconds publishing element
+Info: Template:시스템인터페이스정의서 포맷: 733 mini seconds publishing element
+Info: Template:설계 시퀀스다이어그램 포맷: 94 mini seconds publishing element
+Info: Artifact:설계 컴포넌트다이어그램: 109 mini seconds publishing element
+Info: Template:설계 클래스다이어그램 포맷: 47 mini seconds publishing element
+Info: Template:화면목록 포맷: 47 mini seconds publishing element
+Info: Template:화면정의서 포맷: 47 mini seconds publishing element
+Info: Template:소프트웨어아키텍처설계서 포맷: 78 mini seconds publishing element
+Info: Template:시범운영계획서 포맷: 46 mini seconds publishing element
+Info: Template:시범운영일지 포맷: 63 mini seconds publishing element
+Info: Template:시스템인터페이스목록 포맷: 31 mini seconds publishing element
+Info: Template:시스템테스트결과보고서 포맷: 62 mini seconds publishing element
+Info: Template:결함보고서 포맷: 63 mini seconds publishing element
+Info: Template:시스템테스트계획서 포맷: 421 mini seconds publishing element
+Info: Template:실행아키텍처구축결과서 포맷: 234 mini seconds publishing element
+Info: Template:실행아키텍처구축계획서 포맷: 47 mini seconds publishing element
+Info: Template:아키텍처설계방향정의서 포맷: 62 mini seconds publishing element
+Info: Artifact:요구 유스케이스다이어그램: 47 mini seconds publishing element
+Info: Template:유스케이스다이어그램 포맷: 31 mini seconds publishing element
+Info: Artifact:요구 유스케이스정의서: 47 mini seconds publishing element
+Info: Template:유스케이스정의서 포맷: 78 mini seconds publishing element
+Info: Template:운영매뉴얼 포맷: 47 mini seconds publishing element
+Info: Template:이행계획서 포맷: 78 mini seconds publishing element
+Info: Template:결함보고서 포맷: 47 mini seconds publishing element
+Info: Template:인터뷰결과서 포맷: 31 mini seconds publishing element
+Info: Template:자료사전 포맷: 47 mini seconds publishing element
+Info: Template:컨버전계획서 포맷: 46 mini seconds publishing element
+Info: Template:컨버전대상목록 포맷: 32 mini seconds publishing element
+Info: Template:컨버전설계서 포맷: 62 mini seconds publishing element
+Info: Template:코드매핑정의서 포맷: 16 mini seconds publishing element
+Info: Artifact:클래스명세서: 31 mini seconds publishing element
+Info: Template:클래스명세서 포맷: 78 mini seconds publishing element
+Info: Template:테스트계획서 포맷: 62 mini seconds publishing element
+Info: Template:테이블매핑정의서 포맷: 47 mini seconds publishing element
+Info: Template:테이블목록 포맷: 47 mini seconds publishing element
+Info: Template:테이블정의서 포맷: 15 mini seconds publishing element
+Info: Template:통합테스트결과보고서 포맷: 110 mini seconds publishing element
+Info: Template:결함보고서 포맷: 93 mini seconds publishing element
+Info: Template:통합테스트시나리오 포맷: 31 mini seconds publishing element
+Info: Template:현행시스템분석서 포맷: 63 mini seconds publishing element
+Info: Template:화면표준정의서 포맷: 31 mini seconds publishing element
+Info: Discipline:기능요구모델: 16 mini seconds publishing element
+Info: Role:분석자: 436 mini seconds publishing element
+Info: Role:비즈니스아키텍트: 47 mini seconds publishing element
+Info: Role:소프트웨어아키텍트: 78 mini seconds publishing element
+Info: Role:프로젝트TA: 78 mini seconds publishing element
+Info: Artifact:요구 패키지다이어그램: 31 mini seconds publishing element
+Info: Task:분석 클래스다이어그램 작성: 47 mini seconds publishing element
+Info: Task:분석 시퀀스다이어그램 작성: 31 mini seconds publishing element
+Info: Discipline:설계 패키지모델: 16 mini seconds publishing element
+Info: Role:설계자: 94 mini seconds publishing element
+Info: Discipline:설계 업무모델: 15 mini seconds publishing element
+Info: Artifact:설계 클래스다이어그램: 718 mini seconds publishing element
+Info: Artifact:As-is비즈니스다이어그램: 31 mini seconds publishing element
+Info: Artifact:To-be비즈니스다이어그램: 31 mini seconds publishing element
+Info: Artifact:개념기술인프라아키텍처: 47 mini seconds publishing element
+Info: Artifact:개념데이터아키텍처: 62 mini seconds publishing element
+Info: Artifact:개념소프트웨어아키텍처: 47 mini seconds publishing element
+Info: Artifact:교육결과서: 16 mini seconds publishing element
+Info: Artifact:교육계획서: 31 mini seconds publishing element
+Info: Artifact:기술인프라아키텍처설계서: 47 mini seconds publishing element
+Info: Artifact:네비게이션정의서: 31 mini seconds publishing element
+Info: Artifact:논리 ERD: 31 mini seconds publishing element
+Info: Artifact:단위테스트정의서: 31 mini seconds publishing element
+Info: Artifact:단위테스트체크리스트: 32 mini seconds publishing element
+Info: Artifact:데이터아키텍처설계서: 31 mini seconds publishing element
+Info: Artifact:데이터코드목록: 156 mini seconds publishing element
+Info: Artifact:데이터코드정의서: 47 mini seconds publishing element
+Info: Artifact:메뉴구조도: 31 mini seconds publishing element
+Info: Artifact:물리 ERD: 31 mini seconds publishing element
+Info: Artifact:배치목록: 78 mini seconds publishing element
+Info: Artifact:배치프로그램명세서: 31 mini seconds publishing element
+Info: Artifact:배포정의서: 47 mini seconds publishing element
+Info: Artifact:분석 보고서목록: 31 mini seconds publishing element
+Info: Artifact:분석 보고서정의서: 47 mini seconds publishing element
+Info: Artifact:분석 시스템인터페이스정의서: 125 mini seconds publishing element
+Info: Artifact:분석 시퀀스다이어그램: 47 mini seconds publishing element
+Info: Artifact:분석 클래스다이어그램: 78 mini seconds publishing element
+Info: Artifact:분석 화면목록: 31 mini seconds publishing element
+Info: Artifact:분석 화면정의서: 62 mini seconds publishing element
+Info: Artifact:분석패키지다이어그램: 47 mini seconds publishing element
+Info: Artifact:사용자매뉴얼: 140 mini seconds publishing element
+Info: Artifact:설계 보고서목록: 32 mini seconds publishing element
+Info: Artifact:설계 보고서정의서: 46 mini seconds publishing element
+Info: Artifact:설계 시스템인터페이스정의서: 110 mini seconds publishing element
+Info: Artifact:설계 시퀀스다이어그램: 46 mini seconds publishing element
+Info: Domain:설계모델: 32 mini seconds publishing element
+Info: Task:설계 클래스다이어그램 작성: 31 mini seconds publishing element
+Info: Artifact:설계 화면목록: 15 mini seconds publishing element
+Info: Artifact:설계 화면정의서: 94 mini seconds publishing element
+Info: Artifact:소프트웨어아키텍처설계서: 47 mini seconds publishing element
+Info: Artifact:시범운영계획서: 31 mini seconds publishing element
+Info: Artifact:시범운영일지: 31 mini seconds publishing element
+Info: Artifact:시스템인터페이스목록: 78 mini seconds publishing element
+Info: Artifact:시스템테스트결과보고서: 31 mini seconds publishing element
+Info: Artifact:시스템테스트결함보고서: 32 mini seconds publishing element
+Info: Artifact:시스템테스트계획서: 31 mini seconds publishing element
+Info: Artifact:실행아키텍쳐구축결과서: 31 mini seconds publishing element
+Info: Artifact:실행아키텍쳐구축계획서: 31 mini seconds publishing element
+Info: Artifact:아키텍처설계방향정의서: 31 mini seconds publishing element
+Info: Domain:요구모델: 16 mini seconds publishing element
+Info: Task:분석패키지다이어그램 작성: 31 mini seconds publishing element
+Info: Task:시스템테스트계획서 작성: 31 mini seconds publishing element
+Info: Task:인수테스트결과 작성: 16 mini seconds publishing element
+Info: Task:테스트계획서 작성: 47 mini seconds publishing element
+Info: Task:통합테스트시나리오 작성: 15 mini seconds publishing element
+Info: Task:통합테스트결과보고서 작성: 32 mini seconds publishing element
+Info: Artifact:운영매뉴얼: 46 mini seconds publishing element
+Info: Artifact:이행계획서: 32 mini seconds publishing element
+Info: Artifact:인수테스트결함보고서: 31 mini seconds publishing element
+Info: Artifact:인터뷰결과서: 15 mini seconds publishing element
+Info: Artifact:자료사전: 47 mini seconds publishing element
+Info: Artifact:컨버전계획서: 31 mini seconds publishing element
+Info: Artifact:컨버전대상목록: 47 mini seconds publishing element
+Info: Artifact:컨버전설계서: 31 mini seconds publishing element
+Info: Artifact:코드매핑정의서: 47 mini seconds publishing element
+Info: Task:단위테스트정의서 작성: 16 mini seconds publishing element
+Info: Task:단위테스트체크리스트 작성: 31 mini seconds publishing element
+Info: Task:단위테스트코드 작성: 47 mini seconds publishing element
+Info: Artifact:테스트계획서: 374 mini seconds publishing element
+Info: Artifact:테이블매핑정의서: 31 mini seconds publishing element
+Info: Artifact:테이블목록: 47 mini seconds publishing element
+Info: Artifact:테이블정의서: 94 mini seconds publishing element
+Info: Artifact:통합테스트결과보고서: 31 mini seconds publishing element
+Info: Artifact:통합테스트결함보고서: 31 mini seconds publishing element
+Info: Artifact:통합테스트시나리오: 31 mini seconds publishing element
+Info: Artifact:현행시스템분석서: 47 mini seconds publishing element
+Info: Artifact:화면표준정의서: 31 mini seconds publishing element
+Info: Task:사용자계층도 작성: 16 mini seconds publishing element
+Info: Task:요구 패키지다이어그램 작성: 47 mini seconds publishing element
+Info: Task:As-is비즈니스다이어그램 작성: 31 mini seconds publishing element
+Info: Task:To-be비즈니스다이어그램 작성: 31 mini seconds publishing element
+Info: Task:교육계획서 작성: 16 mini seconds publishing element
+Info: Task:시범운영계획서 작성: 31 mini seconds publishing element
+Info: Task:시범운영일지 작성: 16 mini seconds publishing element
+Info: Task:실행아키텍쳐구축계획서 작성: 31 mini seconds publishing element
+Info: Task:운영매뉴얼 작성: 31 mini seconds publishing element
+Info: Task:운영시스템 수립: 16 mini seconds publishing element
+Info: Task:이행계획서 작성: 31 mini seconds publishing element
+Info: Task:인수테스트결함보고서 작성: 31 mini seconds publishing element
+Info: Task:인터뷰결과서 작성: 31 mini seconds publishing element
+Info: Task:현행시스템분석서 작성: 31 mini seconds publishing element
+Info: Task:화면표준정의서 작성: 32 mini seconds publishing element
+Info: Artifact:교육교재: 15 mini seconds publishing element
+Info: Artifact:정비된데이터: 16 mini seconds publishing element
+Info: Task:교육결과서 작성: 15 mini seconds publishing element
+Info: Task:교육교재 작성: 32 mini seconds publishing element
+Info: Task:네비게이션정의서 작성: 15 mini seconds publishing element
+Info: Task:논리 ERD 작성: 31 mini seconds publishing element
+Info: Task:메뉴구조도 작성: 16 mini seconds publishing element
+Info: Task:배치목록 작성: 31 mini seconds publishing element
+Info: Task:분석 보고서목록 작성: 31 mini seconds publishing element
+Info: Task:분석 보고서정의서 작성: 16 mini seconds publishing element
+Info: Task:분석 시스템인터페이스정의서 작성: 46 mini seconds publishing element
+Info: Task:분석 화면목록 작성: 16 mini seconds publishing element
+Info: Task:분석 화면정의서 작성: 31 mini seconds publishing element
+Info: Task:사용자매뉴얼 작성: 16 mini seconds publishing element
+Info: Task:시스템인터페이스목록 작성: 47 mini seconds publishing element
+Info: Task:자료사전 작성: 31 mini seconds publishing element
+Info: Task:정비된데이터 생성: 31 mini seconds publishing element
+Info: Task:컨버전대상목록 작성: 16 mini seconds publishing element
+Info: Task:개념기술인프라아키텍처 작성: 46 mini seconds publishing element
+Info: Task:설계 시스템인터페이스정의서 작성: 32 mini seconds publishing element
+Info: Task:개념소프트웨어아키텍처 작성: 46 mini seconds publishing element
+Info: Task:배치프로그램명세서 작성: 32 mini seconds publishing element
+Info: Task:배포정의서 작성: 46 mini seconds publishing element
+Info: Task:배포파일 생성: 32 mini seconds publishing element
+Info: Task:설계 보고서목록 작성: 78 mini seconds publishing element
+Info: Task:설계 보고서정의서 작성: 46 mini seconds publishing element
+Info: Task:설계 시퀀스다이어그램 작성: 32 mini seconds publishing element
+Info: Task:설계 화면목록 작성: 62 mini seconds publishing element
+Info: Task:설계 화면정의서 작성: 62 mini seconds publishing element
+Info: Task:실행아키텍처 구축: 32 mini seconds publishing element
+Info: Task:아키텍처설계방향정의서 작성: 31 mini seconds publishing element
+Info: Task:통합테스트결함보고서 작성: 31 mini seconds publishing element
+Info: Task:소프트웨어아키텍처설계서 작성: 31 mini seconds publishing element
+Info: Task:실행아키텍쳐구축결과서 작성: 31 mini seconds publishing element
+Info: Task:개념데이터아키텍처 작성: 47 mini seconds publishing element
+Info: Task:데이터아키텍처설계서 작성: 31 mini seconds publishing element
+Info: Task:아키텍처기술표준정의서 작성: 16 mini seconds publishing element
+Info: Task:컨버전계획서 작성: 31 mini seconds publishing element
+Info: Artifact:데이터베이스: 16 mini seconds publishing element
+Info: Artifact:소프트웨어: 15 mini seconds publishing element
+Info: Artifact:컨버전된데이터: 16 mini seconds publishing element
+Info: Task:기술인프라아키텍쳐설계서 작성: 16 mini seconds publishing element
+Info: Task:데이터베이스 생성: 16 mini seconds publishing element
+Info: Task:소프트웨어 설치: 31 mini seconds publishing element
+Info: Task:시스템테스트결과보고서 작성: 31 mini seconds publishing element
+Info: Task:시스템테스트결함보고서 작성: 31 mini seconds publishing element
+Info: Task:컨버전된데이터 생성: 32 mini seconds publishing element
+Info: Discipline:분석 업무모델: 15 mini seconds publishing element
+Info: Task:데이터코드목록 작성: 16 mini seconds publishing element
+Info: Task:데이터코드정의서 작성: 31 mini seconds publishing element
+Info: Task:물리 ERD 작성: 31 mini seconds publishing element
+Info: Task:컨버전설계서 작성: 31 mini seconds publishing element
+Info: Task:코드매핑정의서 작성: 32 mini seconds publishing element
+Info: Task:테이블매핑정의서 작성: 31 mini seconds publishing element
+Info: Task:테이블목록 작성: 15 mini seconds publishing element
+Info: Task:테이블정의서 작성: 16 mini seconds publishing element
+Info: Domain:비즈니스모델: 16 mini seconds publishing element
+Info: Domain:아키텍처모델: 15 mini seconds publishing element
+Info: Role:리드아키텍트: 47 mini seconds publishing element
+Info: Domain:이행모델: 16 mini seconds publishing element
+Info: Role:프로젝트관리자: 31 mini seconds publishing element
+Info: Domain:분석모델: 15 mini seconds publishing element
+Info: Domain:테스트모델: 16 mini seconds publishing element
+Info: Role:개발자: 46 mini seconds publishing element
+Info: Role:데이터아키텍트: 78 mini seconds publishing element
+Info: Task:소스코드 작성: 47 mini seconds publishing element
+Info: Domain:개발모델: 16 mini seconds publishing element
+Info: Artifact:시스템인터페이스정의서: 15 mini seconds publishing element
+Info: Task:시스템인터페이스정의서 작성: 16 mini seconds publishing element
+Info: Role:프로젝트리더: 47 mini seconds publishing element
+Info: Artifact:QAW품질속성시나리오: 15 mini seconds publishing element
+Info: Artifact:기존시스템데이터: 16 mini seconds publishing element
+Info: Artifact:데이터목록: 16 mini seconds publishing element
+Info: Artifact:사용자계층도: 15 mini seconds publishing element
+Info: Artifact:시스템인터페이스요구사항정의서: 16 mini seconds publishing element
+Info: Artifact:이해당사자계층도: 15 mini seconds publishing element
+Info: Discipline:분석 패키지모델: 16 mini seconds publishing element
+Info: Discipline:설계 테스트모델: 16 mini seconds publishing element
+Info: Discipline:인수테스트모델: 0 mini seconds publishing element
+Info: Role:인수책임자: 358 mini seconds publishing element
+Info: Role:테스터: 16 mini seconds publishing element
+Info: Role:테스트관리자: 31 mini seconds publishing element
+Info: Artifact:인수테스트결과: 15 mini seconds publishing element
+Info: Discipline:통합테스트모델: 0 mini seconds publishing element
+Info: Role:테스트엔지니어: 47 mini seconds publishing element
+Info: Discipline:단위테스트모델: 16 mini seconds publishing element
+Info: Artifact:단위테스트코드: 15 mini seconds publishing element
+Info: Domain:업무문서: 16 mini seconds publishing element
+Info: Role:UI기획자: 31 mini seconds publishing element
+Info: Discipline:As-is비즈니스모델: 16 mini seconds publishing element
+Info: Discipline:To-be비즈니스모델: 0 mini seconds publishing element
+Info: Discipline:이행계획모델: 15 mini seconds publishing element
+Info: Artifact:계약서: 16 mini seconds publishing element
+Info: Artifact:제안서: 16 mini seconds publishing element
+Info: Discipline:시범운영모델: 15 mini seconds publishing element
+Info: Discipline:개발 아키텍처모델: 16 mini seconds publishing element
+Info: Discipline:시스템사용교육모델: 15 mini seconds publishing element
+Info: Artifact:SPM: 16 mini seconds publishing element
+Info: Discipline:컨버전및릴리이즈모델: 0 mini seconds publishing element
+Info: Artifact:소스코드: 31 mini seconds publishing element
+Info: Artifact:운영시스템: 16 mini seconds publishing element
+Info: Artifact:수행계획서: 15 mini seconds publishing element
+Info: Discipline:인터뷰모델: 16 mini seconds publishing element
+Info: Artifact:용어사전: 16 mini seconds publishing element
+Info: Discipline:개념 아키텍처모델: 15 mini seconds publishing element
+Info: Discipline:분석 화면모델: 16 mini seconds publishing element
+Info: Discipline:분석 데이터모델: 15 mini seconds publishing element
+Info: Discipline:분석 배치모델: 0 mini seconds publishing element
+Info: Discipline:시스템인터페이스모델: 16 mini seconds publishing element
+Info: Role:고객: 437 mini seconds publishing element
+Info: Discipline:비기능요구모델: 15 mini seconds publishing element
+Info: Artifact:RFP: 16 mini seconds publishing element
+Info: Artifact:아키텍처기술표준정의서: 16 mini seconds publishing element
+Info: Discipline:설계 배치모델: 15 mini seconds publishing element
+Info: Discipline:배포모델: 16 mini seconds publishing element
+Info: Artifact:배포파일: 15 mini seconds publishing element
+Info: Discipline:설계 화면모델: 16 mini seconds publishing element
+Info: Artifact:실행아키텍쳐: 16 mini seconds publishing element
+Info: Discipline:설계 아키텍처모델: 0 mini seconds publishing element
+Info: Discipline:시스템테스트모델: 15 mini seconds publishing element
+Info: Discipline:설계 데이터모델: 16 mini seconds publishing element
+Info: Artifact:단위테스트계획서: 15 mini seconds publishing element
+Info: Artifact:인수테스트계획서: 16 mini seconds publishing element
+Info: Artifact:통합테스트계획서: 16 mini seconds publishing element
+Info: Discipline:코딩모델: 0 mini seconds publishing element
+Info: Task:QAW품질속성시나리오 작성: 31 mini seconds publishing element
+Info: Task:기존시스템데이터 도출: 0 mini seconds publishing element
+Info: Task:데이터목록 작성: 15 mini seconds publishing element
+Info: Task:시스템인터페이스요구사항정의서 작성: 16 mini seconds publishing element
+Info: Task:이해당사자계층도 작성: 16 mini seconds publishing element
+Info: Task:단위테스트계획서 작성: 15 mini seconds publishing element
+Info: Task:인수테스트계획서 작성: 16 mini seconds publishing element
+Info: Task:통합테스트계획서 작성: 31 mini seconds publishing element
+Info: Artifact:EA,ISP산출물: 16 mini seconds publishing element
+Info: Artifact:고객사용전표: 15 mini seconds publishing element
+Info: Artifact:고객업무규정: 16 mini seconds publishing element
+Info: Artifact:고객업무흐름도: 15 mini seconds publishing element
+Info: Artifact:고객조직도: 16 mini seconds publishing element
+Info: Artifact:업무문서: 0 mini seconds publishing element
+Info: Artifact:업무범위서: 16 mini seconds publishing element
+Info: Task:계약서 작성: 15 mini seconds publishing element
+Info: Task:제안서 작성: 16 mini seconds publishing element
+Info: Task:SPM 작성: 15 mini seconds publishing element
+Info: Task:수행계획서 작성: 0 mini seconds publishing element
+Info: Task:용어사전 작성: 16 mini seconds publishing element
+Info: Task:RFP 작성: 16 mini seconds publishing element
+Info: Task:EA,ISP산출물 작성: 0 mini seconds publishing element
+Info: Task:고객사용전표 작성: 15 mini seconds publishing element
+Info: Task:고객업무규정 작성: 16 mini seconds publishing element
+Info: Task:고객업무흐름도 작성: 0 mini seconds publishing element
+Info: Task:고객조직도 작성: 16 mini seconds publishing element
+Info: Task:업무문서 작성: 0 mini seconds publishing element
+Info: Task:업무범위서 작성: 78 mini seconds publishing element
+Info: : Publishing time: 1 minutes 31 seconds

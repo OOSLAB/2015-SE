@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-dFuBHiAc1GjudmUfBfjL2A"
+    name=",_Nu5EMJxZEd2IZdao1IJ_iw" guid="-dFuBHiAc1GjudmUfBfjL2A" changeDate="2009-02-26T01:35:28.796+0900">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;굴림&quot;>수행 가이드(Task Guideline)&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>어플리케이션 아키텍처 측면에서는 어플리케이션 Layer구조, 어플리케이션 통합 구조, 어플리케이션 런타임 구조, 어플리케이션 배포 구조 관점에서 표현할 수 있으며, 프로젝트&#xD;
+        상황에 따라 다양한 뷰의 추가가 가능하다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>어플리케이션 Layer 구조는 유지보수성 및 기타 품질 속성, 시스템의 복잡도를 고려하여 역할 혹은 재사용관점에서 Layer 구조를 설계한다.&lt;/font> &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>Layer는 시스템의 구성요소인 Object 또는 컴포넌트를 역할 혹은 재사용관점에서 묶은 집합단위로서, Layer간의 관계는 allow-to-use관계를 의미하며&#xD;
+                하위 Layer에서 상위 Layer를 사용할 수 없도록 설계한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>각 Layer에 대해서는 Layer 내부를 구성하는 디자인 패턴 및 구성요소를 식별하여 그들간의 관계를 표현한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>어플리케이션 Layer 구조는 설계 패키지 구성에 많은 영향을 미치므로 설계 패키지 구성방안을 제공한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>어플리케이션 Layer 구조는 개발관점에서 어플리케이션의 소프트웨어 구조를 표현하여 디자인 모델 정의 시 충분히 활용할 수 있도록 설계한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>어플리케이션 통합(Integration) 구조는 어플리케이션 통합이 주요 이슈여서 이해당사자의 관심이 큰 경우, 즉 뷰로 정의된 경우 어플리케이션 Integration관점에서&#xD;
+        구조를 정의한다. 어플리케이션 통합(Integration) 구조는 어플리케이션과 외부 구성요소와의 상호작용 및 연계를 파악하여 연계 유형을 정의하고 연계관계를 표현한다.&lt;/font> &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>어플리케이션 통합은 통합 대상의 범위, 업무 및 시스템의 특성(대내/대외 네트워크, 기술플랫폼 등), 인프라 등을 고려하여 설계하며, 어플리케이션 통합 구조에서는&#xD;
+                어플리케이션 통합 방식, 커뮤니케이션 방식을 결정하여야 하고, 커뮤니케이션 방식이 메시지 기반인 경우에는 메시지 포맷을 결정해야 한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>어플리케이션 통합 방식에는 시스템의 특성 및 인프라에 의해 Point-to-Point방식, Integration Hub방식, Transactional방식,&#xD;
+                Managed Process방식을 적용할 수 있으며 복합 적용할 수 있다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>Point-to-Point방식은 어플리케이션 통합 인프라가 구축되지 않거나 성능이 주요 이슈인 업무에 한해 두 어플리케이션 간의 커넥터(Connector) 또는&#xD;
+                어댑터(Adapter)를 이용하여 적용할 수 있다. 이 방식은 두 어플리케이션의 의존도가 높으며 통합 대상이 늘어갈 수록 인터페이스의 수가 기하급수적으로 늘어서 스파케티 형태가 되는 문제가&#xD;
+                있다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>Integration Hub방식은 주로 EAI가 적용된 경우에 적용되며, 이기종 Platform과 프로토콜을 지원해야 할 경우나 지역적으로 원격지에 있는&#xD;
+                Application간 연동을 해야 하는 경우에 유용하며, 또한 Loosely Coupled 구조로 통합할 수 있기 때문에 어플리케이션의 변경을 최소화하여 통합할 수 있다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>Transactional방식은 한 트랜잭션이 여러 Application과 연동하여 Unit of Work&amp;nbsp; 단위로 처리해야 할 경우, 즉 분산트랜잭션이&#xD;
+                있는 경우에 적용된다. 이러한 경우, Application server와 같은 미들웨어 기반으로 구성되며 어플리케이션이 동일 미들웨어 상에 구동되는 경우 가능하다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>Managed Process방식은 BPM (Business Process Management) 솔루션이 적용되어 여러 단위 비즈니스 프로세스들을 하나의 프로세스로&#xD;
+                통합 관리하는 경우나 각 단위 프로세스들간에 Workflow가 필요할 경우에 적용된다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>어플리케이션 통합 구조는 어플리케이션과 외부 구성요소간의 관계 파악 및 인터페이스 설계 및 유지보수 시에 충분히 활용될 수 있도록 설계한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>어플리케이션 런타임 구성은 어플리케이션의 런타임 구성요소를 정의하여 실행관점에서 구성요소간의 처리흐름을 표현한다.&lt;/font> &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>런타임 구성요소에는 런타임 시에 나타나는 Thread와 같은 런타임 Entity도 포함된다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>런타임 구성은 처리 유형이 다양한 경우에는 주요 트랜잭션 처리흐름을 도출하여 유형별로 구성요소간의 동적인 관계인 관계를 표현한다. 트랜잭션 유형이 복잡한 경우에는&#xD;
+                설계 메커니즘 부분에 상세화하여 표현할 수 있다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>런타임 구성도는 시스템 실행 시의 특징을 보여주고, 단위 테스트나 유지보수 시에 런타임 플랫폼이 시스템에 어떻게 영향을 주는 지에 대해 파악이 가능한 수준으로&#xD;
+                설계한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>어플리케이션 배포 구조는 물리적인 노드와 어플리케이션 구성요소의 배포 관계를 표현한 것으로서, 서브시스템 단위, 컴포넌트 단위의 배포 관계를 정의한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>어플리케이션 배포 구조 정의 시, 배포의 단위는 서브시스템 단위로 지정하며, 컴포넌트 단위로 배포가 달라지는 경우에는 컴포넌트 단위로 표현하도록 한다. 서브시스템&#xD;
+                단위로 지정된 경우, 본 어플리케이션 배포 구조를 바탕으로, 업무 분석/설계 결과에 따라 물리적인 컴포넌트 단위로 배포구조를 재정의한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>어플리케이션 배포 구조를 바탕으로 물리적인 패키징 단위를 결정할 수 있도록 어플리케이션 패키징 방안을 제시한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>설계 메커니즘 정의는 시스템적으로 동일한 문제에 대한 해결방안을 제시한 것으로서, 대부분의 경우, 뷰 정의 시 설계가 가능하나, 특정 뷰에 한정해서 설계가 어려운 경우나 특정&#xD;
+        영역에 대해 상세화가 필요한 경우에는 별도로 수행한다. 어플리케이션 보안이나, COTS적용방안, 시스템적인 공통 기능 설계방안 등은 해당 영역에 중점을 두어 별도로 수행하는 것이 효율적이다. 또한 시스템간의&#xD;
+        연계가 발생하나 어플리케이션 통합 구조를 정의하지 않은 경우에는 연계 처리 방안 내용 또한 포함되어야 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>설계 메커니즘 요소는 시스템의 특징에 따라 매우 다양하여 정형화가 어려운 부분이므로, 시스템 전체적으로 영향을 주는 요소 및 기술적으로 구현이 어려운 요소를 식별하여&#xD;
+        아키텍처적으로 해결방안을 제시하도록 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>소프트웨어적인 측면의 설계 메커니즘 요소는 대부분 어플리케이션 프레임워크에서 제공해주는 것이 일반적이므로, 프레임워크의 선택이 중요하다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>어플리케이션 보안은 인증, 권한 관리, 어플리케이션 암호화, 감사(책임추적성), 컨텐츠 보안, 데이터 처리 보안 등이 있으며 분산구조를 고려하여 보안방안을 마련하여야 하며, 또한&#xD;
+        코딩 측면에서의 어플리케이션 보안 방안을 제공해야 한다. 어플리케이션 보안은 인프라적인 요소와 깊은 관련이 있으므로 TA와 협업하여 정의하도록 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>어플리케이션 아키텍처의 일부(컴포넌트아키텍처 등)은 업무파트에서 작성되므로 SA는 해당 태스크에 적극적으로 참여하고 어플리케이션 아키텍처의 완성도를 높일 수 있도록 하며, 해당&#xD;
+        뷰를 어플리케이션 아키텍처 설계서상에 포함시킬 지의 여부는 프로젝트의 상황에 따라 결정하도록 한다. 포함시키는 경우에는 일관성 유지에 어려움이 있을 수 있다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <sections xmi:id="_QeuHgJxZEd2IZdao1IJ_iw" name="SA는 관점에 따라 어플리케이션 아키텍처를 구조를 정의하고 구성요소와 구성요소간의 관계 및 구성요소에 대한 설계방안을 정의한다."
+      guid="_QeuHgJxZEd2IZdao1IJ_iw">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        어플리케이션의 Layer 구조를 설계한다.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        어플리케이션 통합 구조를 설계한다.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        어플리케이션 런타임 구조를 설계한다.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        어플리케이션 배포 구조를 설계한다.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_R3YjkJxZEd2IZdao1IJ_iw" name="SA는 어플리케이션 아키텍처의 설계 메커니즘을 정의한다."
+      guid="_R3YjkJxZEd2IZdao1IJ_iw">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        소프트웨어 관점에서 상세화할 설계 요소 즉, 설계 메커니즘 요소를 식별한다. 설계 메커니즘 요소에는 어플리케이션 보안, 시스템적인 공통 기능 설계방안, COTS적용방안 등이 포함된다.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        식별된 설계 메커니즘 요소에 대한 설계 방안을 정의한다.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_TNNuEJxZEd2IZdao1IJ_iw" name="SA는 어플리케이션 아키텍처 구성요소별 설계방안을 통합하여 정합성을 검토한다."
+      guid="_TNNuEJxZEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_Us4xEJxZEd2IZdao1IJ_iw" name="PL은 타 아키텍처와의 상호 정합성을 검토한다." guid="_Us4xEJxZEd2IZdao1IJ_iw"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>관점에&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>따라&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>어플리케이션&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>아키텍처&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>구조를&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>정의하고&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>구성요소와&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>구성요소간의&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>관계&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>및&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>구성요소에&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>대한&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>설계&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>메커니즘을&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>정의한다&lt;/span>&lt;span&#xD;
+ lang=&quot;EN-US&quot;&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA; mso-fareast-font-family: 굴림&quot;>.&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

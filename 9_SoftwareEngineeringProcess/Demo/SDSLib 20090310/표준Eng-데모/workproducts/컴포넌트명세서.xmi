@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-20G0ITip7ZhlsatJKoDjBQ"
+    name="new_artifact,_DhY-oJO3Ed2QOZMWcM0ZMQ" guid="-20G0ITip7ZhlsatJKoDjBQ" changeDate="2008-10-06T23:58:36.796+0900">
+  <mainDescription>리턴값, 예외처리, 오퍼레이션명, 컴포넌트 개요, 컴포넌트 내부 구성요소, 컴포넌트 유형, 컴포넌트명, 파라메터, provided interface명</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

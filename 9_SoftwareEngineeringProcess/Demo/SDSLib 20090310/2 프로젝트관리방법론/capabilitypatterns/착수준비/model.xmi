@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_yPpX4fZMEd2OhLPIr_EKbA"
+      guid="_yPpX4fZMEd2OhLPIr_EKbA">
+    <resourceDescriptors xmi:id="_yPpX4vZMEd2OhLPIr_EKbA" id="-eyxMws98BERVgOY3ezFCpw"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_yOmPAPZMEd2OhLPIr_EKbA" name="착수준비"
+      guid="_yOmPAPZMEd2OhLPIr_EKbA">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_7zo2oPZMEd2OhLPIr_EKbA"
+        name="개발전략 수립" guid="_7zo2oPZMEd2OhLPIr_EKbA" presentationName="개발전략 수립" superActivities="_yOmPAfZMEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_RqWXAMvWEd2so6-cDXaTSQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_7zo2ofZMEd2OhLPIr_EKbA"
+        name="수행환경 구축" guid="_7zo2ofZMEd2OhLPIr_EKbA" presentationName="수행환경 구축" superActivities="_yOmPAfZMEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_eWKiUMvWEd2so6-cDXaTSQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_7zo2ovZMEd2OhLPIr_EKbA"
+        name="표준및절차매뉴얼(SPM) 작성" guid="_7zo2ovZMEd2OhLPIr_EKbA" presentationName="표준및절차매뉴얼(SPM) 작성"
+        superActivities="_yOmPAfZMEd2OhLPIr_EKbA" output="_7zo2o_ZMEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_quXjSssUEd2VS4iuY7h1kQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_7zo2o_ZMEd2OhLPIr_EKbA"
+        name="표준및절차매뉴얼(SPM)" guid="_7zo2o_ZMEd2OhLPIr_EKbA" presentationName="표준및절차매뉴얼(SPM)"
+        isPlanned="false" superActivities="_yOmPAfZMEd2OhLPIr_EKbA">
+      <WorkProduct href="uma://_2SE8oMWmEd2eFf4iygnyuw#_quXjS8sUEd2VS4iuY7h1kQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_fOZfEPZNEd2OhLPIr_EKbA"
+        name="실무고객협의체 식별 및 구성" guid="_fOZfEPZNEd2OhLPIr_EKbA" presentationName="실무고객협의체 식별 및 구성"
+        superActivities="_yOmPAfZMEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_WIjWIMJeEd2gouL4w_6FfA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_fOZfEfZNEd2OhLPIr_EKbA"
+        name="업무범위 정의" guid="_fOZfEfZNEd2OhLPIr_EKbA" presentationName="업무범위 정의" superActivities="_yOmPAfZMEd2OhLPIr_EKbA"
+        output="_fOZfEvZNEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_quXjSMsUEd2VS4iuY7h1kQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_fOZfEvZNEd2OhLPIr_EKbA"
+        name="업무범위기술서" guid="_fOZfEvZNEd2OhLPIr_EKbA" presentationName="업무범위기술서" isPlanned="false"
+        superActivities="_yOmPAfZMEd2OhLPIr_EKbA">
+      <WorkProduct href="uma://_2SE8oMWmEd2eFf4iygnyuw#_quXjR8sUEd2VS4iuY7h1kQ"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_yOmPAfZMEd2OhLPIr_EKbA"
+        name="착수준비" guid="_yOmPAfZMEd2OhLPIr_EKbA" presentationName="착수준비" breakdownElements="_7zo2ovZMEd2OhLPIr_EKbA _7zo2oPZMEd2OhLPIr_EKbA _7zo2ofZMEd2OhLPIr_EKbA _7zo2o_ZMEd2OhLPIr_EKbA _fOZfEPZNEd2OhLPIr_EKbA _fOZfEfZNEd2OhLPIr_EKbA _fOZfEvZNEd2OhLPIr_EKbA">
+      <presentation xmi:id="-eyxMws98BERVgOY3ezFCpw" href="uma://-eyxMws98BERVgOY3ezFCpw#-eyxMws98BERVgOY3ezFCpw"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

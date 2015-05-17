@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-TVdzMnkttMJBus6W9wNynQ"
+    name="As-is비즈니스다이어그램 작성,_y5MZcMWfEd2eFf4iygnyuw" guid="-TVdzMnkttMJBus6W9wNynQ"
+    changeDate="2009-03-10T16:35:32.546+0900">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;굴림&quot;>[&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../SDSEng_MethodContent_Core/tasks/%C561%D2F0%BE44%D2F0%B2E4%C774%C5B4%ADF8%B7A8%20%C791%C131_A2173510.html&quot;&#xD;
+    guid=&quot;_TQqXQKAVEd2n5q0acG373A&quot;>액티비티다이어그램 작성&lt;/a>]&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&lt;font face=&quot;굴림&quot;>수행 가이드(Task Guideline)&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>현행 업무 흐름을 파악을 위해 인터뷰 대상 및 기간을 선정하고 계획을 수립하여 인터뷰를 실시한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>인터뷰 또는 업무 분석 중 진행된 담당자들과의 회의는 현행 업무 분석에서 얻지 못한 정보를 도출하는데 활용된다. 이러한 인터뷰의 결과 또는 회의록은 전체 도메인에서 관심 영역을&#xD;
+        파악하기 위한 중요한 활동으로 시스템 개발의 시작점이 된다. 단, 인터뷰의 결과나 회의록은 해당 업무 범위를 시스템화 하는데 필요이상 또는 불충분한 정보를 담고 있으므로 비즈니스프로세스 모델링을 통해서&#xD;
+        정제된 결과를 시스템 요구사항으로 도출해야 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>현업 담당자는 실제 업무에 대한 경험이 풍부한 사람으로 엄선하고, 업무 흐름 및 수행절차, 문제점 등을 분석/설계자와 함께 도출하고 검증하며, 원활한 업무 분석 작업을 지원하기&#xD;
+        위해 사용자 부서와의 조정 및 중재 역할을 담당한다. 그리고 액티비티다이어그램을 현업 담당자가 직접 작성하도록 하는 것도 좋은 방법이다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>현업부서(조직)별 담당업무는 가능한 동일한 상세수준으로 분류하도록 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <sections xmi:id="_bBMiU_mrEd2JRcy3PiAHxw" name="고객의 현업 업무 조직도를 이용하여 업무 역할별로 현업부서(조직) 담당자와 담당자가 수행하는 담당업무를 파악한다."
+      guid="_bBMiU_mrEd2JRcy3PiAHxw"/>
+  <sections xmi:id="_bBMiUvmrEd2JRcy3PiAHxw" name="부서(조직)별로 수행하는 담당업무를 보다 상세하게 파악하기 위해 관련자료를 수집하여 검토한다."
+      guid="_bBMiUvmrEd2JRcy3PiAHxw"/>
+  <sections xmi:id="_bBMiVPmrEd2JRcy3PiAHxw" name="고객의 현재 업무 영역 별로 주요 비즈니스 프로세스를 정의하고, 해당 프로세스를 구성하거나 관련 있는 액티비티를 도출한다."
+      guid="_bBMiVPmrEd2JRcy3PiAHxw"/>
+  <sections xmi:id="_bBMiUfmrEd2JRcy3PiAHxw" name="비즈니스 프로세스 별로 도출된 액티비티와 액티비티 간의 업무 처리흐름을 정의한다."
+      guid="_bBMiUfmrEd2JRcy3PiAHxw"/>
+  <sections xmi:id="_bBMiUPmrEd2JRcy3PiAHxw" name="현업부서(조직) 담당자로부터 해당 담당업무에 대한 개선점을 파악한다."
+      guid="_bBMiUPmrEd2JRcy3PiAHxw"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-family: 바탕체; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>현행&#xD;
+업무 프로세스을 파악하고 개선점을 도출한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

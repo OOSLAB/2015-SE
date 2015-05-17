@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-yan65bVvrmgRdlpzNtEpyw"
+    name="new_artifact,_sEn7wJPCEd2QOZMWcM0ZMQ" guid="-yan65bVvrmgRdlpzNtEpyw" changeDate="2009-02-27T02:45:40.625+0900">
+  <mainDescription>&lt;P>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>주요 작성항목&lt;/SPAN>&lt;/P>&#xD;
+&lt;OL>&#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>작성자/작성일 : 작성내용이 명확하지 않은 경우 작성자에게 작성내용의 의미를 확인하고, 작성내용에 대한 작성일을 확인하기 위한 목적으로 작성자와 작성일을 기재한다. &lt;/SPAN>&#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>대표 시나리오 ID : 관련 유스케이스들을 커버할 수 있는 대표 시나리오 ID를 입력한다.&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>시스템명 : 해당하는 서브시스템의 이름을 입력한다. 여러가지 서브시스템에 걸쳐 작성된 경우 대표 업무명을 입력 한다. &lt;/SPAN>&#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>작성자/작성일 : 시나리오를 작성한 작성자와 최종 작성 완료된 작성일을 기록한다.&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>관련 Usecase ID : 본 시나리오에 포함되는 유스케이스들의 ID를 입력한다.&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>테스트 수행자/수행일 : 테스트수행자의 성명을 입력하고 결함수정, 재테스트를 포함하는 테스트 완료일을 입력한다.&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>테스트 차수 :여러 차수에 걸쳐서 테스트를 수행할 때에 필요하며, 1차인 경우 1, 2차인 경우 2의 형태로 기록하도록 한다.&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>관련 Usecase 명 : 본 시나리오에 포함되는 유스케이스들의 명을 위에서 입력 Usecase ID 순서대로 입력한다.&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>테스트사전조건 : 해당 시나리오 ID의 테스트가 수행되기 위한 전제 조건을 기록한다. 없는 경우 공란으로 두어도 무방하다.&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>시나리오 ID : 관련 유스케이스 기준으로 한 건 씩 시나리오 ID를 입력한다.&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;># : 시나리오 ID에 해당하는 케이스 번호를 입력한다. 시나리오 ID가 바뀌면 1번 부터 다시 일련번호를 입력한다.&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>화면명 : 테스트 대상이 되는 화면명을 입력한다.&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>테스트절차 : 해당 테스트케이스에 대한 테스트절차를 기술한다.&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>테스트 데이터 : 테스트 조건(입력값)을 입력한다. 테스트케이스 절차는 동일하나 테스트데이터가 다수의 케이스를 갖는 경우 별도의 시트를 작성하여 연결한다.&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>예상결과 : 예상결과를 입력한다. 시험 데이터를 별도로 작성한 경우 해당 시트에 예상결과도 함께 표시한다.&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>테스트 결과 : 테스트 수행 결과 정상인 경우에는 &quot;P&quot;, 결함이 발생했을 경우에는 결함번호를 기록할 공간으로, 시나리오 작성 시에는 공란으로 둔다.&lt;/SPAN> &#xD;
+&lt;LI>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>비고 : 테스트 수행하기 위해 참고할 만한 사항을 기록한다.&lt;BR>&lt;/SPAN>&lt;/LI>&lt;/OL>&#xD;
+&lt;P>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>산출물 상태에 따른 작성항목&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;TABLE class=MsoTableGrid style=&quot;BORDER-RIGHT: medium none; BORDER-TOP: medium none; MARGIN: auto auto auto 32.4pt; BORDER-LEFT: medium none; WIDTH: 423pt; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext&quot; cellSpacing=0 cellPadding=0 width=564 border=1>&#xD;
+&lt;TBODY>&#xD;
+&lt;TR style=&quot;mso-yfti-irow: 0; mso-yfti-firstrow: yes&quot;>&#xD;
+&lt;TD style=&quot;BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5.4pt; BACKGROUND: #cccccc; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 1pt solid; WIDTH: 45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt&quot; vAlign=top width=60>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center&quot; align=center>&lt;B style=&quot;mso-bidi-font-weight: normal&quot;>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>상태&lt;SPAN lang=EN-US>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/B>&lt;/P>&lt;/TD>&#xD;
+&lt;TD style=&quot;BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5.4pt; BACKGROUND: #cccccc; PADDING-BOTTOM: 0cm; BORDER-LEFT: #d4d0c8; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt&quot; vAlign=top width=264>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center&quot; align=center>&lt;B style=&quot;mso-bidi-font-weight: normal&quot;>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>설명&lt;SPAN lang=EN-US>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/B>&lt;/P>&lt;/TD>&#xD;
+&lt;TD style=&quot;BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5.4pt; BACKGROUND: #cccccc; PADDING-BOTTOM: 0cm; BORDER-LEFT: #d4d0c8; WIDTH: 180pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt&quot; vAlign=top width=240>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: center&quot; align=center>&lt;B style=&quot;mso-bidi-font-weight: normal&quot;>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>작성항목&lt;SPAN lang=EN-US>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/B>&lt;/P>&lt;/TD>&lt;/TR>&#xD;
+&lt;TR style=&quot;mso-yfti-irow: 1; mso-yfti-lastrow: yes&quot;>&#xD;
+&lt;TD style=&quot;BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: #d4d0c8; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: windowtext 1pt solid; WIDTH: 45pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt&quot; vAlign=top width=60>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>결과&lt;SPAN lang=EN-US>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&lt;/TD>&#xD;
+&lt;TD style=&quot;BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: #d4d0c8; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: #d4d0c8; WIDTH: 198pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt&quot; vAlign=top width=264>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 0cm; mso-list: l0 level1 lfo1; tab-stops: list 8.5pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 8pt; FONT-FAMILY: Wingdings; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: Wingdings; mso-fareast-font-family: Wingdings&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>n&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>테스트결과&lt;SPAN lang=EN-US>, &lt;/SPAN>비고가 기술된 상태&lt;SPAN lang=EN-US>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&lt;/TD>&#xD;
+&lt;TD style=&quot;BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: #d4d0c8; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0cm; BORDER-LEFT: #d4d0c8; WIDTH: 180pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt&quot; vAlign=top width=240>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>테스트결과&lt;SPAN lang=EN-US>, &lt;/SPAN>비고&lt;SPAN lang=EN-US>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&lt;/TD>&lt;/TR>&lt;/TBODY>&lt;/TABLE>&#xD;
+&lt;P>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;/SPAN>&lt;/SPAN>&amp;nbsp;&lt;/P></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>작성시&#xD;
+    고려사항&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         class=&quot;S1Char&quot;>&lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-font-kerning: 1.0pt&quot;>여러 개의 유스케이스들의 조합으로&#xD;
+        구성되는 비즈니스 흐름에 대한 테스트시나리오는 유스케이스 크기 수준으로 정의된 액티비티의 흐름을 나타내는 액티비티다이어그램에서 정의된 비즈니스 프로세스 수준으로 작성하며&lt;span&#xD;
+        lang=&quot;EN-US&quot;>,&lt;/span> 유스케이스 &lt;span lang=&quot;EN-US&quot;>ID&lt;/span>와 유스케이스명에 포함된 유스케이스 &lt;span lang=&quot;EN-US&quot;>ID&lt;/span>와 유스케이스명을&#xD;
+        기술한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+  <impactOfNotHaving>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>미작성시&#xD;
+    영향&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>시스템이&#xD;
+        전체 기능적 요구사항을 포함하고, 요구사항에 따라 정상적으로 구현 되었는지 검증하기 어렵다.&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>단위업무간&#xD;
+        처리흐름을 거친 데이터의 정확성을 검증하기 어렵다.&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>테스트를&#xD;
+        통해 발견된 에러를 재현하기가 어렵다. 따라서 초기 결함이 발견된 순서대로 테스트를 재 수행할 수 없으므로 결함이 수정된 후에도 이를 확신할 수 없다.&lt;br />&#xD;
+        &lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></impactOfNotHaving>
+  <reasonsForNotNeeding>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>작성이&#xD;
+    불필요한 경우&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>통합테스트&#xD;
+        시나리오는 반드시 작성하도록 한다.&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></reasonsForNotNeeding>
+  <representationOptions>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>제출시&#xD;
+    고려사항&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>설계단계&#xD;
+        완료 시 고객의 승인을 득하여 테스트계획서의 베이스라인을 정한 후 변경관리 한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

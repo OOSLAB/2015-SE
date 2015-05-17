@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-jFLIjEkPfsr320eBbi_jJw"
+    name="물리 ERD 작성,_IQuNYMdxEd2wA9_TUU3fKA" guid="-jFLIjEkPfsr320eBbi_jJw" changeDate="2009-03-10T16:48:26.468+0900">
+  <mainDescription>&lt;P>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: Arial; mso-fareast-font-family: 굴림; mso-bidi-font-size: 10.0pt&quot;>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;FONT face=굴림>[&lt;a class=&quot;elementLink&quot; href=&quot;./../../SDSEng_MethodContent_Core/tasks/ERD 작성_BA940459.html&quot; guid=&quot;_zITn8Jm3Ed22hvYQtUyEZA&quot;>ERD 작성&lt;/a>]&lt;/FONT>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P>수행 가이드(Task Guideline) &lt;/P>&#xD;
+&lt;OL>&#xD;
+&lt;LI>컬럼의 길이는 DBMS의 제한에 맞도록 정의하며, 필요한 최대길이를 선정한다. &#xD;
+&lt;LI>컬럼의 이름, 타입, 길이는 자료사전을 참조하여 일관성을 갖도록 정의한다. &#xD;
+&lt;LI>컬럼들의 순서는 Not Null, 고정길이 컬럼들을 우선적으로 배치하여 물리적 공간의 사용효율을 높이도록 한다. &#xD;
+&lt;LI>슈퍼-서브(Super-Sub) 타입 관계의 테이블인 경우, 데이터의 특성 및 데이터 처리 성격에 따라 하나의 테이블로 통합하거나 서브타입마다 하나의 테이블로 분리하거나 슈퍼타입과 서브타입을 각각 테이블로 변환할 수 있다. &#xD;
+&lt;LI>논리 데이터 모델링에서 정규화된 테이블들을 성능을 고려하여 비정규화(De-Normalization) 작업을 통해 중복을 허용하도록 할 수도 있다. 하지만, 너무 많은 데이터의 중복을 허용하는 경우 데이터의 무결성을 보장하기 위한 오버헤드 비용이 훨씬 더 추가될 수 있으므로, 비정규화를 정규화 작업보다 우선하는 것은 주의해야 한다. &lt;/LI>&lt;/OL></mainDescription>
+  <sections xmi:id="_n0_s8AM8Ed6LQuHvYuPuYw" name="설계자는 자료사전을 참고하여 컬럼명을 정의하고 ERD(논리)를 ERD(물리)로 전환한다."
+      guid="_n0_s8AM8Ed6LQuHvYuPuYw"/>
+  <sections xmi:id="_oy-_MAM8Ed6LQuHvYuPuYw" name="설계자는 데이터베이스 시스템에 맞게 각 컬럼의 데이터 타입을 정의한다."
+      guid="_oy-_MAM8Ed6LQuHvYuPuYw"/>
+  <sections xmi:id="_p2o0kAM8Ed6LQuHvYuPuYw" name="데이터아키텍트(DA)는 ERD(물리)가 자료사전을 준수하는지, 각 컬럼의 데이터 타입이 데이터베이스 시스템에 맞게 정의되었는지 점검한다."
+      guid="_p2o0kAM8Ed6LQuHvYuPuYw"/>
+  <sections xmi:id="_rVafsAM8Ed6LQuHvYuPuYw" name="설계자는 데이터베이스 시스템의 특성 및 성능을 고려하여 물리적 데이터 모델을 튜닝한다."
+      guid="_rVafsAM8Ed6LQuHvYuPuYw"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>논리적&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>데이터&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>모델을&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>기초로&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>데이터베이스&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>시스템의&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>특성&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>및&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>성능을&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>고려하여&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>물리&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>데이터&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>모델을&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>설계한다&lt;/span>&lt;span&#xD;
+ lang=&quot;EN-US&quot;&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA; mso-fareast-font-family: 굴림&quot;>.&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-i86CBRlFcsZs_vDYeygFTA"
+    name="검수기준 수립,_KEChAOjiEd2lTK4h8EdsoQ" guid="-i86CBRlFcsZs_vDYeygFTA" changeDate="2008-12-15T13:57:24.625+0900">
+  <mainDescription>1. 검수 기준은 사업수행 결과가 과업과 일치하는지를 확인하여 고객이 승인하고 검수하는 기준을 말한다.&lt;br />&#xD;
+2.&amp;nbsp;검수기준 수립시기는 분석 단계에서 요구사항 정의와 함께 준비 및 수립하며, 고객과 검수 기준에 대한 확정시기는 프로젝트에 따라 변수가 있지만, 늦어도 설계단계 말 개발초에는 확정되어야 한다.&lt;br />&#xD;
+3. 검수 범위는 프로젝트 마다 다를 수 있고, 고객이 다른 검수 항목들 보다 우선적으로 생각하는 것은 구체적으로 다루어야 하는 경우, 고객과의 이견도 예상될 수 있음으로 내부적으로 충분히 검토하고 고객과 협의하는 것이&#xD;
+필수적이다.&lt;br />&#xD;
+4.&amp;nbsp;검수범위 결정시 고려할 점&lt;br />&#xD;
+-&amp;nbsp;산출물 : 프로젝트계획서에 기술된 산출물을 기준으로 한다.&lt;br />&#xD;
+-&amp;nbsp;요구사항 : 분석단계에서 확정된 요구사항을 기준으로 한다. &lt;br />&#xD;
+-&amp;nbsp;품질 부문 : 고객이 제시한 성능 목표가 존재하는 경우, 성능 목표와 성능 목표를 측정하는 방법을 기준으로 한다.&lt;br />&#xD;
+-&amp;nbsp;응용시스템 : 개발 완료된 프로그램이 요구사항을 반영하여 정상적 구현을 확인할 수 있는 방법을 기준으로 한다.&lt;br />&#xD;
+-&amp;nbsp;시스템인수인계 : 고객의 검수 요건인 경우엔 고객측 IT 운영팀의 독자적 운영을 위한 인수인계를 확인할 수 있는 방법을 기준으로 한다. &lt;br />&#xD;
+-&amp;nbsp;장비 부문 : 프로젝트계획서에 기술된 내역을 기준으로 한다.&lt;br />&#xD;
+-&amp;nbsp;교육 부문 : 프로젝트계획서에 기술된 교육과정을 기준으로 한다.&lt;br />&#xD;
+-&amp;nbsp;기타 부문 : 기타 비기능 요건으로 계약서나 구두상으로 제시된 사항들이나, 이외 고객이 중요시하는 사항을 기준으로 한다&lt;br /></mainDescription>
+  <sections xmi:id="_aY0EoMplEd2CAJ2o_vewag" name="검수 범위(검수 항목) 결정을 위해 계약서, 프로젝트계획서, 요구사항정의서를 기준으로 내부 검토한다"
+      guid="_aY0EoMplEd2CAJ2o_vewag">
+    <sectionDescription>고객이 검수범위에 대해 제시하는 것이 제일 바람직하나, 불가능한 경우에 먼저 고객과의 합의한 자료들을 기준으로 정리한다&lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_iQB4gMplEd2CAJ2o_vewag" name="고객에게 최종납품되는 사업수행결과물 위주로 검수기준서를 작성한다"
+      guid="_iQB4gMplEd2CAJ2o_vewag">
+    <sectionDescription>-&amp;nbsp;산출물 부문&lt;br />&#xD;
+-&amp;nbsp;요구사항 부문&lt;br />&#xD;
+-&amp;nbsp;응용시스템 부문&lt;br />&#xD;
+-&amp;nbsp;장비 부문&lt;br />&#xD;
+-&amp;nbsp;교육 및 기타 계약 부문</sectionDescription>
+  </sections>
+  <sections xmi:id="_k7sNgMplEd2CAJ2o_vewag" name="고객이 검수기준을 결정하는데 참조할 수 있는 혹은 근거가 되는 자료들을 별도로 준비한다"
+      guid="_k7sNgMplEd2CAJ2o_vewag"/>
+  <sections xmi:id="_nWzlEMplEd2CAJ2o_vewag" name="검수 기준 검토시 필요한 자료들을 첨부하여 제시한다" guid="_nWzlEMplEd2CAJ2o_vewag"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림체; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>프로젝트&#xD;
+수행결과물에 대해 최종검수시 발생하는 고객 이견과 과업누락을 방지할 수 있도록 검수항목&lt;span lang=&quot;EN-US&quot;>,&lt;/span> 검수방법&lt;span lang=&quot;EN-US&quot;>,&lt;/span> 검수절차를 사전에 협의하고&#xD;
+명확히 할 수 있는 기준을 수립한다.&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

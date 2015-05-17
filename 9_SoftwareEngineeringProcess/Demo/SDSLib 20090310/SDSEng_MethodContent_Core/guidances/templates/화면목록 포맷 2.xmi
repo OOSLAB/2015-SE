@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-7JZZ7lDvDLdSgEcrUJ_G1A"
+    name="new_template,_MMpl8P8gEd2WHoY-_v_k_A" guid="-7JZZ7lDvDLdSgEcrUJ_G1A">
+  <attachments>resources/화면목록F.xls</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

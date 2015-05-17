@@ -1,0 +1,281 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko" xml:lang="ko" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Task: 설계 클래스다이어그램 작성</title>
+<meta name="uma.type" content="TaskDescriptor">
+<meta name="uma.name" content="설계 클래스다이어그램 작성">
+<meta name="uma.presentationName" content="설계 클래스다이어그램 작성">
+<meta name="uma.guid" content="_vX9llwgSEd6PpbmBy1d4Hw">
+<meta name="element_type" content="TaskDescriptor">
+<meta name="filetype" content="description">
+<meta name="role" content="">
+<link rel="StyleSheet" href="./../../css/default.css" type="text/css">
+<script src="./../../scripts/ContentPageResource.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSubSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ActivityTreeTable.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ProcessElementPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageToolbar.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/contentPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/processElementData.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+					var defaultQueryStr = '?proc=_m2n4DPmrEd2JRcy3PiAHxw&path=_m2n4DPmrEd2JRcy3PiAHxw,_vX9llwgSEd6PpbmBy1d4Hw';
+					var backPath = './../../';
+					var imgPath = './../../images/';
+					var nodeInfo=null;
+					contentPage.preload(imgPath, backPath, nodeInfo, defaultQueryStr, true, true, false);
+				</script>
+</head>
+<body>
+<div id="breadcrumbs"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top">
+<div id="page-guid" value="_vX9llwgSEd6PpbmBy1d4Hw"></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="pageTitle" nowrap="true">Task: 설계 클래스다이어그램 작성</td><td width="100%">
+<div align="right" id="contentPageToolbar"></div>
+</td><td width="100%" class="expandCollapseLink" align="right"><a name="mainIndex" href="./../../index.htm"></a><script language="JavaScript" type="text/javascript" src="./../../scripts/treebrowser.js"></script></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pageTitleSeparator"><img src="./../../images/shim.gif" alt="" title="" height="1"></td>
+</tr>
+</table>
+<div class="overview">
+<table width="97%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50"><img src="./../../images/taskdes_lg_dgm32.gif" alt="" title=""></td><td>
+<table class="overviewTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Purpose</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td class="sectionTableSingleCell">분석모델과 소프트웨어 아키텍처를 바탕으로 구현환경(플랫폼)에 맞게 설계클래스를 도출하고, 클래스의 속성 및 클래스 간의 정적인(Static) 관계와 설계클래스 인스턴스(객체) 간의 호출관계를 분석하여
+동적인(Dynamic) 관계를 정의한다. 또한 정의된 각 클래스가 갖는 속성(Attribute), 오퍼레이션(Operation) 및 오퍼레이션의 세부로직 등에 대한 클래스명세서를 작성하고 배치기능을 처리하기 위한
+프로그램명세서를 작성한다.</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Relationships</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<th class="sectionTableHeading" scope="row">Roles</th><td class="sectionTableCell" width="30%"><span class="sectionTableCellHeading">Main:
+								</span>
+<ul>
+<li>
+<a href="./../../SDSEng_Process_OOCBD/capabilitypatterns/설계자_D60BA13B.html" guid="_vX9lmQgSEd6PpbmBy1d4Hw">설계자</a>
+</li>
+</ul>
+</td><td class="sectionTableCell" width="30%"><span class="sectionTableCellHeading">Additional:
+								</span>
+<ul>
+<li>
+<a href="./../../SDSEng_Process_OOCBD/capabilitypatterns/소프트웨어아키텍트_C4A4B551.html" guid="_vX9lmggSEd6PpbmBy1d4Hw">소프트웨어아키텍트</a>
+</li>
+</ul>
+</td><td class="sectionTableCell"><span class="sectionTableCellHeading">Assisting:
+								</span></td>
+</tr>
+<tr valign="top">
+<th class="sectionTableHeading" scope="row">Inputs</th><td class="sectionTableCell" width="30%"><span class="sectionTableCellHeading">Mandatory:
+								</span>
+<ul>
+<li>
+<a href="./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 클래스다이어그램_89369770.html" guid="_vX9lnggSEd6PpbmBy1d4Hw">분석 클래스다이어그램</a>
+</li>
+<li>
+<a href="./../../SDSEng_Process_OOCBD/capabilitypatterns/설계 컴포넌트다이어그램_93D47780.html" guid="_vX9lnwgSEd6PpbmBy1d4Hw">설계 컴포넌트다이어그램</a>
+</li>
+</ul>
+</td><td class="sectionTableCell" width="30%"><span class="sectionTableCellHeading">Optional:
+								</span>
+<ul>
+<li>None</li>
+</ul>
+</td><td class="sectionTableCell"><span class="sectionTableCellHeading">External:
+								</span>
+<ul>
+<li>None</li>
+</ul>
+</td>
+</tr>
+<tr valign="top">
+<th class="sectionTableHeading" scope="row">Outputs</th><td class="sectionTableCell" colspan="3">
+<ul>
+<li>
+<a href="./../../SDSEng_Process_OOCBD/capabilitypatterns/설계 클래스다이어그램_8FFFA34A.html" guid="_vX9lnAgSEd6PpbmBy1d4Hw">설계 클래스다이어그램</a>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Main Description</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td class="sectionTableSingleCell"><p>
+    <font face="굴림">[<a class="elementLink" href="./../../SDSEng_MethodContent_Core/tasks/클래스다이어그램 작성_69DC18A9.html" guid="_WlOx4ZX6Ed2JxZNCBmUBeg">클래스다이어그램 작성</a>]</font>
+</p>
+<p>
+    <font face="굴림">수행 가이드(Task Guideline)</font>
+</p>
+<ol>
+    <li>
+        <font face="굴림">초기 설계클래스들은 분석모델로부터 식별되어 모든 기능 요구사항들이 설계클래스들에 할당 될 수 있도록 한다. 분석클래스들은 분석클래스의 스테레오 타입에 의존하는 플랫폼 특화된
+        패턴들을 사용하여 설계클래스들로 바로 변환된다. 일반적으로 Boundary 클래스들은 일반적으로 복수의 Action 클래스들과 JSP들로 변환되고, Control 클래스들은 비즈니스 로직을 담고 있는 하나
+        또는 그 이상의 EJB, Servlet 또는 POJO(Plain Old Java Object) 클래스들로 변환된다. Entity 클래스들은 하나 또는 그 이상의 DAO, DTO 그리고 Manager
+        클래스들로 변환된다. 그러나 이것은 예제일 뿐이며 해당 프로젝트에서 결정된 소프트웨어 아키텍처 설계 전략에 따라 변환하도록 한다. 이렇게 도출된 설계클래스는 각 레이어별 분석패키지 단위로
+        클래스다이어그램(설계)를 작성한다.</font>
+    </li>
+    <li>
+        <font face="굴림">설계클래스의 오퍼레이션들은 분석클래스들의 책임(Responsibility)으로부터 추출된다. 분석클래스들의 책임은 설계 작업 동안 설계클래스의 비즈니스 오퍼레이션으로 변환되는
+        데, 이 때 비즈니스 오퍼레이션은 오퍼레이션의 일부분들이 서브 클래스에 의해 오버라이딩(Overriding) 될 때 또는 오퍼레이션의 일부분이 분리되어 별도로 단위 테스트 되어야 할 때 분할될 수도 있다.
+        설계클래스들은 또한 클래스의 상태를 세팅하거나 관리하거나 조회하는 등의 목적을 가진 지원성 오퍼레이션들이 추가된다. 예를 들어 constructor, setter/getter, comparison,
+        assignment 및 serialization 등이다.</font>
+    </li>
+    <li>
+        <font face="굴림">설계클래스에 필요한 속성들은 분석모델에 정의되어 있는 속성들을 고려하거나, 클래스 오퍼레이션을 수행하는 데에 필요한 정보를 검토하여 식별한다. 또한 오퍼레이션 매개변수로 전달되지
+        않는 정보는 속성일 가능성이 있다. 그리고 분석모델에서 각 클래스의 관계(Relationship)를 살펴보는 것이 좋다. 어떤 클래스가 다른 클래스의 참조자(Reference)를 관리할 필요가 있을 경우
+        이러한 참조자들이 해당 클래스의 속성이 된다.</font>
+    </li>
+    <li>
+        <font face="굴림">연관(Association) 또는 의존(Dependency)관계들은 분석단계에서 그리 명확하게 구분하여 사용하지 않지만, 설계단계에서는 의존(Dependency),
+        연관(Association), 또는 복합(Composition/Aggregation) 중 하나로 대체해야 한다.</font>
+    </li>
+    <li>
+        <font face="굴림">하나의 클래스가 오퍼레이션을 수행하기 위해 어떤 정보가 필요할 경우나 하나의 오퍼레이션에서 다른 클래스로 정보를 전달할 경우, 해당 클래스가 이러한 정보들을 오퍼레이션 매개변수의
+        형태 또는 지역변수, 속성 등의 형태로 이미 갖고 있다고 보장해야 한다. 만일 이러한 정보를 가지고 있지 않을 경우, 해당 클래스로부터 해당 정보를 가져와야 한다. 이러한 상황이 다른 클래스로부터 해당
+        정보를 획득해야 하는 클래스에 대해서 클래스 간 관계(Relationship)을 고려해봐야 할 포인트이다.</font>
+    </li>
+    <li>
+        <font face="굴림">입력물로 사용되는 ERD(물리)의 경우는 클래스다이어그램(설계)과 병행작업 되면서 완성된다.</font>
+    </li>
+    <li>
+        <font face="굴림">소프트웨어 아키텍처를 참조하여 배치기능을 처리하기 위한 개발유형을 정의하고 배치 프로그램의 상세 처리 로직을 기술한다.</font> 
+        <ul>
+            <li>
+                <font face="굴림">배치 기능의 특성 및 성격을 파악하고 소프트웨어 아키텍처에 기반하여 개발유형을 정의한다.</font>
+            </li>
+            <li>
+                <font face="굴림">배치 기능의 처리로직이 복잡한 경우나 여러 배치 기능에서 공통된 처리로직이 있는 경우, 하나의 프로그램으로 배치처리 로직이 완성되기 보다는 여러 프로그램을 사용하여
+                처리할 수 있다. 또한 배치 처리에 필요한 처리 로직이 OLTP성 업무의 처리 로직과 동일한 경우, 해당 온라인컴포넌트를 그대로 이용할 수 있다.</font>
+            </li>
+            <li>
+                <font face="굴림">배치를 처리하기 위해 필요한 데이터나 처리 후 생성되는 데이터는 파일형태(SAM, Text, XML 등) 혹은 테이블형태로 저장하여 이용할 수 있다. 일반적으로
+                파일형태인 경우는 데이터 건수가 많거나 해당 시스템에 데이터가 존재하지 않는 경우 주로 이용하고, 테이블형태를 이용하는 경우는 데이터 건수가 작거나 여러 데이터가 연관된 경우
+                이용한다.</font>
+            </li>
+            <li>
+                <font face="굴림">처리로직은 프로그램 구현이 가능한 수준으로 작성한다.</font>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <font face="굴림">배치 기능은 대부분 대용량의 데이터를 다루고 스케줄링에 의해 동작하므로 작업 기준을 명확히 정의해야 한다.</font>
+    </li>
+    <li style="LIST-STYLE-TYPE: none">
+        <ul>
+            <li>
+                <font face="굴림">배치 기능 간 상호 연관성이 있는 경우에는 배치 작업을 수행하기 위한 선후행 작업을 명확히 정의한다.</font>
+            </li>
+            <li>
+                <font face="굴림">작업 주기 및 작업 일시는 배치기능의 업무 특성 및 데이터량, 선후행작업을 고려하여 정의한다.</font>
+            </li>
+        </ul>
+    </li>
+</ol></td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Steps</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="sectionTableCell">
+<div class="stepHeading">설계자는 소프트웨어 아키텍처에 따라 후보 설계클래스를 식별한다.</div>
+<div class="stepContent">
+<table class="stepTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td></td>
+</tr>
+</table>
+</div>
+<div class="stepHeading">설계자는 클래스의 속성 및 관계를 정의하여 클래스다이어그램(설계)를 작성한다.</div>
+<div class="stepContent">
+<table class="stepTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td></td>
+</tr>
+</table>
+</div>
+<div class="stepHeading">설계자는 처리로직을 설계클래스 간의 상호작용을 정의하여 시퀀스다이어그램(설계)를 작성한다.(선택)</div>
+<div class="stepContent">
+<table class="stepTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td></td>
+</tr>
+</table>
+</div>
+<div class="stepHeading">설계자는 각 클래스별 클래스명세서를 작성한다.</div>
+<div class="stepContent">
+<table class="stepTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td></td>
+</tr>
+</table>
+</div>
+<div class="stepHeading">설계자는 소프트웨어 아키텍처에 따라 배치 특성을 고려하여 개발유형을 정의하고 프로그램의 상세 처리로직을 정의한다. 또한 배치 기능을 실행하기 위해 필요한 작업기준(작업주기, 작업일시, 선후행작업)을 정의한다.(선택)</div>
+<div class="stepContent">
+<table class="stepTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Properties</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<th class="sectionTableHeading" scope="row" id="property_Multiple Occurrences" abbr="Multiple Occurrences">Multiple Occurrences</th><td class="sectionTableCell" align="left" headers="property_Multiple Occurrences"><img width="20" height="15" alt="" title="" src="./../../images/indent.gif"></td>
+</tr>
+<tr valign="top">
+<th class="sectionTableHeading" scope="row" id="property_Event Driven" abbr="Event Driven">Event Driven</th><td class="sectionTableCell" align="left" headers="property_Event Driven"><img width="20" height="15" alt="" title="" src="./../../images/indent.gif"></td>
+</tr>
+<tr valign="top">
+<th class="sectionTableHeading" scope="row" id="property_Ongoing" abbr="Ongoing">Ongoing</th><td class="sectionTableCell" align="left" headers="property_Ongoing"><img width="20" height="15" alt="" title="" src="./../../images/indent.gif"></td>
+</tr>
+<tr valign="top">
+<th class="sectionTableHeading" scope="row" id="property_Optional" abbr="Optional">Optional</th><td class="sectionTableCell" align="left" headers="property_Optional"><img width="20" height="15" alt="" title="" src="./../../images/indent.gif"></td>
+</tr>
+<tr valign="top">
+<th class="sectionTableHeading" scope="row" id="property_Planned" abbr="Planned">Planned</th><td class="sectionTableCell" align="left" headers="property_Planned"><img width="20" height="15" alt="" title="" src="./../../images/indent.gif"></td>
+</tr>
+<tr valign="top">
+<th class="sectionTableHeading" scope="row" id="property_Repeatable" abbr="Repeatable">Repeatable</th><td class="sectionTableCell" align="left" headers="property_Repeatable"><img width="20" height="15" alt="" title="" src="./../../images/indent.gif"></td>
+</tr>
+</table>
+</div>
+<table class="copyright" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="copyright"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+<script language="JavaScript" type="text/javascript">
+					contentPage.onload();
+					contentPage.processPage.fixDescriptorLinks();
+				</script>
+</html>

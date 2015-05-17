@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-RC6H-QxAkK_3C8gt9dVr_A"
+    name="인터뷰결과서 포맷,_MxxbUP8XEd2WHoY-_v_k_A" guid="-RC6H-QxAkK_3C8gt9dVr_A">
+  <attachments>resources/인터뷰결과서F.doc</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

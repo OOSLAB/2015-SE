@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-UAlLyIRlVnw-7sv_XFW8Rw"
+    name="To-be비즈니스다이어그램 작성,_5ErEQcWfEd2eFf4iygnyuw" guid="-UAlLyIRlVnw-7sv_XFW8Rw"
+    changeDate="2009-03-10T16:50:40.546+0900">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;굴림&quot;>[&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../SDSEng_MethodContent_Core/tasks/%C561%D2F0%BE44%D2F0%B2E4%C774%C5B4%ADF8%B7A8%20%C791%C131_A2173510.html&quot;&#xD;
+    guid=&quot;_TQqXQKAVEd2n5q0acG373A&quot;>액티비티다이어그램 작성&lt;/a>]&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;굴림&quot;>수행 가이드(Task Guideline)&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>신규 비즈니스 프로세스 정의 시 가장 중요한 것은 불필요한 수작업 프로세스를 개선하여 최대한 시스템화, 자동화하고자 하는 관점이다. 불필요 또는 불합리한 프로세스에 대해 최적화된&#xD;
+        프로세스로 개선 정의하여 시스템이 이를 지원하도록 하는 것이 TO-BE 비즈니스 모델링의 핵심이다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>일반적으로 도메인에 대해 현황 분석, 즉 AS-IS 모델링 수행 후 본 공정이 수행되나, 대상 도메인에 대해 한 개발 조직의 경험이 많아 익숙하거나, 혹은 기존 개발 시 작성된&#xD;
+        분석 산출물이 있을 경우 AS-IS 분석을 생략하고 바로 본 공정 수행으로 진행될 수 있다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>본 태스크에서는 프로세스 전체 관점에서 중요한 액티비티를 도출하는 것이 중요하다. 따라서 액티비티의 정도(Granularity)의 균일함보다는, 업무 흐름의 표현에 중점을 두어&#xD;
+        모호하게 표현되거나 누락되는 비즈니스 이벤트가 없도록 상세하게 기술하는 것이 중요하다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>독립적인 액티비티 도출과 관련하여, 이벤트 또는 액티비티의 Pre-, Post-Condition을 비교하여 해당 이벤트의 독립성을 파악할 수 있다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>비즈니스 프로세스의 개선은 조직 구조와 역할에도 큰 영향을 미친다. 개선된 프로세스를 위한 개선된 조직의 역할을 정의하고, 이를 액티비티다이어그램에 반영하도록 한다&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>업무 수행과 관련하여 주체가 역할뿐 아니라 개발하려는 시스템과 상호 작용하는 타 시스템이 될 수도 있으므로 완성된 비즈니스 프로세스 모델에 누락되지 않고 표현하여야&#xD;
+        한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <sections xmi:id="_bBMiSvmrEd2JRcy3PiAHxw" name="AS-IS 모델을 통해 도출된 개선 사항이나 문제점에 대해 개선된 비즈니스 프로세스를 정의하고, 프로세스에 해당하는 액티비티를 도출한다."
+      guid="_bBMiSvmrEd2JRcy3PiAHxw">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>이때의 비즈니스 액티비티의 사이즈는 동일할 필요는 없으나, 동일한 상세화 수준을 유지.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_bBMiSPmrEd2JRcy3PiAHxw" name="비즈니스 프로세스 별로 도출된 액티비티와 액티비티 간의 새로운 업무 처리흐름을 분기나 병행처리 등을 고려하여 정의한다."
+      guid="_bBMiSPmrEd2JRcy3PiAHxw"/>
+  <sections xmi:id="_bBMiS_mrEd2JRcy3PiAHxw" name="개선된 비즈니스 프로세스를 수행할 조직에 대한 역할을 정의하고, 비즈니스 프로세스 모델에 이를 표현한다."
+      guid="_bBMiS_mrEd2JRcy3PiAHxw">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>액티비티 다이어그램의 경우 Swim Lane을 추가하여 액티비티의 수행주체를 표현함&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>개선된&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>업무에&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>대해&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>비즈니스&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>액티비티들을&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>도출하고&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>액티비티간&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>처리흐름인&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>비즈니스&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>프로세스를&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>정의한다&lt;/span>&lt;span&#xD;
+ lang=&quot;EN-US&quot;&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA; mso-fareast-font-family: 굴림&quot;>.&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

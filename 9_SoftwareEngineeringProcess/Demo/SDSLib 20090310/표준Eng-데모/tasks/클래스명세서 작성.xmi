@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-YkwfZKu8GlmYB_hc8JIEeg"
+    name="클래스명세서 작성,_FWpg65VIEd2ptuaOn8CiHA" guid="-YkwfZKu8GlmYB_hc8JIEeg">
+  <sections xmi:id="_KN3RAJVUEd2ptuaOn8CiHA" name="부모클래스 혹은 인터페이스 작성" guid="_KN3RAJVUEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_K_ydMJVUEd2ptuaOn8CiHA" name="속성정의" guid="_K_ydMJVUEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_LyS4MJVUEd2ptuaOn8CiHA" name="오퍼레이션 작성" guid="_LyS4MJVUEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_Mj7JcJVUEd2ptuaOn8CiHA" name="클래스 개요 작성" guid="_Mj7JcJVUEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_NX7ZQJVUEd2ptuaOn8CiHA" name="클래스 타입 작성" guid="_NX7ZQJVUEd2ptuaOn8CiHA"/>
+</org.eclipse.epf.uma:TaskDescription>

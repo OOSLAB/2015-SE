@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-5fxjHNqbALz6PPazjRuLAQ"
+    name="시스템 인터페이스 목록 도출,_FWgXjZVIEd2ptuaOn8CiHA" guid="-5fxjHNqbALz6PPazjRuLAQ">
+  <sections xmi:id="_WQPpUJVKEd2ptuaOn8CiHA" name="시스템 인터페이스 목록 도출" guid="_WQPpUJVKEd2ptuaOn8CiHA"/>
+  <sections xmi:id="_XL_f4JVKEd2ptuaOn8CiHA" name="설계 수준의 시스템 인터페이스 목록 관련 항목 정의" guid="_XL_f4JVKEd2ptuaOn8CiHA"/>
+</org.eclipse.epf.uma:TaskDescription>

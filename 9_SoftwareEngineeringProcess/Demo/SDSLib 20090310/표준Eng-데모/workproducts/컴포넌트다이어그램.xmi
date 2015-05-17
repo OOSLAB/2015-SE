@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-zlvYmy7BqR52XicofHXJpQ"
+    name="new_artifact,_fn95gJEfEd20MM2jQYpgbw" guid="-zlvYmy7BqR52XicofHXJpQ" changeDate="2008-10-06T22:08:23.625+0900">
+  <mainDescription>관계, 인터페이스, 컴포넌트</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

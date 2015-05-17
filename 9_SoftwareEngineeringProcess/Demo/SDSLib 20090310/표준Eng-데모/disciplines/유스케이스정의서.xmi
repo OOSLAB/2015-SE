@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-sI9wktRJb48fGPhW7xZcmA"
+    name="유스케이스정의서,_0SB6UJXsEd2HIYEipVF0ow" guid="-sI9wktRJb48fGPhW7xZcmA" changeDate="2008-10-09T20:20:52.671+0900">
+  <mainDescription>기본흐름, 대안흐름,&amp;nbsp;서브흐름, 부액터, 선행조건, 주액터, 후행조건, Include/Extend,&amp;nbsp;업무 수행방법, 업무처리 규칙, 제약사항</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

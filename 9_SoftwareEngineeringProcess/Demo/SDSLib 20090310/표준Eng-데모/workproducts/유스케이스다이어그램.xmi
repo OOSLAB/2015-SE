@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-3EZsGyy9SBbqkZyxpdHHtg"
+    name="new_artifact,_vxkYUJOmEd2QOZMWcM0ZMQ" guid="-3EZsGyy9SBbqkZyxpdHHtg" changeDate="2008-10-06T22:00:57.968+0900">
+  <mainDescription>시스템 바운더리, 액터, 액터간의 관계, 액터와 유스케이스간의 관계, 유스케이스, 유스케이스간의 관계</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

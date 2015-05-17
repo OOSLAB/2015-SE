@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-hYhR0IHzCxI8J19V1L1H3Q"
+    name="ERD 작성,_zITn8Jm3Ed22hvYQtUyEZA" guid="-hYhR0IHzCxI8J19V1L1H3Q">
+  <sections xmi:id="_sCnNQJxMEd2b9o00yINnSg" name="성능 고려 물리데이터모델 튜닝" guid="_sCnNQJxMEd2b9o00yINnSg"/>
+  <sections xmi:id="_hw4ewJxMEd2b9o00yINnSg" name="시스템 사용의 엔티티 도출" guid="_hw4ewJxMEd2b9o00yINnSg"/>
+  <sections xmi:id="_jYShcJxMEd2b9o00yINnSg" name="업무별 세부 주제 영역 분류" guid="_jYShcJxMEd2b9o00yINnSg"/>
+  <sections xmi:id="_kuRc8JxMEd2b9o00yINnSg" name="업무별 세부 주제영역 검토 (선택)" guid="_kuRc8JxMEd2b9o00yINnSg"/>
+  <sections xmi:id="_prqkAJxMEd2b9o00yINnSg" name="ERD(논리) 작성" guid="_prqkAJxMEd2b9o00yINnSg"/>
+  <sections xmi:id="_q8R3UJxMEd2b9o00yINnSg" name="ERD(논리) 의 ERD(물리)로 전환" guid="_q8R3UJxMEd2b9o00yINnSg"/>
+</org.eclipse.epf.uma:TaskDescription>

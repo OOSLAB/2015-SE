@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="__gzNIf8ZEd2yh-CYhX4-xw"
+      guid="__gzNIf8ZEd2yh-CYhX4-xw">
+    <resourceDescriptors xmi:id="__gzNIv8ZEd2yh-CYhX4-xw" id="-xgeeeVFmGXVxMsKFEUf0Wg"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="__fwEQP8ZEd2yh-CYhX4-xw" name="미래에셋서브시스템개발프로세스"
+      guid="__fwEQP8ZEd2yh-CYhX4-xw">
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="__fwEQf8ZEd2yh-CYhX4-xw"
+        name="미래에셋서브시스템개발프로세스" guid="__fwEQf8ZEd2yh-CYhX4-xw" presentationName="미래에셋서브시스템개발프로세스">
+      <presentation xmi:id="-xgeeeVFmGXVxMsKFEUf0Wg" href="uma://-xgeeeVFmGXVxMsKFEUf0Wg#-xgeeeVFmGXVxMsKFEUf0Wg"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

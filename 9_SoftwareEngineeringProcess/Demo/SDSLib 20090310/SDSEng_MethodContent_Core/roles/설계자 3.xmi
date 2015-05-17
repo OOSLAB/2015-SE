@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-pxloe_BngiqCww9oEGphVw"
+    name="new_role,_XaWwIJh4Ed2ok9DYfbNoeg" guid="-pxloe_BngiqCww9oEGphVw" changeDate="2008-10-13T01:18:16.812+0900">
+  <mainDescription>정의된 시스템 아키텍처(SW 아키텍처, 기술 아키텍처)를 바탕으로 분석내용에 대해 모델링 기법을 통해 구현할 시스템의 사양을 설계하는 사람</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

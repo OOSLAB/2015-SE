@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-gynKuW3QJgu6ddCU7Of2vw"
+    name="종료계획서,_kZeYkMsmEd2VS4iuY7h1kQ" guid="-gynKuW3QJgu6ddCU7Of2vw" changeDate="2009-02-25T16:57:05.468+0900">
+  <mainDescription>&lt;p class=&quot;S1&quot; style=&quot;MARGIN: 0cm 0cm 0pt 21.25pt&quot;>&#xD;
+    &lt;font face=&quot;굴림&quot;>작성항목&lt;/font>&#xD;
+&lt;/p>&lt;br class=&quot;S1&quot; style=&quot;MARGIN: 0cm 0cm 0pt 21.25pt&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p class=&quot;S1&quot; style=&quot;MARGIN: 0cm 0cm 0pt 21.25pt&quot;>&#xD;
+    1.&amp;nbsp;개요&lt;br />&#xD;
+    -&amp;nbsp;종료계획에 대한 목적을 기술한다.&lt;br />&#xD;
+    2.&amp;nbsp;진행현황 점검&lt;br />&#xD;
+    -&amp;nbsp;검수 기준서내 검수 항목을 중심으로 업무범위에 대한 진행상황을 점검한다&lt;br />&#xD;
+    -&amp;nbsp;산출물 패킹에 대한 점검을 한다.&lt;br />&#xD;
+    -&amp;nbsp;고객 합의하 범위변경 부분이나 범위변경이 필요한 부분을 점검한다.&lt;br />&#xD;
+    -&amp;nbsp;검수에 영향을 미치는 미진 업무나 수행은 해야 하지만 검수 이후 완료 가능한 업무에 대한 정리 및 점검을 한다.&lt;br />&#xD;
+    3.&amp;nbsp;검수전략 및 일정계획&lt;br />&#xD;
+    -&amp;nbsp;고객과 합의한 검수 방법 및 절차에 따른 검수 전략과 검수 확인 및 검수 요청 일정에 대한 계획을 수립함&lt;br />&#xD;
+    4.&amp;nbsp;잔여업무 일정계획&lt;br />&#xD;
+    -&amp;nbsp;기타 종료시 수행해야 하는 잔여업무에 대한 일정계획을 수립한다.&lt;br />&#xD;
+    5.&amp;nbsp;이슈 및 리스크 종료계획&lt;br />&#xD;
+    -&amp;nbsp;잔여 업무 및 이슈들을 중심으로 핵심 종료 검수 요건과 비핵심 종료 검수 요건을 구분하여 종료전략 및 계획을 수립한다.&lt;br />&#xD;
+    6.&amp;nbsp;비용정산 계획&lt;br />&#xD;
+    -&amp;nbsp;비용관리 종료를 위한 일정 및 내역을 기술한다.&lt;br />&#xD;
+    7.&amp;nbsp;자원 및 환원 계획&lt;br />&#xD;
+    -&amp;nbsp;인력 재배치, 장비, 사무실, 비품 반납 계획을 기술한다.&lt;br />&#xD;
+    8.&amp;nbsp;내부 종료 계획&lt;br />&#xD;
+    -&amp;nbsp;프로젝트 정보등록, 완료보고 등의 내부종료.계획을 수립한다.&lt;br />&#xD;
+    9.&amp;nbsp;종료 일정표&lt;br />&#xD;
+    -&amp;nbsp;종료 계획에 포함된 활동 내역을 태스크로 정의하여 나열하고 일정을 수립하고 담당자를 지정한다.&lt;br />&#xD;
+    10.&amp;nbsp;전사지원 요청계획&lt;br />&#xD;
+    -&amp;nbsp;전사 지원 요청 필요시 지원 요청 계획을 기술한다.&lt;br />&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    작성시 고려사항&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        종료계획서에서 포함하는 각 항목들을 체크리스트로 빠짐없이 사전에 점검하고, 각 항목들에 대해 필요시 별도 계획을 수립하여 일정만을 통합적으로 관리할 수 있다. 단, 종료 일정은 반드시 i_PM에 등록하여&#xD;
+        관리하도록 한다.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+  <impactOfNotHaving>&lt;p>&#xD;
+    미작성시 영향&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        종료계획서는 종료시 잔여업무 및 이슈들이 검수에 영향을 미치지 않도록 검수 와 종료를 구분하여 계획을 수립하는 것이 목적이므로 미 작성시 종료시 발생하는 이슈들의 실질적 종료 관리가 힘들다.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></impactOfNotHaving>
+  <reasonsForNotNeeding>&lt;p>&#xD;
+    작성이 불필요한 경우&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        프로젝트 종료계획서는 반드시 한 본의 문서로 나올 필요는 없다. 진행점검, 검수, 잔여업무, 이슈 계획 등이 엑셀 형태로 라도 관리되는 것이 중요하다.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></reasonsForNotNeeding>
+  <representationOptions>&lt;p>&#xD;
+    제출시 고려사항&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        종료계획서는 고객 제출 문서가 아니라 내부 관리 문서이다. 그러나, 종료시 포괄적 내용들을 포함하므로 고객과 협의를 위한 계획도 일부 포함하고 있다. 이 경우 종료계획서가 아니라 별도의 계획서로 작성되어&#xD;
+        고객에게 제출되어 질 수 있다. 단, 종료계획서에 중복되어 작성할 필요는 없다.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

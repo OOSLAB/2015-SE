@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-_0OcBKxc-WbCni2iqQx7Hw"
+    name="분석 업무모델,_eeZ3Uea8Ed2j6auu_FbYxw" guid="-_0OcBKxc-WbCni2iqQx7Hw">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/concepts/%C5C5%BB34%BD84%C11D%D65C%B3D9%20%AC1C%C694_A5E2FD62.html&quot;&#xD;
+        guid=&quot;_VLSV0AS7Ed6u1pdhw4SOFA&quot;>업무분석활동 개요&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/guidelines/%C5C5%BB34%BD84%C11D%20%AE30%BC95_773544D4.html&quot;&#xD;
+        guid=&quot;_oSXf8ASxEd6u1pdhw4SOFA&quot;>업무분석 기법&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ProcessDescription>

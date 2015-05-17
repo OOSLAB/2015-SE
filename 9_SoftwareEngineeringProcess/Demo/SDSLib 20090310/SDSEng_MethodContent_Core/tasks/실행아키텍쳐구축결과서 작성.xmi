@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-aPqXeqM0NE7qiAHKAI-8rA"
+    name=",_jQaMQJxWEd2IZdao1IJ_iw" guid="-aPqXeqM0NE7qiAHKAI-8rA" changeDate="2009-02-26T01:00:47.484+0900">
+  <mainDescription>&lt;p>&#xD;
+    수행 가이드(Task Guideline)&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        아키텍처적인 이슈가 발생한 경우에는 테스트 결과를 바탕으로 아키텍처 설계 내용을 수정하고 실행아키텍처에 반영한다. 특히 업무 설계/개발에 영향을 미치는 부분에 대한 이슈사항에 대해서는 아키텍처 설계와&#xD;
+        개&amp;nbsp;&amp;nbsp; 발을 반복하여 아키텍처를 확정할 수 있도록 한다.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        실행아키텍처에 대한 문제점을 파악하고 개선사항을 충분히 도출할 수 있도록 하며, 개선사항 반영 시에는 Tradeoff를 고려하여 아키텍처 설계서에 반영한다.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        실행아키텍처는 납품시스템의 일부가 될 것이므로, 업무 영역에 대한 조치 시에도 설계산출물 및 소스코드 모두에 대해 수정하여야 한다.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        실행 아키텍처 구축 결과에 대한 설명회를 실시할 경우에는 설명회 시나리오를 별도로 준비하고 개선 의견을 피드백 받아 아키텍처에 반영한다. 업무 중심의 설명회가 되지 않도록 유의한다.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <sections xmi:id="_mK0u8JxWEd2IZdao1IJ_iw" name="TA는 테스트 시나리오에 기반하여 실행아키텍처 테스트 실시를 위한 테스트 데이터를 구성한다."
+      guid="_mK0u8JxWEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_nlbEsJxWEd2IZdao1IJ_iw" name="설계자 및 아키텍트(SA,TA,DA)는 테스트 시나리오에 따라 테스트를 실시한다."
+      guid="_nlbEsJxWEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_o3-RsJxWEd2IZdao1IJ_iw" name="테스트 실시 결과에 대한 개선사항을 도출하고 조치한다."
+      guid="_o3-RsJxWEd2IZdao1IJ_iw">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        개발자 및 설계자는 업무영역에 대한 결함항목에 대해 조치한다.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        아키텍트(SA,TA,DA)는 아키텍처 영역에 대한 이슈사항을 정리하고 조치한다.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_qP5G4JxWEd2IZdao1IJ_iw" name="SA는 실행아키텍처구축 결과를 정리한다." guid="_qP5G4JxWEd2IZdao1IJ_iw"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>실행아키텍처에&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>대한&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>타당성을&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>테스트하고&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>테스트&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>결과에&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>대한&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>개선사항을&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>반영하여&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>아키텍처&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>베이스라인을&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>확보한다&lt;/span>&lt;span&#xD;
+ lang=&quot;EN-US&quot;&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA; mso-fareast-font-family: 굴림&quot;>.&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

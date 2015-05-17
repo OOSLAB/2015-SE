@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-wQg5ffB6argnOPqkU-9gaQ"
+    name=",_rv-xsM0LEd2A0Kjz7fgG4Q" guid="-wQg5ffB6argnOPqkU-9gaQ">
+  <sections xmi:id="_tZBzIM0LEd2A0Kjz7fgG4Q" name="보고주기별 성과보고서를 작성" guid="_tZBzIM0LEd2A0Kjz7fgG4Q"/>
+  <sections xmi:id="_wxjOIM0LEd2A0Kjz7fgG4Q" name="정기회의를 통해 성과 정보 공유" guid="_wxjOIM0LEd2A0Kjz7fgG4Q"/>
+</org.eclipse.epf.uma:TaskDescription>

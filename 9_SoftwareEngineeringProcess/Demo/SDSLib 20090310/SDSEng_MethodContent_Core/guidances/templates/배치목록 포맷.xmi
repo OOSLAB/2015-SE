@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-fXEFXfDXJ9yvKp-5-5JBnQ"
+    name="new_template,_Sqs5QACmEd6qY44rDCdQHw" guid="-fXEFXfDXJ9yvKp-5-5JBnQ">
+  <attachments>resources/배치목록F.xls</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

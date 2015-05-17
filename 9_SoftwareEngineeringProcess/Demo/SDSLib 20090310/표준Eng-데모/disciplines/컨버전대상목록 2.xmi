@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-5bjhRCHgnSgpmmoDlWdBpA"
+    name="new_discipline,__LgKAJYHEd2f_MiqbDX5Hg" guid="-5bjhRCHgnSgpmmoDlWdBpA" changeDate="2008-10-09T22:41:43.671+0900">
+  <mainDescription>건수, 데이터구분, 비고, 업무구분, 우선순위, 전환여부, 정비여주, 테이블(데이터)ID</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-QtM8_Z5sDgxl1DiR_7ZRsA"
+    name=",_urdFgJxREd2IZdao1IJ_iw" guid="-QtM8_Z5sDgxl1DiR_7ZRsA">
+  <sections xmi:id="_iiZMgJxSEd2IZdao1IJ_iw" name="데이터타입의 DBS 준수 확인" guid="_iiZMgJxSEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_kAHuwJxSEd2IZdao1IJ_iw" name="테이블명외 작성항목 기재" guid="_kAHuwJxSEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_L-o3gK8xEd2L5O0hnnXUww" name="ERD(물리)의 자료사전 준수 확인" guid="_L-o3gK8xEd2L5O0hnnXUww"/>
+</org.eclipse.epf.uma:TaskDescription>

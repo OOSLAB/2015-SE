@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko" xml:lang="ko" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Guideline: 테스트 기법</title>
+<meta name="uma.type" content="Guideline">
+<meta name="uma.name" content="테스트 기법">
+<meta name="uma.presentationName" content="테스트 기법">
+<meta name="element_type" content="other">
+<meta name="filetype" content="description">
+<meta name="role" content="">
+<link rel="StyleSheet" href="./../../../css/default.css" type="text/css">
+<script src="./../../../scripts/ContentPageResource.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageSubSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageToolbar.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/contentPage.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+					var backPath = './../../../';
+					var imgPath = './../../../images/';
+					var nodeInfo=null;
+					contentPage.preload(imgPath, backPath, nodeInfo,  '', false, false, false);
+				</script>
+</head>
+<body>
+<div id="breadcrumbs"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top"><a name="Top"></a>
+<div id="page-guid" value="_lhqdcASyEd6u1pdhw4SOFA"></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="pageTitle" nowrap="true">Guideline: 테스트 기법</td><td width="100%">
+<div align="right" id="contentPageToolbar"></div>
+</td><td width="100%" class="expandCollapseLink" align="right"><a name="mainIndex" href="./../../../index.htm"></a><script language="JavaScript" type="text/javascript" src="./../../../scripts/treebrowser.js"></script></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pageTitleSeparator"><img src="./../../../images/shim.gif" alt="" title="" height="1"></td>
+</tr>
+</table>
+<div class="overview">
+<table width="97%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50"><img src="./../../../images/guidance.gif" alt="" title=""></td><td>
+<table class="overviewTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Main Description</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td class="sectionTableSingleCell"><P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림"><SPAN style="mso-list: Ignore"><STRONG>1.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt"><STRONG>개요<SPAN lang=EN-US> (Overview)<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></STRONG></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN style="FONT-FAMILY: 굴림">개발이 완료된 어플리케이션 소프트웨어의 테스트를 수행하기 위한 테스트계획 수립<SPAN lang=EN-US>, </SPAN>테스트시나리오 작성<SPAN lang=EN-US>, </SPAN>테스트 수행방법에 대한 일반적인 기법을 제공하여 체계적인 테스트를 수행함으로써 어플리케이션 소프트웨어의 품질향상 제고에 기여하기 위해 본 문서를 작성한다<SPAN lang=EN-US>.<o:p></o:p></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN style="FONT-FAMILY: 굴림">본 문서에서는 테스트에 필요한 용어들에 대한 정의와 테스트를 수행하는 절차<SPAN lang=EN-US>, </SPAN>단위 테스트용 체크리스트를 도출하는 기법 등을 다루고 있다<SPAN lang=EN-US>.<o:p></o:p></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN lang=EN-US style="FONT-FAMILY: 굴림"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림"><SPAN style="mso-list: Ignore"><STRONG>2.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN><STRONG><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">기법 적용시 유의사항</SPAN> (Consideration)<SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt"><o:p></o:p></SPAN></SPAN></STRONG></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN style="FONT-FAMILY: 굴림">단위<SPAN lang=EN-US>, </SPAN>통합<SPAN lang=EN-US>, </SPAN>시스템<SPAN lang=EN-US>, </SPAN>인수 테스트와 관련된 일반적인 기법만 다루고 있다<SPAN lang=EN-US>.<o:p></o:p></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN style="FONT-FAMILY: 굴림">따라서 프로젝트의 성격에 따라 일부만 적용할 수도 있다<SPAN lang=EN-US>.<o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 20pt; mso-para-margin-left: 2.0gd"><SPAN lang=EN-US style="FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial; mso-font-kerning: 0pt"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림"><SPAN style="mso-list: Ignore"><STRONG>3.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt"><STRONG>관련 툴<SPAN lang=EN-US> (Related Tool)<o:p></o:p></SPAN></STRONG></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN lang=EN-US style="FONT-FAMILY: 굴림">N/A<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 20pt; mso-para-margin-left: 2.0gd"><B style="mso-bidi-font-weight: normal"><SPAN lang=EN-US style="FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial"><o:p>&nbsp;</o:p></SPAN></B></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림"><SPAN style="mso-list: Ignore"><STRONG>4.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt"><STRONG>첨부<SPAN lang=EN-US>(Attachments)<o:p></o:p></SPAN></STRONG></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN lang=EN-US style="FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial; mso-font-kerning: 0pt"><a href="./../../../SDSEng_Process_OOCBD/guidances/guidelines/./resources/370781495023148825.doc"><SPAN style="COLOR: windowtext; TEXT-DECORATION: none; text-underline: none"><?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id=_x0000_t75 coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock v:ext="edit" aspectratio="t"></a><a href="./../../../SDSEng_Process_OOCBD/guidances/guidelines/./resources/테스트 기법T.doc" target="_blank">테스트 기법T.doc</a></o:lock></v:shapetype></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN lang=EN-US style="FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 바탕"><o:p>&nbsp;</o:p></SPAN></P></td>
+</tr>
+</table>
+</div>
+<table class="copyright" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="copyright"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+<script type="text/javascript" language="JavaScript">
+				contentPage.onload();
+			</script>
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko" xml:lang="ko" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Guideline: 데이터모델링 기법</title>
+<meta name="uma.type" content="Guideline">
+<meta name="uma.name" content="데이터모델링 기법">
+<meta name="uma.presentationName" content="데이터모델링 기법">
+<meta name="element_type" content="other">
+<meta name="filetype" content="description">
+<meta name="role" content="">
+<link rel="StyleSheet" href="./../../../css/default.css" type="text/css">
+<script src="./../../../scripts/ContentPageResource.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageSubSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/ContentPageToolbar.js" type="text/javascript" language="JavaScript"></script><script src="./../../../scripts/contentPage.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+					var backPath = './../../../';
+					var imgPath = './../../../images/';
+					var nodeInfo=null;
+					contentPage.preload(imgPath, backPath, nodeInfo,  '', false, false, false);
+				</script>
+</head>
+<body>
+<div id="breadcrumbs"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top"><a name="Top"></a>
+<div id="page-guid" value="_oIRe4AI3Ed6uF_KUY_3qEg"></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="pageTitle" nowrap="true">Guideline: 데이터모델링 기법</td><td width="100%">
+<div align="right" id="contentPageToolbar"></div>
+</td><td width="100%" class="expandCollapseLink" align="right"><a name="mainIndex" href="./../../../index.htm"></a><script language="JavaScript" type="text/javascript" src="./../../../scripts/treebrowser.js"></script></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pageTitleSeparator"><img src="./../../../images/shim.gif" alt="" title="" height="1"></td>
+</tr>
+</table>
+<div class="overview">
+<table width="97%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50"><img src="./../../../images/guidance.gif" alt="" title=""></td><td>
+<table class="overviewTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Main Description</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td class="sectionTableSingleCell"><P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림"><SPAN style="mso-list: Ignore"><STRONG>1.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt"><STRONG>개요<SPAN lang=EN-US> (Overview)<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></STRONG></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN style="FONT-FAMILY: 굴림">데이터모델링 기법은 업무<SPAN lang=EN-US>(</SPAN>사업<SPAN lang=EN-US>)</SPAN>수행에 필요한 데이터의 구조와 데이터의 무결성 유지를 위한 일련의 규칙을 명확하게 표현하기 위한 방법을 제시한다<SPAN lang=EN-US>.<o:p></o:p></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN style="FONT-FAMILY: 굴림">업무에서 사용하는 데이터의 구조를 효율적으로 파악하고<SPAN lang=EN-US>, </SPAN>이를 체계적으로 데이터 모델로 정의하여 관련된 이해당사자들이 쉽게 이해할 수 있고<SPAN lang=EN-US>, </SPAN>이후 데이터베이스 설계 과정에 유용한 입력자료를 마련할 수 있게 한다<SPAN lang=EN-US>.<o:p></o:p></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN lang=EN-US style="FONT-FAMILY: 굴림"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림"><SPAN style="mso-list: Ignore"><STRONG>2.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN><STRONG><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">기법 적용시 유의사항</SPAN> (Consideration)<SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt"><o:p></o:p></SPAN></SPAN></STRONG></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN style="FONT-FAMILY: 굴림">물리적인 데이터베이스 특성은 물리데이터 모델링에서 고려하므로<SPAN lang=EN-US>, </SPAN>관련 이해당사자들이 모두 쉽게 이해할 수 있도록 최대한 업무를 반영하여 논리데이터 모델을 정의하도록 한다<SPAN lang=EN-US>.<o:p></o:p></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 20pt; mso-para-margin-left: 2.0gd"><SPAN lang=EN-US style="FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial; mso-font-kerning: 0pt"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림"><SPAN style="mso-list: Ignore"><STRONG>3.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt"><STRONG>관련 툴<SPAN lang=EN-US> (Related Tool)<o:p></o:p></SPAN></STRONG></SPAN></SPAN></P>
+<P class=S style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN lang=EN-US style="FONT-FAMILY: 굴림">ERwin<o:p></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 20pt; mso-para-margin-left: 2.0gd"><B style="mso-bidi-font-weight: normal"><SPAN lang=EN-US style="FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial"><o:p>&nbsp;</o:p></SPAN></B></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 21.25pt; TEXT-INDENT: -21.25pt; mso-list: l0 level1 lfo1; tab-stops: list 21.25pt"><SPAN class=Sno><SPAN lang=EN-US style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: 굴림"><SPAN style="mso-list: Ignore"><STRONG>4.</STRONG><SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></SPAN><SPAN class=Sno><SPAN style="COLOR: windowtext; FONT-FAMILY: 굴림; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt"><STRONG>첨부<SPAN lang=EN-US>(Attachments)<o:p></o:p></SPAN></STRONG></SPAN></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt 20pt"><SPAN lang=EN-US style="FONT-FAMILY: 굴림; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: Arial; mso-font-kerning: 0pt"><a href="./../../../SDSEng_Process_OOCBD/guidances/guidelines/./resources/370781495023148825.doc"><SPAN style="COLOR: windowtext; TEXT-DECORATION: none; text-underline: none"><?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id=_x0000_t75 coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock v:ext="edit" aspectratio="t"></a><a href="./../../../SDSEng_Process_OOCBD/guidances/guidelines/./resources/데이터모델링 기법T.doc" target="_blank">데이터모델링 기법T.doc</a></o:lock></v:shapetype></SPAN></SPAN></P><BR></td>
+</tr>
+</table>
+</div>
+<table class="copyright" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="copyright"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+<script type="text/javascript" language="JavaScript">
+				contentPage.onload();
+			</script>
+</html>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_nF0xoPmrEd2JRcy3PiAHxw"
+      guid="_nF0xoPmrEd2JRcy3PiAHxw">
+    <resourceDescriptors xmi:id="_nF0xofmrEd2JRcy3PiAHxw" id="-RAKDpMQarALpnLLNrz_E-Q"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_m3EkCPmrEd2JRcy3PiAHxw" name="단위 테스트"
+      guid="_m3EkCPmrEd2JRcy3PiAHxw">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_RZw3AAgTEd6PpbmBy1d4Hw"
+        name="단위테스트정의서 작성" guid="_RZw3AAgTEd6PpbmBy1d4Hw" presentationName="단위테스트정의서 작성"
+        superActivities="_m3EkCfmrEd2JRcy3PiAHxw" additionallyPerformedBy="_RZw3BAgTEd6PpbmBy1d4Hw"
+        mandatoryInput="_RZw3BQgTEd6PpbmBy1d4Hw _RZw3BggTEd6PpbmBy1d4Hw _RZw3BwgTEd6PpbmBy1d4Hw _RZw3CAgTEd6PpbmBy1d4Hw _RZw3CQgTEd6PpbmBy1d4Hw"
+        output="_RZw3CggTEd6PpbmBy1d4Hw" performedPrimarilyBy="_RZw3AwgTEd6PpbmBy1d4Hw">
+      <Task href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bAmsTfmrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-tO0f-hf9hI2ezpPuSRJZ6A#_bAmsT_mrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-tO0f-hf9hI2ezpPuSRJZ6A#_bAmsTvmrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_RZw3AQgTEd6PpbmBy1d4Hw"
+        name="단위테스트체크리스트 작성" guid="_RZw3AQgTEd6PpbmBy1d4Hw" presentationName="단위테스트체크리스트 작성"
+        superActivities="_m3EkCfmrEd2JRcy3PiAHxw" linkToPredecessor="_U9ZGAQjoEd6CD-m1e93cOw"
+        mandatoryInput="_RZw3BQgTEd6PpbmBy1d4Hw _RZw3BggTEd6PpbmBy1d4Hw _RZw3CggTEd6PpbmBy1d4Hw _RZw3CwgTEd6PpbmBy1d4Hw _RZw3BwgTEd6PpbmBy1d4Hw _RZw3DAgTEd6PpbmBy1d4Hw _RZw3CAgTEd6PpbmBy1d4Hw _RZw3CQgTEd6PpbmBy1d4Hw"
+        output="_RZw3DQgTEd6PpbmBy1d4Hw" performedPrimarilyBy="_RZw3BAgTEd6PpbmBy1d4Hw">
+      <Task href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBDYUvmrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-FwswrWIE-_tjPFX9l2XO2Q#_bBDYU_mrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-FwswrWIE-_tjPFX9l2XO2Q#_bBDYVvmrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-FwswrWIE-_tjPFX9l2XO2Q#_bBDYVfmrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-FwswrWIE-_tjPFX9l2XO2Q#_bBDYVPmrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-FwswrWIE-_tjPFX9l2XO2Q#_Jm8tMAQ9Ed6Jm6RmV6KrJA"/>
+      <selectedSteps href="uma://-FwswrWIE-_tjPFX9l2XO2Q#_Kjl7oAQ9Ed6Jm6RmV6KrJA"/>
+      <selectedSteps href="uma://-FwswrWIE-_tjPFX9l2XO2Q#_LlKGUAQ9Ed6Jm6RmV6KrJA"/>
+      <selectedSteps href="uma://-FwswrWIE-_tjPFX9l2XO2Q#_NcNukAQ9Ed6Jm6RmV6KrJA"/>
+      <selectedSteps href="uma://-FwswrWIE-_tjPFX9l2XO2Q#_Ogw70AQ9Ed6Jm6RmV6KrJA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_RZw3AggTEd6PpbmBy1d4Hw"
+        name="단위테스트코드 작성" guid="_RZw3AggTEd6PpbmBy1d4Hw" presentationName="단위테스트코드 작성"
+        superActivities="_m3EkCfmrEd2JRcy3PiAHxw" linkToPredecessor="_UkNxAQjoEd6CD-m1e93cOw"
+        mandatoryInput="_RZw3CggTEd6PpbmBy1d4Hw _RZw3BQgTEd6PpbmBy1d4Hw _RZw3BggTEd6PpbmBy1d4Hw _RZw3CwgTEd6PpbmBy1d4Hw _RZw3BwgTEd6PpbmBy1d4Hw _RZw3DAgTEd6PpbmBy1d4Hw _RZw3CAgTEd6PpbmBy1d4Hw _RZw3CQgTEd6PpbmBy1d4Hw"
+        output="_RZw3DggTEd6PpbmBy1d4Hw" performedPrimarilyBy="_RZw3BAgTEd6PpbmBy1d4Hw">
+      <Task href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bAv2PPmrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-IVFyIKBMjZF_bebB1kvV2A#_bAv2PfmrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-IVFyIKBMjZF_bebB1kvV2A#_7wr2EAQ-Ed6Jm6RmV6KrJA"/>
+      <selectedSteps href="uma://-IVFyIKBMjZF_bebB1kvV2A#_9KsV8AQ-Ed6Jm6RmV6KrJA"/>
+      <selectedSteps href="uma://-IVFyIKBMjZF_bebB1kvV2A#_95LzoAQ-Ed6Jm6RmV6KrJA"/>
+      <selectedSteps href="uma://-IVFyIKBMjZF_bebB1kvV2A#_-tCScAQ-Ed6Jm6RmV6KrJA"/>
+      <selectedSteps href="uma://-IVFyIKBMjZF_bebB1kvV2A#__jk44AQ-Ed6Jm6RmV6KrJA"/>
+      <selectedSteps href="uma://-IVFyIKBMjZF_bebB1kvV2A#_AW1h0AQ_Ed6Jm6RmV6KrJA"/>
+      <selectedSteps href="uma://-IVFyIKBMjZF_bebB1kvV2A#_BKi2sAQ_Ed6Jm6RmV6KrJA"/>
+      <selectedSteps href="uma://-IVFyIKBMjZF_bebB1kvV2A#_CM2oQAQ_Ed6Jm6RmV6KrJA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_RZw3AwgTEd6PpbmBy1d4Hw"
+        name="설계자" guid="_RZw3AwgTEd6PpbmBy1d4Hw" presentationName="설계자" superActivities="_m3EkCfmrEd2JRcy3PiAHxw"
+        modifies="_RZw3CggTEd6PpbmBy1d4Hw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to2OFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_RZw3BAgTEd6PpbmBy1d4Hw"
+        name="개발자" guid="_RZw3BAgTEd6PpbmBy1d4Hw" presentationName="개발자" superActivities="_m3EkCfmrEd2JRcy3PiAHxw"
+        modifies="_RZw3DQgTEd6PpbmBy1d4Hw _RZw3DggTEd6PpbmBy1d4Hw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to0eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_RZw3BQgTEd6PpbmBy1d4Hw"
+        name="설계 클래스다이어그램" guid="_RZw3BQgTEd6PpbmBy1d4Hw" presentationName="설계 클래스다이어그램"
+        superActivities="_m3EkCfmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBMiLvmrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_RZw3BggTEd6PpbmBy1d4Hw"
+        name="클래스명세서" guid="_RZw3BggTEd6PpbmBy1d4Hw" presentationName="클래스명세서" superActivities="_m3EkCfmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBMiKPmrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_RZw3BwgTEd6PpbmBy1d4Hw"
+        name="배치프로그램명세서" guid="_RZw3BwgTEd6PpbmBy1d4Hw" presentationName="배치프로그램명세서"
+        superActivities="_m3EkCfmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_5s7iLJX_Ed2f_MiqbDX5Hg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_RZw3CAgTEd6PpbmBy1d4Hw"
+        name="설계 화면정의서" guid="_RZw3CAgTEd6PpbmBy1d4Hw" presentationName="설계 화면정의서"
+        superActivities="_m3EkCfmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_If9GwMdyEd2wA9_TUU3fKA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_RZw3CQgTEd6PpbmBy1d4Hw"
+        name="테이블정의서" guid="_RZw3CQgTEd6PpbmBy1d4Hw" presentationName="테이블정의서" superActivities="_m3EkCfmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_qS6rV5X_Ed2f_MiqbDX5Hg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_RZw3CggTEd6PpbmBy1d4Hw"
+        name="단위테스트정의서" guid="_RZw3CggTEd6PpbmBy1d4Hw" presentationName="단위테스트정의서"
+        superActivities="_m3EkCfmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bAmsTPmrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_RZw3CwgTEd6PpbmBy1d4Hw"
+        name="물리 ERD" guid="_RZw3CwgTEd6PpbmBy1d4Hw" presentationName="물리 ERD" superActivities="_m3EkCfmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_M0VigMdxEd2wA9_TUU3fKA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_RZw3DAgTEd6PpbmBy1d4Hw"
+        name="설계 시스템인터페이스정의서" guid="_RZw3DAgTEd6PpbmBy1d4Hw" presentationName="설계 시스템인터페이스정의서"
+        superActivities="_m3EkCfmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_CHcDA_maEd2L2cXOqZYpVA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_RZw3DQgTEd6PpbmBy1d4Hw"
+        name="단위테스트체크리스트" guid="_RZw3DQgTEd6PpbmBy1d4Hw" presentationName="단위테스트체크리스트"
+        superActivities="_m3EkCfmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBDYUfmrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_RZw3DggTEd6PpbmBy1d4Hw"
+        name="단위테스트코드" guid="_RZw3DggTEd6PpbmBy1d4Hw" presentationName="단위테스트코드" superActivities="_m3EkCfmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bAv2O_mrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_UkNxAQjoEd6CD-m1e93cOw"
+        guid="_UkNxAQjoEd6CD-m1e93cOw" pred="_RZw3AAgTEd6PpbmBy1d4Hw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_U9ZGAQjoEd6CD-m1e93cOw"
+        guid="_U9ZGAQjoEd6CD-m1e93cOw" pred="_RZw3AggTEd6PpbmBy1d4Hw"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_m3EkCfmrEd2JRcy3PiAHxw"
+        name="단위 테스트" guid="_m3EkCfmrEd2JRcy3PiAHxw" presentationName="단위 테스트" breakdownElements="_RZw3AAgTEd6PpbmBy1d4Hw _RZw3AggTEd6PpbmBy1d4Hw _RZw3AQgTEd6PpbmBy1d4Hw _RZw3AwgTEd6PpbmBy1d4Hw _RZw3BAgTEd6PpbmBy1d4Hw _RZw3BQgTEd6PpbmBy1d4Hw _RZw3BggTEd6PpbmBy1d4Hw _RZw3BwgTEd6PpbmBy1d4Hw _RZw3CAgTEd6PpbmBy1d4Hw _RZw3CQgTEd6PpbmBy1d4Hw _RZw3CggTEd6PpbmBy1d4Hw _RZw3CwgTEd6PpbmBy1d4Hw _RZw3DAgTEd6PpbmBy1d4Hw _RZw3DQgTEd6PpbmBy1d4Hw _RZw3DggTEd6PpbmBy1d4Hw">
+      <presentation xmi:id="-RAKDpMQarALpnLLNrz_E-Q" href="uma://-RAKDpMQarALpnLLNrz_E-Q#-RAKDpMQarALpnLLNrz_E-Q"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

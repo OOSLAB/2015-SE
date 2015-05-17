@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko" xml:lang="ko" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Task: 단위테스트정의서 작성</title>
+<meta name="uma.type" content="TaskDescriptor">
+<meta name="uma.name" content="단위테스트정의서 작성">
+<meta name="uma.presentationName" content="단위테스트정의서 작성">
+<meta name="uma.guid" content="_RZw3AAgTEd6PpbmBy1d4Hw">
+<meta name="element_type" content="TaskDescriptor">
+<meta name="filetype" content="description">
+<meta name="role" content="">
+<link rel="StyleSheet" href="./../../css/default.css" type="text/css">
+<script src="./../../scripts/ContentPageResource.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSubSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ActivityTreeTable.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ProcessElementPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageToolbar.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/contentPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/processElementData.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+					var defaultQueryStr = '?proc=_m3EkCfmrEd2JRcy3PiAHxw&path=_m3EkCfmrEd2JRcy3PiAHxw,_RZw3AAgTEd6PpbmBy1d4Hw';
+					var backPath = './../../';
+					var imgPath = './../../images/';
+					var nodeInfo=null;
+					contentPage.preload(imgPath, backPath, nodeInfo, defaultQueryStr, true, true, false);
+				</script>
+</head>
+<body>
+<div id="breadcrumbs"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top">
+<div id="page-guid" value="_RZw3AAgTEd6PpbmBy1d4Hw"></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="pageTitle" nowrap="true">Task: 단위테스트정의서 작성</td><td width="100%">
+<div align="right" id="contentPageToolbar"></div>
+</td><td width="100%" class="expandCollapseLink" align="right"><a name="mainIndex" href="./../../index.htm"></a><script language="JavaScript" type="text/javascript" src="./../../scripts/treebrowser.js"></script></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pageTitleSeparator"><img src="./../../images/shim.gif" alt="" title="" height="1"></td>
+</tr>
+</table>
+<div class="overview">
+<table width="97%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50"><img src="./../../images/taskdes_lg_dgm32.gif" alt="" title=""></td><td>
+<table class="overviewTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Purpose</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td class="sectionTableSingleCell"><span style="FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA">단위
+테스트를 수행하기 위해 설계된 모델로부터 테스트 대상인 클래스를 식별하고<span lang="EN-US">,</span> 식별된 클래스로부터 테스트될 중요한 메소드를 선정하여 테스트케이스를 도출하고 테스트 케이스를
+작성한다<span lang="EN-US">.</span></span></td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Relationships</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<th class="sectionTableHeading" scope="row">Roles</th><td class="sectionTableCell" width="30%"><span class="sectionTableCellHeading">Main:
+								</span>
+<ul>
+<li>
+<a href="./../../SDSEng_Process_OOCBD/capabilitypatterns/설계자_DCB0F5FD.html" guid="_RZw3AwgTEd6PpbmBy1d4Hw">설계자</a>
+</li>
+</ul>
+</td><td class="sectionTableCell" width="30%"><span class="sectionTableCellHeading">Additional:
+								</span>
+<ul>
+<li>
+<a href="./../../SDSEng_Process_OOCBD/capabilitypatterns/개발자_9D6E03E6.html" guid="_RZw3BAgTEd6PpbmBy1d4Hw">개발자</a>
+</li>
+</ul>
+</td><td class="sectionTableCell"><span class="sectionTableCellHeading">Assisting:
+								</span></td>
+</tr>
+<tr valign="top">
+<th class="sectionTableHeading" scope="row">Inputs</th><td class="sectionTableCell" width="30%"><span class="sectionTableCellHeading">Mandatory:
+								</span>
+<ul>
+<li>
+<a href="./../../SDSEng_Process_OOCBD/capabilitypatterns/배치프로그램명세서_A142D81C.html" guid="_RZw3BwgTEd6PpbmBy1d4Hw">배치프로그램명세서</a>
+</li>
+<li>
+<a href="./../../SDSEng_Process_OOCBD/capabilitypatterns/설계 클래스다이어그램_A80BE3F6.html" guid="_RZw3BQgTEd6PpbmBy1d4Hw">설계 클래스다이어그램</a>
+</li>
+<li>
+<a href="./../../SDSEng_Process_OOCBD/capabilitypatterns/설계 화면정의서_61FFE605.html" guid="_RZw3CAgTEd6PpbmBy1d4Hw">설계 화면정의서</a>
+</li>
+<li>
+<a href="./../../SDSEng_Process_OOCBD/capabilitypatterns/클래스명세서_96A4F80C.html" guid="_RZw3BggTEd6PpbmBy1d4Hw">클래스명세서</a>
+</li>
+<li>
+<a href="./../../SDSEng_Process_OOCBD/capabilitypatterns/테이블정의서_6C9DC615.html" guid="_RZw3CQgTEd6PpbmBy1d4Hw">테이블정의서</a>
+</li>
+</ul>
+</td><td class="sectionTableCell" width="30%"><span class="sectionTableCellHeading">Optional:
+								</span>
+<ul>
+<li>None</li>
+</ul>
+</td><td class="sectionTableCell"><span class="sectionTableCellHeading">External:
+								</span>
+<ul>
+<li>None</li>
+</ul>
+</td>
+</tr>
+<tr valign="top">
+<th class="sectionTableHeading" scope="row">Outputs</th><td class="sectionTableCell" colspan="3">
+<ul>
+<li>
+<a href="./../../SDSEng_Process_OOCBD/capabilitypatterns/단위테스트정의서_5B36DA2B.html" guid="_RZw3CggTEd6PpbmBy1d4Hw">단위테스트정의서</a>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Main Description</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td class="sectionTableSingleCell"><font face="굴림">수행 가이드(Task Guideline)</font> 
+<ol>
+    <li>
+        <font face="굴림">단위테스트에서 단위는 보통 클래스가 되며 단위테스트를 작성하는 것은 이 단위를 식별하는 데서 시작된다. 단위테스트의 대상이 되는 클래스와 단위테스트의 대상에 포함되지 말아야 하는
+        클래스에 대한 식별기준과 우선순위는 단위테스트 작성기법 문서를 참고하도록 한다.</font>
+    </li>
+    <li>
+        <font face="굴림">단위테스트의 대상이 되는 클래스를 식별한 후 테스트 케이스를 도출한다. 테스트 케이스 식별 시 모든 케이스를 테스트 하는 것은 불가능하기 때문에 식별기준과 우선순위를 고려하여
+        테스트 케이스를 도출한다.</font>
+    </li>
+    <li>
+        <font face="굴림">도출된 테스트 케이스를 작성하는 명세작업은 테스트 케이스 작성자가 누구냐에 따라 다르게 적용해야 한다. 만약 한 사람이 설계, 코딩, 단위테스트를 담당한다면 정형화된 형태로
+        테스트 케이스 명세를 작성하지 않고 문서형태의 명세서 대신 테스트 코드에 주석으로 추가할 수 있다. 그러나 한 사람이 설계, 단위식별, 테스트케이스 식별을 담당하고 다른 사람이 코딩과 단위테스트를 담당한다면
+        테스트 케이스 명세가 정형화된 문서로 작성되어야 한다.</font>
+    </li>
+    <li>
+        <font face="굴림">배치처리에 대한 기능은 단위테스트의 대상으로 식별하여, 단위테스트를 실시할 때 이에 대한 테스트를 수행하도록 한다.</font>
+    </li>
+</ol></td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Steps</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="sectionTableCell">
+<div class="stepHeading">설계자는 식별기준과 우선순위에 따라 설계된 모델로 테스트 대상 클래스를 식별한다.</div>
+<div class="stepContent">
+<table class="stepTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td></td>
+</tr>
+</table>
+</div>
+<div class="stepHeading">설계자는 식별된 대상 클래스에서 테스트 케이스를 도출하여 테스트 케이스를 작성한다.</div>
+<div class="stepContent">
+<table class="stepTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Properties</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<th class="sectionTableHeading" scope="row" id="property_Multiple Occurrences" abbr="Multiple Occurrences">Multiple Occurrences</th><td class="sectionTableCell" align="left" headers="property_Multiple Occurrences"><img width="20" height="15" alt="" title="" src="./../../images/indent.gif"></td>
+</tr>
+<tr valign="top">
+<th class="sectionTableHeading" scope="row" id="property_Event Driven" abbr="Event Driven">Event Driven</th><td class="sectionTableCell" align="left" headers="property_Event Driven"><img width="20" height="15" alt="" title="" src="./../../images/indent.gif"></td>
+</tr>
+<tr valign="top">
+<th class="sectionTableHeading" scope="row" id="property_Ongoing" abbr="Ongoing">Ongoing</th><td class="sectionTableCell" align="left" headers="property_Ongoing"><img width="20" height="15" alt="" title="" src="./../../images/indent.gif"></td>
+</tr>
+<tr valign="top">
+<th class="sectionTableHeading" scope="row" id="property_Optional" abbr="Optional">Optional</th><td class="sectionTableCell" align="left" headers="property_Optional"><img width="20" height="15" alt="" title="" src="./../../images/indent.gif"></td>
+</tr>
+<tr valign="top">
+<th class="sectionTableHeading" scope="row" id="property_Planned" abbr="Planned">Planned</th><td class="sectionTableCell" align="left" headers="property_Planned"><img width="20" height="15" alt="" title="" src="./../../images/indent.gif"></td>
+</tr>
+<tr valign="top">
+<th class="sectionTableHeading" scope="row" id="property_Repeatable" abbr="Repeatable">Repeatable</th><td class="sectionTableCell" align="left" headers="property_Repeatable"><img width="20" height="15" alt="" title="" src="./../../images/indent.gif"></td>
+</tr>
+</table>
+</div>
+<table class="copyright" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="copyright"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+<script language="JavaScript" type="text/javascript">
+					contentPage.onload();
+					contentPage.processPage.fixDescriptorLinks();
+				</script>
+</html>

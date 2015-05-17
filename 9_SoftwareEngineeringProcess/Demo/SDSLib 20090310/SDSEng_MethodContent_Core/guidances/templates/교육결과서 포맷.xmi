@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-8aUu65yN6JYn3zWHFD2m3Q"
+    name="new_template,_M3voAP85Ed2WHoY-_v_k_A" guid="-8aUu65yN6JYn3zWHFD2m3Q">
+  <attachments>resources/교육결과서T.doc</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

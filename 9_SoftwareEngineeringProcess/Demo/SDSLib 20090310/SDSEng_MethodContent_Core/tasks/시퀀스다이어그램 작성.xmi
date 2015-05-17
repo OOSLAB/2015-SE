@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-f9XJK-yZW_LH2kG81FrJuw"
+    name=",_-_anwJxHEd2b9o00yINnSg" guid="-f9XJK-yZW_LH2kG81FrJuw">
+  <sections xmi:id="_S3-GkJxIEd2b9o00yINnSg" name="객체 정의" guid="_S3-GkJxIEd2b9o00yINnSg"/>
+  <sections xmi:id="_UUz4AJxIEd2b9o00yINnSg" name="메시지 정의" guid="_UUz4AJxIEd2b9o00yINnSg"/>
+  <sections xmi:id="_PKAAAJxIEd2b9o00yINnSg" name="activation 정의" guid="_PKAAAJxIEd2b9o00yINnSg"/>
+  <sections xmi:id="_RggkYJxIEd2b9o00yINnSg" name="lifeline 정의" guid="_RggkYJxIEd2b9o00yINnSg"/>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-V7nfyHmLGhabnB3naI07OQ"
+    name="new_artifact,_NSUwYJO7Ed2QOZMWcM0ZMQ" guid="-V7nfyHmLGhabnB3naI07OQ" changeDate="2008-10-09T22:39:02.671+0900">
+  <mainDescription>&lt;p>&#xD;
+    데이터 구성, 데이터 통합/분산, 데이터 흐름, 데이터관리,&amp;nbsp;데이터 보안방안, 데이터 표준화 방안, 데이터베이스 설계방안&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

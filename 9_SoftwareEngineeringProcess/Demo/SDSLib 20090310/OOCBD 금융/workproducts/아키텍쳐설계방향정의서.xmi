@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-NSyff0P8LYmIoGEdE5rB2w"
+    name="new_artifact,_8zZkAJOzEd2QOZMWcM0ZMQ" guid="-NSyff0P8LYmIoGEdE5rB2w" changeDate="2008-10-09T22:50:48.375+0900">
+  <mainDescription>&lt;p>&#xD;
+    아키텍쳐 설계방향, 아키텍쳐 이슈사항 목록,&amp;nbsp;아키텍쳐 요구사항, 아키텍쳐 요구사항 분석&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-abPOusr9HVEXjIc4KBU-1Q"
+    name="기능요구모델,_hcqNoea7Ed2j6auu_FbYxw" guid="-abPOusr9HVEXjIc4KBU-1Q">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/concepts/%C694%AD6C%C0AC%D56D%C815%C758%D65C%B3D9%20%AC1C%C694_4782C3A2.html&quot;&#xD;
+         guid=&quot;_wT_d8AS6Ed6u1pdhw4SOFA&quot;>요구사항정의활동 개요&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/guidelines/%C694%AD6C%C0AC%D56D%20%B3C4%CD9C%20%AE30%BC95_7A4028E.html&quot;&#xD;
+         guid=&quot;_8tybQASxEd6u1pdhw4SOFA&quot;>요구사항 도출 기법&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/guidelines/%C694%AD6C%C0AC%D56D%20%C815%C81C%20%AE30%BC95_D0162529.html&quot;&#xD;
+         guid=&quot;_JcSuMASyEd6u1pdhw4SOFA&quot;>요구사항 정제 기법&lt;/a>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/guidelines/%C720%C2A4%CF00%C774%C2A4%20%C815%C758%20%AE30%BC95_ED50A376.html&quot;&#xD;
+         guid=&quot;_b7l7EASyEd6u1pdhw4SOFA&quot;>유스케이스 정의 기법&lt;/a>&lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/guidelines/%C694%AD6C%C0AC%D56D%20%B3C4%CD9C%20%AE30%BC95_7A4028E.html&quot;&#xD;
+         guid=&quot;_8tybQASxEd6u1pdhw4SOFA&quot;>요구사항 도출 기법&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ProcessDescription>

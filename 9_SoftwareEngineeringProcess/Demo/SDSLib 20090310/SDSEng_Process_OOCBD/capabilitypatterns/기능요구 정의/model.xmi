@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_m8blEfmrEd2JRcy3PiAHxw"
+      guid="_m8blEfmrEd2JRcy3PiAHxw">
+    <resourceDescriptors xmi:id="_m8blEvmrEd2JRcy3PiAHxw" id="-abPOusr9HVEXjIc4KBU-1Q"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_m3Xe4PmrEd2JRcy3PiAHxw" name="기능요구 정의"
+      guid="_m3Xe4PmrEd2JRcy3PiAHxw">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_WcNWcAfBEd6Obes9cAqsag"
+        name="요구 유스케이스다이어그램 작성" guid="_WcNWcAfBEd6Obes9cAqsag" presentationName="요구 유스케이스다이어그램 작성"
+        superActivities="_m3Xe4fmrEd2JRcy3PiAHxw" linkToPredecessor="_uYRaYQjnEd6CD-m1e93cOw"
+        additionallyPerformedBy="_WcNWdAfBEd6Obes9cAqsag _WcNWdQfBEd6Obes9cAqsag _WcWgYAfBEd6Obes9cAqsag"
+        mandatoryInput="_WcWgYQfBEd6Obes9cAqsag _WcWgYgfBEd6Obes9cAqsag _WcWgYwfBEd6Obes9cAqsag _WcWgZAfBEd6Obes9cAqsag _WcWgZQfBEd6Obes9cAqsag"
+        output="_WcWgZgfBEd6Obes9cAqsag" performedPrimarilyBy="_WcNWcwfBEd6Obes9cAqsag">
+      <Task href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBMiNfmrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-5A15GlpM1YPACw--Su_2CQ#_bBMiNvmrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-5A15GlpM1YPACw--Su_2CQ#_bBMiN_mrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_WcNWcQfBEd6Obes9cAqsag"
+        name="요구 유스케이스정의서 작성" guid="_WcNWcQfBEd6Obes9cAqsag" presentationName="요구 유스케이스정의서 작성"
+        superActivities="_m3Xe4fmrEd2JRcy3PiAHxw" linkToPredecessor="_wkMfYQjnEd6CD-m1e93cOw"
+        additionallyPerformedBy="_WcNWdAfBEd6Obes9cAqsag _WcNWdQfBEd6Obes9cAqsag _WcWgYAfBEd6Obes9cAqsag"
+        mandatoryInput="_WcWgZgfBEd6Obes9cAqsag" output="_WcWgZwfBEd6Obes9cAqsag"
+        performedPrimarilyBy="_WcNWcwfBEd6Obes9cAqsag">
+      <Task href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBMiQPmrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-Q5zjIDcv8G_2gEjZBhrROQ#_wMeicJxIEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-Q5zjIDcv8G_2gEjZBhrROQ#_O7FFYK8vEd2L5O0hnnXUww"/>
+      <selectedSteps href="uma://-Q5zjIDcv8G_2gEjZBhrROQ#_xeSIkJxIEd2b9o00yINnSg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_WcNWcgfBEd6Obes9cAqsag"
+        name="요구 패키지다이어그램 작성" guid="_WcNWcgfBEd6Obes9cAqsag" presentationName="요구 패키지다이어그램 작성"
+        superActivities="_m3Xe4fmrEd2JRcy3PiAHxw" linkToPredecessor="_t25LoQjnEd6CD-m1e93cOw"
+        additionallyPerformedBy="_WcNWdAfBEd6Obes9cAqsag _WcNWdQfBEd6Obes9cAqsag _WcWgYAfBEd6Obes9cAqsag"
+        mandatoryInput="_WcWgYgfBEd6Obes9cAqsag _WcWgYwfBEd6Obes9cAqsag _WcWgZAfBEd6Obes9cAqsag _WcWgZQfBEd6Obes9cAqsag _WcWgaAfBEd6Obes9cAqsag"
+        output="_WcWgYQfBEd6Obes9cAqsag" performedPrimarilyBy="_WcNWcwfBEd6Obes9cAqsag">
+      <Task href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBMiO_mrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-RiZHcilUDdLitotglMwB7g#_bBMiPPmrEd2JRcy3PiAHxw"/>
+      <selectedSteps href="uma://-RiZHcilUDdLitotglMwB7g#_bBMiPfmrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_WcNWcwfBEd6Obes9cAqsag"
+        name="분석자" guid="_WcNWcwfBEd6Obes9cAqsag" presentationName="분석자" isPlanned="false"
+        superActivities="_m3Xe4fmrEd2JRcy3PiAHxw" modifies="_WcWgZgfBEd6Obes9cAqsag _WcWgZwfBEd6Obes9cAqsag _WcWgYQfBEd6Obes9cAqsag">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to1eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_WcNWdAfBEd6Obes9cAqsag"
+        name="비즈니스아키텍트" guid="_WcNWdAfBEd6Obes9cAqsag" presentationName="비즈니스아키텍트"
+        isPlanned="false" superActivities="_m3Xe4fmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to1uFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_WcNWdQfBEd6Obes9cAqsag"
+        name="소프트웨어아키텍트" guid="_WcNWdQfBEd6Obes9cAqsag" presentationName="소프트웨어아키텍트"
+        isPlanned="false" superActivities="_m3Xe4fmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to2eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_WcWgYAfBEd6Obes9cAqsag"
+        name="프로젝트TA" guid="_WcWgYAfBEd6Obes9cAqsag" presentationName="프로젝트TA" isPlanned="false"
+        superActivities="_m3Xe4fmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to3uFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_WcWgYQfBEd6Obes9cAqsag"
+        name="요구 패키지다이어그램" guid="_WcWgYQfBEd6Obes9cAqsag" presentationName="요구 패키지다이어그램"
+        isPlanned="false" superActivities="_m3Xe4fmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBMiPvmrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_WcWgYgfBEd6Obes9cAqsag"
+        name="EA,ISP산출물" guid="_WcWgYgfBEd6Obes9cAqsag" presentationName="EA,ISP산출물"
+        isPlanned="false" superActivities="_m3Xe4fmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_YKODoL-EEd2lOZgBqGXdOQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_WcWgYwfBEd6Obes9cAqsag"
+        name="수행계획서" guid="_WcWgYwfBEd6Obes9cAqsag" presentationName="수행계획서" isPlanned="false"
+        superActivities="_m3Xe4fmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_y6EKYL-EEd2lOZgBqGXdOQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_WcWgZAfBEd6Obes9cAqsag"
+        name="업무범위서" guid="_WcWgZAfBEd6Obes9cAqsag" presentationName="업무범위서" isPlanned="false"
+        superActivities="_m3Xe4fmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_6gl24L-EEd2lOZgBqGXdOQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_WcWgZQfBEd6Obes9cAqsag"
+        name="현행시스템분석서" guid="_WcWgZQfBEd6Obes9cAqsag" presentationName="현행시스템분석서"
+        isPlanned="false" superActivities="_m3Xe4fmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_lPo3ML-DEd2lOZgBqGXdOQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_WcWgZgfBEd6Obes9cAqsag"
+        name="요구 유스케이스다이어그램" guid="_WcWgZgfBEd6Obes9cAqsag" presentationName="요구 유스케이스다이어그램"
+        isPlanned="false" superActivities="_m3Xe4fmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBMiOfmrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_WcWgZwfBEd6Obes9cAqsag"
+        name="요구 유스케이스정의서" guid="_WcWgZwfBEd6Obes9cAqsag" presentationName="요구 유스케이스정의서"
+        isPlanned="false" superActivities="_m3Xe4fmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBMiRPmrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_WcWgaAfBEd6Obes9cAqsag"
+        name="사용자계층도" guid="_WcWgaAfBEd6Obes9cAqsag" presentationName="사용자계층도" isPlanned="false"
+        superActivities="_m3Xe4fmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_TwqtgPa7Ed2DW9Xz6RbeHQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_zSZ-UAfEEd6PyOiijdVpWA"
+        name="사용자계층도 작성" guid="_zSZ-UAfEEd6PyOiijdVpWA" presentationName="사용자계층도 작성"
+        superActivities="_m3Xe4fmrEd2JRcy3PiAHxw" output="_WcWgaAfBEd6Obes9cAqsag">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_SVK_4Pa7Ed2DW9Xz6RbeHQ"/>
+      <selectedSteps href="uma://-EPwDndU6uCEkYfGd9SyZwg#_JVrrcPkjEd2wTMSGTWecjA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_t25LoQjnEd6CD-m1e93cOw"
+        guid="_t25LoQjnEd6CD-m1e93cOw" pred="_zSZ-UAfEEd6PyOiijdVpWA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_uYRaYQjnEd6CD-m1e93cOw"
+        guid="_uYRaYQjnEd6CD-m1e93cOw" pred="_WcNWcgfBEd6Obes9cAqsag"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_wkMfYQjnEd6CD-m1e93cOw"
+        guid="_wkMfYQjnEd6CD-m1e93cOw" pred="_WcNWcAfBEd6Obes9cAqsag"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_m3Xe4fmrEd2JRcy3PiAHxw"
+        name="기능요구 정의" guid="_m3Xe4fmrEd2JRcy3PiAHxw" presentationName="기능요구 정의" breakdownElements="_zSZ-UAfEEd6PyOiijdVpWA _WcNWcgfBEd6Obes9cAqsag _WcNWcAfBEd6Obes9cAqsag _WcNWcQfBEd6Obes9cAqsag _WcNWcwfBEd6Obes9cAqsag _WcNWdAfBEd6Obes9cAqsag _WcNWdQfBEd6Obes9cAqsag _WcWgYAfBEd6Obes9cAqsag _WcWgYQfBEd6Obes9cAqsag _WcWgYgfBEd6Obes9cAqsag _WcWgYwfBEd6Obes9cAqsag _WcWgZAfBEd6Obes9cAqsag _WcWgZQfBEd6Obes9cAqsag _WcWgZgfBEd6Obes9cAqsag _WcWgZwfBEd6Obes9cAqsag _WcWgaAfBEd6Obes9cAqsag">
+      <presentation xmi:id="-abPOusr9HVEXjIc4KBU-1Q" href="uma://-abPOusr9HVEXjIc4KBU-1Q#-abPOusr9HVEXjIc4KBU-1Q"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

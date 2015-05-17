@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-sp-7xM12fWzIBhb-dpgUQg"
+    name="new_artifact,_KPTXMJOuEd2QOZMWcM0ZMQ" guid="-sp-7xM12fWzIBhb-dpgUQg" changeDate="2008-10-06T22:54:20.515+0900">
+  <mainDescription>서버단 클래스 및 함수, 시작JSP, 출력JSP, 프리젠테이션 레이어설계, controller 클래스, request URL</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

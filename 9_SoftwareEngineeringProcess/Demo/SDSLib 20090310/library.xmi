@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="__YpjgYbEEd24a7VsLvdQQQ"
+      guid="__YpjgYbEEd24a7VsLvdQQQ">
+    <subManagers xmi:id="_2SOGkMWmEd2eFf4iygnyuw" href="uma://_2SE8oMWmEd2eFf4iygnyuw#_2SOGkMWmEd2eFf4iygnyuw"/>
+    <subManagers xmi:id="_1UmV0MWoEd2eFf4iygnyuw" href="uma://_1Uck0MWoEd2eFf4iygnyuw#_1UmV0MWoEd2eFf4iygnyuw"/>
+    <subManagers xmi:id="_TidWwZUxEd2ptuaOn8CiHA" href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_TidWwZUxEd2ptuaOn8CiHA"/>
+    <subManagers xmi:id="_3Tt5YfmnEd2L2cXOqZYpVA" href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_3Tt5YfmnEd2L2cXOqZYpVA"/>
+    <resourceDescriptors xmi:id="__YpjgobEEd24a7VsLvdQQQ" id="__YpjgIbEEd24a7VsLvdQQQ"
+        uri=""/>
+    <resourceDescriptors xmi:id="_2SOGkcWmEd2eFf4iygnyuw" id="_2SE8oMWmEd2eFf4iygnyuw"
+        uri="2%20프로젝트관리방법론/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_1UmV0cWoEd2eFf4iygnyuw" id="_1Uck0MWoEd2eFf4iygnyuw"
+        uri="9%20수행프로세스/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_rwYIUA1LEd6YM_fIME8HRA" id="_Td_GcJUxEd2ptuaOn8CiHA"
+        uri="SDSEng_MethodContent_Core/plugin.xmi"/>
+    <resourceDescriptors xmi:id="_rywt8A1LEd6YM_fIME8HRA" id="_3TkIYPmnEd2L2cXOqZYpVA"
+        uri="SDSEng_Process_OOCBD/plugin.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="__YpjgIbEEd24a7VsLvdQQQ" name="SDSLib"
+      guid="__YpjgIbEEd24a7VsLvdQQQ" briefDescription="삼성표준공학방법론 라이브러리">
+    <methodPlugins xmi:id="_2SE8oMWmEd2eFf4iygnyuw" href="uma://_2SE8oMWmEd2eFf4iygnyuw#_2SE8oMWmEd2eFf4iygnyuw"/>
+    <methodPlugins xmi:id="_1Uck0MWoEd2eFf4iygnyuw" href="uma://_1Uck0MWoEd2eFf4iygnyuw#_1Uck0MWoEd2eFf4iygnyuw"/>
+    <methodPlugins xmi:id="_Td_GcJUxEd2ptuaOn8CiHA" href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_Td_GcJUxEd2ptuaOn8CiHA"/>
+    <methodPlugins xmi:id="_3TkIYPmnEd2L2cXOqZYpVA" href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_3TkIYPmnEd2L2cXOqZYpVA"/>
+  </org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

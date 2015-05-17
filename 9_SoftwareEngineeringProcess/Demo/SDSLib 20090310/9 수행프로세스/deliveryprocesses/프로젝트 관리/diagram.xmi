@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML">
+  <uml:Activity xmi:id="_x_XnQOkGEd2IkdBO-oEPPg" name="프로젝트 관리">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_x_XnQekGEd2IkdBO-oEPPg" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_x_XnQukGEd2IkdBO-oEPPg"
+          key="uri" value="uma://_MKrTAOkGEd2IkdBO-oEPPg#_MKrTAekGEd2IkdBO-oEPPg"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_x_XnQ-kGEd2IkdBO-oEPPg"
+          key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_yMVFMOkGEd2IkdBO-oEPPg" name="프로젝트 착수"
+        outgoing="_yx4pUOkGEd2IkdBO-oEPPg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_yMVFMekGEd2IkdBO-oEPPg"
+          source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_yMVFMukGEd2IkdBO-oEPPg"
+            key="uri" value="uma://_MKrTAOkGEd2IkdBO-oEPPg#_QwEw0ekGEd2IkdBO-oEPPg"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_yMVFM-kGEd2IkdBO-oEPPg"
+            key="type" value="Phase"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_yMVFNOkGEd2IkdBO-oEPPg" name="프로젝트 수헹통제"
+        outgoing="_zMjzIOkGEd2IkdBO-oEPPg" incoming="_yx4pUOkGEd2IkdBO-oEPPg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_yMVFNekGEd2IkdBO-oEPPg"
+          source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_yMVFNukGEd2IkdBO-oEPPg"
+            key="uri" value="uma://_MKrTAOkGEd2IkdBO-oEPPg#_QwEw-ekGEd2IkdBO-oEPPg"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_yMVFN-kGEd2IkdBO-oEPPg"
+            key="type" value="Phase"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_yMVFOOkGEd2IkdBO-oEPPg" name="프로젝트 종료"
+        incoming="_zMjzIOkGEd2IkdBO-oEPPg">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_yMVFOekGEd2IkdBO-oEPPg"
+          source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_yMVFOukGEd2IkdBO-oEPPg"
+            key="uri" value="uma://_MKrTAOkGEd2IkdBO-oEPPg#_QwOh6ukGEd2IkdBO-oEPPg"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_yMVFO-kGEd2IkdBO-oEPPg"
+            key="type" value="Phase"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_yx4pUOkGEd2IkdBO-oEPPg" source="_yMVFMOkGEd2IkdBO-oEPPg"
+        target="_yMVFNOkGEd2IkdBO-oEPPg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_zMjzIOkGEd2IkdBO-oEPPg" source="_yMVFNOkGEd2IkdBO-oEPPg"
+        target="_yMVFOOkGEd2IkdBO-oEPPg"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_x_qiMOkGEd2IkdBO-oEPPg" type="AD" element="_x_XnQOkGEd2IkdBO-oEPPg"
+      name="프로젝트 관리" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_x_qiMekGEd2IkdBO-oEPPg"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_x_qiMukGEd2IkdBO-oEPPg"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_x_qiM-kGEd2IkdBO-oEPPg"/>
+  </notation:Diagram>
+</xmi:XMI>

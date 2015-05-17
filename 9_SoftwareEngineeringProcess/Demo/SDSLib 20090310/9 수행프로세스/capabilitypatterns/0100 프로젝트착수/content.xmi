@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-AOVoXIebYt5arRmJL0nyqw" name="프로젝트착수,_AcBIYfc8Ed2U1--E6cs_NQ"
+      guid="-AOVoXIebYt5arRmJL0nyqw"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-XujbgHL0APx_cA9vCx_urA" name="착수준비,_yOmPAfZMEd2OhLPIr_EKbA"
+      guid="-XujbgHL0APx_cA9vCx_urA"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-EAi4ffvhPOocINK15pjHjQ" name="착수게획,_zxiocfZMEd2OhLPIr_EKbA"
+      guid="-EAi4ffvhPOocINK15pjHjQ"/>
+</xmi:XMI>

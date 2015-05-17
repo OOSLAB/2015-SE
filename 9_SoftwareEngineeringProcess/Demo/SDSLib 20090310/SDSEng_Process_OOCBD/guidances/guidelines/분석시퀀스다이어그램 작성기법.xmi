@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-haMietmqoCdRR61TXkfzJA"
+    name="new_guideline,_lQrAMMWdEd2eFf4iygnyuw" guid="-haMietmqoCdRR61TXkfzJA" changeDate="2008-12-20T15:38:04.656+0900">
+  <mainDescription>&lt;p>&#xD;
+    1. 분석시퀀스다이어그램 작성 절차&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img height=&quot;474&quot; alt=&quot;&quot; src=&quot;resources/analysis_sequence.jpg&quot; width=&quot;329&quot; />&lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    2. 입력물&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    유스케이스 정의서 ::= 시나리오&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    시나리오 ::=&amp;nbsp;문장&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    문장 ::=&amp;nbsp;명사 +&amp;nbsp;동사&amp;nbsp;+ 부사&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;p>&#xD;
+    3. 출력물&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    분석시퀀스다이어그램 ::= 객체 + 메시지&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    메시지 ::= 객체 + 오퍼레이션 + 파라메터&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;p>&#xD;
+    4. 매핑 가이드&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    4.1. 유스케이스 정의서 시나리오의 명사를 중심으로 객체를 추출한다.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    4.2. 해당 객체와 연관된 동사를 중심으로 메시지를 추출한다.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- 메시지 포맷은 대상객체, 오퍼레이션, 파라메터로 구성된다.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; - 메시지 파라메터는 동사의 수식어로부터 추출한다.&lt;br />&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

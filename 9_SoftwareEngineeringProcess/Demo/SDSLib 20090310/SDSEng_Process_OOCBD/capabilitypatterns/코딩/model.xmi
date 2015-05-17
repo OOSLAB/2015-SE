@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_nIDmQfmrEd2JRcy3PiAHxw"
+      guid="_nIDmQfmrEd2JRcy3PiAHxw">
+    <resourceDescriptors xmi:id="_nIDmQvmrEd2JRcy3PiAHxw" id="-8lj8pTcnpagzSzqpArAOjQ"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_m3EkDvmrEd2JRcy3PiAHxw" name="코딩"
+      guid="_m3EkDvmrEd2JRcy3PiAHxw">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_-IZUBQgSEd6PpbmBy1d4Hw"
+        name="소스코드 작성" guid="_-IZUBQgSEd6PpbmBy1d4Hw" presentationName="소스코드 작성" superActivities="_m3OU8PmrEd2JRcy3PiAHxw"
+        mandatoryInput="_-IZUBwgSEd6PpbmBy1d4Hw _-IZUCAgSEd6PpbmBy1d4Hw _-IZUCQgSEd6PpbmBy1d4Hw _-IZUCggSEd6PpbmBy1d4Hw"
+        output="_-IZUCwgSEd6PpbmBy1d4Hw" performedPrimarilyBy="_-IZUBggSEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_e9t3kaAZEd2n5q0acG373A"/>
+      <selectedSteps href="uma://-TJf5wBb89lTRfL62rt-PxQ#_RFo34KAaEd2n5q0acG373A"/>
+      <selectedSteps href="uma://-TJf5wBb89lTRfL62rt-PxQ#_Mu12wKAaEd2n5q0acG373A"/>
+      <selectedSteps href="uma://-TJf5wBb89lTRfL62rt-PxQ#_O4E0IKAaEd2n5q0acG373A"/>
+      <selectedSteps href="uma://-TJf5wBb89lTRfL62rt-PxQ#_JDsasKAaEd2n5q0acG373A"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_-IZUBggSEd6PpbmBy1d4Hw"
+        name="개발자" guid="_-IZUBggSEd6PpbmBy1d4Hw" presentationName="개발자" superActivities="_m3OU8PmrEd2JRcy3PiAHxw"
+        modifies="_-IZUCwgSEd6PpbmBy1d4Hw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to0eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_-IZUBwgSEd6PpbmBy1d4Hw"
+        name="배치프로그램명세서" guid="_-IZUBwgSEd6PpbmBy1d4Hw" presentationName="배치프로그램명세서"
+        superActivities="_m3OU8PmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_5s7iLJX_Ed2f_MiqbDX5Hg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_-IZUCAgSEd6PpbmBy1d4Hw"
+        name="설계 화면정의서" guid="_-IZUCAgSEd6PpbmBy1d4Hw" presentationName="설계 화면정의서"
+        superActivities="_m3OU8PmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_If9GwMdyEd2wA9_TUU3fKA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_-IZUCQgSEd6PpbmBy1d4Hw"
+        name="분석 시스템인터페이스정의서" guid="_-IZUCQgSEd6PpbmBy1d4Hw" presentationName="분석 시스템인터페이스정의서"
+        superActivities="_m3OU8PmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_MqnK0MFHEd2YGfr55Veumg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_-IZUCggSEd6PpbmBy1d4Hw"
+        name="테이블정의서" guid="_-IZUCggSEd6PpbmBy1d4Hw" presentationName="테이블정의서" superActivities="_m3OU8PmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_qS6rV5X_Ed2f_MiqbDX5Hg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_-IZUCwgSEd6PpbmBy1d4Hw"
+        name="소스코드" guid="_-IZUCwgSEd6PpbmBy1d4Hw" presentationName="소스코드" superActivities="_m3OU8PmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_e9t3kKAZEd2n5q0acG373A"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_m3OU8PmrEd2JRcy3PiAHxw"
+        name="코딩" guid="_m3OU8PmrEd2JRcy3PiAHxw" presentationName="코딩" breakdownElements="_-IZUBQgSEd6PpbmBy1d4Hw _-IZUBggSEd6PpbmBy1d4Hw _-IZUBwgSEd6PpbmBy1d4Hw _-IZUCAgSEd6PpbmBy1d4Hw _-IZUCQgSEd6PpbmBy1d4Hw _-IZUCggSEd6PpbmBy1d4Hw _-IZUCwgSEd6PpbmBy1d4Hw">
+      <presentation xmi:id="-8lj8pTcnpagzSzqpArAOjQ" href="uma://-8lj8pTcnpagzSzqpArAOjQ#-8lj8pTcnpagzSzqpArAOjQ"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

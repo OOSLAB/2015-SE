@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-2IPtp2kb1drudmeEkZs7hA"
+    name="개발,_IO6NcQfFEd6PyOiijdVpWA" guid="-2IPtp2kb1drudmeEkZs7hA">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/concepts/%AC1C%BC1C%B2E8%ACC4%20%AC1C%C694_1DDCB7D3.html&quot;&#xD;
+        guid=&quot;_4hlHQAS2Ed6u1pdhw4SOFA&quot;>개발단계 개요&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ProcessDescription>

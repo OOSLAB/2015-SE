@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_3hyi4fc8Ed2U1--E6cs_NQ"
+      guid="_3hyi4fc8Ed2U1--E6cs_NQ">
+    <resourceDescriptors xmi:id="_3hyi4vc8Ed2U1--E6cs_NQ" id="-9npNBIGmJLU_oHgTtwEzNg"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Vh2IQfdgEd2U1--E6cs_NQ" id="-rCuhwdlA1267nwtBzO6e0A"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Vh2IQvdgEd2U1--E6cs_NQ" id="-mPRTdetRTl0qVazmxR3OsQ"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Vh_5QPdgEd2U1--E6cs_NQ" id="-Td2XvirPxmuSt1cTS8eqoA"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Vh_5QfdgEd2U1--E6cs_NQ" id="-Elw-5uuDw5Q0p5oOPtc1tA"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Vh_5QvdgEd2U1--E6cs_NQ" id="-UwlVnIiUzOGiHbZ0nrB0lg"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Vh_5Q_dgEd2U1--E6cs_NQ" id="-3Hx25i_ho4F9XC9o83iI6g"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_Vh_5RPdgEd2U1--E6cs_NQ" id="-roR89rIRL0QotKDA9fPoZQ"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_ViJqQPdgEd2U1--E6cs_NQ" id="-Tcd2yXI9xD-6E04vSJR63A"
+        uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_ViJqQfdgEd2U1--E6cs_NQ" id="-OIB_jbBtL9dKF2d9LlvCoA"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_3Bvw4Pc8Ed2U1--E6cs_NQ" name="0200 요구정의"
+      guid="_3Bvw4Pc8Ed2U1--E6cs_NQ">
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_3OBngvc-Ed2U1--E6cs_NQ"
+        name="단계계획" guid="_3OBngvc-Ed2U1--E6cs_NQ">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_3Nushfc-Ed2U1--E6cs_NQ"
+          name="단계계획" guid="_3Nushfc-Ed2U1--E6cs_NQ" presentationName="단계계획" superActivities="_3Bvw4fc8Ed2U1--E6cs_NQ"
+          breakdownElements="_3N4dgPc-Ed2U1--E6cs_NQ _3Nusgvc-Ed2U1--E6cs_NQ _3Nusg_c-Ed2U1--E6cs_NQ">
+        <presentation xmi:id="-rCuhwdlA1267nwtBzO6e0A" href="uma://-9npNBIGmJLU_oHgTtwEzNg#-rCuhwdlA1267nwtBzO6e0A"/>
+        <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+        <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3N4dgPc-Ed2U1--E6cs_NQ"
+          name="프로젝트계획 변경검토" guid="_3N4dgPc-Ed2U1--E6cs_NQ" presentationName="프로젝트계획 변경검토"
+          superActivities="_3Nushfc-Ed2U1--E6cs_NQ" output="_3Nusgvc-Ed2U1--E6cs_NQ">
+        <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_XPl2ZMsUEd2VS4iuY7h1kQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_3Nusgvc-Ed2U1--E6cs_NQ"
+          name="프로젝트계획서" guid="_3Nusgvc-Ed2U1--E6cs_NQ" presentationName="프로젝트계획서"
+          isPlanned="false" superActivities="_3Nushfc-Ed2U1--E6cs_NQ">
+        <WorkProduct href="uma://_2SE8oMWmEd2eFf4iygnyuw#_XPl2ZcsUEd2VS4iuY7h1kQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3Nusg_c-Ed2U1--E6cs_NQ"
+          name="인스펙션계획 상세화" guid="_3Nusg_c-Ed2U1--E6cs_NQ" presentationName="인스펙션계획 상세화"
+          superActivities="_3Nushfc-Ed2U1--E6cs_NQ">
+        <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#__xAUAPPvEd2DAcGLfpDwYQ"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_3j7mAPc-Ed2U1--E6cs_NQ"
+        name="단계완료" guid="_3j7mAPc-Ed2U1--E6cs_NQ">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_3N4divc-Ed2U1--E6cs_NQ"
+          name="단계완료" guid="_3N4divc-Ed2U1--E6cs_NQ" presentationName="단계완료" superActivities="_3Bvw4fc8Ed2U1--E6cs_NQ"
+          breakdownElements="_3N4diPc-Ed2U1--E6cs_NQ _3N4djvc-Ed2U1--E6cs_NQ _3N4dhvc-Ed2U1--E6cs_NQ _3N4dhPc-Ed2U1--E6cs_NQ _3N4djfc-Ed2U1--E6cs_NQ _3N4djPc-Ed2U1--E6cs_NQ _3N4di_c-Ed2U1--E6cs_NQ _3N4dj_c-Ed2U1--E6cs_NQ _3N4dh_c-Ed2U1--E6cs_NQ _3N4dhfc-Ed2U1--E6cs_NQ _3N4dg_c-Ed2U1--E6cs_NQ _3N4dgvc-Ed2U1--E6cs_NQ">
+        <presentation xmi:id="-mPRTdetRTl0qVazmxR3OsQ" href="uma://-9npNBIGmJLU_oHgTtwEzNg#-mPRTdetRTl0qVazmxR3OsQ"/>
+        <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+        <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3N4diPc-Ed2U1--E6cs_NQ"
+          name="단계결과 점검 회의 실시" guid="_3N4diPc-Ed2U1--E6cs_NQ" presentationName="단계결과 점검 회의 실시"
+          superActivities="_3N4divc-Ed2U1--E6cs_NQ">
+        <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_w47iMPDeEd2abPWzIcHKEA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3N4djvc-Ed2U1--E6cs_NQ"
+          name="협력업체 단계검수" guid="_3N4djvc-Ed2U1--E6cs_NQ" presentationName="협력업체 단계검수"
+          superActivities="_3N4divc-Ed2U1--E6cs_NQ" output="_3N4dhvc-Ed2U1--E6cs_NQ _3N4dhPc-Ed2U1--E6cs_NQ">
+        <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_q_AzoOjqEd2lTK4h8EdsoQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_3N4dhvc-Ed2U1--E6cs_NQ"
+          name="단계검수체크리스트" guid="_3N4dhvc-Ed2U1--E6cs_NQ" presentationName="단계검수체크리스트"
+          isPlanned="false" superActivities="_3N4divc-Ed2U1--E6cs_NQ">
+        <WorkProduct href="uma://_2SE8oMWmEd2eFf4iygnyuw#_4neNYOjqEd2lTK4h8EdsoQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_3N4dhPc-Ed2U1--E6cs_NQ"
+          name="업체산출물검수확인서" guid="_3N4dhPc-Ed2U1--E6cs_NQ" presentationName="업체산출물검수확인서"
+          isPlanned="false" superActivities="_3N4divc-Ed2U1--E6cs_NQ">
+        <WorkProduct href="uma://_2SE8oMWmEd2eFf4iygnyuw#_xjE9kOjqEd2lTK4h8EdsoQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3N4djfc-Ed2U1--E6cs_NQ"
+          name="고객검토 실시" guid="_3N4djfc-Ed2U1--E6cs_NQ" presentationName="고객검토 실시"
+          superActivities="_3N4divc-Ed2U1--E6cs_NQ">
+        <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_bmiohMsUEd2VS4iuY7h1kQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3N4djPc-Ed2U1--E6cs_NQ"
+          name="고객검토계획서 작성" guid="_3N4djPc-Ed2U1--E6cs_NQ" presentationName="고객검토계획서 작성"
+          superActivities="_3N4divc-Ed2U1--E6cs_NQ" output="_3N4dj_c-Ed2U1--E6cs_NQ">
+        <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_bmioh8sUEd2VS4iuY7h1kQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3N4di_c-Ed2U1--E6cs_NQ"
+          name="고객승인 획득" guid="_3N4di_c-Ed2U1--E6cs_NQ" presentationName="고객승인 획득"
+          superActivities="_3N4divc-Ed2U1--E6cs_NQ" output="_3N4dh_c-Ed2U1--E6cs_NQ">
+        <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_bmioi8sUEd2VS4iuY7h1kQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_3N4dj_c-Ed2U1--E6cs_NQ"
+          name="고객검토계획서" guid="_3N4dj_c-Ed2U1--E6cs_NQ" presentationName="고객검토계획서"
+          isPlanned="false" superActivities="_3N4divc-Ed2U1--E6cs_NQ">
+        <WorkProduct href="uma://_2SE8oMWmEd2eFf4iygnyuw#_bmioiMsUEd2VS4iuY7h1kQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_3N4dh_c-Ed2U1--E6cs_NQ"
+          name="고객인수확인서(PAD)" guid="_3N4dh_c-Ed2U1--E6cs_NQ" presentationName="고객인수확인서(PAD)"
+          isPlanned="false" superActivities="_3N4divc-Ed2U1--E6cs_NQ">
+        <WorkProduct href="uma://_2SE8oMWmEd2eFf4iygnyuw#_OTH7IOjjEd2lTK4h8EdsoQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3N4dg_c-Ed2U1--E6cs_NQ"
+          name="지식재사용 및 창출 활동" guid="_3N4dg_c-Ed2U1--E6cs_NQ" presentationName="지식재사용 및 창출 활동"
+          superActivities="_3N4divc-Ed2U1--E6cs_NQ">
+        <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_AhuvkMveEd2so6-cDXaTSQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3N4dhfc-Ed2U1--E6cs_NQ"
+          name="GB활동 보고" guid="_3N4dhfc-Ed2U1--E6cs_NQ" presentationName="GB활동 보고"
+          superActivities="_3N4divc-Ed2U1--E6cs_NQ" output="_3N4dgvc-Ed2U1--E6cs_NQ">
+        <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_bmiogcsUEd2VS4iuY7h1kQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_3N4dgvc-Ed2U1--E6cs_NQ"
+          name="GB활동체크리스트" guid="_3N4dgvc-Ed2U1--E6cs_NQ" presentationName="GB활동체크리스트"
+          isPlanned="false" superActivities="_3N4divc-Ed2U1--E6cs_NQ">
+        <WorkProduct href="uma://_2SE8oMWmEd2eFf4iygnyuw#_bmiogssUEd2VS4iuY7h1kQ"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_35_VkPc-Ed2U1--E6cs_NQ"
+        name="단계준비" guid="_35_VkPc-Ed2U1--E6cs_NQ">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_3N4dk_c-Ed2U1--E6cs_NQ"
+          name="단계준비" guid="_3N4dk_c-Ed2U1--E6cs_NQ" presentationName="단계준비" superActivities="_3Bvw4fc8Ed2U1--E6cs_NQ"
+          breakdownElements="_3N4dkvc-Ed2U1--E6cs_NQ _3N4dlPc-Ed2U1--E6cs_NQ">
+        <presentation xmi:id="-Td2XvirPxmuSt1cTS8eqoA" href="uma://-9npNBIGmJLU_oHgTtwEzNg#-Td2XvirPxmuSt1cTS8eqoA"/>
+        <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+        <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3N4dkvc-Ed2U1--E6cs_NQ"
+          name="단계별 SPM 검토" guid="_3N4dkvc-Ed2U1--E6cs_NQ" presentationName="단계별 SPM 검토"
+          superActivities="_3N4dk_c-Ed2U1--E6cs_NQ">
+        <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_GDNJgPGNEd2JDeNeZI1pKA"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3N4dlPc-Ed2U1--E6cs_NQ"
+          name="수행환경 구축" guid="_3N4dlPc-Ed2U1--E6cs_NQ" presentationName="수행환경 구축"
+          superActivities="_3N4dk_c-Ed2U1--E6cs_NQ">
+        <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_eWKiUMvWEd2so6-cDXaTSQ"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_4QCeEPc-Ed2U1--E6cs_NQ"
+        name="단계지속수행" guid="_4QCeEPc-Ed2U1--E6cs_NQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_3N4dl_c-Ed2U1--E6cs_NQ"
+          name="모니터 및 제어" guid="_3N4dl_c-Ed2U1--E6cs_NQ">
+        <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_3N4dnfc-Ed2U1--E6cs_NQ"
+            name="모니터 및 제어" guid="_3N4dnfc-Ed2U1--E6cs_NQ" presentationName="모니터 및 제어"
+            superActivities="_3N4dofc-Ed2U1--E6cs_NQ" breakdownElements="_3N4dnPc-Ed2U1--E6cs_NQ _3N4dmfc-Ed2U1--E6cs_NQ _3N4dmvc-Ed2U1--E6cs_NQ _3N4dmPc-Ed2U1--E6cs_NQ _3N4dm_c-Ed2U1--E6cs_NQ">
+          <presentation xmi:id="-Elw-5uuDw5Q0p5oOPtc1tA" href="uma://-9npNBIGmJLU_oHgTtwEzNg#-Elw-5uuDw5Q0p5oOPtc1tA"/>
+          <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+          <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3N4dnPc-Ed2U1--E6cs_NQ"
+            name="공정진척 입력" guid="_3N4dnPc-Ed2U1--E6cs_NQ" presentationName="공정진척 입력"
+            superActivities="_3N4dnfc-Ed2U1--E6cs_NQ">
+          <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_Kc0DgPGMEd2JDeNeZI1pKA"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3N4dmfc-Ed2U1--E6cs_NQ"
+            name="프로젝트성과 측정" guid="_3N4dmfc-Ed2U1--E6cs_NQ" presentationName="프로젝트성과 측정"
+            superActivities="_3N4dnfc-Ed2U1--E6cs_NQ">
+          <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_l9secM0VEd2A0Kjz7fgG4Q"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3N4dmvc-Ed2U1--E6cs_NQ"
+            name="프로젝트성과 취합 및 보고" guid="_3N4dmvc-Ed2U1--E6cs_NQ" presentationName="프로젝트성과 취합 및 보고"
+            superActivities="_3N4dnfc-Ed2U1--E6cs_NQ" output="_3N4dmPc-Ed2U1--E6cs_NQ">
+          <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_rv-xsM0LEd2A0Kjz7fgG4Q"/>
+          <selectedSteps href="uma://-wQg5ffB6argnOPqkU-9gaQ#_tZBzIM0LEd2A0Kjz7fgG4Q"/>
+          <selectedSteps href="uma://-wQg5ffB6argnOPqkU-9gaQ#_wxjOIM0LEd2A0Kjz7fgG4Q"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_3N4dmPc-Ed2U1--E6cs_NQ"
+            name="성과보고서" guid="_3N4dmPc-Ed2U1--E6cs_NQ" presentationName="성과보고서" isPlanned="false"
+            superActivities="_3N4dnfc-Ed2U1--E6cs_NQ">
+          <WorkProduct href="uma://_2SE8oMWmEd2eFf4iygnyuw#_qNx_IM0LEd2A0Kjz7fgG4Q"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3N4dm_c-Ed2U1--E6cs_NQ"
+            name="위험 식별 및 관리" guid="_3N4dm_c-Ed2U1--E6cs_NQ" presentationName="위험 식별 및 관리"
+            superActivities="_3N4dnfc-Ed2U1--E6cs_NQ">
+          <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_kODLQOjsEd2lTK4h8EdsoQ"/>
+        </processElements>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_3OBnevc-Ed2U1--E6cs_NQ"
+          name="변경요청관리" guid="_3OBnevc-Ed2U1--E6cs_NQ">
+        <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_3OBnf_c-Ed2U1--E6cs_NQ"
+            name="변경요청관리" guid="_3OBnf_c-Ed2U1--E6cs_NQ" presentationName="변경요청관리"
+            superActivities="_3N4dofc-Ed2U1--E6cs_NQ">
+          <presentation xmi:id="-UwlVnIiUzOGiHbZ0nrB0lg" href="uma://-9npNBIGmJLU_oHgTtwEzNg#-UwlVnIiUzOGiHbZ0nrB0lg"/>
+          <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+          <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+        </processElements>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_3N4dnvc-Ed2U1--E6cs_NQ"
+          name="요구사항변경관리" guid="_3N4dnvc-Ed2U1--E6cs_NQ">
+        <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_3N4doPc-Ed2U1--E6cs_NQ"
+            name="요구사항변경관리" guid="_3N4doPc-Ed2U1--E6cs_NQ" presentationName="요구사항변경관리"
+            superActivities="_3N4dofc-Ed2U1--E6cs_NQ" breakdownElements="_3N4dn_c-Ed2U1--E6cs_NQ">
+          <presentation xmi:id="-3Hx25i_ho4F9XC9o83iI6g" href="uma://-9npNBIGmJLU_oHgTtwEzNg#-3Hx25i_ho4F9XC9o83iI6g"/>
+          <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+          <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3N4dn_c-Ed2U1--E6cs_NQ"
+            name="시스템화 범위 점검" guid="_3N4dn_c-Ed2U1--E6cs_NQ" presentationName="시스템화 범위 점검"
+            superActivities="_3N4doPc-Ed2U1--E6cs_NQ">
+          <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_CRPeUPGOEd2JDeNeZI1pKA"/>
+        </processElements>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_3N4dovc-Ed2U1--E6cs_NQ"
+          name="품질활동" guid="_3N4dovc-Ed2U1--E6cs_NQ">
+        <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_3N4do_c-Ed2U1--E6cs_NQ"
+            name="품질활동" guid="_3N4do_c-Ed2U1--E6cs_NQ" presentationName="품질활동" superActivities="_3N4dofc-Ed2U1--E6cs_NQ"
+            breakdownElements="_3OBndfc-Ed2U1--E6cs_NQ _3OBndPc-Ed2U1--E6cs_NQ _3OBncfc-Ed2U1--E6cs_NQ _3OBncPc-Ed2U1--E6cs_NQ">
+          <presentation xmi:id="-roR89rIRL0QotKDA9fPoZQ" href="uma://-9npNBIGmJLU_oHgTtwEzNg#-roR89rIRL0QotKDA9fPoZQ"/>
+          <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+          <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3OBndfc-Ed2U1--E6cs_NQ"
+            name="인스펙션계획 상세화" guid="_3OBndfc-Ed2U1--E6cs_NQ" presentationName="인스펙션계획 상세화"
+            superActivities="_3N4do_c-Ed2U1--E6cs_NQ">
+          <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#__xAUAPPvEd2DAcGLfpDwYQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3OBncfc-Ed2U1--E6cs_NQ"
+            name="개별검토" guid="_3OBncfc-Ed2U1--E6cs_NQ" presentationName="개별검토" superActivities="_3N4do_c-Ed2U1--E6cs_NQ">
+          <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_4DyJoPPvEd2DAcGLfpDwYQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3OBncPc-Ed2U1--E6cs_NQ"
+            name="검토수행" guid="_3OBncPc-Ed2U1--E6cs_NQ" presentationName="검토수행" superActivities="_3N4do_c-Ed2U1--E6cs_NQ">
+          <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_tyVvAPPvEd2DAcGLfpDwYQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3OBndPc-Ed2U1--E6cs_NQ"
+            name="검토체크리스트 작성" guid="_3OBndPc-Ed2U1--E6cs_NQ" presentationName="검토체크리스트 작성"
+            superActivities="_3N4do_c-Ed2U1--E6cs_NQ">
+          <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_8q0mMPPvEd2DAcGLfpDwYQ"/>
+        </processElements>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_3OBndvc-Ed2U1--E6cs_NQ"
+          name="형상모니터" guid="_3OBndvc-Ed2U1--E6cs_NQ">
+        <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_3OBnefc-Ed2U1--E6cs_NQ"
+            name="형상모니터" guid="_3OBnefc-Ed2U1--E6cs_NQ" presentationName="형상모니터" superActivities="_3N4dofc-Ed2U1--E6cs_NQ"
+            breakdownElements="_3OBnd_c-Ed2U1--E6cs_NQ _3OBnePc-Ed2U1--E6cs_NQ">
+          <presentation xmi:id="-Tcd2yXI9xD-6E04vSJR63A" href="uma://-9npNBIGmJLU_oHgTtwEzNg#-Tcd2yXI9xD-6E04vSJR63A"/>
+          <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+          <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3OBnePc-Ed2U1--E6cs_NQ"
+            name="형상감사" guid="_3OBnePc-Ed2U1--E6cs_NQ" presentationName="형상감사" superActivities="_3OBnefc-Ed2U1--E6cs_NQ">
+          <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_QZmbQOjqEd2lTK4h8EdsoQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3OBnd_c-Ed2U1--E6cs_NQ"
+            name="형상통제 및 기록" guid="_3OBnd_c-Ed2U1--E6cs_NQ" presentationName="형상통제 및 기록"
+            superActivities="_3OBnefc-Ed2U1--E6cs_NQ">
+          <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_GIKAoOjqEd2lTK4h8EdsoQ"/>
+        </processElements>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_3N4dofc-Ed2U1--E6cs_NQ"
+          name="단계지속수행" guid="_3N4dofc-Ed2U1--E6cs_NQ" presentationName="단계지속수행" superActivities="_3Bvw4fc8Ed2U1--E6cs_NQ"
+          breakdownElements="_3N4dnfc-Ed2U1--E6cs_NQ _3OBnf_c-Ed2U1--E6cs_NQ _3N4doPc-Ed2U1--E6cs_NQ _3N4do_c-Ed2U1--E6cs_NQ _3OBnefc-Ed2U1--E6cs_NQ">
+        <presentation xmi:id="-OIB_jbBtL9dKF2d9LlvCoA" href="uma://-9npNBIGmJLU_oHgTtwEzNg#-OIB_jbBtL9dKF2d9LlvCoA"/>
+        <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+        <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      </processElements>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_3Bvw4fc8Ed2U1--E6cs_NQ"
+        name="0200 요구정의" guid="_3Bvw4fc8Ed2U1--E6cs_NQ" presentationName="0200 요구정의"
+        breakdownElements="_3Nushfc-Ed2U1--E6cs_NQ _3N4dk_c-Ed2U1--E6cs_NQ _3N4dofc-Ed2U1--E6cs_NQ _3N4divc-Ed2U1--E6cs_NQ">
+      <presentation xmi:id="-9npNBIGmJLU_oHgTtwEzNg" href="uma://-9npNBIGmJLU_oHgTtwEzNg#-9npNBIGmJLU_oHgTtwEzNg"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-V2EU2EWEa0N4AjtSd8Sobg"
+    name="new_role,_JgT3IJh4Ed2ok9DYfbNoeg" guid="-V2EU2EWEa0N4AjtSd8Sobg" changeDate="2008-10-13T01:17:41.578+0900">
+  <mainDescription>&lt;p>&#xD;
+    PM으로부터 프로젝트 관리의 일부 업무를 위임받아, 프로젝트의 인력, 원가/경비, 계약, 위험, 일정/진척 관리를 위한 계획수립, 프로젝트 진행 및 통제를 실시하며, 고객과 PM에게 정기적인 보고와 커뮤니케이션을&#xD;
+    통해 프로젝트를 견식하게 이끌어 가는 사람&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

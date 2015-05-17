@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-UrMCCJPETkqh1zYlj1XBdg"
+    name="new_discipline,_MUu_MJYKEd2f_MiqbDX5Hg" guid="-UrMCCJPETkqh1zYlj1XBdg" changeDate="2008-10-09T22:57:29.515+0900">
+  <mainDescription>관련 배치ID, 비고, 입력 데이터명, 처리로직, 출력 데이터명, 프로그램 개요, 프로그램ID</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

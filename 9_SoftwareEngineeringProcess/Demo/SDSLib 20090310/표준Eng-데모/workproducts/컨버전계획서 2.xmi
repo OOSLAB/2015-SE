@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-ptHCAJ4axjNEig7p9tMs6w"
+    name="new_artifact,_gEbvEJO8Ed2QOZMWcM0ZMQ" guid="-ptHCAJ4axjNEig7p9tMs6w" changeDate="2008-10-09T22:41:16.984+0900">
+  <mainDescription>&lt;p>&#xD;
+    컨버전 대상, 컨버전 일정, 컨버전 전략, 컨버전 조직 및 역할, 컨버전 환경, 컨버전 실시, 컨버전 준비, 컨버전 프로그램 개발&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

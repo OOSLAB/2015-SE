@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_nCZDIPmrEd2JRcy3PiAHxw"
+      guid="_nCZDIPmrEd2JRcy3PiAHxw">
+    <resourceDescriptors xmi:id="_nCZDIfmrEd2JRcy3PiAHxw" id="-gS5oMbDlRYllixpZERUMLQ"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_m2n4D_mrEd2JRcy3PiAHxw" name="배치작업 설계"
+      guid="_m2n4D_mrEd2JRcy3PiAHxw">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_txvOpwgSEd6PpbmBy1d4Hw"
+        name="배치프로그램명세서 작성" guid="_txvOpwgSEd6PpbmBy1d4Hw" presentationName="배치프로그램명세서 작성"
+        superActivities="_m2n4EPmrEd2JRcy3PiAHxw" additionallyPerformedBy="_txvOqQgSEd6PpbmBy1d4Hw"
+        mandatoryInput="_txvOqggSEd6PpbmBy1d4Hw" output="_txvOqwgSEd6PpbmBy1d4Hw"
+        performedPrimarilyBy="_txvOqAgSEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_qkwxYJxbEd2IZdao1IJ_iw"/>
+      <selectedSteps href="uma://-5LkqG3PX0LXSmuipMBjzdA#_tG4v4JxbEd2IZdao1IJ_iw"/>
+      <selectedSteps href="uma://-5LkqG3PX0LXSmuipMBjzdA#_urKmEJxbEd2IZdao1IJ_iw"/>
+      <selectedSteps href="uma://-5LkqG3PX0LXSmuipMBjzdA#_wDr4MJxbEd2IZdao1IJ_iw"/>
+      <selectedSteps href="uma://-5LkqG3PX0LXSmuipMBjzdA#_yKFkAJxbEd2IZdao1IJ_iw"/>
+      <selectedSteps href="uma://-5LkqG3PX0LXSmuipMBjzdA#_XMWDMAM9Ed6LQuHvYuPuYw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_txvOqAgSEd6PpbmBy1d4Hw"
+        name="설계자" guid="_txvOqAgSEd6PpbmBy1d4Hw" presentationName="설계자" superActivities="_m2n4EPmrEd2JRcy3PiAHxw"
+        modifies="_txvOqwgSEd6PpbmBy1d4Hw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to2OFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_txvOqQgSEd6PpbmBy1d4Hw"
+        name="소프트웨어아키텍트" guid="_txvOqQgSEd6PpbmBy1d4Hw" presentationName="소프트웨어아키텍트"
+        superActivities="_m2n4EPmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to2eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_txvOqggSEd6PpbmBy1d4Hw"
+        name="배치목록" guid="_txvOqggSEd6PpbmBy1d4Hw" presentationName="배치목록" superActivities="_m2n4EPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_5s7iY5X_Ed2f_MiqbDX5Hg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_txvOqwgSEd6PpbmBy1d4Hw"
+        name="배치프로그램명세서" guid="_txvOqwgSEd6PpbmBy1d4Hw" presentationName="배치프로그램명세서"
+        superActivities="_m2n4EPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_5s7iLJX_Ed2f_MiqbDX5Hg"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_m2n4EPmrEd2JRcy3PiAHxw"
+        name="배치작업 설계" guid="_m2n4EPmrEd2JRcy3PiAHxw" presentationName="배치작업 설계" breakdownElements="_txvOpwgSEd6PpbmBy1d4Hw _txvOqAgSEd6PpbmBy1d4Hw _txvOqQgSEd6PpbmBy1d4Hw _txvOqggSEd6PpbmBy1d4Hw _txvOqwgSEd6PpbmBy1d4Hw">
+      <presentation xmi:id="-gS5oMbDlRYllixpZERUMLQ" href="uma://-gS5oMbDlRYllixpZERUMLQ#-gS5oMbDlRYllixpZERUMLQ"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

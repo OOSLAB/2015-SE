@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-VSxhIS2a0hqqGzSWX0OehA"
+    name=",_Ggw10KAYEd2n5q0acG373A" guid="-VSxhIS2a0hqqGzSWX0OehA" changeDate="2009-02-26T03:46:57.515+0900">
+  <mainDescription>&lt;font face=&quot;굴림&quot;>수행 가이드(Task Guideline)&lt;/font> &#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>릴리이즈란 개발이 완료되어 고객에게 인도되는 일련의 과정전체를 말한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <sections xmi:id="_NKos0KAYEd2n5q0acG373A" name="개발되어진 최종시스템이 운영되어질 시스템환경으로 이관되었음을 확인한다."
+      guid="_NKos0KAYEd2n5q0acG373A">
+    <sectionDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        데이터베이스&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        어플리케이션시스템&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        하드웨어&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></sectionDescription>
+  </sections>
+  <sections xmi:id="_PvJQ8KAYEd2n5q0acG373A" name="릴리이즈를 인수책임자에게 공식적으로 통보한다." guid="_PvJQ8KAYEd2n5q0acG373A"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림체; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+ face=&quot;굴림&quot;>운영 환경으로 이관된 최종 시스템을 사용자에게 인도하여 시스템 운영을 사용자 책임하에 둔다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/font>&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

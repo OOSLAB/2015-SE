@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_m97Z4PmrEd2JRcy3PiAHxw"
+      guid="_m97Z4PmrEd2JRcy3PiAHxw">
+    <resourceDescriptors xmi:id="_m97Z4fmrEd2JRcy3PiAHxw" id="-RhaI2qO1hBqAg8Qg0ejUyw"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_m26zA_mrEd2JRcy3PiAHxw" name="데이터 분석"
+      guid="_m26zA_mrEd2JRcy3PiAHxw">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_m3Ej-fmrEd2JRcy3PiAHxw"
+        name="논리 ERD 작성" guid="_m3Ej-fmrEd2JRcy3PiAHxw" presentationName="논리 ERD 작성"
+        superActivities="_m26zBPmrEd2JRcy3PiAHxw" additionallyPerformedBy="_m3Ej9_mrEd2JRcy3PiAHxw"
+        mandatoryInput="_m3Ej_PmrEd2JRcy3PiAHxw" output="_m3Ej8PmrEd2JRcy3PiAHxw"
+        performedPrimarilyBy="_m3Ej9fmrEd2JRcy3PiAHxw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_UsokoMIEEd2yCI00VhFopQ"/>
+      <selectedSteps href="uma://-hYhR0IHzCxI8J19V1L1H3Q#_sCnNQJxMEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-hYhR0IHzCxI8J19V1L1H3Q#_hw4ewJxMEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-hYhR0IHzCxI8J19V1L1H3Q#_jYShcJxMEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-hYhR0IHzCxI8J19V1L1H3Q#_kuRc8JxMEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-hYhR0IHzCxI8J19V1L1H3Q#_prqkAJxMEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-hYhR0IHzCxI8J19V1L1H3Q#_q8R3UJxMEd2b9o00yINnSg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_m3Ej9fmrEd2JRcy3PiAHxw"
+        name="분석자" guid="_m3Ej9fmrEd2JRcy3PiAHxw" presentationName="분석자" isPlanned="false"
+        superActivities="_m26zBPmrEd2JRcy3PiAHxw" modifies="_m3Ej8_mrEd2JRcy3PiAHxw _m26zBfmrEd2JRcy3PiAHxw _m3Ej8PmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to1eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_m3Ej9_mrEd2JRcy3PiAHxw"
+        name="데이터아키텍트" guid="_m3Ej9_mrEd2JRcy3PiAHxw" presentationName="데이터아키텍트" isPlanned="false"
+        superActivities="_m26zBPmrEd2JRcy3PiAHxw" modifies="_m3Ej8vmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to0-FKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_m3Ej_PmrEd2JRcy3PiAHxw"
+        name="현행시스템분석서" guid="_m3Ej_PmrEd2JRcy3PiAHxw" presentationName="현행시스템분석서"
+        isPlanned="false" superActivities="_m26zBPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_lPo3ML-DEd2lOZgBqGXdOQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_m3Ej8PmrEd2JRcy3PiAHxw"
+        name="논리 ERD" guid="_m3Ej8PmrEd2JRcy3PiAHxw" presentationName="논리 ERD" isPlanned="false"
+        superActivities="_m26zBPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_Ns7z4MdwEd2wA9_TUU3fKA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_m26zBvmrEd2JRcy3PiAHxw"
+        name="자료사전 작성" guid="_m26zBvmrEd2JRcy3PiAHxw" presentationName="자료사전 작성" superActivities="_m26zBPmrEd2JRcy3PiAHxw"
+        additionallyPerformedBy="_m3Ej9_mrEd2JRcy3PiAHxw" mandatoryInput="_m3Ej8PmrEd2JRcy3PiAHxw"
+        output="_m3Ej8_mrEd2JRcy3PiAHxw" performedPrimarilyBy="_m3Ej9fmrEd2JRcy3PiAHxw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_FFifMJxNEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-TxS5hMdDnnkMVC-M9q8XFA#_Hsuj4JxNEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-TxS5hMdDnnkMVC-M9q8XFA#_JQ3QIJxNEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-TxS5hMdDnnkMVC-M9q8XFA#_KhB3gJxNEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-TxS5hMdDnnkMVC-M9q8XFA#_L2RMIJxNEd2b9o00yINnSg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_m3Ej8_mrEd2JRcy3PiAHxw"
+        name="자료사전" guid="_m3Ej8_mrEd2JRcy3PiAHxw" presentationName="자료사전" isPlanned="false"
+        superActivities="_m26zBPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_qS6ra5X_Ed2f_MiqbDX5Hg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_m3Ej-PmrEd2JRcy3PiAHxw"
+        name="컨버전계획서 작성" guid="_m3Ej-PmrEd2JRcy3PiAHxw" presentationName="컨버전계획서 작성"
+        superActivities="_m26zBPmrEd2JRcy3PiAHxw" additionallyPerformedBy="_m3Ej9vmrEd2JRcy3PiAHxw"
+        mandatoryInput="_m3Ej-vmrEd2JRcy3PiAHxw" output="_m3Ej8vmrEd2JRcy3PiAHxw"
+        performedPrimarilyBy="_m3Ej9_mrEd2JRcy3PiAHxw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_PeIDoJxNEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-IjvvZe3MyWXpFwq826aEBQ#_uiuHoJxOEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-IjvvZe3MyWXpFwq826aEBQ#_wOJusJxOEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-IjvvZe3MyWXpFwq826aEBQ#_0s2uoJxOEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-IjvvZe3MyWXpFwq826aEBQ#_2RSV0JxOEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-IjvvZe3MyWXpFwq826aEBQ#_3_2wcJxOEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-IjvvZe3MyWXpFwq826aEBQ#_5iWd8JxOEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-IjvvZe3MyWXpFwq826aEBQ#_7EGkkJxOEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-IjvvZe3MyWXpFwq826aEBQ#_850wEJxOEd2b9o00yINnSg"/>
+      <selectedSteps href="uma://-IjvvZe3MyWXpFwq826aEBQ#_-osFoJxOEd2b9o00yINnSg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_m3Ej9vmrEd2JRcy3PiAHxw"
+        name="프로젝트TA" guid="_m3Ej9vmrEd2JRcy3PiAHxw" presentationName="프로젝트TA" isPlanned="false"
+        superActivities="_m26zBPmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to3uFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_m3Ej-vmrEd2JRcy3PiAHxw"
+        name="컨버전대상목록" guid="_m3Ej-vmrEd2JRcy3PiAHxw" presentationName="컨버전대상목록" isPlanned="false"
+        superActivities="_m26zBPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_Th4RMMd0Ed2wA9_TUU3fKA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_m3Ej8vmrEd2JRcy3PiAHxw"
+        name="컨버전계획서" guid="_m3Ej8vmrEd2JRcy3PiAHxw" presentationName="컨버전계획서" isPlanned="false"
+        superActivities="_m26zBPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_qS6rQZX_Ed2f_MiqbDX5Hg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_m3Ej8fmrEd2JRcy3PiAHxw"
+        name="정비된데이터 생성" guid="_m3Ej8fmrEd2JRcy3PiAHxw" presentationName="정비된데이터 생성"
+        superActivities="_m26zBPmrEd2JRcy3PiAHxw" linkToPredecessor="_G0REoQjnEd6CD-m1e93cOw"
+        additionallyPerformedBy="_m3Ej9PmrEd2JRcy3PiAHxw" mandatoryInput="_m3Ej8vmrEd2JRcy3PiAHxw"
+        output="_m26zBfmrEd2JRcy3PiAHxw" performedPrimarilyBy="_m3Ej9fmrEd2JRcy3PiAHxw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_1AsuMMdwEd2wA9_TUU3fKA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_m3Ej9PmrEd2JRcy3PiAHxw"
+        name="고객" guid="_m3Ej9PmrEd2JRcy3PiAHxw" presentationName="고객" isPlanned="false"
+        superActivities="_m26zBPmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to0uFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_m26zBfmrEd2JRcy3PiAHxw"
+        name="정비된데이터" guid="_m26zBfmrEd2JRcy3PiAHxw" presentationName="정비된데이터" isPlanned="false"
+        superActivities="_m26zBPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_qS6rYJX_Ed2f_MiqbDX5Hg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_G0REoQjnEd6CD-m1e93cOw"
+        guid="_G0REoQjnEd6CD-m1e93cOw" pred="_m3Ej-PmrEd2JRcy3PiAHxw"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_m26zBPmrEd2JRcy3PiAHxw"
+        name="데이터 분석" guid="_m26zBPmrEd2JRcy3PiAHxw" presentationName="데이터 분석" breakdownElements="_m3Ej-fmrEd2JRcy3PiAHxw _m3Ej9fmrEd2JRcy3PiAHxw _m3Ej9_mrEd2JRcy3PiAHxw _m3Ej_PmrEd2JRcy3PiAHxw _m3Ej8PmrEd2JRcy3PiAHxw _m26zBvmrEd2JRcy3PiAHxw _m3Ej8_mrEd2JRcy3PiAHxw _m3Ej-PmrEd2JRcy3PiAHxw _m3Ej9vmrEd2JRcy3PiAHxw _m3Ej-vmrEd2JRcy3PiAHxw _m3Ej8vmrEd2JRcy3PiAHxw _m3Ej8fmrEd2JRcy3PiAHxw _m3Ej9PmrEd2JRcy3PiAHxw _m26zBfmrEd2JRcy3PiAHxw">
+      <presentation xmi:id="-RhaI2qO1hBqAg8Qg0ejUyw" href="uma://-RhaI2qO1hBqAg8Qg0ejUyw#-RhaI2qO1hBqAg8Qg0ejUyw"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

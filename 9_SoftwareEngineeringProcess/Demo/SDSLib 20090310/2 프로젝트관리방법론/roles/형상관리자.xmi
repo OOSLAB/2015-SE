@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-NpVSNF4JFiFt9XYKTLkvzw"
+    name="new_role,_SErE4Jh4Ed2ok9DYfbNoeg" guid="-NpVSNF4JFiFt9XYKTLkvzw" changeDate="2008-10-13T01:25:28.390+0900">
+  <mainDescription>제품 및 작업산출물 등의 형상요소를 식별, 통제, 기록, 감사하여 추적성을 관리하는 제반 활동을 수행하는 사람</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

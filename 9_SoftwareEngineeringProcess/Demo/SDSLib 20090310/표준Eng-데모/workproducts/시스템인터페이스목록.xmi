@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-szypceVouvuOVUYXHYbU9A"
+    name="시스템인터페이스목록,_FWgXjJVIEd2ptuaOn8CiHA" guid="-szypceVouvuOVUYXHYbU9A" changeDate="2008-10-09T00:05:28.390+0900">
+  <mainDescription>업무명, 인터페이스 구분, 인터페이스명, 인터페이스ID, 주기, 처리유형, source 시스템, target 시스템</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

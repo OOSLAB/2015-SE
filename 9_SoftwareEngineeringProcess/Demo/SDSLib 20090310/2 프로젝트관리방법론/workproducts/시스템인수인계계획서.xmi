@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-fE0oq-Q51RBNtNIpDfXjyQ"
+    name="시스템인수인계계획서,_fPHMgMsmEd2VS4iuY7h1kQ" guid="-fE0oq-Q51RBNtNIpDfXjyQ" changeDate="2009-02-25T16:52:04.250+0900">
+  <mainDescription>&lt;p>&#xD;
+    작성항목&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    1. 개요&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp; &amp;nbsp;-&amp;nbsp;시스템인수인계 목적 및 기본방침에 대해 기술한다.&lt;br />&#xD;
+    2. 수행조직&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-&amp;nbsp;대상업무 별 인수자와 인계자를 명시한다..&lt;br />&#xD;
+    3. 수행절차&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-&amp;nbsp;인수인계 수행 절차를 기술한다.&amp;nbsp;&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;: 인수인계 단계별 수행 방법을 기술하고, 담당자별 인수인계서 및 최종인수확인서 획득을 목표로 기술한다.&lt;br />&#xD;
+    4. 대상업무 및 필요기술&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-&amp;nbsp;대상업무 : 서브 시스템명&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-&amp;nbsp;필요기술 : 대상업무별 필요기술&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-&amp;nbsp;최소소요인원 : 대상업무 별 최소 소요 인원을 제시하여 고객에게 준비하도록 한다.&lt;br />&#xD;
+    5. 인수인계내용 및 상세일정&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-&amp;nbsp;대상업무 별 인수인계 내용을 다음과 같이 구분하여 정리한다.&lt;br />&#xD;
+    &amp;nbsp;시스템 기본설명 : 업무 설명, 화면 설명, 상세설계서 설명, 테이블정의서 설명 등으로 구성함&lt;br />&#xD;
+    &amp;nbsp;산출물 : 관련 산출물 설명&lt;br />&#xD;
+    &amp;nbsp;프로그램소스 : 관련 소스 설명&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-&amp;nbsp;내용 별 소요기간 산정한다.&lt;br />&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-&amp;nbsp;내용 별 인수자 및 인계자를 기술한다.&#xD;
+&lt;/p></mainDescription>
+  <impactOfNotHaving>&lt;p>&#xD;
+    미작성시 영향&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        시스템인수인계계획서는 고객 측 시스템 담당자가 납품 후 구축된 시스템을 안정적으로 운영 및 유지보수 할 수 있도록 하는 것이 목적이므로 미 작성시 고객에게 시스템 운영에 대한 불안감을 초래할 수&#xD;
+        있다.&lt;br />&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></impactOfNotHaving>
+</org.eclipse.epf.uma:ArtifactDescription>

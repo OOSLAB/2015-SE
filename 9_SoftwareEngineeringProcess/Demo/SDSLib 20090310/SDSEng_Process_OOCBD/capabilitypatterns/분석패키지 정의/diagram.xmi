@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML">
+  <uml:Activity xmi:id="_NSN_gAjnEd6CD-m1e93cOw" name="분석 패키지모델">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_NSN_gQjnEd6CD-m1e93cOw" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NSN_ggjnEd6CD-m1e93cOw"
+          key="uri" value="uma://_m26zAfmrEd2JRcy3PiAHxw#_m26zAvmrEd2JRcy3PiAHxw"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NSN_gwjnEd6CD-m1e93cOw"
+          key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_NSXwgAjnEd6CD-m1e93cOw" name="분석패키지다이어그램 작성">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_NSXwgQjnEd6CD-m1e93cOw"
+          source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NSXwggjnEd6CD-m1e93cOw"
+            key="uri" value="uma://_m26zAfmrEd2JRcy3PiAHxw#_5_304AgREd6PpbmBy1d4Hw"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NSXwgwjnEd6CD-m1e93cOw"
+            key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_NSN_hAjnEd6CD-m1e93cOw" type="AD" element="_NSN_gAjnEd6CD-m1e93cOw"
+      name="분석 패키지모델" measurementUnit="Pixel">
+    <children xmi:type="notation:Node" xmi:id="_NSXwhAjnEd6CD-m1e93cOw" type="1009"
+        element="_NSXwgAjnEd6CD-m1e93cOw">
+      <children xmi:type="notation:Node" xmi:id="_NSXwigjnEd6CD-m1e93cOw" type="4008"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_NSXwhQjnEd6CD-m1e93cOw" fontName="Arial"
+          fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_NSXwhgjnEd6CD-m1e93cOw"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_NSXwhwjnEd6CD-m1e93cOw"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_NSXwiAjnEd6CD-m1e93cOw" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NSXwiQjnEd6CD-m1e93cOw"
+          x="24" y="36"/>
+    </children>
+    <styles xmi:type="notation:PageStyle" xmi:id="_NSN_hQjnEd6CD-m1e93cOw"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_NSN_hgjnEd6CD-m1e93cOw"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_NSN_hwjnEd6CD-m1e93cOw"/>
+  </notation:Diagram>
+</xmi:XMI>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-CwMLAgWs-85fV29bIBt6cw" name="0800 프로젝트종료,_vRaysfc9Ed2U1--E6cs_NQ"
+      guid="-CwMLAgWs-85fV29bIBt6cw"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-XgsUfRPu-Ao3bHwi7-OaEg" name="검수준비,_BSNQwfZQEd2OhLPIr_EKbA"
+      guid="-XgsUfRPu-Ao3bHwi7-OaEg"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-yNfzYyWvV8KBLWylVsLv_A" name="완료보고,_Dh2YIfZQEd2OhLPIr_EKbA"
+      guid="-yNfzYyWvV8KBLWylVsLv_A"/>
+</xmi:XMI>

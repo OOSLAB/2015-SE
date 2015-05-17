@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-tO0f-hf9hI2ezpPuSRJZ6A"
+    name=",_gxzEMKAZEd2n5q0acG373A" guid="-tO0f-hf9hI2ezpPuSRJZ6A" changeDate="2009-02-27T04:35:12.312+0900">
+  <mainDescription>&lt;font face=&quot;굴림&quot;>수행 가이드(Task Guideline)&lt;/font> &#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>단위테스트에서 단위는 보통 클래스가 되며 단위테스트를 작성하는 것은 이 단위를 식별하는 데서 시작된다. 단위테스트의 대상이 되는 클래스와 단위테스트의 대상에 포함되지 말아야 하는&#xD;
+        클래스에 대한 식별기준과 우선순위는 단위테스트 작성기법 문서를 참고하도록 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>단위테스트의 대상이 되는 클래스를 식별한 후 테스트 케이스를 도출한다. 테스트 케이스 식별 시 모든 케이스를 테스트 하는 것은 불가능하기 때문에 식별기준과 우선순위를 고려하여&#xD;
+        테스트 케이스를 도출한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>도출된 테스트 케이스를 작성하는 명세작업은 테스트 케이스 작성자가 누구냐에 따라 다르게 적용해야 한다. 만약 한 사람이 설계, 코딩, 단위테스트를 담당한다면 정형화된 형태로&#xD;
+        테스트 케이스 명세를 작성하지 않고 문서형태의 명세서 대신 테스트 코드에 주석으로 추가할 수 있다. 그러나 한 사람이 설계, 단위식별, 테스트케이스 식별을 담당하고 다른 사람이 코딩과 단위테스트를 담당한다면&#xD;
+        테스트 케이스 명세가 정형화된 문서로 작성되어야 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>배치처리에 대한 기능은 단위테스트의 대상으로 식별하여, 단위테스트를 실시할 때 이에 대한 테스트를 수행하도록 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <sections xmi:id="_bAmsT_mrEd2JRcy3PiAHxw" name="설계자는 식별기준과 우선순위에 따라 설계된 모델로 테스트 대상 클래스를 식별한다."
+      guid="_bAmsT_mrEd2JRcy3PiAHxw"/>
+  <sections xmi:id="_bAmsTvmrEd2JRcy3PiAHxw" name="설계자는 식별된 대상 클래스에서 테스트 케이스를 도출하여 테스트 케이스를 작성한다."
+      guid="_bAmsTvmrEd2JRcy3PiAHxw"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>단위&#xD;
+테스트를 수행하기 위해 설계된 모델로부터 테스트 대상인 클래스를 식별하고&lt;span lang=&quot;EN-US&quot;>,&lt;/span> 식별된 클래스로부터 테스트될 중요한 메소드를 선정하여 테스트케이스를 도출하고 테스트 케이스를&#xD;
+작성한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

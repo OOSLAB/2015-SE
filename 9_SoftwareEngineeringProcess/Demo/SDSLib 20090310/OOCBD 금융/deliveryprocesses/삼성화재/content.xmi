@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-O3uvTkoFyPr4VY0g-7Xefg"
+      name="삼성화재,_deqHUZmpEd2hz8VvLT0FrQ" guid="-O3uvTkoFyPr4VY0g-7Xefg"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-XkUARCEpsOdVvZ0mHTfCtg" name="구축,_9W6lAZVZEd2ptuaOn8CiHA"
+      guid="-XkUARCEpsOdVvZ0mHTfCtg"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-i6beM-ukWoXq2Lv0DhXO5Q" name="도입,_2uYKwZVZEd2ptuaOn8CiHA"
+      guid="-i6beM-ukWoXq2Lv0DhXO5Q"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-0VWy7VAr0yAkE69kw3MhGg" name="정련,_7ScL0ZVZEd2ptuaOn8CiHA"
+      guid="-0VWy7VAr0yAkE69kw3MhGg"/>
+</xmi:XMI>

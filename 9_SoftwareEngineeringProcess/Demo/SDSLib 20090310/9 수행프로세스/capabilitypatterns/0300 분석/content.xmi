@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-6ijyxwS4QAzmtXqGkRU56g" name="0300 분석,_L32dEfc9Ed2U1--E6cs_NQ"
+      guid="-6ijyxwS4QAzmtXqGkRU56g"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-zpEyyCRgW5-sxMu5Au447A" name="단계계획,_Y31CwfZGEd2OhLPIr_EKbA"
+      guid="-zpEyyCRgW5-sxMu5Au447A"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-pnONRmjU-ETOQPO6_0GZXw" name="단계준비,_fY8J4fZHEd2OhLPIr_EKbA"
+      guid="-pnONRmjU-ETOQPO6_0GZXw"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-zmItLk8SQqVMAQaUjyM2oA" name="모니터 및 제어,_4VTg0fZHEd2OhLPIr_EKbA"
+      guid="-zmItLk8SQqVMAQaUjyM2oA"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-2mBY4CGl1yMq9qGhRDKlKg" name="변경요청관리,_5vwFkfZHEd2OhLPIr_EKbA"
+      guid="-2mBY4CGl1yMq9qGhRDKlKg"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-PiohtE9R_vF22pw6WUAMYg" name="요구사항변경관리,_7n22sfZHEd2OhLPIr_EKbA"
+      guid="-PiohtE9R_vF22pw6WUAMYg"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-UhOeaciH3BWj7Cjw-U9omg" name="품질활동,_84BeEfZHEd2OhLPIr_EKbA"
+      guid="-UhOeaciH3BWj7Cjw-U9omg"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-z7aM34hjwnaMLrRL3UMyjQ" name="형상모니터,_-PyiQfZHEd2OhLPIr_EKbA"
+      guid="-z7aM34hjwnaMLrRL3UMyjQ"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-vVHPrrj_Q-icSlz29NBj_A" name="단계지속수행,_smSU8fZHEd2OhLPIr_EKbA"
+      guid="-vVHPrrj_Q-icSlz29NBj_A"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-RIgS8a8nNmFjtTnWK-JU9A" name="단계완료,_5hakEfZGEd2OhLPIr_EKbA"
+      guid="-RIgS8a8nNmFjtTnWK-JU9A"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-OCxDLelzojhNCuM2bnMqHw" name="액티비티관리,_RLBcYfGWEd2JDeNeZI1pKA"
+      guid="-OCxDLelzojhNCuM2bnMqHw"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-XuzEOLw4Fx81op_0mbBSSw" name="산출물관리,_O6eWEfGWEd2JDeNeZI1pKA"
+      guid="-XuzEOLw4Fx81op_0mbBSSw"/>
+</xmi:XMI>

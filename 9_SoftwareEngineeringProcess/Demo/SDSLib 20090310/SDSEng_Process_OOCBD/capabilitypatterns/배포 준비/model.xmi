@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_nHm6UPmrEd2JRcy3PiAHxw"
+      guid="_nHm6UPmrEd2JRcy3PiAHxw">
+    <resourceDescriptors xmi:id="_nHm6UfmrEd2JRcy3PiAHxw" id="-c869JdSqibuiHwNgSdljCQ"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_m3EkA_mrEd2JRcy3PiAHxw" name="배포 준비"
+      guid="_m3EkA_mrEd2JRcy3PiAHxw">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_7kVb1QgSEd6PpbmBy1d4Hw"
+        name="배포정의서 작성" guid="_7kVb1QgSEd6PpbmBy1d4Hw" presentationName="배포정의서 작성"
+        superActivities="_m3EkBPmrEd2JRcy3PiAHxw" additionallyPerformedBy="_7kVb2AgSEd6PpbmBy1d4Hw"
+        mandatoryInput="_7kVb2ggSEd6PpbmBy1d4Hw _7kVb2wgSEd6PpbmBy1d4Hw" output="_7kVb3AgSEd6PpbmBy1d4Hw"
+        performedPrimarilyBy="_7kVb1wgSEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_FAnuMKAXEd2n5q0acG373A"/>
+      <selectedSteps href="uma://-QHUE055UZz0t2lkX__hA6w#_HNSaEKAXEd2n5q0acG373A"/>
+      <selectedSteps href="uma://-QHUE055UZz0t2lkX__hA6w#_H9a2gKAXEd2n5q0acG373A"/>
+      <selectedSteps href="uma://-QHUE055UZz0t2lkX__hA6w#_IrA8UKAXEd2n5q0acG373A"/>
+      <selectedSteps href="uma://-QHUE055UZz0t2lkX__hA6w#_BQPTwK80Ed2L5O0hnnXUww"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_7kVb1ggSEd6PpbmBy1d4Hw"
+        name="배포파일 생성" guid="_7kVb1ggSEd6PpbmBy1d4Hw" presentationName="배포파일 생성" superActivities="_m3EkBPmrEd2JRcy3PiAHxw"
+        linkToPredecessor="_5m26EQjkEd6CD-m1e93cOw" additionallyPerformedBy="_7kVb2AgSEd6PpbmBy1d4Hw"
+        mandatoryInput="_7kVb3AgSEd6PpbmBy1d4Hw _7kVb3QgSEd6PpbmBy1d4Hw" output="_7kVb3ggSEd6PpbmBy1d4Hw"
+        performedPrimarilyBy="_7kVb2QgSEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_R1E4IKAXEd2n5q0acG373A"/>
+      <selectedSteps href="uma://-GKX8c0sr4QrtPli2VBdkpg#_VQa9oKAXEd2n5q0acG373A"/>
+      <selectedSteps href="uma://-GKX8c0sr4QrtPli2VBdkpg#_XpwMgKAXEd2n5q0acG373A"/>
+      <selectedSteps href="uma://-GKX8c0sr4QrtPli2VBdkpg#_ZzSr4KAXEd2n5q0acG373A"/>
+      <selectedSteps href="uma://-GKX8c0sr4QrtPli2VBdkpg#_cIAggKAXEd2n5q0acG373A"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_7kVb1wgSEd6PpbmBy1d4Hw"
+        name="설계자" guid="_7kVb1wgSEd6PpbmBy1d4Hw" presentationName="설계자" superActivities="_m3EkBPmrEd2JRcy3PiAHxw"
+        modifies="_7kVb3AgSEd6PpbmBy1d4Hw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to2OFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_7kVb2AgSEd6PpbmBy1d4Hw"
+        name="소프트웨어아키텍트" guid="_7kVb2AgSEd6PpbmBy1d4Hw" presentationName="소프트웨어아키텍트"
+        superActivities="_m3EkBPmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to2eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_7kVb2QgSEd6PpbmBy1d4Hw"
+        name="개발자" guid="_7kVb2QgSEd6PpbmBy1d4Hw" presentationName="개발자" superActivities="_m3EkBPmrEd2JRcy3PiAHxw"
+        modifies="_7kVb3ggSEd6PpbmBy1d4Hw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to0eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_7kVb2ggSEd6PpbmBy1d4Hw"
+        name="기술인프라아키텍처설계서" guid="_7kVb2ggSEd6PpbmBy1d4Hw" presentationName="기술인프라아키텍처설계서"
+        superActivities="_m3EkBPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_lq3Fk5YAEd2f_MiqbDX5Hg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_7kVb2wgSEd6PpbmBy1d4Hw"
+        name="소프트웨어아키텍처설계서" guid="_7kVb2wgSEd6PpbmBy1d4Hw" presentationName="소프트웨어아키텍처설계서"
+        superActivities="_m3EkBPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_lq3FvpYAEd2f_MiqbDX5Hg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_7kVb3AgSEd6PpbmBy1d4Hw"
+        name="배포정의서" guid="_7kVb3AgSEd6PpbmBy1d4Hw" presentationName="배포정의서" superActivities="_m3EkBPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_NUjvyKAWEd2n5q0acG373A"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_7kVb3QgSEd6PpbmBy1d4Hw"
+        name="소스코드" guid="_7kVb3QgSEd6PpbmBy1d4Hw" presentationName="소스코드" superActivities="_m3EkBPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_e9t3kKAZEd2n5q0acG373A"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_7kVb3ggSEd6PpbmBy1d4Hw"
+        name="배포파일" guid="_7kVb3ggSEd6PpbmBy1d4Hw" presentationName="배포파일" superActivities="_m3EkBPmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_NUjv26AWEd2n5q0acG373A"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_5m26EQjkEd6CD-m1e93cOw"
+        guid="_5m26EQjkEd6CD-m1e93cOw" pred="_7kVb1QgSEd6PpbmBy1d4Hw"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_m3EkBPmrEd2JRcy3PiAHxw"
+        name="배포 준비" guid="_m3EkBPmrEd2JRcy3PiAHxw" presentationName="배포 준비" breakdownElements="_7kVb1QgSEd6PpbmBy1d4Hw _7kVb1ggSEd6PpbmBy1d4Hw _7kVb1wgSEd6PpbmBy1d4Hw _7kVb2AgSEd6PpbmBy1d4Hw _7kVb2QgSEd6PpbmBy1d4Hw _7kVb2ggSEd6PpbmBy1d4Hw _7kVb2wgSEd6PpbmBy1d4Hw _7kVb3AgSEd6PpbmBy1d4Hw _7kVb3QgSEd6PpbmBy1d4Hw _7kVb3ggSEd6PpbmBy1d4Hw">
+      <presentation xmi:id="-c869JdSqibuiHwNgSdljCQ" href="uma://-c869JdSqibuiHwNgSdljCQ#-c869JdSqibuiHwNgSdljCQ"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

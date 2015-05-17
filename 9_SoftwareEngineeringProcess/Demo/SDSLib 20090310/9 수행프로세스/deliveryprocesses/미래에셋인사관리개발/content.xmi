@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-hp2No7uA717UfmgwTE6fKg"
+      name="미래에셋인사관리개발,_EFv_Af8aEd2yh-CYhX4-xw" guid="-hp2No7uA717UfmgwTE6fKg"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-A5CJjgdetMMCKzwsr9yDKg" name="미래에셋서브시스템개발프로세스,__fwEQf8ZEd2yh-CYhX4-xw"
+      guid="-A5CJjgdetMMCKzwsr9yDKg"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-JGrPFLkUAaZnHZ0vKssOnQ" name="미래에셋서브시스템개발프로세스,__fwEQf8ZEd2yh-CYhX4-xw"
+      guid="-JGrPFLkUAaZnHZ0vKssOnQ"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-QJ3Lbyufsg2JaBrmCNbLbg" name="미래에셋서브시스템개발프로세스,__fwEQf8ZEd2yh-CYhX4-xw"
+      guid="-QJ3Lbyufsg2JaBrmCNbLbg"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-lje03VKDi_D1PCavlX_bBg" name="미래에셋서브시스템개발프로세스,__fwEQf8ZEd2yh-CYhX4-xw"
+      guid="-lje03VKDi_D1PCavlX_bBg"/>
+</xmi:XMI>

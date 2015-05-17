@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-gr9_9yLEfe9_rvm_RGYysg"
+    name="개념아키텍처모델,_fDBrMfa-Ed2kFLXHLUNOag" guid="-gr9_9yLEfe9_rvm_RGYysg">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/concepts/%C544%D0A4%D14D%CC98%BD84%C11D%D65C%B3D9%20%AC1C%C694_CABA6466.html&quot;&#xD;
+         guid=&quot;_RSnlsAS8Ed6u1pdhw4SOFA&quot;>아키텍처분석활동 개요&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ProcessDescription>

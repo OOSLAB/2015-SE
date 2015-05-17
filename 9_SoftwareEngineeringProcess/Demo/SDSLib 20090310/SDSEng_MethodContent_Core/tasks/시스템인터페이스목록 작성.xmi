@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-x9CQeEZ9avTPuAFS_yh6Pg"
+    name=",_kUJu0MxGEd28vbZjNLqrNw" guid="-x9CQeEZ9avTPuAFS_yh6Pg">
+  <sections xmi:id="_nTVcwMxGEd28vbZjNLqrNw" name="데이터포멧 기재" guid="_nTVcwMxGEd28vbZjNLqrNw"/>
+  <sections xmi:id="_o81KIMxGEd28vbZjNLqrNw" name="인터페이스 방식 기재" guid="_o81KIMxGEd28vbZjNLqrNw"/>
+  <sections xmi:id="_p32A4MxGEd28vbZjNLqrNw" name="통신유형 기술" guid="_p32A4MxGEd28vbZjNLqrNw"/>
+</org.eclipse.epf.uma:TaskDescription>

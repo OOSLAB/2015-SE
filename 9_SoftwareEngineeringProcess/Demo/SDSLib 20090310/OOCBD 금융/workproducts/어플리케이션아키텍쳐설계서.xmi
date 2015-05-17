@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-Pbiz1UpwWQitGJDTdFfVQw"
+    name="new_artifact,_HDh6kJO1Ed2QOZMWcM0ZMQ" guid="-Pbiz1UpwWQitGJDTdFfVQw" changeDate="2008-10-09T22:51:46.984+0900">
+  <mainDescription>&lt;p>&#xD;
+    기타 공통기능 설계방안, 어플리케이션 보안, 컴포넌트 구성방안, 트랜젝션 처리방안, COTS 적용방안[선택],&amp;nbsp;어플리케이션 런타임 구성도, 어플리케이션 배포구조, 어플리케이션 통합 구성도[선택],&#xD;
+    어프릴케이션&amp;nbsp;layer 구성도&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

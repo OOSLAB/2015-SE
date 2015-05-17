@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-XgOrM-iC4_yAOqqao-r8VA"
+    name=",_3X4ZMJxIEd2b9o00yINnSg" guid="-XgOrM-iC4_yAOqqao-r8VA">
+  <sections xmi:id="_5x0FAJxIEd2b9o00yINnSg" name="인터페이스가 갖는 오퍼레이션 식별" guid="_5x0FAJxIEd2b9o00yINnSg"/>
+  <sections xmi:id="_BOWIAJxJEd2b9o00yINnSg" name="컴포넌트간의 의존도 정의" guid="_BOWIAJxJEd2b9o00yINnSg"/>
+  <sections xmi:id="_7Gc8sJxIEd2b9o00yINnSg" name="컴포넌트 식별" guid="_7Gc8sJxIEd2b9o00yINnSg"/>
+  <sections xmi:id="_-lhEkJxIEd2b9o00yINnSg" name="컴포넌트 인터페이스 정의" guid="_-lhEkJxIEd2b9o00yINnSg"/>
+  <sections xmi:id="__8F18JxIEd2b9o00yINnSg" name="컴포넌트 정의" guid="__8F18JxIEd2b9o00yINnSg"/>
+  <sections xmi:id="_FWGnkJxJEd2b9o00yINnSg" name="컴포넌트와 인터페이스간의 관계 정의" guid="_FWGnkJxJEd2b9o00yINnSg"/>
+</org.eclipse.epf.uma:TaskDescription>

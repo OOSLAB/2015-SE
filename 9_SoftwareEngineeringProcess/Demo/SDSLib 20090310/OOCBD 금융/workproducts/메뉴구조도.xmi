@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-_pflddgqF7-yienF4heIIA"
+    name="new_artifact,_eJHhoJOrEd2QOZMWcM0ZMQ" guid="-_pflddgqF7-yienF4heIIA" changeDate="2008-10-06T22:34:35.546+0900">
+  <mainDescription>목적화면, 비고, N레벨</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

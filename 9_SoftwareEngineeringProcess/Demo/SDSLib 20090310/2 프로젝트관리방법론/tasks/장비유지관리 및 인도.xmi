@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Iok4jJDkaVqNYImaYxZ4kw"
+    name="장비유지관리 및 인도,_MODsEOjjEd2lTK4h8EdsoQ" guid="-Iok4jJDkaVqNYImaYxZ4kw" changeDate="2009-03-03T19:27:58.812+0900">
+  <sections xmi:id="_7NtCIAfeEd6iXZwxaPWT4w" name="프로젝트 수행을 위해 확보한 다음과 같은 장비를 장비관리 대장에 등록하고, 장비의 변경 내역을 관리한다"
+      guid="_7NtCIAfeEd6iXZwxaPWT4w">
+    <sectionDescription>&lt;P class=MsoBodyText style=&quot;MARGIN: 0cm 0cm 0pt 60.55pt; TEXT-INDENT: -10.15pt; LINE-HEIGHT: 16.55pt; mso-list: l0 level3 lfo1; tab-stops: list 60.55pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 10pt; COLOR: windowtext; FONT-FAMILY: Arial; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>-&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-SIZE: 10pt; COLOR: windowtext; FONT-FAMILY: 굴림&quot;>고객납품용 장비&lt;SPAN lang=EN-US> : H/W, &lt;/SPAN>시스템&lt;SPAN lang=EN-US>S/W, &lt;/SPAN>패키지&lt;SPAN lang=EN-US>S/W, PC &lt;/SPAN>등&lt;SPAN lang=EN-US> &lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoBodyText style=&quot;MARGIN: 0cm 0cm 0pt 60.55pt; TEXT-INDENT: -10.15pt; LINE-HEIGHT: 16.55pt; mso-list: l0 level3 lfo1; tab-stops: list 60.55pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 10pt; COLOR: windowtext; FONT-FAMILY: Arial; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>-&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-SIZE: 10pt; COLOR: windowtext; FONT-FAMILY: 굴림&quot;>임시로 사용하는 장비&lt;SPAN lang=EN-US>(&lt;/SPAN>필요한 경우에만 관리함&lt;SPAN lang=EN-US>)&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoBodyText style=&quot;MARGIN: 0cm 0cm 0pt 60.55pt; TEXT-INDENT: -10.15pt; LINE-HEIGHT: 16.55pt; mso-list: l0 level3 lfo1; tab-stops: list 60.55pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 10pt; COLOR: windowtext; FONT-FAMILY: Arial; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>-&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-SIZE: 10pt; COLOR: windowtext; FONT-FAMILY: 굴림&quot;>대여 장비&lt;SPAN lang=EN-US>(&lt;/SPAN>필요한 경우에만 관리함&lt;SPAN lang=EN-US>) &lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P></sectionDescription>
+  </sections>
+  <sections xmi:id="_8Cwa0AfeEd6iXZwxaPWT4w" name="정기적으로 장비에 대한 예방점검을 수행하고, 장비에 이상이 발생한 경우 장비결함보고서를 공급업체에 통보하여 시정조치 후 장비 재 검사를 실시한다"
+      guid="_8Cwa0AfeEd6iXZwxaPWT4w"/>
+  <sections xmi:id="_-GLrIAfeEd6iXZwxaPWT4w" name="사내 표준 바이러스 백신 프로그램을 설치하여 바이러스를 예방한다"
+      guid="_-GLrIAfeEd6iXZwxaPWT4w"/>
+  <sections xmi:id="_AZ2W4AffEd6iXZwxaPWT4w" name="장비관리 대상의 변경 및 장비요소의 변경 발생시 장비관리대장에 사양 및 변동사항을 기재하여 관리한다"
+      guid="_AZ2W4AffEd6iXZwxaPWT4w"/>
+  <sections xmi:id="_CWbYUAffEd6iXZwxaPWT4w" name="프로젝트가 완료된 시점 또는 고객이 장비의 인도를 요구한 시점에 고객에게 장비를 인도한다"
+      guid="_CWbYUAffEd6iXZwxaPWT4w">
+    <sectionDescription>&lt;P class=MsoBodyText style=&quot;MARGIN: 0cm 0cm 0pt 60.55pt; TEXT-INDENT: -11.55pt; LINE-HEIGHT: 16.55pt; mso-list: l0 level3 lfo1; tab-stops: list 60.55pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 10pt; COLOR: windowtext; FONT-FAMILY: Arial; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>-&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-SIZE: 10pt; COLOR: windowtext; FONT-FAMILY: 굴림&quot;>계약서와의 일치 여부 확인&lt;SPAN lang=EN-US>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoBodyText style=&quot;MARGIN: 0cm 0cm 0pt 60.55pt; TEXT-INDENT: -11.55pt; LINE-HEIGHT: 16.55pt; mso-list: l0 level3 lfo1; tab-stops: list 60.55pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 10pt; COLOR: windowtext; FONT-FAMILY: Arial; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>-&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-SIZE: 10pt; COLOR: windowtext; FONT-FAMILY: 굴림&quot;>구매관리계획과 일치 여부 확인&lt;SPAN lang=EN-US>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=MsoBodyText style=&quot;MARGIN: 0cm 0cm 0pt 60.55pt; TEXT-INDENT: -11.55pt; LINE-HEIGHT: 16.55pt; mso-list: l0 level3 lfo1; tab-stops: list 60.55pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 10pt; COLOR: windowtext; FONT-FAMILY: Arial; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>-&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-SIZE: 10pt; COLOR: windowtext; FONT-FAMILY: 굴림&quot;>고객 요구사항 부합 여부 확인&lt;SPAN lang=EN-US>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P></sectionDescription>
+  </sections>
+  <sections xmi:id="_FURCcAffEd6iXZwxaPWT4w" name="고객에게 인도한 장비에 대해서는 장비설치확인서를 작성하여, 반드시 고객으로부터 정상 인수에 대한 승인을 획득한다"
+      guid="_FURCcAffEd6iXZwxaPWT4w"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>프로젝트&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>수행에&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>필요한&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>고객&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>납품용&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA; mso-fareast-font-family: 굴림&quot;>&lt;span&#xD;
+ lang=&quot;EN-US&quot;>H/W, S/W&lt;/span>&lt;/span> &lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>및&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>주변기기&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>등의&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>각종&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>장비의&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>정상작동여부를&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>관리하여&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>고객에게&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>인도한다&lt;/span>&lt;span&#xD;
+ lang=&quot;EN-US&quot;&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA; mso-fareast-font-family: 굴림&quot;>.&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

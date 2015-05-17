@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_m_kYoPmrEd2JRcy3PiAHxw"
+      guid="_m_kYoPmrEd2JRcy3PiAHxw">
+    <resourceDescriptors xmi:id="_m_kYofmrEd2JRcy3PiAHxw" id="-IutiZLbh3Cj9vpkAdviiDw"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_m26zAfmrEd2JRcy3PiAHxw" name="분석패키지 정의"
+      guid="_m26zAfmrEd2JRcy3PiAHxw">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_5_304AgREd6PpbmBy1d4Hw"
+        name="분석패키지다이어그램 작성" guid="_5_304AgREd6PpbmBy1d4Hw" presentationName="분석패키지다이어그램 작성"
+        superActivities="_m26zAvmrEd2JRcy3PiAHxw" additionallyPerformedBy="_5_304ggREd6PpbmBy1d4Hw _5_304wgREd6PpbmBy1d4Hw"
+        mandatoryInput="_5_305AgREd6PpbmBy1d4Hw _5_305QgREd6PpbmBy1d4Hw" output="_5_305ggREd6PpbmBy1d4Hw"
+        performedPrimarilyBy="_5_304QgREd6PpbmBy1d4Hw">
+      <Task href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_lgnr0gClEd6qY44rDCdQHw"/>
+      <selectedSteps href="uma://-fkiHIruHifCOkXLEa-h7ww#__I0v4AgKEd6s07juqPNOXA"/>
+      <selectedSteps href="uma://-fkiHIruHifCOkXLEa-h7ww#_AHZ4AAgLEd6s07juqPNOXA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_5_304QgREd6PpbmBy1d4Hw"
+        name="분석자" guid="_5_304QgREd6PpbmBy1d4Hw" presentationName="분석자" isPlanned="false"
+        superActivities="_m26zAvmrEd2JRcy3PiAHxw" modifies="_5_305ggREd6PpbmBy1d4Hw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to1eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_5_304ggREd6PpbmBy1d4Hw"
+        name="비즈니스아키텍트" guid="_5_304ggREd6PpbmBy1d4Hw" presentationName="비즈니스아키텍트"
+        isPlanned="false" superActivities="_m26zAvmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to1uFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_5_304wgREd6PpbmBy1d4Hw"
+        name="소프트웨어아키텍트" guid="_5_304wgREd6PpbmBy1d4Hw" presentationName="소프트웨어아키텍트"
+        isPlanned="false" superActivities="_m26zAvmrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to2eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_5_305AgREd6PpbmBy1d4Hw"
+        name="요구 유스케이스다이어그램" guid="_5_305AgREd6PpbmBy1d4Hw" presentationName="요구 유스케이스다이어그램"
+        isPlanned="false" superActivities="_m26zAvmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBMiOfmrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_5_305QgREd6PpbmBy1d4Hw"
+        name="요구 패키지다이어그램" guid="_5_305QgREd6PpbmBy1d4Hw" presentationName="요구 패키지다이어그램"
+        isPlanned="false" superActivities="_m26zAvmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_bBMiPvmrEd2JRcy3PiAHxw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_5_305ggREd6PpbmBy1d4Hw"
+        name="분석패키지다이어그램" guid="_5_305ggREd6PpbmBy1d4Hw" presentationName="분석패키지다이어그램"
+        isPlanned="false" superActivities="_m26zAvmrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_3TkIYPmnEd2L2cXOqZYpVA#_lgnr0wClEd6qY44rDCdQHw"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_m26zAvmrEd2JRcy3PiAHxw"
+        name="분석패키지 정의" guid="_m26zAvmrEd2JRcy3PiAHxw" presentationName="분석패키지 정의"
+        breakdownElements="_5_304AgREd6PpbmBy1d4Hw _5_304QgREd6PpbmBy1d4Hw _5_304ggREd6PpbmBy1d4Hw _5_304wgREd6PpbmBy1d4Hw _5_305AgREd6PpbmBy1d4Hw _5_305QgREd6PpbmBy1d4Hw _5_305ggREd6PpbmBy1d4Hw">
+      <presentation xmi:id="-IutiZLbh3Cj9vpkAdviiDw" href="uma://-IutiZLbh3Cj9vpkAdviiDw#-IutiZLbh3Cj9vpkAdviiDw"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

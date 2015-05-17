@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-vBAYC3NDXzVWh5RGfr3l9w"
+    name="보고서정의서,_5s7iJpX_Ed2f_MiqbDX5Hg" guid="-vBAYC3NDXzVWh5RGfr3l9w" changeDate="2008-10-09T21:45:18.906+0900">
+  <mainDescription>&lt;p>&#xD;
+    보고서 개요,&amp;nbsp;보고서 ID, 보고서명, 보고서 레이아웃, 보고서 툴 파일명, 비고, 상세 설명, 입력 파라메터, 항목명&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

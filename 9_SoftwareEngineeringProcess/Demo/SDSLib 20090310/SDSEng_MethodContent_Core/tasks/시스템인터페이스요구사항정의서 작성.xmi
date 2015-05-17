@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-gBrGPvj1iSM_QAb7eFy2mQ"
+    name=",_mT7QYMdzEd2wA9_TUU3fKA" guid="-gBrGPvj1iSM_QAb7eFy2mQ">
+  <sections xmi:id="_n2ku4MdzEd2wA9_TUU3fKA" name="시스템 인터페이스 요구사항 도출" guid="_n2ku4MdzEd2wA9_TUU3fKA"/>
+  <sections xmi:id="_oy7CYMdzEd2wA9_TUU3fKA" name="시스템 인터페이스 요구사항 정의" guid="_oy7CYMdzEd2wA9_TUU3fKA"/>
+</org.eclipse.epf.uma:TaskDescription>

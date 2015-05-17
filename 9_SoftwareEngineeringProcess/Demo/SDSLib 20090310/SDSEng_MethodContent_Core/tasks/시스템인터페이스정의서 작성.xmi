@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-zHSiRymRrXqm1K1J_5NXTA"
+    name=",_o1-YgJxUEd2IZdao1IJ_iw" guid="-zHSiRymRrXqm1K1J_5NXTA">
+  <sections xmi:id="_x4StkJxUEd2IZdao1IJ_iw" name="시스템 인터페이스 관련 소스 및 목표 시스템 정의" guid="_x4StkJxUEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_zTL-QJxUEd2IZdao1IJ_iw" name="시스템 인터페이스 기능요건 정의" guid="_zTL-QJxUEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_0_ERQJxUEd2IZdao1IJ_iw" name="시스템 인터페이스 입출력 데이터 항목 정의" guid="_0_ERQJxUEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_2XljYJxUEd2IZdao1IJ_iw" name="시스템 인터페이스의 처리유형 및 주기 정의" guid="_2XljYJxUEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_AW_y0JxVEd2IZdao1IJ_iw" name="입출력 데이터항목 정보 상세정의" guid="_AW_y0JxVEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_sEDeEJxUEd2IZdao1IJ_iw" name="source 담당자 기재" guid="_sEDeEJxUEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_thfFYJxUEd2IZdao1IJ_iw" name="target 담당자 기재" guid="_thfFYJxUEd2IZdao1IJ_iw"/>
+</org.eclipse.epf.uma:TaskDescription>

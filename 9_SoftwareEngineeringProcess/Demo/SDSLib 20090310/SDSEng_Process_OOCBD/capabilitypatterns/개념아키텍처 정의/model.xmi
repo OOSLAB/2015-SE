@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_nLCo0PmrEd2JRcy3PiAHxw"
+      guid="_nLCo0PmrEd2JRcy3PiAHxw">
+    <resourceDescriptors xmi:id="_nLCo0fmrEd2JRcy3PiAHxw" id="-gr9_9yLEfe9_rvm_RGYysg"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_m3Ej_vmrEd2JRcy3PiAHxw" name="개념아키텍처 정의"
+      guid="_m3Ej_vmrEd2JRcy3PiAHxw">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_WfLHEAgSEd6PpbmBy1d4Hw"
+        name="개념기술인프라아키텍처 작성" guid="_WfLHEAgSEd6PpbmBy1d4Hw" presentationName="개념기술인프라아키텍처 작성"
+        superActivities="_m3Ej__mrEd2JRcy3PiAHxw" linkToPredecessor="_lrYYMQjmEd6CD-m1e93cOw"
+        additionallyPerformedBy="_WfLHFQgSEd6PpbmBy1d4Hw _WfLHFggSEd6PpbmBy1d4Hw"
+        mandatoryInput="_WfLHGQgSEd6PpbmBy1d4Hw _WfLHGggSEd6PpbmBy1d4Hw _WfLHGwgSEd6PpbmBy1d4Hw _WfLHHAgSEd6PpbmBy1d4Hw _WfLHHQgSEd6PpbmBy1d4Hw"
+        output="_WfLHHggSEd6PpbmBy1d4Hw" performedPrimarilyBy="_WfLHFAgSEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_nMhwoPa4Ed2DW9Xz6RbeHQ"/>
+      <selectedSteps href="uma://-z2mu4lNugq47z6_iEXSStA#_XXlEAANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-z2mu4lNugq47z6_iEXSStA#_gFVeUANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-z2mu4lNugq47z6_iEXSStA#_hniQ4ANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-z2mu4lNugq47z6_iEXSStA#_o2EUIANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-z2mu4lNugq47z6_iEXSStA#_qVb1IANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-z2mu4lNugq47z6_iEXSStA#_xZPPEANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-z2mu4lNugq47z6_iEXSStA#_zQlyQANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-z2mu4lNugq47z6_iEXSStA#_HYWxwANYEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-z2mu4lNugq47z6_iEXSStA#_RKNGUANYEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-z2mu4lNugq47z6_iEXSStA#_fDWncANYEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-z2mu4lNugq47z6_iEXSStA#_oTOQUANYEd6LQuHvYuPuYw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_WfLHEQgSEd6PpbmBy1d4Hw"
+        name="개념데이터아키텍처 작성" guid="_WfLHEQgSEd6PpbmBy1d4Hw" presentationName="개념데이터아키텍처 작성"
+        superActivities="_m3Ej__mrEd2JRcy3PiAHxw" linkToPredecessor="_lHUo4AjmEd6CD-m1e93cOw"
+        additionallyPerformedBy="_WfLHFwgSEd6PpbmBy1d4Hw _WfLHFQgSEd6PpbmBy1d4Hw"
+        mandatoryInput="_WfLHHQgSEd6PpbmBy1d4Hw _WfLHGQgSEd6PpbmBy1d4Hw _WfLHGggSEd6PpbmBy1d4Hw _WfLHGwgSEd6PpbmBy1d4Hw _WfLHHAgSEd6PpbmBy1d4Hw"
+        output="_WfLHHwgSEd6PpbmBy1d4Hw" performedPrimarilyBy="_WfLHFAgSEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_sjZusPa4Ed2DW9Xz6RbeHQ"/>
+      <selectedSteps href="uma://-JWTsID6at4YJEJi_03zLDg#_Y60_cANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-JWTsID6at4YJEJi_03zLDg#_fTt0IANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-JWTsID6at4YJEJi_03zLDg#_iNh54ANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-JWTsID6at4YJEJi_03zLDg#_n9u98ANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-JWTsID6at4YJEJi_03zLDg#_rWQY8ANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-JWTsID6at4YJEJi_03zLDg#_wftmEANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-JWTsID6at4YJEJi_03zLDg#_z-8GAANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-JWTsID6at4YJEJi_03zLDg#_IcJxEANYEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-JWTsID6at4YJEJi_03zLDg#_R7q_gANYEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-JWTsID6at4YJEJi_03zLDg#_hWuYQANYEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-JWTsID6at4YJEJi_03zLDg#_nPbRAANYEd6LQuHvYuPuYw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_WfLHEggSEd6PpbmBy1d4Hw"
+        name="개념소프트웨어아키텍처 작성" guid="_WfLHEggSEd6PpbmBy1d4Hw" presentationName="개념소프트웨어아키텍처 작성"
+        superActivities="_m3Ej__mrEd2JRcy3PiAHxw" linkToPredecessor="_klzQMQjmEd6CD-m1e93cOw"
+        additionallyPerformedBy="_WfLHGAgSEd6PpbmBy1d4Hw _WfLHFQgSEd6PpbmBy1d4Hw"
+        mandatoryInput="_WfLHHQgSEd6PpbmBy1d4Hw _WfLHGQgSEd6PpbmBy1d4Hw _WfLHGggSEd6PpbmBy1d4Hw _WfLHGwgSEd6PpbmBy1d4Hw _WfLHHAgSEd6PpbmBy1d4Hw"
+        output="_WfLHIAgSEd6PpbmBy1d4Hw" performedPrimarilyBy="_WfLHFAgSEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_yxHOIPa4Ed2DW9Xz6RbeHQ"/>
+      <selectedSteps href="uma://-dfcFPqGyAvj9RsRoCIirUg#_aAHMgANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-dfcFPqGyAvj9RsRoCIirUg#_eN-UEANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-dfcFPqGyAvj9RsRoCIirUg#_i1nNkANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-dfcFPqGyAvj9RsRoCIirUg#_m8eVQANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-dfcFPqGyAvj9RsRoCIirUg#_sBUIIANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-dfcFPqGyAvj9RsRoCIirUg#_vsKCMANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-dfcFPqGyAvj9RsRoCIirUg#_00bjkANXEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-dfcFPqGyAvj9RsRoCIirUg#_JWkK4ANYEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-dfcFPqGyAvj9RsRoCIirUg#_S-IiEANYEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-dfcFPqGyAvj9RsRoCIirUg#_iVnCYANYEd6LQuHvYuPuYw"/>
+      <selectedSteps href="uma://-dfcFPqGyAvj9RsRoCIirUg#_mUbBUANYEd6LQuHvYuPuYw"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_WfLHEwgSEd6PpbmBy1d4Hw"
+        name="아키텍처기술표준정의서 작성" guid="_WfLHEwgSEd6PpbmBy1d4Hw" presentationName="아키텍처기술표준정의서 작성"
+        superActivities="_m3Ej__mrEd2JRcy3PiAHxw" additionallyPerformedBy="_WfLHFQgSEd6PpbmBy1d4Hw"
+        output="_WfLHHQgSEd6PpbmBy1d4Hw" performedPrimarilyBy="_WfLHFAgSEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_Wiu-wPa2Ed2DW9Xz6RbeHQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_WfLHFAgSEd6PpbmBy1d4Hw"
+        name="리드아키텍트" guid="_WfLHFAgSEd6PpbmBy1d4Hw" presentationName="리드아키텍트" isPlanned="false"
+        superActivities="_m3Ej__mrEd2JRcy3PiAHxw" modifies="_WfLHHggSEd6PpbmBy1d4Hw _WfLHHwgSEd6PpbmBy1d4Hw _WfLHIAgSEd6PpbmBy1d4Hw _WfLHHQgSEd6PpbmBy1d4Hw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to1OFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_WfLHFQgSEd6PpbmBy1d4Hw"
+        name="프로젝트TA" guid="_WfLHFQgSEd6PpbmBy1d4Hw" presentationName="프로젝트TA" isPlanned="false"
+        superActivities="_m3Ej__mrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to3uFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_WfLHFggSEd6PpbmBy1d4Hw"
+        name="비즈니스아키텍트" guid="_WfLHFggSEd6PpbmBy1d4Hw" presentationName="비즈니스아키텍트"
+        isPlanned="false" superActivities="_m3Ej__mrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to1uFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_WfLHFwgSEd6PpbmBy1d4Hw"
+        name="데이터아키텍트" guid="_WfLHFwgSEd6PpbmBy1d4Hw" presentationName="데이터아키텍트" isPlanned="false"
+        superActivities="_m3Ej__mrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to0-FKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_WfLHGAgSEd6PpbmBy1d4Hw"
+        name="소프트웨어아키텍트" guid="_WfLHGAgSEd6PpbmBy1d4Hw" presentationName="소프트웨어아키텍트"
+        isPlanned="false" superActivities="_m3Ej__mrEd2JRcy3PiAHxw">
+      <Role href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_X7to2eFKEd2itKHlK_Q0qg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_WfLHGQgSEd6PpbmBy1d4Hw"
+        name="RFP" guid="_WfLHGQgSEd6PpbmBy1d4Hw" presentationName="RFP" isPlanned="false"
+        superActivities="_m3Ej__mrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_cjaRcL-EEd2lOZgBqGXdOQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_WfLHGggSEd6PpbmBy1d4Hw"
+        name="수행계획서" guid="_WfLHGggSEd6PpbmBy1d4Hw" presentationName="수행계획서" isPlanned="false"
+        superActivities="_m3Ej__mrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_y6EKYL-EEd2lOZgBqGXdOQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_WfLHGwgSEd6PpbmBy1d4Hw"
+        name="제안서" guid="_WfLHGwgSEd6PpbmBy1d4Hw" presentationName="제안서" isPlanned="false"
+        superActivities="_m3Ej__mrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_CMoVgL-FEd2lOZgBqGXdOQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_WfLHHAgSEd6PpbmBy1d4Hw"
+        name="현행시스템분석서" guid="_WfLHHAgSEd6PpbmBy1d4Hw" presentationName="현행시스템분석서"
+        isPlanned="false" superActivities="_m3Ej__mrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_lPo3ML-DEd2lOZgBqGXdOQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_WfLHHQgSEd6PpbmBy1d4Hw"
+        name="아키텍처기술표준정의서" guid="_WfLHHQgSEd6PpbmBy1d4Hw" presentationName="아키텍처기술표준정의서"
+        isPlanned="false" superActivities="_m3Ej__mrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_YplWgPa2Ed2DW9Xz6RbeHQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_WfLHHggSEd6PpbmBy1d4Hw"
+        name="개념기술인프라아키텍처" guid="_WfLHHggSEd6PpbmBy1d4Hw" presentationName="개념기술인프라아키텍처"
+        isPlanned="false" superActivities="_m3Ej__mrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_qV1q8Pa4Ed2DW9Xz6RbeHQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_WfLHHwgSEd6PpbmBy1d4Hw"
+        name="개념데이터아키텍처" guid="_WfLHHwgSEd6PpbmBy1d4Hw" presentationName="개념데이터아키텍처"
+        isPlanned="false" superActivities="_m3Ej__mrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_u7sbwPa4Ed2DW9Xz6RbeHQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_WfLHIAgSEd6PpbmBy1d4Hw"
+        name="개념소프트웨어아키텍처" guid="_WfLHIAgSEd6PpbmBy1d4Hw" presentationName="개념소프트웨어아키텍처"
+        isPlanned="false" superActivities="_m3Ej__mrEd2JRcy3PiAHxw">
+      <WorkProduct href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_0p9mIPa4Ed2DW9Xz6RbeHQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_G5A_oQgUEd6PpbmBy1d4Hw"
+        name="현행시스템분석서 작성" guid="_G5A_oQgUEd6PpbmBy1d4Hw" presentationName="현행시스템분석서 작성"
+        superActivities="_m3Ej__mrEd2JRcy3PiAHxw" linkToPredecessor="_g_kwYQjmEd6CD-m1e93cOw"
+        output="_WfLHHAgSEd6PpbmBy1d4Hw">
+      <Task href="uma://_Td_GcJUxEd2ptuaOn8CiHA#_5u6NML-CEd2lOZgBqGXdOQ"/>
+      <selectedSteps href="uma://-CUSX0E4wN_YPZDK7FbUvNw#_NNr6EL-DEd2lOZgBqGXdOQ"/>
+      <selectedSteps href="uma://-CUSX0E4wN_YPZDK7FbUvNw#_O3yEYL-DEd2lOZgBqGXdOQ"/>
+      <selectedSteps href="uma://-CUSX0E4wN_YPZDK7FbUvNw#_QdQ0cL-DEd2lOZgBqGXdOQ"/>
+      <selectedSteps href="uma://-CUSX0E4wN_YPZDK7FbUvNw#_TSJ98L-DEd2lOZgBqGXdOQ"/>
+      <selectedSteps href="uma://-CUSX0E4wN_YPZDK7FbUvNw#_WHNfgL-DEd2lOZgBqGXdOQ"/>
+      <selectedSteps href="uma://-CUSX0E4wN_YPZDK7FbUvNw#_ZJ0U4L-DEd2lOZgBqGXdOQ"/>
+      <selectedSteps href="uma://-CUSX0E4wN_YPZDK7FbUvNw#_boqV4L-DEd2lOZgBqGXdOQ"/>
+      <selectedSteps href="uma://-CUSX0E4wN_YPZDK7FbUvNw#_fsFvEL-DEd2lOZgBqGXdOQ"/>
+      <selectedSteps href="uma://-CUSX0E4wN_YPZDK7FbUvNw#_h4wa8L-DEd2lOZgBqGXdOQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_g_kwYQjmEd6CD-m1e93cOw"
+        guid="_g_kwYQjmEd6CD-m1e93cOw" pred="_WfLHEwgSEd6PpbmBy1d4Hw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_klzQMQjmEd6CD-m1e93cOw"
+        guid="_klzQMQjmEd6CD-m1e93cOw" pred="_G5A_oQgUEd6PpbmBy1d4Hw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_lHUo4AjmEd6CD-m1e93cOw"
+        guid="_lHUo4AjmEd6CD-m1e93cOw" pred="_G5A_oQgUEd6PpbmBy1d4Hw"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_lrYYMQjmEd6CD-m1e93cOw"
+        guid="_lrYYMQjmEd6CD-m1e93cOw" pred="_G5A_oQgUEd6PpbmBy1d4Hw"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_m3Ej__mrEd2JRcy3PiAHxw"
+        name="개념아키텍처 정의" guid="_m3Ej__mrEd2JRcy3PiAHxw" presentationName="개념아키텍처 정의"
+        breakdownElements="_WfLHEwgSEd6PpbmBy1d4Hw _G5A_oQgUEd6PpbmBy1d4Hw _WfLHEggSEd6PpbmBy1d4Hw _WfLHEQgSEd6PpbmBy1d4Hw _WfLHEAgSEd6PpbmBy1d4Hw _WfLHFAgSEd6PpbmBy1d4Hw _WfLHFQgSEd6PpbmBy1d4Hw _WfLHFggSEd6PpbmBy1d4Hw _WfLHFwgSEd6PpbmBy1d4Hw _WfLHGAgSEd6PpbmBy1d4Hw _WfLHGQgSEd6PpbmBy1d4Hw _WfLHGggSEd6PpbmBy1d4Hw _WfLHGwgSEd6PpbmBy1d4Hw _WfLHHAgSEd6PpbmBy1d4Hw _WfLHHQgSEd6PpbmBy1d4Hw _WfLHHggSEd6PpbmBy1d4Hw _WfLHHwgSEd6PpbmBy1d4Hw _WfLHIAgSEd6PpbmBy1d4Hw">
+      <presentation xmi:id="-gr9_9yLEfe9_rvm_RGYysg" href="uma://-gr9_9yLEfe9_rvm_RGYysg#-gr9_9yLEfe9_rvm_RGYysg"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

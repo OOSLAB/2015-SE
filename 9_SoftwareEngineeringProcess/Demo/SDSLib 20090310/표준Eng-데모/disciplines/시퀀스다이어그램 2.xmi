@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-QLyLxDyF59DDmtffri5J3A"
+    name="시퀀스다이어그램,_jWfhUJVfEd2ptuaOn8CiHA" guid="-QLyLxDyF59DDmtffri5J3A" changeDate="2008-10-09T20:20:19.281+0900">
+  <mainDescription>&lt;p>&#xD;
+    객체, 메시지, activation, lifeline&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

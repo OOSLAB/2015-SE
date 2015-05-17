@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_DxaHYAfFEd6PyOiijdVpWA"
+      guid="_DxaHYAfFEd6PyOiijdVpWA">
+    <resourceDescriptors xmi:id="_DxaHYQfFEd6PyOiijdVpWA" id="-ptDsbqGq1xg8JhslJ8WRBw"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_DkJHcAfFEd6PyOiijdVpWA" name="아키텍처 정의"
+      guid="_DkJHcAfFEd6PyOiijdVpWA">
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_LoGk8AgUEd6PpbmBy1d4Hw"
+        name="개념 아키텍처모델" guid="_LoGk8AgUEd6PpbmBy1d4Hw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_LoGk8QgUEd6PpbmBy1d4Hw"
+          name="개념 아키텍처모델" guid="_LoGk8QgUEd6PpbmBy1d4Hw" superActivities="_DkJHcQfFEd6PyOiijdVpWA"
+          variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+            href="uma://_m3Ej_vmrEd2JRcy3PiAHxw#_m3Ej__mrEd2JRcy3PiAHxw"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_LoGk8ggUEd6PpbmBy1d4Hw"
+        name="설계 아키텍처모델" guid="_LoGk8ggUEd6PpbmBy1d4Hw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_LoGk8wgUEd6PpbmBy1d4Hw"
+          name="설계 아키텍처모델" guid="_LoGk8wgUEd6PpbmBy1d4Hw" superActivities="_DkJHcQfFEd6PyOiijdVpWA"
+          linkToPredecessor="_jzGPoQjgEd6CD-m1e93cOw" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+            href="uma://_m3EkAPmrEd2JRcy3PiAHxw#_m3EkAfmrEd2JRcy3PiAHxw"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_jzGPoQjgEd6CD-m1e93cOw"
+          guid="_jzGPoQjgEd6CD-m1e93cOw" pred="_LoGk8QgUEd6PpbmBy1d4Hw"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_LoGk9AgUEd6PpbmBy1d4Hw"
+        name="개발 아키텍처모델" guid="_LoGk9AgUEd6PpbmBy1d4Hw">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_LoGk9QgUEd6PpbmBy1d4Hw"
+          name="개발 아키텍처모델" guid="_LoGk9QgUEd6PpbmBy1d4Hw" superActivities="_DkJHcQfFEd6PyOiijdVpWA"
+          linkToPredecessor="_kXJ-8AjgEd6CD-m1e93cOw" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+            href="uma://_m3EkDPmrEd2JRcy3PiAHxw#_m3EkDfmrEd2JRcy3PiAHxw"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_kXJ-8AjgEd6CD-m1e93cOw"
+          guid="_kXJ-8AjgEd6CD-m1e93cOw" pred="_LoGk8QgUEd6PpbmBy1d4Hw"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_DkJHcQfFEd6PyOiijdVpWA"
+        name="아키텍처 정의" guid="_DkJHcQfFEd6PyOiijdVpWA" presentationName="아키텍처 정의" breakdownElements="_LoGk8QgUEd6PpbmBy1d4Hw _LoGk8wgUEd6PpbmBy1d4Hw _LoGk9QgUEd6PpbmBy1d4Hw">
+      <presentation xmi:id="-ptDsbqGq1xg8JhslJ8WRBw" href="uma://-ptDsbqGq1xg8JhslJ8WRBw#-ptDsbqGq1xg8JhslJ8WRBw"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_Nst4UM2NEd2WB7wNXVrn1w"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

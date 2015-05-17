@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-1hRlRQUzjIBUgt02xYKgUg"
+    name="new_artifact,_PT-AYJOtEd2QOZMWcM0ZMQ" guid="-1hRlRQUzjIBUgt02xYKgUg" changeDate="2008-10-06T22:47:25.171+0900">
+  <mainDescription>보고서 툴 파일명, 비고, 상세 설명, 입력 파라메터, 항목명</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

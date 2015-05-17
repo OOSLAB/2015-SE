@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-HPK7BMd1VVYCUXo_uM615Q"
+    name="new_template,_jRRZUP86Ed2WHoY-_v_k_A" guid="-HPK7BMd1VVYCUXo_uM615Q">
+  <attachments>resources/운영매뉴얼T.doc</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

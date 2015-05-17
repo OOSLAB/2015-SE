@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-_Fxk29dKPKkZ4R-4N0WvdQ"
+    name="new_discipline,_IEUIUJYJEd2f_MiqbDX5Hg" guid="-_Fxk29dKPKkZ4R-4N0WvdQ" changeDate="2008-10-09T22:49:54.953+0900">
+  <mainDescription>실행 아키텍쳐 기타영역 수행결과, 실행 아키텍쳐 업무영역 수행결과, 실행 아키텍쳐 영역 수행결과</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

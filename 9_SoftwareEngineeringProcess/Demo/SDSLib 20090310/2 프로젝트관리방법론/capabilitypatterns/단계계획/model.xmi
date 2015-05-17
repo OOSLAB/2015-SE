@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Y6zeQfZGEd2OhLPIr_EKbA"
+      guid="_Y6zeQfZGEd2OhLPIr_EKbA">
+    <resourceDescriptors xmi:id="_Y6zeQvZGEd2OhLPIr_EKbA" id="-wFiA8-3IZvjVqSMWpYbCkA"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_Y31CwPZGEd2OhLPIr_EKbA" name="단계계획"
+      guid="_Y31CwPZGEd2OhLPIr_EKbA">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_tZqIEPZGEd2OhLPIr_EKbA"
+        name="프로젝트계획 변경검토" guid="_tZqIEPZGEd2OhLPIr_EKbA" presentationName="프로젝트계획 변경검토"
+        superActivities="_Y31CwfZGEd2OhLPIr_EKbA" output="_tZqIEfZGEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#_XPl2ZMsUEd2VS4iuY7h1kQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_tZqIEfZGEd2OhLPIr_EKbA"
+        name="프로젝트계획서" guid="_tZqIEfZGEd2OhLPIr_EKbA" presentationName="프로젝트계획서" isPlanned="false"
+        superActivities="_Y31CwfZGEd2OhLPIr_EKbA">
+      <WorkProduct href="uma://_2SE8oMWmEd2eFf4iygnyuw#_XPl2ZcsUEd2VS4iuY7h1kQ"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_17V1QPZGEd2OhLPIr_EKbA"
+        name="인스펙션계획 상세화" guid="_17V1QPZGEd2OhLPIr_EKbA" presentationName="인스펙션계획 상세화"
+        superActivities="_Y31CwfZGEd2OhLPIr_EKbA">
+      <Task href="uma://_2SE8oMWmEd2eFf4iygnyuw#__xAUAPPvEd2DAcGLfpDwYQ"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_Y31CwfZGEd2OhLPIr_EKbA"
+        name="단계계획" guid="_Y31CwfZGEd2OhLPIr_EKbA" presentationName="단계계획" breakdownElements="_tZqIEPZGEd2OhLPIr_EKbA _tZqIEfZGEd2OhLPIr_EKbA _17V1QPZGEd2OhLPIr_EKbA">
+      <presentation xmi:id="-wFiA8-3IZvjVqSMWpYbCkA" href="uma://-wFiA8-3IZvjVqSMWpYbCkA#-wFiA8-3IZvjVqSMWpYbCkA"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_40bJ4MsSEd2VS4iuY7h1kQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

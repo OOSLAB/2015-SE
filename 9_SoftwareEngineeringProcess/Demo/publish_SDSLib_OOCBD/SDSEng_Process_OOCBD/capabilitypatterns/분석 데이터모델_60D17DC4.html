@@ -1,0 +1,331 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ko" xml:lang="ko" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Capability Pattern: 데이터 분석</title>
+<meta name="uma.type" content="CapabilityPattern">
+<meta name="uma.name" content="분석 데이터모델">
+<meta name="uma.presentationName" content="데이터 분석">
+<meta name="element_type" content="other">
+<meta name="filetype" content="description">
+<meta name="role" content="">
+<link rel="StyleSheet" href="./../../css/default.css" type="text/css">
+<script src="./../../scripts/ContentPageResource.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageSubSection.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ActivityTreeTable.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ProcessElementPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/ContentPageToolbar.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/contentPage.js" type="text/javascript" language="JavaScript"></script><script src="./../../scripts/processElementData.js" type="text/javascript" language="JavaScript"></script><script type="text/javascript" language="JavaScript">
+					var defaultQueryStr = '?proc=_AWEB4QfFEd6PyOiijdVpWA&path=_AWEB4QfFEd6PyOiijdVpWA,_tg79EQgTEd6PpbmBy1d4Hw';
+					var backPath = './../../';
+					var imgPath = './../../images/';
+					var nodeInfo=null;
+					contentPage.preload(imgPath, backPath, nodeInfo,  defaultQueryStr, false, true, true);
+				</script>
+</head>
+<body>
+<div id="breadcrumbs"></div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top">
+<div autoWrap="true">
+<div id="page-guid" value="_tg79EQgTEd6PpbmBy1d4Hw"></div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td class="pageTitle" nowrap="true">Capability Pattern: 데이터 분석</td><td width="100%">
+<div align="right" id="contentPageToolbar"></div>
+</td><td width="100%" class="expandCollapseLink" align="right"><a name="mainIndex" href="./../../index.htm"></a><script language="JavaScript" type="text/javascript" src="./../../scripts/treebrowser.js"></script></td>
+</tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="pageTitleSeparator"><img src="./../../images/shim.gif" alt="" title="" height="1"></td>
+</tr>
+</table>
+<div class="overview">
+<table width="97%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50"><img src="./../../images/capabilitypattern.gif" alt="" title=""></td><td>
+<table class="overviewTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top"></td>
+</tr>
+<tr>
+<td valign="top">Extends: <a href="./../../SDSEng_Process_OOCBD/capabilitypatterns/데이터 분석_7487917C.html" guid="_m26zBPmrEd2JRcy3PiAHxw">데이터 분석</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="middle">
+<td width="10" class="tab"><img src="./../../images/shim.gif" width="10" height="17" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_Description" href="./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 데이터모델_60D17DC4.html_desc.html">Description</a></td><td width="21"><img src="./../../images/tab_middle-i_a.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="activeTab"><span style="white-space:nowrap;">Work Breakdown Structure</span></td><td width="1"><img src="./../../images/tab_middle-a_i.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_TBS" href="./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 데이터모델_60D17DC4.html_tbs.html"><span style="white-space:nowrap;">Team Allocation</span></a></td><td width="21"><img src="./../../images/tab_middle-i_i.gif" width="21" height="17" align="absmiddle" alt="" title=""></td><td nowrap class="tab"><a class="tab" id="TAB_WPBS" href="./../../SDSEng_Process_OOCBD/capabilitypatterns/분석 데이터모델_60D17DC4.html_wpbs.html"><span style="white-space:nowrap;">Work Product Usage</span></a></td><td width="21"><img src="./../../images/tab_end-i.gif" width="21" height="17" alt="" title=""></td><td width="50%"><img src="./../../images/shim.gif" width="10" height="17" alt="" title=""></td>
+</tr>
+<tr>
+<td colspan="2"><img src="./../../images/shim.gif" height="2" alt="" title=""></td><td><img src="./../../images/tab_space_middle.gif" width="21" height="2" alt="" title=""></td><td class="activeTab"><img src="./../../images/shim.gif" width="10" height="2" alt="" title=""></td><td><img src="./../../images/tab_space.gif" width="21" height="2" alt="" title=""></td><td colspan="5"><img src="./../../images/shim.gif" height="2" alt="" title=""></td>
+</tr>
+<tr>
+<td colspan="10" class="activeTab"><img src="./../../images/shim.gif" height="5" alt="" title=""></td>
+</tr>
+</table>
+<div class="sectionHeading">Workflow</div>
+<div class="sectionContent">
+<table class="sectionTable" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="sectionTableSingleCell" colspan="2" align="left">
+<p></p>
+<img border="0" diagramType="Activity" id="diagram_Activity" src="./../../SDSEng_Process_OOCBD/capabilitypatterns/resources/분석 데이터모델_60D17DC4_Activity.jpeg" alt="Activity diagram: 데이터 분석" title="Activity diagram: 데이터 분석" usemap="#Activity_BD84C11D B370C774D130BAA8B378"><map name="Activity_BD84C11D B370C774D130BAA8B378">
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/논리 ERD 작성_7978209.html" relpath=",_m3Ej-fmrEd2JRcy3PiAHxw" alt="논리 ERD 작성" title="논리 ERD 작성" coords="39, 74, 117, 127" shape="rect" guid="_m3Ej-fmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/자료사전 작성_6DBE85A2.html" relpath=",_m26zBvmrEd2JRcy3PiAHxw" alt="자료사전 작성" title="자료사전 작성" coords="171, 74, 250, 127" shape="rect" guid="_m26zBvmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/컨버전계획서 작성_18FE6DF3.html" relpath=",_m3Ej-PmrEd2JRcy3PiAHxw" alt="컨버전계획서 작성" title="컨버전계획서 작성" coords="291, 74, 395, 127" shape="rect" guid="_m3Ej-PmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/정비된데이터 생성_79DC395E.html" relpath=",_m3Ej8fmrEd2JRcy3PiAHxw" alt="정비된데이터 생성" title="정비된데이터 생성" coords="294, 158, 398, 211" shape="rect" guid="_m3Ej8fmrEd2JRcy3PiAHxw"></area>
+</map>
+</td>
+</tr>
+<tr>
+<td class="sectionTableSingleCell" colspan="2" align="left">
+<p></p>
+<img border="0" diagramType="ActivityDetail" id="diagram_ActivityDetail" src="./../../SDSEng_Process_OOCBD/capabilitypatterns/resources/분석 데이터모델_60D17DC4_ActivityDetail.jpeg" alt="Activity detail diagram: 데이터 분석" title="Activity detail diagram: 데이터 분석" usemap="#ActivityDetail_BD84C11D B370C774D130BAA8B378"><map name="ActivityDetail_BD84C11D B370C774D130BAA8B378">
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/분석자_3E6E1B7D.html" relpath=",_m3Ej9fmrEd2JRcy3PiAHxw" alt="분석자" title="분석자" coords="40, 102, 80, 142" shape="rect" guid="_m3Ej9fmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/논리 ERD 작성_7978209.html" relpath=",_m3Ej-fmrEd2JRcy3PiAHxw" alt="논리 ERD 작성" title="논리 ERD 작성" coords="100, 102, 197, 142" shape="rect" guid="_m3Ej-fmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/자료사전 작성_6DBE85A2.html" relpath=",_m26zBvmrEd2JRcy3PiAHxw" alt="자료사전 작성" title="자료사전 작성" coords="217, 102, 321, 142" shape="rect" guid="_m26zBvmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/정비된데이터 생성_79DC395E.html" relpath=",_m3Ej8fmrEd2JRcy3PiAHxw" alt="정비된데이터 생성" title="정비된데이터 생성" coords="341, 102, 464, 142" shape="rect" guid="_m3Ej8fmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/분석자_3E6E1B7D.html" relpath=",_m3Ej9fmrEd2JRcy3PiAHxw" alt="분석자" title="분석자" coords="30, 92, 514, 152" shape="rect" guid="_m3Ej9fmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/데이터아키텍트_9C90976.html" relpath=",_m3Ej9_mrEd2JRcy3PiAHxw" alt="데이터아키텍트" title="데이터아키텍트" coords="40, 385, 129, 425" shape="rect" guid="_m3Ej9_mrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/컨버전계획서 작성_18FE6DF3.html" relpath=",_m3Ej-PmrEd2JRcy3PiAHxw" alt="컨버전계획서 작성" title="컨버전계획서 작성" coords="149, 385, 272, 425" shape="rect" guid="_m3Ej-PmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/데이터아키텍트_9C90976.html" relpath=",_m3Ej9_mrEd2JRcy3PiAHxw" alt="데이터아키텍트" title="데이터아키텍트" coords="30, 375, 302, 435" shape="rect" guid="_m3Ej9_mrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/현행시스템분석서_7D7C9801.html" relpath=",_m3Ej_PmrEd2JRcy3PiAHxw" alt="현행시스템분석서" title="현행시스템분석서" coords="123, 11, 174, 62" shape="rect" guid="_m3Ej_PmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/논리 ERD 작성_7978209.html" relpath=",_m3Ej-fmrEd2JRcy3PiAHxw" alt="논리 ERD 작성" title="논리 ERD 작성" coords="108, 1, 189, 72" shape="rect" guid="_m3Ej-fmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/논리 ERD_8B432548.html" relpath=",_m3Ej8PmrEd2JRcy3PiAHxw" alt="논리 ERD" title="논리 ERD" coords="123, 182, 173, 222" shape="rect" guid="_m3Ej8PmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/논리 ERD 작성_7978209.html" relpath=",_m3Ej-fmrEd2JRcy3PiAHxw" alt="논리 ERD 작성" title="논리 ERD 작성" coords="108, 172, 188, 232" shape="rect" guid="_m3Ej-fmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/논리 ERD_8B432548.html" relpath=",_m3Ej8PmrEd2JRcy3PiAHxw" alt="논리 ERD" title="논리 ERD" coords="244, 22, 294, 62" shape="rect" guid="_m3Ej8PmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/자료사전 작성_6DBE85A2.html" relpath=",_m26zBvmrEd2JRcy3PiAHxw" alt="자료사전 작성" title="자료사전 작성" coords="229, 12, 309, 72" shape="rect" guid="_m26zBvmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/자료사전_45372757.html" relpath=",_m3Ej8_mrEd2JRcy3PiAHxw" alt="자료사전" title="자료사전" coords="244, 182, 295, 222" shape="rect" guid="_m3Ej8_mrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/자료사전 작성_6DBE85A2.html" relpath=",_m26zBvmrEd2JRcy3PiAHxw" alt="자료사전 작성" title="자료사전 작성" coords="229, 172, 310, 232" shape="rect" guid="_m26zBvmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/컨버전계획서_847A196E.html" relpath=",_m3Ej8vmrEd2JRcy3PiAHxw" alt="컨버전계획서" title="컨버전계획서" coords="377, 11, 428, 62" shape="rect" guid="_m3Ej8vmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/정비된데이터 생성_79DC395E.html" relpath=",_m3Ej8fmrEd2JRcy3PiAHxw" alt="정비된데이터 생성" title="정비된데이터 생성" coords="362, 1, 443, 72" shape="rect" guid="_m3Ej8fmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/정비된데이터_6320A592.html" relpath=",_m26zBfmrEd2JRcy3PiAHxw" alt="정비된데이터" title="정비된데이터" coords="377, 182, 428, 233" shape="rect" guid="_m26zBfmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/정비된데이터 생성_79DC395E.html" relpath=",_m3Ej8fmrEd2JRcy3PiAHxw" alt="정비된데이터 생성" title="정비된데이터 생성" coords="362, 172, 443, 243" shape="rect" guid="_m3Ej8fmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/컨버전대상목록_12356219.html" relpath=",_m3Ej-vmrEd2JRcy3PiAHxw" alt="컨버전대상목록" title="컨버전대상목록" coords="185, 294, 236, 345" shape="rect" guid="_m3Ej-vmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/컨버전계획서 작성_18FE6DF3.html" relpath=",_m3Ej-PmrEd2JRcy3PiAHxw" alt="컨버전계획서 작성" title="컨버전계획서 작성" coords="170, 284, 251, 355" shape="rect" guid="_m3Ej-PmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/컨버전계획서_847A196E.html" relpath=",_m3Ej8vmrEd2JRcy3PiAHxw" alt="컨버전계획서" title="컨버전계획서" coords="185, 465, 236, 516" shape="rect" guid="_m3Ej8vmrEd2JRcy3PiAHxw"></area>
+<area href="./../../SDSEng_Process_OOCBD/capabilitypatterns/컨버전계획서 작성_18FE6DF3.html" relpath=",_m3Ej-PmrEd2JRcy3PiAHxw" alt="컨버전계획서 작성" title="컨버전계획서 작성" coords="170, 455, 251, 526" shape="rect" guid="_m3Ej-PmrEd2JRcy3PiAHxw"></area>
+</map>
+</td>
+</tr>
+</table>
+</div>
+<div class="sectionHeading">Work Breakdown</div>
+<div class="sectionContent">
+<div id="treeContent"></div>
+<script language="JavaScript">
+contentPage.processPage.treeTable.data = {
+title: "Work Breakdown", summary: "Work Breakdown", 
+columns: [
+["presentation_name", "Breakdown Element"],
+["steps", "Steps"],
+["id", "Index"],
+["predecessors", "Predecessors"],
+["model_info", "Model Info"],
+["type", "Type"],
+["is_planned", "Planned"],
+["is_repeatable", "Repeatable"],
+["has_multiple_occurrences", "Multiple Occurrences"],
+["is_ongoing", "Ongoing"],
+["is_event_driven", "Event Driven"],
+["is_optional", "Optional"],
+["teams", "Team"]],
+rows: [
+		
+{id: "4686fcd9", parentId: "", relPath: ",_m3Ej-fmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "18", prefix: "", name: "논리 ERD 작성", title: "논리 ERD 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/논리 ERD 작성_7978209.html", 
+	predecessors: "", info: "", type: "Task", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [false,false,false,false]},
+	
+		
+		
+{id: "3b577078", parentId: "4686fcd9", relPath: ",_m3Ej-fmrEd2JRcy3PiAHxw,_m3Ej9fmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석자", title: "분석자", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석자_3E6E1B7D.html", 
+	predecessors: "", info: "Primary Performer", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "3e1b692b", parentId: "4686fcd9", relPath: ",_m3Ej-fmrEd2JRcy3PiAHxw,_m3Ej9_mrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "데이터아키텍트", title: "데이터아키텍트", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/데이터아키텍트_9C90976.html", 
+	predecessors: "", info: "Additional Performer", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "91a5d173", parentId: "4686fcd9", relPath: ",_m3Ej-fmrEd2JRcy3PiAHxw,_m3Ej_PmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "현행시스템분석서", title: "현행시스템분석서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/현행시스템분석서_7D7C9801.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "423ff801", parentId: "4686fcd9", relPath: ",_m3Ej-fmrEd2JRcy3PiAHxw,_m3Ej8PmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "논리 ERD", title: "논리 ERD", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/논리 ERD_8B432548.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "e703aed1", parentId: "", relPath: ",_m26zBvmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "19", prefix: "", name: "자료사전 작성", title: "자료사전 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/자료사전 작성_6DBE85A2.html", 
+	predecessors: "", info: "", type: "Task", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true]},
+	
+		
+		
+{id: "3cfcfbc4", parentId: "e703aed1", relPath: ",_m26zBvmrEd2JRcy3PiAHxw,_m3Ej9fmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석자", title: "분석자", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석자_3E6E1B7D.html", 
+	predecessors: "", info: "Primary Performer", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "9389edd1", parentId: "e703aed1", relPath: ",_m26zBvmrEd2JRcy3PiAHxw,_m3Ej9_mrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "데이터아키텍트", title: "데이터아키텍트", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/데이터아키텍트_9C90976.html", 
+	predecessors: "", info: "Additional Performer", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "e029bd88", parentId: "e703aed1", relPath: ",_m26zBvmrEd2JRcy3PiAHxw,_m3Ej8PmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "논리 ERD", title: "논리 ERD", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/논리 ERD_8B432548.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "3b2e8503", parentId: "e703aed1", relPath: ",_m26zBvmrEd2JRcy3PiAHxw,_m3Ej8_mrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "자료사전", title: "자료사전", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/자료사전_45372757.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "e984e818", parentId: "", relPath: ",_m3Ej-PmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "20", prefix: "", name: "컨버전계획서 작성", title: "컨버전계획서 작성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/컨버전계획서 작성_18FE6DF3.html", 
+	predecessors: "", info: "", type: "Task", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [true,true,true,true,true,true,true,true,true]},
+	
+		
+		
+{id: "37016376", parentId: "e984e818", relPath: ",_m3Ej-PmrEd2JRcy3PiAHxw,_m3Ej9_mrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "데이터아키텍트", title: "데이터아키텍트", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/데이터아키텍트_9C90976.html", 
+	predecessors: "", info: "Primary Performer", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "3df0bce3", parentId: "e984e818", relPath: ",_m3Ej-PmrEd2JRcy3PiAHxw,_m3Ej9vmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "프로젝트TA", title: "프로젝트TA", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/프로젝트TA_490BFB8D.html", 
+	predecessors: "", info: "Additional Performer", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "3fe90cb8", parentId: "e984e818", relPath: ",_m3Ej-PmrEd2JRcy3PiAHxw,_m3Ej-vmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "컨버전대상목록", title: "컨버전대상목록", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/컨버전대상목록_12356219.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "44199b43", parentId: "e984e818", relPath: ",_m3Ej-PmrEd2JRcy3PiAHxw,_m3Ej8vmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "컨버전계획서", title: "컨버전계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/컨버전계획서_847A196E.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "e89bdcca", parentId: "", relPath: ",_m3Ej8fmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 0, hasChildren:true, 
+	index: "21", prefix: "", name: "정비된데이터 생성", title: "정비된데이터 생성", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/정비된데이터 생성_79DC395E.html", 
+	predecessors: "20", info: "", type: "Task", 
+	repeatable: "false", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "false", eventDriven: "false", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: [false,false,false,false,false,false,false,false,false]},
+	
+		
+		
+{id: "3c62969f", parentId: "e89bdcca", relPath: ",_m3Ej8fmrEd2JRcy3PiAHxw,_m3Ej9fmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "분석자", title: "분석자", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/분석자_3E6E1B7D.html", 
+	predecessors: "", info: "Primary Performer", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "31a706ce", parentId: "e89bdcca", relPath: ",_m3Ej8fmrEd2JRcy3PiAHxw,_m3Ej9PmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "고객", title: "고객", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/고객_4FD50767.html", 
+	predecessors: "", info: "Additional Performer", type: "Role", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "4311998d", parentId: "e89bdcca", relPath: ",_m3Ej8fmrEd2JRcy3PiAHxw,_m3Ej8vmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "컨버전계획서", title: "컨버전계획서", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/컨버전계획서_847A196E.html", 
+	predecessors: "", info: "Mandatory Input", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+		
+{id: "3d431302", parentId: "e89bdcca", relPath: ",_m3Ej8fmrEd2JRcy3PiAHxw,_m26zBfmrEd2JRcy3PiAHxw", isSuppressed: "", indentSize: 1, hasChildren:false, 
+	index: "", prefix: "", name: "정비된데이터", title: "정비된데이터", url: "./../../SDSEng_Process_OOCBD/capabilitypatterns/정비된데이터_6320A592.html", 
+	predecessors: "", info: "Output", type: "Artifact", 
+	repeatable: "", multiOccurences: "false", optional: "false", planned: "false",  ongoing: "", eventDriven: "", 
+	team: "", entryState: "", exitState: "", deliverable: "", variabilityType: "",
+	steps: []},
+	
+		
+]};
+				</script>
+</div>
+<table class="copyright" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="copyright"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+<script language="JavaScript" type="text/javascript">
+				contentPage.onload();
+			</script>
+</html>

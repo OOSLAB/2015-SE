@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-LEI5cbyIBXDcmH8tbXE3bw"
+    name="new_discipline,_sxzgwJYFEd2f_MiqbDX5Hg" guid="-LEI5cbyIBXDcmH8tbXE3bw" changeDate="2008-10-09T22:35:11.281+0900">
+  <mainDescription>관계, 인터페이스, 컴포넌트</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-a_FuAC-ymJzbVwdyMwFZlg"
+    name="To-be비지니스모델,_6yBv4ea6Ed2j6auu_FbYxw" guid="-a_FuAC-ymJzbVwdyMwFZlg">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/concepts/%BE44%C988%B2C8%C2A4%BAA8%B378%B9C1%20TO-BE%20%D65C%B3D9%20%AC1C%C694_A57545E9.html&quot;&#xD;
+         guid=&quot;_VfrG4AS6Ed6u1pdhw4SOFA&quot;>비즈니스모델링(TO-BE)활동 개요&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ProcessDescription>

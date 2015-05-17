@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-an1OjJc48R2JfUzHv7WsJA"
+    name="new_artifact,__EyeMJO7Ed2QOZMWcM0ZMQ" guid="-an1OjJc48R2JfUzHv7WsJA" changeDate="2008-10-07T00:32:48.468+0900">
+  <mainDescription>길이, 도메인, 설명, 타입, 표준영문명, 표준용어명</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

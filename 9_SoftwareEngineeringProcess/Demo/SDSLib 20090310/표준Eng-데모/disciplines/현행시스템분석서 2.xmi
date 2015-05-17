@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-Wo3re6BiwIDz9jWPf0A7Xw"
+    name="new_discipline,_rg3ggJYJEd2f_MiqbDX5Hg" guid="-Wo3re6BiwIDz9jWPf0A7Xw" changeDate="2008-10-09T22:54:48.109+0900">
+  <mainDescription>&lt;p>&#xD;
+    현행시스템 구성, 현행시스템 특징,&amp;nbsp;현행 내부 연계현황, 현행 외부 연계현황,&amp;nbsp;현행 데이터 구성, 현행 테이블 현황,&amp;nbsp;현행 상용 응용 소프트웨어 현황, 현행 소프트웨어 아키텍쳐 스타일,&#xD;
+    현행 어플리케이션 구성, 현행 어플리케이션 구조,&amp;nbsp;현행 H/W 구성, 현행 N/W 구성, 현행 S/W 구성,&amp;nbsp;현행시스템 문제점,&amp;nbsp;현행시스템 사용현황, 현행시스템 아키텍쳐 운영현황,&#xD;
+    현행시스템 운영조직[선택]&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-27gZujiMpk7TbM4VMwHx-A"
+    name="new_discipline,_OKz3YJYHEd2f_MiqbDX5Hg" guid="-27gZujiMpk7TbM4VMwHx-A" changeDate="2008-10-09T22:36:29.640+0900">
+  <mainDescription>관계명, 속성명, 엔티티명, cardinarity, 작성일, 작성자, 주제영역명</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

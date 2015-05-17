@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-XxFAP8KjGaqtj4WZySHtig"
+    name="시스템인수인계서,_X83G4MsmEd2VS4iuY7h1kQ" guid="-XxFAP8KjGaqtj4WZySHtig" changeDate="2009-02-25T16:49:26.343+0900">
+  <mainDescription>&lt;p class=&quot;S1&quot; style=&quot;MARGIN: 0cm 0cm 0pt 21.25pt&quot;>&#xD;
+    작성항목&#xD;
+&lt;/p>&lt;br class=&quot;S1&quot; style=&quot;MARGIN: 0cm 0cm 0pt 21.25pt&quot; />&#xD;
+&lt;br />&#xD;
+&lt;p class=&quot;S3&quot; style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&#xD;
+    &lt;span lang=&quot;EN-US&quot; style=&quot;mso-bidi-font-family: 바탕체&quot;>&lt;span style=&quot;mso-list: Ignore&quot;>1.&lt;span&#xD;
+    style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span>&lt;/span>&lt;/span> 프로젝트명&lt;span&#xD;
+    lang=&quot;EN-US&quot;>:&lt;/span> 프로젝트명을 기재한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;S3&quot; style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&#xD;
+    &lt;span lang=&quot;EN-US&quot; style=&quot;mso-bidi-font-family: 바탕체&quot;>&lt;span style=&quot;mso-list: Ignore&quot;>2. &lt;span&#xD;
+    style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span>&lt;/span>&lt;/span> 작성자&lt;span&#xD;
+    lang=&quot;EN-US&quot;>:&lt;/span> 인계자 명을 기재한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;S3&quot; style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&#xD;
+    &lt;span lang=&quot;EN-US&quot; style=&quot;mso-bidi-font-family: 바탕체&quot;>&lt;span style=&quot;mso-list: Ignore&quot;>3.&lt;span&#xD;
+    style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span>&lt;/span>&lt;/span> 기간&lt;span&#xD;
+    lang=&quot;EN-US&quot;>:&lt;/span> 시스템 인수인계 기간을 기재한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;S3&quot; style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&#xD;
+    &lt;span lang=&quot;EN-US&quot; style=&quot;mso-bidi-font-family: 바탕체&quot;>&lt;span style=&quot;mso-list: Ignore&quot;>4.&lt;span&#xD;
+    style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span>&lt;/span>&lt;/span> 담당업무&lt;span&#xD;
+    lang=&quot;EN-US&quot;>:&lt;/span> 인계한 프로그램 및 산출물의 명칭을 기재한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;S3&quot; style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&#xD;
+    &lt;span lang=&quot;EN-US&quot; style=&quot;mso-bidi-font-family: 바탕체&quot;>&lt;span style=&quot;mso-list: Ignore&quot;>5.&lt;span&#xD;
+    style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span>&lt;/span>&lt;/span> 진행상황&lt;span&#xD;
+    lang=&quot;EN-US&quot;>:&lt;/span> 인계완료임을 기재한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;S3&quot; style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&#xD;
+    &lt;span lang=&quot;EN-US&quot; style=&quot;mso-bidi-font-family: 바탕체&quot;>&lt;span style=&quot;mso-list: Ignore&quot;>6.&lt;span&#xD;
+    style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span>&lt;/span>&lt;/span> 이슈 및&#xD;
+    특이사항&lt;span lang=&quot;EN-US&quot;>:&lt;/span> 이슈 및 특이 사항을 기재한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;S3&quot; style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&#xD;
+    &lt;span lang=&quot;EN-US&quot; style=&quot;mso-bidi-font-family: 바탕체&quot;>&lt;span style=&quot;mso-list: Ignore&quot;>7.&lt;span&#xD;
+    style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span>&lt;/span>&lt;/span> 준수사항&lt;span&#xD;
+    lang=&quot;EN-US&quot;>:&lt;/span> 인수인계 규정을 기재한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;S3&quot; style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&#xD;
+    &lt;span lang=&quot;EN-US&quot; style=&quot;mso-bidi-font-family: 바탕체&quot;>&lt;span style=&quot;mso-list: Ignore&quot;>8.&lt;span&#xD;
+    style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span>&lt;/span>&lt;/span> 인계자&lt;span&#xD;
+    lang=&quot;EN-US&quot;>:&lt;/span> 인계자가 이름과 서명을 기재한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p class=&quot;S3&quot; style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt&quot;>&#xD;
+    &lt;span lang=&quot;EN-US&quot; style=&quot;mso-bidi-font-family: 바탕체&quot;>&lt;span style=&quot;mso-list: Ignore&quot;>9.&lt;span&#xD;
+    style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span>&lt;/span>&lt;/span> 인수자&lt;span&#xD;
+    lang=&quot;EN-US&quot;>:&lt;/span> 인수자가 전체 사항을 확인한 후 이름과 서명을 한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;font face=&quot;굴림&quot;>작성시 고려사항&lt;/font>&lt;br class=&quot;S10&quot;&#xD;
+style=&quot;MARGIN: 0cm 0cm 0pt 24.55pt; mso-para-margin-left: .33gd; tab-stops: list 24.5pt&quot; />&#xD;
+&lt;br />&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;S1&quot; style=&quot;MARGIN: 0cm 0cm 0pt 21.25pt&quot;>&#xD;
+            &lt;font face=&quot;굴림&quot;>&amp;nbsp;시스템인수인계서 상에는 &lt;span lang=&quot;EN-US&quot;>“&lt;/span>상기 업무에 대해 인수 인계를 수행 하였음을 확인합니다&lt;span&#xD;
+            lang=&quot;EN-US&quot;>.”&lt;/span> 문구가 반드시 기술되도록 작성한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+  <impactOfNotHaving>&lt;p class=&quot;S2&quot;>&#xD;
+    &lt;font face=&quot;굴림&quot;>미작성시 영향&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span class=&quot;S1Char&quot;>&lt;span style=&quot;FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt; mso-font-kerning: 1.0pt&quot;>&lt;font&#xD;
+        face=&quot;굴림&quot;>시스템인수인계서는 고객의 안정적인 시스템 운영을 위해 인도하기로 한 산출물에 대해 인수 하였음을 공식화 하는 문서로 미 작성시 프로젝트의 종료에 영향을 미칠 수&#xD;
+        있다&lt;/font>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></impactOfNotHaving>
+  <representationOptions>&lt;p class=&quot;S2&quot;>&#xD;
+    &lt;font face=&quot;굴림&quot;>&lt;span lang=&quot;EN-US&quot; style=&quot;mso-bidi-font-family: HY견고딕&quot;>&lt;span style=&quot;mso-list: Ignore&quot;>&lt;span&#xD;
+    style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&lt;/span>&lt;/span>&lt;/span>제출시 고려사항&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;S2&quot;>&#xD;
+            반드시 고객 측 인수자 및 인수책임자의 승인을 획득 하였음을 확인한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></representationOptions>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-6mltqYEQQduC0GBnEo--Tg"
+    name=",_4162cKAXEd2n5q0acG373A" guid="-6mltqYEQQduC0GBnEo--Tg" changeDate="2009-02-26T03:38:56.750+0900">
+  <mainDescription>&lt;font face=&quot;굴림&quot;>수행 가이드(Task Guideline)&lt;/font> &#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>시범운영이 계획대로 진행되는 지 시범운영 기간 내내 모니터링을 해야 하며 문제 발생에 대비하여야 한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>단계별로 시스템을 오픈하는 경우, 프로젝트 진행 중이라면 선 오픈한 시스템에 대한 변경 요청 및 결함 내용은 시범운영일지에 기록하여 관리할 수 있다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>시범운영 중 프로그램의 변경은 항상 통제 절차에 따라 이루어져야 하며, 변경 요청 사항이 발생하는 경우, 변경 통제 절차에 따라 변경 수용여부를 결정한 후 변경토록&#xD;
+        한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>시범운영 시 현업의 요청사항을 일괄 접수할 수 있는 Contact Point(Help Desk)등을 운영할 수도 있다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <sections xmi:id="_-ehdsKAXEd2n5q0acG373A" name="시범 운영 계획을 고객 및 프로젝트 팀원에게 공지한다."
+      guid="_-ehdsKAXEd2n5q0acG373A"/>
+  <sections xmi:id="_A4KOkKAYEd2n5q0acG373A" name="시스템 운영 중 발생된 문제점이나 운영 상황을 기록한다."
+      guid="_A4KOkKAYEd2n5q0acG373A"/>
+  <sections xmi:id="_DJJZwKAYEd2n5q0acG373A" name="정기적으로(매일/매주) 시범 운영 상황을 검토하고, 제반 사항에 대한 문제 발생시 처리상태를 확인한다."
+      guid="_DJJZwKAYEd2n5q0acG373A"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림체; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+ face=&quot;굴림&quot;>시범운영을 통하여 신 시스템의 안정성여부를 확인한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/font>&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

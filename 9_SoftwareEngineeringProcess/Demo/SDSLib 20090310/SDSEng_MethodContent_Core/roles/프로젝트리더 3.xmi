@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Vocw85lYwFxJeuefkg7TfQ"
+    name="new_role,_Hz1HMJh4Ed2ok9DYfbNoeg" guid="-Vocw85lYwFxJeuefkg7TfQ" changeDate="2008-10-13T01:24:49.281+0900">
+  <mainDescription>프로젝트내의 단위 개발팀(서브시스템, 서브프로젝트)의 리더로서 서브 시스템 개발에 대한 책임을 갖고, 개발 일정 관리, 인력 계획 수립, PM으로부터 위임받아 단위 개발업무를 통제를 수행하는 사람</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

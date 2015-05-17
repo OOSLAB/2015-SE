@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_nwQwMZVaEd2ptuaOn8CiHA"
+      guid="_nwQwMZVaEd2ptuaOn8CiHA">
+    <resourceDescriptors xmi:id="_nwQwMpVaEd2ptuaOn8CiHA" id="-4eVOd7wWR-p0q_7gRyMcrA"
+        uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_nv0EQJVaEd2ptuaOn8CiHA" name="삼성화재"
+      guid="_nv0EQJVaEd2ptuaOn8CiHA">
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_I4uwcJVcEd2ptuaOn8CiHA"
+        name="Iteration1" guid="_I4uwcJVcEd2ptuaOn8CiHA">
+      <processElements xsi:type="org.eclipse.epf.uma:Iteration" xmi:id="_I4uwcZVcEd2ptuaOn8CiHA"
+          name="Iteration1" guid="_I4uwcZVcEd2ptuaOn8CiHA" presentationName="Iteration1"
+          superActivities="_nv0EQZVaEd2ptuaOn8CiHA" isRepeatable="true" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern"
+            href="uma://_itW3AJVaEd2ptuaOn8CiHA#_DP0nMZVcEd2ptuaOn8CiHA"/>
+      </processElements>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_nv0EQZVaEd2ptuaOn8CiHA"
+        name="삼성화재" guid="_nv0EQZVaEd2ptuaOn8CiHA" presentationName="삼성화재" breakdownElements="_I4uwcZVcEd2ptuaOn8CiHA">
+      <presentation xmi:id="-4eVOd7wWR-p0q_7gRyMcrA" href="uma://-4eVOd7wWR-p0q_7gRyMcrA#-4eVOd7wWR-p0q_7gRyMcrA"/>
+      <defaultContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_bUAngJUxEd2ptuaOn8CiHA"/>
+      <validContext href="uma://__YpjgIbEEd24a7VsLvdQQQ#_bUAngJUxEd2ptuaOn8CiHA"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

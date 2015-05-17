@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-V8Gb50TRAwi_BE0BdA5dLg"
+    name="유스케이스정의서,_FWzR9pVIEd2ptuaOn8CiHA" guid="-V8Gb50TRAwi_BE0BdA5dLg" changeDate="2009-02-27T16:57:16.125+0900">
+  <mainDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>작성항목&lt;/span>&#xD;
+&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>유스케이스 개요&lt;/font> &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>개요: 유스케이스에서 수행하는 일을 사용자 관점에서 의미 있도록 개략적으로 기재하며 액터, 액터의 요청, 처리결과가 나타날 수 있도록 기술한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>관계&lt;/font> &#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>주액터: 유스케이스를 통해 목표를 달성하는 액터로서, 유스케이스를 initiate한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>부액터: 유스케이스 수행을 지원하는 액터이다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>선행조건: 해당 유스케이스가 수행되기 위해서 사전에 꼭 만족해야 하는 상태 및 조건이다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>후행조건: 해당 유스케이스가 수행되고 난 후의 상태 및 조건이다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>Include: 선택항목으로서 유스케이스와 관계를 맺고 있는 Include 유스케이스명을 기재한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>Extend: 선택항목으로서 유스케이스와 관계를 맺고 있는 Extend 유스케이스명을 기재한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>처리흐름 : 처리흐름은 유스케이스가 제공하는 업무 기능의 처리 순서를 액터와 시스템간의 상호작용관점에서 기술한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;LIST-STYLE-TYPE: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>기본흐름: 유스케이스에서 가장 일반적으로 수행되는 흐름이다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>대안흐름: 기본 흐름 대신 선택적으로 수행할 수 있는 흐름이나 업무적인 예외 상황이 발생했을 때의 흐름이 기술된다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>서브흐름: 한 유스케이스내에서 처리 흐름들 사이에 중복되는 흐름이다. 유스케이스의 복잡도가 높은 시스템인 경우 해당 항목을 추가하여 정의하도록 한다.&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>비즈니스규칙: 비즈니스 규칙은 업무의 수행 방법, 업무 처리 규칙, 제약 사항에 해당되는 것으로서 주로 연산이나 제약조건을 체크하는 경우에 사용된다. 시스템 전체적으로 영향을&#xD;
+        주는 비즈니스 규칙이 다수인 경우나 비즈니스 규칙이 복잡한 경우에는 별도의 문서로 비즈니스 규칙을 정의한다. 비즈니스 규칙은 변경이 잦은 비즈니스 속성이기 때문에 요구정의단계에서 모든 비즈니스 규칙을 찾기&#xD;
+        위해 노력을 기울일 필요는 없다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>특별 요구사항: 특정 처리 흐름으로 표현하기 어려운 요구사항을 기술한다. 주로 해당 유스케이스와 관련한 비기능적 요구사항이 해당된다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>주석: 기타 도움이 될 만한 사항을 기술한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

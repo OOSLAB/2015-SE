@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-ptDsbqGq1xg8JhslJ8WRBw"
+    name="아키텍처 정의,_DkJHcQfFEd6PyOiijdVpWA" guid="-ptDsbqGq1xg8JhslJ8WRBw">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/concepts/%C544%D0A4%D14D%CC98%C815%C758%B2E8%ACC4%20%AC1C%C694_1C423D1E.html&quot;&#xD;
+         guid=&quot;_ht04EAS1Ed6u1pdhw4SOFA&quot;>아키텍처정의단계 개요&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ProcessDescription>

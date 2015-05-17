@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-uRJ59-HtbCP5foXXr0Ec4A"
+      name="금융차세대,_WjnMwRgZEd6lmJrfv9epPg" guid="-uRJ59-HtbCP5foXXr0Ec4A"/>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-11aLk2AhIeM-2NqwvObl1A" name="요구정의,_9-qssQfEEd6PyOiijdVpWA"
+      guid="-11aLk2AhIeM-2NqwvObl1A">
+    <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/concepts/%C694%AD6C%C815%C758%B2E8%ACC4%20%AC1C%C694_4A93FD23.html&quot;&#xD;
+        guid=&quot;__2VjwAS1Ed6u1pdhw4SOFA&quot;>요구정의단계 개요&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  </org.eclipse.epf.uma:ProcessDescription>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-5xadJePmpNkUyleYZ8coUw" name="요구정의,_9-qssQfEEd6PyOiijdVpWA"
+      guid="-5xadJePmpNkUyleYZ8coUw">
+    <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/concepts/%C694%AD6C%C815%C758%B2E8%ACC4%20%AC1C%C694_4A93FD23.html&quot;&#xD;
+        guid=&quot;__2VjwAS1Ed6u1pdhw4SOFA&quot;>요구정의단계 개요&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  </org.eclipse.epf.uma:ProcessDescription>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-xj18ACwblDBgJZhEeJht0Q" name="요구정의,_9-qssQfEEd6PyOiijdVpWA"
+      guid="-xj18ACwblDBgJZhEeJht0Q">
+    <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/concepts/%C694%AD6C%C815%C758%B2E8%ACC4%20%AC1C%C694_4A93FD23.html&quot;&#xD;
+        guid=&quot;__2VjwAS1Ed6u1pdhw4SOFA&quot;>요구정의단계 개요&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  </org.eclipse.epf.uma:ProcessDescription>
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-zDMubearJJhw8VKuLuSv9w" name="요구정의,_9-qssQfEEd6PyOiijdVpWA"
+      guid="-zDMubearJJhw8VKuLuSv9w">
+    <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/concepts/%C694%AD6C%C815%C758%B2E8%ACC4%20%AC1C%C694_4A93FD23.html&quot;&#xD;
+        guid=&quot;__2VjwAS1Ed6u1pdhw4SOFA&quot;>요구정의단계 개요&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  </org.eclipse.epf.uma:ProcessDescription>
+</xmi:XMI>

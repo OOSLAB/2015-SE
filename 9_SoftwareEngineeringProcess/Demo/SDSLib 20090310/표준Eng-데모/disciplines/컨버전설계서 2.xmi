@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-T6vVZMDBpVqTyhJiLv8xkg"
+    name="new_discipline,_FhjtIJYIEd2f_MiqbDX5Hg" guid="-T6vVZMDBpVqTyhJiLv8xkg" changeDate="2008-10-09T22:42:23.671+0900">
+  <mainDescription>매핑룰, 비고, 업무구분, 테이블명, 테이블ID, source, target</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

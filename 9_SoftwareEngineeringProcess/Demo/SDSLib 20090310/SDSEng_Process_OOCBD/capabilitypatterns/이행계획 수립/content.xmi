@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-dOCcK_Z2_3anpLP5vsmwmg"
+    name="이행계획모델,_aRDbMea-Ed2j6auu_FbYxw" guid="-dOCcK_Z2_3anpLP5vsmwmg">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../SDSEng_Process_OOCBD/guidances/concepts/%C774%D589%ACC4%D68D%C218%B9BD%D65C%B3D9%20%AC1C%C694_C4DE188D.html&quot;&#xD;
+         guid=&quot;_CIDYoAS_Ed6u1pdhw4SOFA&quot;>이행계획수립활동 개요&lt;/a>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ProcessDescription>

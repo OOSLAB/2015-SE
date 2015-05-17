@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-NL2DQ2mhZI1_aKPdLOetLQ"
+    name=",_mbPGUJxSEd2IZdao1IJ_iw" guid="-NL2DQ2mhZI1_aKPdLOetLQ">
+  <sections xmi:id="_qa8dIJxSEd2IZdao1IJ_iw" name="컬럼별 데이터타입 결정" guid="_qa8dIJxSEd2IZdao1IJ_iw"/>
+  <sections xmi:id="_tDU0oJxSEd2IZdao1IJ_iw" name="테이블명 등 작성항목 기재" guid="_tDU0oJxSEd2IZdao1IJ_iw"/>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-Z9SWxNEVAD0cs448KBf6Fw"
+    name="종료계획 수립,_iFp70MsmEd2VS4iuY7h1kQ" guid="-Z9SWxNEVAD0cs448KBf6Fw" changeDate="2009-02-26T13:36:58.468+0900">
+  <mainDescription>&lt;SPAN style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-family: 'Arial Unicode MS'; mso-bidi-font-size: 12.0pt; mso-font-kerning: 1.0pt; mso-bidi-language: AR-SA; mso-ansi-language: EN-US; mso-fareast-language: KO&quot;>&lt;SPAN lang=EN-US>&#xD;
+&lt;P class=a style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt; TEXT-INDENT: -1cm; mso-list: l0 level2 lfo1; tab-stops: list 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>1.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN>프로젝트 종료계획서는 반드시 한 본의 문서로 나올 필요는 없다&lt;SPAN lang=EN-US>. &lt;/SPAN>진행점검&lt;SPAN lang=EN-US>, &lt;/SPAN>검수&lt;SPAN lang=EN-US>, &lt;/SPAN>잔여업무&lt;SPAN lang=EN-US>, &lt;/SPAN>이슈 계획등이 엑셀 형태로라도 관리되는 것이 중요하다&lt;SPAN lang=EN-US>.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=a style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt; TEXT-INDENT: -1cm; mso-list: l0 level2 lfo1; tab-stops: list 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>2.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>고객의 계약이행관점으로 현재까지의 진행 상태를 점검해야 한다&lt;SPAN lang=EN-US>. &lt;/SPAN>계약서&lt;SPAN lang=EN-US>, &lt;/SPAN>프로젝트 계획서&lt;SPAN lang=EN-US>, &lt;/SPAN>요구사항 정의서&lt;SPAN lang=EN-US>, &lt;/SPAN>검수 기준서&lt;SPAN lang=EN-US>, &lt;/SPAN>변경요청서 등을 충분히 검토하여 사용자 요구사항부분의 반영&lt;SPAN lang=EN-US>, &lt;/SPAN>응용 시스템의 기능 및 성능 점검&lt;SPAN lang=EN-US>, &lt;/SPAN>교육&lt;SPAN lang=EN-US>, &lt;/SPAN>운영지원&lt;SPAN lang=EN-US>…&lt;/SPAN>등의 기타 계약에 이르기 까지 업무 범위를 상세히 점검할 수 있어야 한다&lt;SPAN lang=EN-US>.&lt;/SPAN>&lt;/SPAN>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 'Arial Unicode MS'&quot;>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=a style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt; TEXT-INDENT: -1cm; mso-list: l0 level2 lfo1; tab-stops: list 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>3.&amp;nbsp;&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>업무범위 점검시 잔여업무 및 이슈에 대해서 최종검수에 영향을 미치는 부분과 검수와 별도로 진행할 수 있는 부분을 판단하여 전략과 계획을 수립한다&lt;SPAN lang=EN-US>.&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=a style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt; TEXT-INDENT: -1cm; mso-list: l0 level2 lfo1; tab-stops: list 49.6pt&quot;>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>&lt;SPAN lang=EN-US>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; - &lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>이 부분은 고객에게도 관철 시킬 수 있는 전략을 수립하여 협의하는 것이 바람직하다&lt;SPAN lang=EN-US>. &lt;/SPAN>&lt;/SPAN>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 'Arial Unicode MS'&quot;>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=a style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt; TEXT-INDENT: -1cm; mso-list: l0 level2 lfo1; tab-stops: list 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>4.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림&quot;>종료계획 수립은 프로젝트 내부의 체계적 종료 관리를 위한 것이지만&lt;SPAN lang=EN-US>, &lt;/SPAN>고객 협의사항 에 대해선 별도 발췌 및 정리하여 제출할 수 있다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=a style=&quot;MARGIN: 0cm 0cm 0pt 49.6pt; TEXT-INDENT: -1cm; mso-list: l0 level2 lfo1; tab-stops: list 49.6pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 굴림&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>5.&lt;SPAN style=&quot;FONT: 7pt 'Times New Roman'&quot;>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN style=&quot;FONT-FAMILY: 굴림; mso-bidi-font-family: 'Arial Unicode MS'&quot;>종료계획은 검수를 포함한 실질적인 프로젝트의 종료를 위한 관리 계획이므로 프로젝트 내부 및 외부의 행정적 절차까지 포함할 수 있도록 계획한다&lt;SPAN lang=EN-US>.&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P class=a style=&quot;MARGIN: 0cm 0cm 0pt 10pt&quot;>&lt;SPAN lang=EN-US style=&quot;FONT-FAMILY: 굴림&quot;>&lt;o:p>&amp;nbsp;&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P>&lt;/SPAN>&lt;/SPAN>&amp;nbsp;&lt;/P></mainDescription>
+  <sections xmi:id="_C4OecMqBEd21DP-EQ0fYRg" name="검수기준 대비하여 업무범위, 납품산출물, 변경업무, 잔여업무에 대한 현재 상태를 점검한다"
+      guid="_C4OecMqBEd21DP-EQ0fYRg"/>
+  <sections xmi:id="_DvD_0MqBEd21DP-EQ0fYRg" name="검수 관점에서 미진 업무나 이슈 사항들을 중심으로 검수 전략을 수립한다"
+      guid="_DvD_0MqBEd21DP-EQ0fYRg"/>
+  <sections xmi:id="_FwjWcMqBEd21DP-EQ0fYRg" name="검수와 별도 진행 사항들에 대한 잔여업무 및 이슈 사항들을 정리하고 관리 계획을 수립한다"
+      guid="_FwjWcMqBEd21DP-EQ0fYRg"/>
+  <sections xmi:id="_HoDqoMqBEd21DP-EQ0fYRg" name="계획에 대한 팀 내부 검토 결과 고객과 협의할 사항과  전사 지원이 필요한 사항에 대해서는 정리 부분을 발췌하여 필요 용도로 사용한다"
+      guid="_HoDqoMqBEd21DP-EQ0fYRg"/>
+  <sections xmi:id="_JkMAIMqBEd21DP-EQ0fYRg" name="종료계획은 계약이행 여부 이외 고객의 추가 요구사항, 자원 재배치 및 환원, 내부 종료절차 계획 등을 포함한다"
+      guid="_JkMAIMqBEd21DP-EQ0fYRg"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>검수기준&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>대비&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>수행&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>활동들을&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>점검하고&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>잔여&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>업무&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>및&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>향후&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>계획들을&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>수립하여&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>체계적인&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>종료&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>일정을&lt;/span>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>관리한다&lt;/span>&lt;span&#xD;
+ lang=&quot;EN-US&quot;&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA; mso-fareast-font-family: 굴림&quot;>.&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

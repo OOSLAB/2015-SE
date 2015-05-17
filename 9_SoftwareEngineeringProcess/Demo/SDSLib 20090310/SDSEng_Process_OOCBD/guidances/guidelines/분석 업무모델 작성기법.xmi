@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-X7EU8ZfYAO4LDsmwM5s1Lw"
+    name="new_guideline,_XMOYkMWeEd2eFf4iygnyuw" guid="-X7EU8ZfYAO4LDsmwM5s1Lw" changeDate="2008-12-19T00:25:24.890+0900">
+  <mainDescription>&lt;p>&#xD;
+    1.&amp;nbsp;분석 업무 모델 작성 절차&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&lt;img height=&quot;252&quot; alt=&quot;&quot; src=&quot;resources/analysis_business_model.jpg&quot; width=&quot;499&quot; />&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;p>&#xD;
+    2. 입력물&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    유스케이스 정의서&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;p>&#xD;
+    3. 출력물&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    분석클래스다이어그램&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    분석시퀀스다이어그램&#xD;
+&lt;/p>&lt;br />&#xD;
+&lt;p>&#xD;
+    4. 매핑 가이드&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    4.1. 각 유스케이스 별로 분석시퀀스다이어그램을 작성한다.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    4.2. 각 유스케이스 별로 분석클래스다이어그램을 작성한다.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    4.3 분석클래스다이어그램과 분석시퀀스다이어그램의 연관성은 다음과 같다.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; - 분석시퀀스다이어그램의 객체는 분석클래스다이어그램의 클래스의 인스턴스이어야 한다.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; - 분석시퀀스다이어그램의 메시지는 분석클래스다이어그램에서 해당 클래스의 오퍼레이션이어야 한다.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; - 분석클래스다이어그램의 연관은 분석시퀀스다이어그램의 지속적 메시지 상호작용 패턴을 중심으로 정의된다.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; - 유스케이스 당 정의된 분석클래스다이어그램은 결과적으로 취합하여 하나의 통합된 분석클래스다이어그램으로 작성한다.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore"
+    xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML">
+  <uml:Activity xmi:id="_GnohYAjoEd6CD-m1e93cOw" name="To-be비즈니스모델">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_GnohYQjoEd6CD-m1e93cOw" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GnohYgjoEd6CD-m1e93cOw"
+          key="uri" value="uma://_m3Xe8PmrEd2JRcy3PiAHxw#_m3Xe8fmrEd2JRcy3PiAHxw"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_GnohYwjoEd6CD-m1e93cOw"
+          key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_Gn7cUAjoEd6CD-m1e93cOw" name="To-be비즈니스다이어그램 작성">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Gn7cUQjoEd6CD-m1e93cOw"
+          source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Gn7cUgjoEd6CD-m1e93cOw"
+            key="uri" value="uma://_m3Xe8PmrEd2JRcy3PiAHxw#_BaLuIAfBEd6Obes9cAqsag"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Gn7cUwjoEd6CD-m1e93cOw"
+            key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_GnohZAjoEd6CD-m1e93cOw" type="AD" element="_GnohYAjoEd6CD-m1e93cOw"
+      name="To-be비즈니스모델" measurementUnit="Pixel">
+    <children xmi:type="notation:Node" xmi:id="_Gn7cVAjoEd6CD-m1e93cOw" type="1009"
+        element="_Gn7cUAjoEd6CD-m1e93cOw">
+      <children xmi:type="notation:Node" xmi:id="_Gn7cWgjoEd6CD-m1e93cOw" type="4008"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_Gn7cVQjoEd6CD-m1e93cOw" fontName="Arial"
+          fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_Gn7cVgjoEd6CD-m1e93cOw"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_Gn7cVwjoEd6CD-m1e93cOw"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_Gn7cWAjoEd6CD-m1e93cOw" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Gn7cWQjoEd6CD-m1e93cOw"
+          x="24" y="24"/>
+    </children>
+    <styles xmi:type="notation:PageStyle" xmi:id="_GnohZQjoEd6CD-m1e93cOw"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_GnohZgjoEd6CD-m1e93cOw"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_GnohZwjoEd6CD-m1e93cOw"/>
+  </notation:Diagram>
+</xmi:XMI>

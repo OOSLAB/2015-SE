@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.5/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.0" xmi:id="-OJfpsNNlxRDhWXVTy6G5bg"
+    name="운영매뉴얼 작성,_NUal36AWEd2n5q0acG373A" guid="-OJfpsNNlxRDhWXVTy6G5bg" changeDate="2009-02-26T03:42:46.234+0900">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;굴림&quot;>수행 가이드(Task Guideline)&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>운영매뉴얼 작성 시 고객 측 시스템 운영담당자와 공동으로 작성할 것을 권장한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>운영 매뉴얼에는 다음 내용이 포함되도록 기술한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li style=&quot;list-style: none&quot;>&#xD;
+        &lt;ul>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>시스템 전반적인 개요&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>시스템 구성&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li style=&quot;list-style: none&quot;>&#xD;
+                &lt;ul>&#xD;
+                    &lt;li>&#xD;
+                        &lt;font face=&quot;굴림&quot;>하드웨어&lt;/font>&#xD;
+                    &lt;/li>&#xD;
+                    &lt;li>&#xD;
+                        &lt;font face=&quot;굴림&quot;>네트워크&lt;/font>&#xD;
+                    &lt;/li>&#xD;
+                    &lt;li>&#xD;
+                        &lt;font face=&quot;굴림&quot;>DBMS&lt;/font>&#xD;
+                    &lt;/li>&#xD;
+                    &lt;li>&#xD;
+                        &lt;font face=&quot;굴림&quot;>시스템 소프트웨어&lt;/font>&#xD;
+                    &lt;/li>&#xD;
+                    &lt;li>&#xD;
+                        &lt;font face=&quot;굴림&quot;>지원 Tool&lt;/font>&#xD;
+                    &lt;/li>&#xD;
+                    &lt;li>&#xD;
+                        &lt;font face=&quot;굴림&quot;>어플리케이션 소프트웨어&lt;/font>&#xD;
+                    &lt;/li>&#xD;
+                    &lt;li>&#xD;
+                        &lt;font face=&quot;굴림&quot;>데이터베이스구성&lt;/font>&#xD;
+                    &lt;/li>&#xD;
+                    &lt;li>&#xD;
+                        &lt;font face=&quot;굴림&quot;>타 시스템과 인터페이스&lt;/font>&#xD;
+                    &lt;/li>&#xD;
+                &lt;/ul>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>백업 및 재난복구 방안&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>보안지침&lt;/font>&#xD;
+            &lt;/li>&#xD;
+            &lt;li>&#xD;
+                &lt;font face=&quot;굴림&quot;>시스템 운영방법&lt;/font>&#xD;
+            &lt;/li>&#xD;
+        &lt;/ul>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;굴림&quot;>작성한 사용자매뉴얼 및 운영매뉴얼은 반드시 매뉴얼의 적절성 및 사용용이성 등을 테스트한 후 고객에게 제공하여야 한다. 매뉴얼 검토 과정에서 발견된 결함을 모두&#xD;
+        보완한다.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+  <sections xmi:id="_XHhMsKAYEd2n5q0acG373A" name="작성원칙 및 작성내용의 범위를 정한다." guid="_XHhMsKAYEd2n5q0acG373A"/>
+  <sections xmi:id="_b5YVkK80Ed2L5O0hnnXUww" name="운영매뉴얼을 작성한다." guid="_b5YVkK80Ed2L5O0hnnXUww"/>
+  <sections xmi:id="_U1xzkKAYEd2n5q0acG373A" name="매뉴얼을 검토하고, 결함 내용을 보완한다." guid="_U1xzkKAYEd2n5q0acG373A"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 굴림; mso-bidi-font-family: 'Times New Roman'; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: KO; mso-bidi-language: AR-SA&quot;>개발&#xD;
+완료된 시스템을 운영자가 원활하게 운영 및 유지보수 할 수 있도록 시스템 전반에 관한 내용을 상세히 기술한다&lt;span lang=&quot;EN-US&quot;>.&lt;/span>&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

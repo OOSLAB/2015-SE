@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.4/uma.ecore"
+    xmlns:epf="http://www.eclipse.org/epf" epf:version="1.2.0" xmi:id="-haTc3NYw4ZdIx6-xo-bb0g"
+    name="new_artifact,_qRzwwJO2Ed2QOZMWcM0ZMQ" guid="-haTc3NYw4ZdIx6-xo-bb0g" changeDate="2008-10-06T23:54:40.828+0900">
+  <mainDescription>수용여부[필수]</mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>
